@@ -1,4 +1,4 @@
-## Books that I am currently reading
+A list of books that I am currently reading.
 
 - Go Bootcamp: Everything you need to know to get started with Go, by Matt Aimonetti
 - Linux Command Line and Shell Scripting Bible (3rd Edition), by Christine Bresnahan

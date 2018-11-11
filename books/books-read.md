@@ -1,5 +1,3 @@
-## Books that I have read
-
 A list of every book that I've read going back to 2003.
 
 ## 2018
