@@ -27,6 +27,7 @@ These are the games that had some kind of impact on me.
 
 ## Game Companies
 
+- [Amplitude-Studios](https://www.amplitude-studios.com)
 - [Blizzard](https://www.blizzard.com/en-us/)
 - [Epic Games](https://www.epicgames.com)
 - [Guerrilla](https://www.guerrilla-games.com/)
