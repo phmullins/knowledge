@@ -11,14 +11,14 @@ I like to track all of the games that I've played or am currently playing. The g
 
 These are the games that had some kind of impact on me.
 
-- Black Crypt - Fun RPG from Raven Software.
-- Borderlands 2 - Tons of cell-shaded fun. 
-- [Diablo](https://us.diablo3.com/en/) - Fantastic isometric RPG.
-- Doom/Doom II (PC) - I upgraded my PC in order to play these.
-- Dungeon Master - The first RPG that I really loved.
-- Half-Life (PC) - First FPS that really blew me away.
+- [Black Crypt](https://www.oldgames.sk/en/game/black-crypt/download/3091/) (Amiga) - Fun RPG from Raven Software.
+- [Borderlands 2](https://store.steampowered.com/app/49520/Borderlands_2/) (X360) - Tons of cell-shaded fun. 
+- [Diablo](https://us.diablo3.com/en/) (PS4) - Fantastic isometric RPG.
+- [Doom/Doom II](https://store.steampowered.com/app/2280/Ultimate_Doom/) (PC) - I upgraded my PC in order to play these.
+- [Dungeon Master](https://www.oldgames.sk/en/game/dungeon-master/) (Amiga) - The first RPG that I really loved.
+- [Half-Life](https://store.steampowered.com/app/70/HalfLife/) (PC) - First FPS that really blew me away.
 - [Unreal Tournament](https://www.epicgames.com/unrealtournament/) (PC) - Fragtastic!
-- Worm War 1 - Played this on the Atari 2600 with my Dad. We achieved 1 million points!
+- [Worm War 1](http://www.atarihq.com/reviews/2600/worm_war_1.html) (Atari) - Played this on the Atari 2600 with my Dad. We achieved 1 million points!
 
 ## Game Store Links
 
