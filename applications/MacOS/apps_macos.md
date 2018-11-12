@@ -7,13 +7,15 @@ A pretty extensive list of applications that I have installed and use either on 
 * [BitPerfect](http://bitperfectsound.com) 
 * [Cog](https://kode54.net/cog/)
 * [iTunes](https://www.apple.com/itunes/)
-* [XLD](http://tmkk.undo.jp/xld/index_e.html)
+* [Last.fm](https://www.last.fm/home) - World's largest online music service.
+* [XLD](http://tmkk.undo.jp/xld/index_e.html) - Decode/convert/play various "lossless" audio files.
 * [YouTube to MP3](https://www.mediahuman.com/)
 
 ## Backups
 
-* [Arq](https://www.arqbackup.com)
-* [Carbon Copy Cloner](https://bombich.com)
+* [Arq](https://www.arqbackup.com) - Back up your computer to the cloud.
+* [Backblaze](data storage provider) - Data storage provider.
+* [Carbon Copy Cloner](https://bombich.com) - The first bootable backup solution for the Mac.
 
 ## Communication & Chat
 
@@ -26,13 +28,16 @@ A pretty extensive list of applications that I have installed and use either on 
 
 ## Database
 
+* [PSequel](https://www.psequel.com/) - a PostgreSQL GUI tool for macOS.
 * [Sequel Pro](https://sequelpro.com)
 
 ## Development
 
+* [Atom](https://atom.io/) - A hackable text editor for the 21st Century.
 * [CodeRunner](https://coderunnerapp.com)
 * [Couleurs](https://couleursapp.com)
 * [Dash](https://kapeli.com/dash)
+* [SnippetsLab](https://www.renfei.org/snippets-lab/) - Code snippets manager.
 * [Sourcetree](https://www.sourcetreeapp.com/)
 * [Visual Studio Code](https://code.visualstudio.com)
 * [Xcode](https://developer.apple.com/xcode/)
@@ -89,21 +94,23 @@ A pretty extensive list of applications that I have installed and use either on 
 ## Office Tools
 
 * [DEVONthink Pro Office](https://www.devontechnologies.com/products/devonthink)
-* [Keynote](https://www.apple.com/keynote/)
-* Apple Notes
-* [Numbers](https://www.apple.com/numbers/)
+* [Apple Keynote](https://www.apple.com/keynote/) - Presentations.
+* [Apple Numbers](https://www.apple.com/numbers/) - Spreadsheet.
+* [Apple Pages](https://www.apple.com/pages/) - Word processor.
+* [Microsoft Excel](https://products.office.com/en-us/excel) - Industry leading spreadsheet.
+* [Microsoft PowerPoint](https://products.office.com/en-us/powerpoint) - Create presentations that stand out.
+* [Microsoft Word](https://products.office.com/en-us/word) - Word processor.
 * [OmniFocus](https://www.omnigroup.com/omnifocus/)
 * [OmniGraffle](https://www.omnigroup.com/omnigraffle/)
 * [OmniOutliner](https://www.omnigroup.com/omnioutliner/)
-* [Pages](https://www.apple.com/pages/)
 
 ## Project Management 
 
-* [Kanbanier](http://kanbanier.com/en/)
+* [Kanbanier](http://kanbanier.com/en/) - Kanban Boards.
 
 ## Search
 
-* [HoudahSpot](https://www.houdah.com/houdahSpot/)
+* [HoudahSpot](https://www.houdah.com/houdahSpot/) - Powerful File Search for Mac.
 
 ## Social Media
 
@@ -137,6 +144,7 @@ A pretty extensive list of applications that I have installed and use either on 
 
 ## Video
 
+* [HandBrake](https://handbrake.fr/) - Transcoder for digital video files.
 * [iMovie](https://www.apple.com/imovie/)
 * [MakeMKV](https://www.makemkv.com/)
 * [MetaMovie](http://www.appfacture.com/en/metamovie/)
@@ -154,7 +162,9 @@ A pretty extensive list of applications that I have installed and use either on 
 
 * [Byword](https://www.bywordapp.com)
 * [Day One](http://dayoneapp.com)
-* [IA Writer](https://ia.net/writer)
+* [GitBook](https://www.gitbook.com) - Modern documentation platform.
+* [GitBook Editor](https://legacy.gitbook.com/editor) - Simple writing from your desktop.
+* [IA Writer](https://ia.net/writer) - The Focused Writing App.
 * [MWeb](http://www.mweb.im)
 * [Marked 2](http://marked2app.com)
 * [Scrivener](https://www.literatureandlatte.com/scrivener/overview)
