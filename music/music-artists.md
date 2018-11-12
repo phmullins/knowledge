@@ -1,6 +1,6 @@
 Below you will find a list of my favorite musical artists.
 
-### Favorite Musical Artists
+## Favorite Musical Artists
 
 - Aes Dana
 - Between Interval
