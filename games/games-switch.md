@@ -68,4 +68,6 @@
 - [Nintendo Games](https://www.nintendo.com/games/)
 - [Nintendo Amiibo](https://www.nintendo.com/amiibo/)
 - [Nintendo Customer Support](https://www.nintendo.com/consumer/index.jsp)
+- [Nintendo Life](http://www.nintendolife.com/nintendo-switch)
+
 
