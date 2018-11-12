@@ -1,9 +1,10 @@
 # Summary
-- [Backups](backups.md)
 - [Books](books/books.md)
   - [Books I'm Reading](books/books-reading.md)
   - [Books I Have Read](books/books-read.md)
   - [Interesting Series](books/books-series.md)
+- [Computers](computers/computers.md)
+  - [Backups](computers/backups.md)
 - [Games](games/games.md)
   - [MacOS](games/games-macos.md)
   - [Nintendo Switch](games/games-switch.md)
