@@ -1,4 +1,4 @@
-## iPhone - Page One
+## iPhone Apps
 
 * Messages
 * Notes
@@ -23,6 +23,6 @@
 * App Store
 * Bandcamp
 * YouTube Music
-* Firefox.
+* Firefox
 
 

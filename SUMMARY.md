@@ -1,4 +1,11 @@
 # Summary
+
+- [Applications](applications/apps.md)
+  - [HaikuOS](applications/apps_haikuos.md)
+  - [iOS](applications/iOS/apps_ios.md)
+    - [iPad Pro](applications/iOS/ipad/apps_ipad.md)
+    - [iPhone](applications/iOS/iphone/apps_iphone.md)
+  - [MacOS](applications/apps_macos.md)
 - [Books](books/books.md)
   - [Books I'm Reading](books/books-reading.md)
   - [Books I Have Read](books/books-read.md)
@@ -12,4 +19,7 @@
 - [Music](music/music.md)
   - [Music Artists](music/music-artists.md)
   - [Music Albums](music/music-albums.md)
+- [Other](other/other.md)
+  - [Web Presence](other/web-presence.md)
+
 
