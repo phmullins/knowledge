@@ -1,4 +1,4 @@
-## PlayStation 4 - Top 20 Wanted Games
+## Top 20 Wanted Games
 
 - [God of War](https://www.playstation.com/en-us/games/god-of-war-ps4/)
 - [Cyberpunk 2077](https://www.cyberpunk.net/en/)
@@ -20,7 +20,7 @@
 - [Horizon Zero Dawn: The Frozen Wilds](https://www.playstation.com/en-us/games/horizon-zero-dawn-ps4/the-frozen-wilds-dlc/)
 - [Wolfenstein: Youngblood](https://wolfenstein.bethesda.net/)
 
-## PlayStation 4 - Games that I Want
+## Games that I Want
 
 - Assassin's Creed: Odyssey
 - Assassin's Creed: Syndicate - Standard Edition
