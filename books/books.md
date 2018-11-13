@@ -15,3 +15,18 @@ Below are links to books that I have read or have started reading. The books wit
 
 Note: Books with a star (⭐️) are my favorite.
 
+## Favorite Authors
+
+- Dan Simmons
+- John Scalzi
+- Richard K. Morgan
+- William Gibson
+
+## Links
+
+- [Amazon Kindle Books](https://smile.amazon.com/Kindle-eBooks)
+- [Barnes & Noble](https://www.barnesandnoble.com/)
+- [Books on Google Play](https://play.google.com/store/books)
+- [Goodreads](https://www.goodreads.com/)
+- [Penguin Books](http://www.penguin.com/)
+
