@@ -1,6 +1,6 @@
-## MacOS Applications
+## HaikuOS Applications
 
-A pretty extensive list of applications that I have installed and use either on a daily basis or semi-regularly. 
+HaikuOS is an open-source clone of BeOS and is (at the moment) binary compatible with old BeOS apps. I try to use Haiku apps whenever possible as they're optimized for the system. However, a few older BeOS apps might have managed to sneak their way in. This is an extensive list of applications that I have installed and use either on a daily basis or semi-regularly. 
 
 ## Audio Players & Tools
 
@@ -61,24 +61,6 @@ A pretty extensive list of applications that I have installed and use either on 
 
 * [iBooks](https://www.apple.com/ibooks/)
 * [Kindle](https://itunes.apple.com/us/app/kindle/id405399194)
-
-## Music & Composing
-
-* [Audacity](https://www.audacityteam.org/)
-* [Audio Hijack](https://www.rogueamoeba.com/audiohijack/)
-* [Cypher2](https://www.fxpansion.com/products/cypher2/)
-* [Equator](https://roli.com/products/software/equator-synth)
-* [Farrago](https://www.rogueamoeba.com/farrago/)
-* [Fission](https://www.rogueamoeba.com/fission/)
-* [GarageBand](https://www.apple.com/mac/garageband/)
-* [Massive](https://www.native-instruments.com/en/products/komplete/synths/massive/)
-* [Paul's Extreme Sound Stretch](http://hypermammut.sourceforge.net/paulstretch/)
-* [Rack](https://vcvrack.com)
-* [ROLI Dashboard](https://roli.com/products/software/blocks-dashboard)
-* [Hyperion Strings Micro](https://soundiron.com/products/hyperion-strings-micro)
-* [SoundSource](https://rogueamoeba.com/soundsource/)
-* [Strobe2](https://www.fxpansion.com/products/strobe2/)
-* [Tracktion 7](https://www.tracktion.com/products/t7-daw)
 
 ## Network
 
