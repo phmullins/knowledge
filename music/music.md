@@ -1,3 +1,5 @@
+## Music
+
 There are many things that I consider absolutely essential in life and music is one of them. Just ask anyone who knows me and they'll tell you that I'm a huge music aficionado. In fact, there's hardly ever a time that I don't have a pair of headphones on. I listen to it when I'm falling asleep, when I wake up, when I'm working and driving, and when I'm trying to relax. I simply cannot imagine my life without music. 
 
 ## Genres
