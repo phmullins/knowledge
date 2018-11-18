@@ -1,18 +1,20 @@
-## Introduction
-Personal Knowledge-Base
+## Meta-Knowledge
 
-Welcome to the personal wiki of [Patrick H. Mullins](http://pmullins.net). This is the place where I share [everything I know](https://pmullins.gitbook.io/personal-wiki) about this world in the form of an online GitBook. Feel free to hang out and browse the pages. You never know what you might find. 🙂
+A curated repository documenting useful (and not so useful) personal knowledge. Most of the data you'll find here is not complete enough to form a blog post. However, fragments of it (properly formatted) may eventually find their way into my personal blog. Feel free to hang out and browse the archive. You never know what you might find. 🙂
 
 ## Social Media
 
 You can also find me on [Github](https://github.com/phmullins), [Twitter](https://twitter.com/phmullins), [Instagram](https://www.instagram.com/pmullins/), [Pinterest](https://www.pinterest.com/geektonium/), and [Goodreads](https://www.goodreads.com/pmullins).
 
-## Create Your Own Wiki
+## Create your own Knowledge Archive
 
-Don't be afraid to create a wiki of your own. Share what you know with the world.
+Don't be afraid to create a Knowledge Archive of your own. Share what you know with the world!
+
+## Other knowledge lists
+
+This archive was inspired by the [meta-knowledge](https://github.com/RichardLitt/meta-knowledge) repository.
 
 ## Thanks!
 
 You can support me on [Patreon](https://www.patreon.com/pmullins) or look into other projects I shared.
-
 
