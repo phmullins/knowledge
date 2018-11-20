@@ -4,7 +4,7 @@ There are many things that I consider absolutely essential in life and music is 
 
 ## Genres
 
-My favorite musical genres are ambient, ambient electronic, dark ambient, downbeat, electronica, orchestral (Scores), Rock, and Blues. If interested, you can view a list of my favorite [artists](music-artists.md), [albums](music-albums.md), and songs.
+My favorite musical genres are ambient, ambient electronic, dark ambient, downbeat, electronica, orchestral (Scores), Hard Rock, Industrial Rock, Alternative Metal, and Blues. If interested, you can view a list of my favorite [artists](music-artists.md), [albums](music-albums.md), and [songs](music-songs.md).
 
 ## Audio Players
 
