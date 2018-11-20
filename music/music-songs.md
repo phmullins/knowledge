@@ -19,6 +19,7 @@ Below you will find a list of my favorite songs.
 ## Film Scores
 
 - Blade Runner Blues (Vangelis)
+- Chrysalis, Part 1 (Christopher Franke)
 
 ## Pop
 

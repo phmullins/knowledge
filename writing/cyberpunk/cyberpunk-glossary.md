@@ -1,6 +1,8 @@
 
 ## Cyberpunk - Glossary of Terms:
 
+A glossary of terms from the book that I am currently writing. 
+
 - Biochip: DNA Data Disks
 - Bitfile: 
 - Bitspace: 
