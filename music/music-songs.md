@@ -11,9 +11,9 @@ Below you will find a list of my favorite songs.
 - Rosetta Stoned (Tool)
 - The Pot (Tool)
 
-## Industrial Rock
-
+## Industrial Rock                                                                                                                                                                             
 - Contagion (Circle of Dust) 
+- Fuel (Front 242) 
 - Machines of Our Disgrace (Circle of Dust)
 
 ## Film Scores

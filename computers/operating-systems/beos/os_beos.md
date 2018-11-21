@@ -7,8 +7,8 @@ BeOS was unique at the time in that it sported a 64-bit journaling file system k
 
 The last official version of BeOS was BeOS R5. However, BeOS R5.1 "Dano", which had been under active development, was leaked to the public shortly after the sale to Palm. BeOS fans, displeased with the sale, reacted by launching a complete, backward-compatible re-implementation of BeOS known as OpenBeOS. Years later OpenBeOS was renamed [Haiku](https://www.haiku-os.org). Haiku is still under development and is freely available to anyone wishing to relive the glory days of BeOS.
 
-<center>
-![BeOS](../../../images/2000-01-28_BeOS.jpg)
+<center
+![BeOS](../../images/images-beos-01.jpg)
 </center>
 
 

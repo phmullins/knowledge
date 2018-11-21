@@ -1,7 +1,9 @@
+## Music - Favorite Albums
+
 A list of albums that I like.
 
-## Favorite Albums
-
+- 05:22:09:12 Off (Front 242)
+- 06:21:03:11 Up Evil (Front 242)
 - [Afterglow](https://amzn.to/2FdkCT9) (Vector Lovers)
 - [A Song Across Wires](https://amzn.to/2Dy5FcJ) (Bt)
 - [Blade Runner](https://amzn.to/2AYqHPh) (Vangelis)
