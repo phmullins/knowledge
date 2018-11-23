@@ -8,7 +8,10 @@ All scripts are presented as-is. By downloading you are acknowledging that I am 
 
 ## Download
 
+- [cleanup.sh](cleanup.sh) - Deletes all `.DS_Store` and `$RECYCE.BIN` files.
+- [decom.sh](decom.sh) - Uncompress archives with a single command.
 - [empty-trash.sh](empty-trash.sh) - Uses the `srm` tool to securely erase anything located in your MacOS trash can.
+- [makepass.sh](makepass.sh) - Easy way of generating a random 24 character password.
 
 ## Links
 
