@@ -32,5 +32,7 @@
   - [Geek Holidays](other/geek-holidays.md)
   - [Web Presence](other/web-presence.md)
   - [Quotes](other/quotes.md)
+- [Scripts](scripts/scripts.md)
+  - [empty-trash.sh](scripts/empty-trash.sh)
 
 
