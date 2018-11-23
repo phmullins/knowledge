@@ -1,6 +1,14 @@
+## Games
+
 I like to track all of the games that I've played or am currently playing. The games are listed in alphabetical order and are followed by the platform that I played (am playing) them on.  
 
-## Currently Playing
+## Games - Lists (PS4/MacOS/Switch)
+
+- [MacOS](games-macos.md)
+- [PlayStation 4](games-ps4.md)
+- [Nintendo Switch](games-switch.md)
+
+## Games I'm Currently Playing
 
 - [Diablo III](https://us.diablo3.com/en/) (Switch)
 - [Horizon Zero Dawn](https://www.guerrilla-games.com/play/horizon) (PS4)

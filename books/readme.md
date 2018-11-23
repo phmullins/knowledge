@@ -12,6 +12,7 @@ Below are links to books that I have read or have started reading. The books wit
 
 - [Books that I am currently reading](books-reading.md)
 - [Books that I have read](books-read.md)
+- [Interesting Series](books-series.md)
 
 Note: Books with a star (⭐️) are my favorite.
 
