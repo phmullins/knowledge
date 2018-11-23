@@ -1,11 +1,11 @@
 #!/bin/bash
 #
-# Name: ~/bin/empty-trash.sh
+# Script Name: ~/bin/empty-trash.sh
 # Description: Securely empty trash on MacOS.
 # Created: 2017-11-18 @ 06:08 PM | Modified 2018-11-23 @ 04:01 AM.
 # Author: patrick@arkmail.us 
 #
-# Note: srm requires installation via source at http://srm.sourceforge.net/.
+# Note: Requires the installation of srm via source (http://srm.sourceforge.net/).
 
 echo "Are you sure you want to empty the trash? [Y/n]"
 read confirm
