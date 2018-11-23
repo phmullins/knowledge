@@ -1,4 +1,4 @@
-## Most Wanted Games
+## MacOS - Most Wanted Games
 
 - [Achtung! Cthulhu Tactics](https://store.steampowered.com/app/874460/Achtung_Cthulhu_Tactics/)
 - [Artifact](https://store.steampowered.com/app/583950/Artifact/)
@@ -13,7 +13,7 @@
 - [Shadow Tactics: Blades of the Shogun](http://www.mimimi-productions.de/shadow_tactics_micro/)
 - [Warhammer 40,000: Dawn of War III](https://www.dawnofwar.com)
 
-## Games I Own
+## MacOS - Games I Own
 
 - Bastion
 - Blackguards
@@ -48,7 +48,7 @@
 - Warhammer Quest
 - XCOM: Enemy Unknown
 
-## Links
+## MacOS - Links
 
 - [GOG](https://www.gog.com/)
 - [Steam](https://store.steampowered.com/)

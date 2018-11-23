@@ -1,11 +1,11 @@
-## Games That I Own
+## Nintendo Switch - Games That I Own
 
 - [Battle Chasers: Nightwar](https://www.battlechasers.com)
 - [Diablo III: Eternal Collection](https://us.diablo3.com/en/switch)
 - [Darkest Dungeon](https://www.darkestdungeon.com)
 - [The Elder Scrolls V: Skyrim](https://elderscrolls.bethesda.net/en/skyrim)
 
-## Top 20 Wanted Games
+## Nintendo Switch - Top 20 Wanted Games
 
 - [Doom](https://www.nintendo.com/games/detail/doom-switch)
 - Achtung! Cthulhu (Unknown Release Date)
@@ -26,7 +26,7 @@
 - [Lumo](https://www.nintendo.com/games/detail/lumo-switch)
 - [Yonder The Cloud Catcher Chronicles](https://www.nintendo.com/games/detail/yonder-the-cloud-catcher-chronicles-switch)
 
-## Games That I Want
+## Nintendo Switch - Games That I Want
 
 - Bastion
 - Armello (2018-09-27)
@@ -61,7 +61,7 @@
 - Yono and the Celestial Elephants
 - Superbrothers: Sword & Sworcery EP
 
-## Links
+## Nintendo Switch - Links
 
 - [Nintendo](https://www.nintendo.com/)
 - [Nintendo Switch](https://www.nintendo.com/switch/)
