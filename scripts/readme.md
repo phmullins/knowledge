@@ -12,6 +12,7 @@ All scripts are presented as-is. By downloading you are acknowledging that I am 
 - [decom.sh](decom.sh) - Uncompress archives with a single command.
 - [empty-trash.sh](empty-trash.sh) - Uses the `srm` tool to securely erase anything located in your MacOS trash can.
 - [makepass.sh](makepass.sh) - Easy way of generating a random 24 character password.
+- [transmogrify.sh](transmogrify.sh) - Simple script to convert a YouTube video into an mp3.
 
 ## Links
 
