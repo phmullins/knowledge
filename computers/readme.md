@@ -2,7 +2,9 @@
 
 - [Backups](computers-backups.md)
 - [Displays](computers-displays.md)
-- [Setups](computers-setups.md)
+- [Text Editors](computers-ediotrs.md)
+- [Email](computers-email.md)
+- [Hardware Setups](computers-setups.md)
 
 ## Other
 
