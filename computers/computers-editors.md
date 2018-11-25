@@ -3,7 +3,7 @@
 My current text editor of choice is Microsoft's [Visual Studio Code](https://code.visualstudio.com/). VScode is a modern, free, and open-source text editor that is extremely customizable and supports things like debugging, Git management, syntax highlighting, snippets, code refactoring, and code completion. For those interested, I've configured it to use the [Hack](https://sourcefoundry.org/hack/) font, the [GitHub Plus](https://github.com/thenikso/github-plus-theme) and [Relaxed](https://marketplace.visualstudio.com/items?itemName=mischah.relaxed-theme) themes, [Material](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) icons, and extensions including Ruby, VSCode-Elixir, Markdown All In One, Docker, and Better TOML.
 In addition to VScode I have recently been toying around with [Atom](https://atom.io) from GitHub, [Brackets](http://brackets.io/), and [Oni](https://www.onivim.io/).
 
-<center>![Visual Studio Code](https://github.com/phmullins/knowledge/blob/master/computers/images/computers_editors-vscode.png)</center>
+<center>![Visual Studio Code](/images/computers_editors-vscode.png)</center>
 
 ## Links - Editors
 
