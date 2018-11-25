@@ -5,8 +5,6 @@ I'm an IBMer and a Senior Cloud Computing Specialist at [The Hartford](http://ww
 ## More
 
 - [Composing](about-composing.md)
-- [Development](about-development.md)
 - [Geeky Stuff](about-geeky.md)
-- [Hardware](about-hardware.md)
 - [Web Presence](about-web-presence.md)
 
