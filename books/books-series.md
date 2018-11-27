@@ -1,3 +1,16 @@
+## The Chronicles of St Mary's
+Author: Jodi Taylor
+
+- [Just One Damned Thing After Another](https://amzn.to/2S6XyHo) (Book One)
+- [A Symphony of Echoes](https://amzn.to/2Bw8RDz) (Book Two)
+- [A Second Chance](https://amzn.to/2BuIz4K) (Book Three)
+- [A Trail Through Time](https://amzn.to/2TITDlG) (Book Four)
+- [No Time Like the Past](https://amzn.to/2PPXQ93) (Book Five)
+- [What Could Possibly Go Wrong?](https://amzn.to/2DWm2QQ) (Book Six)
+- [Lies, Damned Lies, and History](https://amzn.to/2KusYoH) (Book Seven)
+- [And the Rest Is History](https://amzn.to/2DXqrTw) (Book Eight)
+- [An Argumentation of Historians](https://amzn.to/2S6hj1G) (Book Nine)
+
 ## A Land Fit for Heroes
 Author: Richard K. Morgan 
 
