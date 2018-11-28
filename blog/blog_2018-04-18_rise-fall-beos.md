@@ -1,4 +1,10 @@
-## Blog: The Rise and Fall of BeOS
+## Blog - Post Details
+
+Post: The Rise and Fall of BeOS
+Author: Patrick H. Mullins
+Date: April 18th, 2018
+
+## The Rise and Fall of BeOS
 
 [BeOS](https://en.wikipedia.org/wiki/BeOS), a partially POSIX compatible, UNIX-like operating system (and my second favorite OS of all time), was released by Be Incorporated in October of 1995 and was initially designed to run on AT&T's [Hobbit](https://en.wikipedia.org/wiki/AT%26T_Hobbit)-based hardware. It was later ported to the Apple's PowerPC platform and eventually ported again to the Intel platform in 1998.
 

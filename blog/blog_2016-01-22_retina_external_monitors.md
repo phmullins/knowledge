@@ -1,6 +1,10 @@
-## Blog - Archived Post
+## Blog - Post Details
 
-Post: External Retina Monitors? - Date: 2016-01-22
+Post: External Retina Monitors?
+Author: Patrick H. Mullins
+Date: January 22nd, 2016
+
+## External Retina Monitors?
 
 Anyone who has used a Retina display knows how awesome they are. There's just no denying the fact that you're looking at one of the best displays on the market. But what happens when the 15" display on your MacBook Pro isn't big enough anymore? You plug it into an external monitor, right? The problem with this idea is that your average monitor isn't going to cut it anymore. Not now. Not since you've let your eyes become accustom to that brilliant Retina screen with pixels so small you can't even see them!
 
