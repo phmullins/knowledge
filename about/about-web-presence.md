@@ -20,6 +20,7 @@ I've been on the Internet/World Wide Web for a very long time. Over the years I'
 ## Music
 
 - [Bandcamp](https://bandcamp.com/pmullins)
+- [Discogs](https://www.discogs.com/user/phmullins)
 - [Last.fm](https://www.last.fm/user/phmullins)
 
 ## Support
