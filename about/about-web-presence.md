@@ -4,6 +4,8 @@ I've been on the Internet/World Wide Web for a very long time. Over the years I'
 
 ## Code
 
+The places where I store and maintain code, code snippets, Docker containers, and where I help others.
+
 - [Bitbucket](https://bitbucket.org/pmullins/)
 - [GitHub](https://github.com/phmullins)
 - [GitHub Gists](https://gist.github.com/phmullins)
@@ -13,15 +15,19 @@ I've been on the Internet/World Wide Web for a very long time. Over the years I'
 
 ## Gaming
 
+You can find me playing on Battle.NET, Steam, Nintendo Online, the PlayStation network, and  Xbox Live.
+
 - Battle.net Battletag: Amigaman#1700
 - [Steam](http://steamcommunity.com/id/pmullins)
 - [PlayStation](https://my.playstation.com/pmullins1968) 
 
 ## Music
 
-- [Bandcamp](https://bandcamp.com/pmullins)
-- [Discogs](https://www.discogs.com/user/phmullins)
-- [Last.fm](https://www.last.fm/user/phmullins)
+Anything to do with music.
+
+- [Bandcamp](https://bandcamp.com/pmullins) - The place where I buy nearly all of my music.
+- [Discogs](https://www.discogs.com/user/phmullins) - How I track my physical music collection.
+- [Last.fm](https://www.last.fm/user/phmullins) - Loads of statistics regarding my music listening habits.
 
 ## Support
 
