@@ -50,6 +50,7 @@ Anything to do with music.
 
 - [Instagram](https://www.instagram.com/pmullins/)
 - [Flickr](https://www.flickr.com/photos/27834687@N06/)
+- [Pinterest](https://www.pinterest.com/geektonium/)
 
 ## Other
 
