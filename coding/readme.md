@@ -4,5 +4,6 @@ A curated list of awesome programming languages and links to help you along your
 
 ## Languages
 
+- [Lisp](coding-lisp.md)
 - [Ruby](coding-ruby.md)
 

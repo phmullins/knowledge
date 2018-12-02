@@ -12,7 +12,7 @@
 - [Wolfenstein II: The New Colossus](https://www.nintendo.com/games/detail/wolfenstein-ii-the-new-colossus-switch)
 - [The Legend of Zelda: Breath of the Wild](https://www.nintendo.com/games/detail/the-legend-of-zelda-breath-of-the-wild-switch)
 - [Sid Meier's Civilization VI](https://www.nintendo.com/games/detail/sid-meiers-civilization-vi-switch) (2018-11-16)
-- [Everspace](https://everspace-game.com/) (2018-12-01)
+- [Everspace](https://www.nintendo.com/games/detail/everspace-stellar-edition-switch) (2018-12-11)
 - [Transistor](https://www.nintendo.com/games/detail/transistor-switch)
 - [The Flame In The Flood](https://www.nintendo.com/games/detail/the-flame-in-the-flood-complete-edition-switch)
 - [Carcassonne](https://www.nintendo.com/games/detail/carcassonne-switch) (2018-12-01)

@@ -1,4 +1,4 @@
-## The Ruby Programming Language
+## Coding - The Ruby Programming Language
 
 What exactly is Ruby? Ruby is an open-source, dynamic programming language (created in 1995 by Yukihiro “Matz” Matsumoto) that focuses on simplicity and productivity. It accomplishes this lofty goal via an elegant, sugar-coated syntax that is super easy to read and write. 
 
