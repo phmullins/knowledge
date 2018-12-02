@@ -22,7 +22,6 @@
 - [Clojure](https://clojure.org/) - A dynamic, general-purpose programming language.
 - [Guile](https://www.gnu.org/software/guile/) - Code for the desktop, the Web, the command-line, and more.
 - [Clozure Common Lisp](https://ccl.clozure.com/) - Free Common Lisp implementation.
-- [Julia](https://julialang.org/) - 
 - [Hy](https://github.com/hylang/hy) - A dialect of Lisp that's embedded in Python.
 - [Chicken](https://www.call-cc.org/) - A practical, portable Scheme.
 - [MIT/GNU Scheme](https://www.gnu.org/software/mit-scheme/) - Implementation of the Scheme.
