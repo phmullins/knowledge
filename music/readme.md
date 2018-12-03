@@ -16,6 +16,10 @@ I track my listening habits via [Apple Music](https://www.apple.com/apple-music/
 
 ![Apple Music](../images/music.png)
 
+## Last.fm
+
+Check out my [Last.fm](music-lastfm.md) statistics.
+
 ## Formats
 
 Whenever possible I try to stick with [ALAC](https://en.wikipedia.org/wiki/Apple_Lossless) (Apple Lossless Audio Codec) encoded files. Otherwise, I will go with [FLAC](https://xiph.org/flac/), followed by [AAC](https://en.wikipedia.org/wiki/Advanced_Audio_Coding) and then [MP3](https://en.wikipedia.org/wiki/MP3). Encoding rates are always as high as I possibly can get them. This is why [Bandcamp](https://bandcamp.com/) is my favorite way of obtaining music. Bandcamp currently supports WAV, ALAC, FLAC, AAC, MP3, OOG and many others.

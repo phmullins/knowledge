@@ -10,4 +10,5 @@
 
 - [Displays](computers-displays.md)
 - [Hardware Setups](computers-setups.md)
+- [Quantum Computing](computers-quantum.md)
 
