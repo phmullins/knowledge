@@ -26,7 +26,9 @@
 
 There's no such thing has having too many headphones...
 
+- [Monolith Electrostatic](https://amzn.to/2Q6PA4s) - (OVE, ESTAX)
 - [Koss ESP-950](https://amzn.to/2rno44d) - (OVE, ESTAX)
+- [Sennheiser HD 800](https://amzn.to/2zHrdQH) - (OVE, DYD)
 - [Master & Dynamic MW07](https://amzn.to/2DAGZzA) - (IEM, DYD)
 - [Monolith 16050](https://amzn.to/2KMevnX) - (OVE, PLM)
 - [Sennheiser Momentum](https://amzn.to/2OXS4gp) - (IEM, DYD)
