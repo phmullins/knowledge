@@ -18,10 +18,12 @@ Note: Books with a star (⭐️) are my favorite.
 
 ## Favorite Authors
 
-- Dan Simmons
-- John Scalzi
-- Richard K. Morgan
-- William Gibson
+A small list of my favorite authors. Why do authors have such horrible personal web sites? Just an observation. lol.
+
+- [Dan Simmons](https://www.dansimmons.com)
+- [John Scalzi](https://whatever.scalzi.com)
+- [Richard K. Morgan](https://www.richardkmorgan.com)
+- [William Gibson](http://www.williamgibsonbooks.com)
 
 ## Links
 
@@ -30,4 +32,5 @@ Note: Books with a star (⭐️) are my favorite.
 - [Books on Google Play](https://play.google.com/store/books)
 - [Goodreads](https://www.goodreads.com/)
 - [Penguin Books](http://www.penguin.com/)
+- [Rakuten Kobo](https://www.kobo.com/)
 
