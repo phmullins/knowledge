@@ -20,10 +20,10 @@ Note: Books with a star (⭐️) are my favorite.
 
 A small list of my favorite authors. Why do authors have such horrible personal web sites? Just an observation. lol.
 
-- [Dan Simmons](https://www.dansimmons.com)
-- [John Scalzi](https://whatever.scalzi.com)
-- [Richard K. Morgan](https://www.richardkmorgan.com)
 - [William Gibson](http://www.williamgibsonbooks.com)
+- [Richard K. Morgan](https://www.richardkmorgan.com)
+- [John Scalzi](https://whatever.scalzi.com)
+- [Dan Simmons](https://www.dansimmons.com)
 
 ## Links
 
