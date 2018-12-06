@@ -1,4 +1,4 @@
-## Vinyl Records
+## Music - Vinyl Records (Wishlists)
 
 What can I say, there's just something about vinyl records. Here's a list of records that I'm looking to add to my collection
 

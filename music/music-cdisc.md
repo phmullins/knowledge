@@ -1,4 +1,4 @@
-## Compact Disc
+## Music - Compact Disc (Wishlists)
 
 Not as cool as vinyl but cheaper and more readily available. Also, there are (unfortunately) plenty of titles out there that are compact disc only.
 

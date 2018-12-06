@@ -10,8 +10,8 @@ My favorite musical genres are ambient, ambient electronic, dark ambient, downbe
 
 Like any good collector I keep a list of what's in my collection and what I'd like to add to it. Here's a couple of lists detailing what I'd like to add to bot my Vinyl and CD collections.
 
-- [Compact Disc](music-cdisc.md)
-- [Vinyl](music-vinyl.md)
+- [Compact Discs](music-cdisc.md)
+- [Vinyl Records](music-vinyl.md)
 
 ## Audio Players
 
