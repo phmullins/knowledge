@@ -6,6 +6,13 @@ There are many things that I consider absolutely essential in life and music is 
 
 My favorite musical genres are ambient, ambient electronic, dark ambient, downbeat, electronica, orchestral (Scores), Hard Rock, Industrial Rock, Alternative Metal, and Blues. If interested, you can view a not so comprehensive list of my favorite [artists](music-artists.md), [albums](music-albums.md), and [songs](music-songs.md).
 
+## Wanted Lists
+
+Like any good collector I keep a list of what's in my collection and what I'd like to add to it. Here's a couple of lists detailing what I'd like to add to bot my Vinyl and CD collections.
+
+- [Compact Disc](music-cdisc.md)
+- [Vinyl](music-vinyl.md)
+
 ## Audio Players
 
 I'm an Apple guy so I use Apple's [iTunes](https://www.apple.com/itunes/) player 90% of the time. The other 10% is spent using a small, open-source player called [Cog](https://kode54.net/cog/). Finally, I use a program called [BitPerfect](http://bitperfectsound.com) in combination with iTunes. BitPerfect is a MacOS application that works with iTunes to enable far better sound than you'd get normally.
