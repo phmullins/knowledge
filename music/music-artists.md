@@ -17,11 +17,11 @@ Below you will find a list of my favorite musical artists.
 - The Crystal Method
 - Enigma
 - [FreqGen](https://klayton.info/artist-2/freqgen/)
-- Front Line Assembly
-- Front 242
+- [Front Line Assembly](http://www.mindphaser.com)
+- [Front 242](http://www.front242.com)
 - H.U.V.A. Network
-- Nigel Stanford
-- The Prodigy
+- [Nigel Stanford](https://nigelstanford.com)
+- [The Prodigy](http://theprodigy.com)
 - [Scandroid](https://klayton.info/artist-2/scandroid/)
 - Solar Fields
 - Scann-Tec
