@@ -25,7 +25,7 @@ One can never have too many headphones or instruments. Sure, being restricted to
 
 Every musician has one or two instruments that they aspire to own. These are known as "Ultimate" or "End Game" instruments because they represent the very best of what's available. Here are my end game instruments.
 
-- [Moog One 8/16](https://www.moogmusic.com/products/moog-one) -  An 8 or 16 Voice Polyphonic Synthesizer.
+- [Moog One 8/16](https://www.moogmusic.com/products/moog-one) -  Analog 8 or 16 Voice Polyphonic Synthesizer.
 - [Arturia MatrixBrute](https://amzn.to/2Qhmi3v) - Analog Monophonic Synthesizer.
 - [Elektron Digitakt](https://amzn.to/2L218Ax) - 8 Voice Drum Computer and Sampler.
 - Strymon [Blue Sky](https://amzn.to/2QA9XGR) and [Brigadier](https://amzn.to/2Qwjxun) - Reverb/Delay Machines.

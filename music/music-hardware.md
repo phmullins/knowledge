@@ -70,7 +70,14 @@ In my home office I have a set of [Paradigm 7SE](https://www.paradigm.com/produc
 
 ## Home Theater
 
-Model: Rotel RSX-1055 5.1 (6.1, 7.1 capable) A/V Surround Sound Receiver.
-Supports: Dolby Digital, Dolby EX, DPL-II, DTS, DTS ES Discrete (6.1), DTS Neo:6, and Rotel XS. Polk PSW108 10”
+Sad to say but the home theater has fallen by the wayside of late. There was a time when I wouldn't watch a movie unless it was DTS encoded and made use of the 5.1 surround system that I had. These days? I installed a Bose Solo 5 sound bar above the Sony 4K set and haven't looked back. This means I have a few pieces of gear not being used. Most notably, the Rotel RSX-1055. 
+
+- Receiver: Rotel RSX-1055 5.1 (6.1, 7.1 capable).
+- Speakers: Polk Towers
+- Sub Woofer: Polk PSW108 10”
+- Television: 65" Sony XBR65X750D 4K HDR
+- DVD/Blu-Ray: Sony UBP-X800
+- Remote: Harmony Ultimate One
+- Misc: Bose SOLO 5
 
 
