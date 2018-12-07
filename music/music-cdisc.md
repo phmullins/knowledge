@@ -1,6 +1,6 @@
 ## Music - Compact Disc (Wishlists)
 
-Not as cool as vinyl but cheaper and more readily available. Also, there are (unfortunately) plenty of titles out there that are compact disc only.
+Not as cool as vinyl but cheaper and more readily available. Also, there are (unfortunately) plenty of titles out there that are compact disc only. If you're super curious you can check out my wish list over at [Amazon](http://a.co/72onAC7). Thanks!
 
 ## Electronica/Industrial
 
