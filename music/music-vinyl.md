@@ -1,6 +1,6 @@
 ## Music - Vinyl Records (Wishlists)
 
-What can I say, there's just something about vinyl records. Here's a list of records that I'm looking to add to my collection
+What can I say, there's just something about vinyl records. Here's a list of records that I'm looking to add to my collection. If you're super curious you can check out my wish list over at [Amazon](http://a.co/8F8R9ij). Thanks!
 
 ## Electronic/Industrial
 
