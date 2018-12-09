@@ -8,7 +8,7 @@ Finally, all of this is connected via a thousand cables to a small [Mackie Mix8]
 
 ## Wish List
 
-One can never have too many headphones or instruments. Sure, being restricted to a few items forces you to get creative. Still, there are times when you just want to sit down and bang out something epic using as many devices as you can. Plus, upgrading to better equipment is always nice. To that end, here is my top ten most wanted instruments.
+One can never have too many headphones or instruments. Sure, being restricted to a few items forces you to get creative. Still, there are times when you just want to sit down and bang out something epic using as many devices as you can. Plus, upgrading to better equipment is always nice. To that end, here is my top ten (or more) most wanted instruments.
 
 1. [Arturia MatrixBrute](https://amzn.to/2Qhmi3v)
 2. [Moog Subsequent 37](https://amzn.to/2QbMht5)
@@ -19,7 +19,9 @@ One can never have too many headphones or instruments. Sure, being restricted to
 7. [Arturia BeatStep Pro](https://amzn.to/2PlEMuf)
 8. [Waldorf Blofeld Black](https://amzn.to/2RBhuT9)
 9. [Boss RC-505 Loop Station](https://amzn.to/2Ec5vZb)
-1. [Zoom MS-70CDR](https://amzn.to/2UmIxDs)
+10. [Zoom MS-70CDR](https://amzn.to/2UmIxDs)
+11. [Fender Modern Player Telecaster Plus](https://www.sweetwater.com/store/detail/TelePLMPCT--fender-modern-player-telecaster-plus-charcoal-transparent-with-maple-fingerboard)
+12. [Fender Super Champ X2 Tube Amp](https://www.sweetwater.com/store/detail/SupChampX2--fender-super-champ-x2-15-watt-1x10-inch-tube-combo-amp)
 
 ## Ultimate - End Game Instruments
 
