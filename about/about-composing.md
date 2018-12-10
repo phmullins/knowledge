@@ -20,8 +20,9 @@ One can never have too many headphones or instruments. Sure, being restricted to
 8. [Waldorf Blofeld Black](https://amzn.to/2RBhuT9)
 9. [Boss RC-505 Loop Station](https://amzn.to/2Ec5vZb)
 10. [Zoom MS-70CDR](https://amzn.to/2UmIxDs)
-11. [Fender Modern Player Telecaster Plus](https://www.sweetwater.com/store/detail/TelePLMPCT--fender-modern-player-telecaster-plus-charcoal-transparent-with-maple-fingerboard)
-12. [Fender Super Champ X2 Tube Amp](https://www.sweetwater.com/store/detail/SupChampX2--fender-super-champ-x2-15-watt-1x10-inch-tube-combo-amp)
+11. [Fender Modern Player Telecaster Plus](https://shop.fender.com/en-US/electric-guitars/telecaster/modern-player-telecaster-plus/0241102542.html)
+12. [Fender Super Champ X2 Tube Amp](https://shop.fender.com/en-US/guitar-amplifiers/contemporary-digital/super-champ-x2/2223000000.html)
+13. [Pugilist Distortion Pedal](https://shop.fender.com/en-US/effects-pedals/pugilist-distortion/0234534000.html)
 
 ## Ultimate - End Game Instruments
 
@@ -34,6 +35,7 @@ Every musician has one or two instruments that they aspire to own. These are kno
 
 ## Links (Hardware)
 
+- [Fender](https://www.fender.com/)
 - [Arturia](https://www.arturia.com/)
 - [Korg](http://www.korg.com/us/)
 - [Moog](https://www.moogmusic.com/)
