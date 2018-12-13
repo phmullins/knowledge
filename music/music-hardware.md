@@ -58,6 +58,8 @@ I'm happy to say that I managed to score a matched pair of 1960s Mullard 6AK5 tu
 
 ## Headphone AMPS/DACS - Wanted
 
+These are just a few of the AMPs/DACS on my wish list. The full list can be seen over at [Amazon]( http://a.co/jaL3p1K).
+
 - [Schiit Fulla 2](https://amzn.to/2QI6AO6)
 - [FiiO K3 DSD](https://amzn.to/2rtYz0X)
 - [CHORD Electronics Mojo](https://amzn.to/2S63Maq)
