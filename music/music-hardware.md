@@ -26,6 +26,7 @@
 
 There's no such thing has having too many headphones...
 
+- [HiFiMan HE560](http://hifiman.com/products/detail/167) - (OVE, PLM)
 - [Monolith Electrostatic](https://amzn.to/2Q6PA4s) - (OVE, ESTAX)
 - [Koss ESP-950](https://amzn.to/2rno44d) - (OVE, ESTAX)
 - [Sennheiser HD 800](https://amzn.to/2zHrdQH) - (OVE, DYD)
