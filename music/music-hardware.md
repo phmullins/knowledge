@@ -62,6 +62,10 @@ I'm happy to say that I managed to score a matched pair of 1960s Mullard 6AK5 tu
 These are just a few of the AMPs/DACS on my wish list. The full list can be seen over at [Amazon]( http://a.co/jaL3p1K).
 
 - [Schiit Fulla 2](https://amzn.to/2QI6AO6)
+- [Marantz HD- DAC1](https://amzn.to/2GjjWwn)
+- [Monolith Tube](https://amzn.to/2LqQoMh)
+- [Schiit Magni 3](https://amzn.to/2UOHjRF)
+- [Schiit Modi 3](https://amzn.to/2UObWGQ)
 - [FiiO K3 DSD](https://amzn.to/2rtYz0X)
 - [CHORD Electronics Mojo](https://amzn.to/2S63Maq)
 - [iFi xDSD](https://amzn.to/2E6J9If)
