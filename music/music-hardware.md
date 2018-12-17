@@ -1,3 +1,5 @@
+This is where I get all kinds of crazy talking about the audio devices that I own or wish that I owned. lol. Headphones, Amps, Dacs, speakers, turntables, etc. If it plays, converts, amplifies, or allows me to listen to music then it's listed here. 
+
 ## Over-Ear Headphones (Own)
 
 - [Fostex T20RP MK3](https://amzn.to/2OUOm7d)
