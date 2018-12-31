@@ -12,7 +12,7 @@ Below you will find a list of my favorite songs.
 - The Pot (Tool)
 
 ## Industrial Rock                                                                                                                                                                             
-- Contagion (Circle of Dust) 
+- [Contagion](https://open.spotify.com/track/6LMjSt9vwT4Q827avd4y8E) (Circle of Dust) 
 - Fuel (Front 242) 
 - Machines of Our Disgrace (Circle of Dust)
 
