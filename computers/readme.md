@@ -1,4 +1,4 @@
-## Computer Applications
+## Computers - Applications
 
 - [Backups](computers-backups.md)
 - [Development](computers-development.md)
@@ -6,9 +6,9 @@
 - [Email](computers-email.md)
 - [Writing](computers-writing.md)
 
-## Computer Hardware
+## Computers - Hardware
 
 - [Displays](computers-displays.md)
 - [Hardware Setups](computers-setups.md)
 - [Quantum Computing](computers-quantum.md)
-
+- [Vintage Computers](computers-vintage.md)
