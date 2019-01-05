@@ -2,6 +2,8 @@ This is where I get all kinds of crazy talking about the audio devices that I ow
 
 ## Over-Ear Headphones (Own)
 
+You just can't beat the sound that a good pair of over-ear headphones can give you.
+
 - [Fostex T20RP MK3](https://amzn.to/2OUOm7d)
 - [Sennheiser HD660S](https://amzn.to/2OVGWAt)
 - [Bowers & Wilkins P7](https://amzn.to/2r6g9rT)
@@ -12,6 +14,8 @@ This is where I get all kinds of crazy talking about the audio devices that I ow
 - [Bose AE2](https://amzn.to/2Ttoa7b)
 
 ## In-Ear Monitors (Own)
+
+Awesome for portable use but not as good sound-wise as over-ears.
 
 - [Sennheiser IE800](https://amzn.to/2DBtlw1)
 - [PSB Speakers M4U 4](https://amzn.to/2DOi78p)
@@ -28,6 +32,10 @@ This is where I get all kinds of crazy talking about the audio devices that I ow
 
 There's no such thing has having too many headphones...
 
+- [Beyerdynamic Amiron](https://amzn.to/2GIyDJt) - (OVE, DYD)
+- [Fostex AMS-TH-610](https://amzn.to/2SkhLtH) - (OVE, DYD)
+- [AKG Pro Audio K712 PRO](https://amzn.to/2GJW9pw) - (OVE, DYD)
+- [Grado GR8e](https://amzn.to/2GKd0bP) - (IEM, DYD)
 - [HiFiMan HE560](http://hifiman.com/products/detail/167) - (OVE, PLM)
 - [Monolith Electrostatic](https://amzn.to/2Q6PA4s) - (OVE, ESTAX)
 - [Koss ESP-950](https://amzn.to/2rno44d) - (OVE, ESTAX)
@@ -38,19 +46,16 @@ There's no such thing has having too many headphones...
 - [Beyerdynamic DT1990 Pro](https://amzn.to/2PdjnDd) - (OVE, DYD)
 - [Blue Ella](https://amzn.to/2E7SSyi) - (OVE, PLM)
 - [Philips X2HR Fidelio](https://amzn.to/2SkY9FC) - (OVE, DYD)
-- [Audeze iSINE20](https://amzn.to/2KMFhN0) - (IEM, PLM)
 - [Etymotic Research ER4XR](https://amzn.to/2KJkie5) - (IEM, DYD)
 - [AudioQuest NightHawk Carbon](https://amzn.to/2U0M3TD) - (OVE, DYD)
-- [Blue Sadie](https://amzn.to/2PaoAM9) - (OVE, DYD)
 - [Shure KSE1200](https://amzn.to/2SkeQ3S) - (IEM, ESTAX)
-- [Bowers & Wilkins P9](https://amzn.to/2DzZCDP) - (OVE, DYD)
 - [PSB M4U 8](https://amzn.to/2OVOG5k) - (OVE, DYD)
-- [RHA TrueConnect](https://amzn.to/2KpGDNF) - (IEM, DYD)
-- [Bowers & Wilkins PX](https://amzn.to/2FysH53) - (OVE, DYD)
 
 Legend: **OVE** = Over Ear, **IEM** = In-Ear Monitor, **DYD** = Dynamic Driver, **PLM** = Planar Magnetic, **ESTAX** = Electrostatic.
 
 ## Headphone AMPS/DACS (Own)
+
+Pretty much any decent headphone is going to require and AMP/DAC. Yes, even 32 ohm cans will perform better with a good portable/desktop AMP.
 
 - [Apogee Groove](https://amzn.to/2TwkJMT)
 - [Hifiman EF2A](https://amzn.to/2TxrGx5) w/1960s Mullard 6AK5 tubes  
