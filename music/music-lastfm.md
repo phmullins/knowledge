@@ -13,6 +13,7 @@ Interested in my musical statistics? I'm a Last.fm subscriber, meaning I get mor
 - [07 Dec 2018 - 13 Dec 2018](https://www.last.fm/user/phmullins/listening-report/year/2018/week/49) - Stats - Year: 2018, Week: 49
 - [14 Dec 2018 - 20 Dec 2018](https://www.last.fm/user/phmullins/listening-report/year/2018/week/50) - Stats - Year: 2018, Week: 50
 - [21 Dec 2018 - 27 Dec 2018](https://www.last.fm/user/phmullins/listening-report/year/2018/week/51) - Stats - Year: 2018, Week: 51
+- [28 Dec 2018 — 03 Jan 2019](https://www.last.fm/user/phmullins/listening-report/year/2018/week/52) - Stats - Year: 2018, Week: 52
 
 ## Links
 
