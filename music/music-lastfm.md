@@ -4,7 +4,7 @@ What exactly is [Last.fm](https://www.last.fm/home)? Well, it's basically a musi
 
 ## Last.fm Data
 
-Interested in my musical statistics? I'm a Last.fm subscriber, meaning I get more detailed stats that what free account holders might see. At the moment I am scrobbling via iTunes, Apple Music, Bandcamp, Deezer, and YouTube on my MacBook Pro, iPhone, iPad, and [Sonos](https://www.sonos.com) system.
+Interested in my musical statistics? I'm a Last.fm subscriber, meaning I get more detailed stats that what free account holders might see. At the moment I am scrobbling via iTunes, Apple Music, Bandcamp, Deezer, and YouTube on my MacBook Pro, iPhone, iPad, and [Sonos](https://www.sonos.com) system. Check out my stats from [2018](https://www.last.fm/user/phmullins/listening-report/year/2018).
 
 - [09 Nov 2018 - 15 Nov 2018](https://www.last.fm/user/phmullins/listening-report/year/2018/week/45) - Stats - Year: 2018, Week: 45
 - [16 Nov 2018 - 22 Nov 2018](https://www.last.fm/user/phmullins/listening-report/year/2018/week/46) - Stats - Year: 2018, Week: 46

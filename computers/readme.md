@@ -12,3 +12,7 @@
 - [Hardware Setups](computers-setups.md)
 - [Quantum Computing](computers-quantum.md)
 - [Vintage Computers](computers-vintage.md)
+
+## Computers - Privacy
+
+- [2019 Privacy Recommendations](computers-privacy.md)
