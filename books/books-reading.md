@@ -2,6 +2,12 @@
 
 A list of books that I am currently reading.
 
+### 2019
+
+- [Ancillary Justice](https://amzn.to/2CoIOgI) (Imperial Radch Book 1), Ann Leckie 
+
+### 2018 (Started in 2019)
+
 - Caliban's War (The Expanse: #2), by James S.A. Corey
 - The Holy Bible: Holman Christian Standard
 - Learning Python 5th Ed., by Mark Lutz
