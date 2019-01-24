@@ -1,5 +1,10 @@
 A list of every book that I've read going back to 2003.
 
+## 2019
+
+- Armor, by John Steakley (Currently reading)
+- [Ancillary Justice](https://amzn.to/2CoIOgI) (Imperial Radch, Book 1), by Ann Leckie 
+
 ## 2018
 
 - Site Reliability Engineering, by Betsy Beyer
