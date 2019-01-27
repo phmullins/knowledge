@@ -4,7 +4,7 @@ A list of books that I am currently reading.
 
 ### 2019
 
-- [Ancillary Justice](https://amzn.to/2CoIOgI) (Imperial Radch, Book 1), Ann Leckie 
+- Armor, by John Steakley (Currently reading)
 
 ### 2018 (Started in 2018)
 
