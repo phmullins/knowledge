@@ -13,10 +13,10 @@ Interested in my musical statistics? I'm a Last.fm subscriber, meaning I get mor
 - [07 Dec 2018 - 13 Dec 2018](https://www.last.fm/user/phmullins/listening-report/year/2018/week/49) - Stats - Year: 2018, Week: 49
 - [14 Dec 2018 - 20 Dec 2018](https://www.last.fm/user/phmullins/listening-report/year/2018/week/50) - Stats - Year: 2018, Week: 50
 - [21 Dec 2018 - 27 Dec 2018](https://www.last.fm/user/phmullins/listening-report/year/2018/week/51) - Stats - Year: 2018, Week: 51
-- [28 Dec 2018 — 03 Jan 2019](https://www.last.fm/user/phmullins/listening-report/year/2018/week/52) - Stats - Year: 2018, Week: 52
-- [04 Jan 2019 — 10 Jan 2019](https://www.last.fm/user/phmullins/listening-report/year/2019/week/1) - Stats - Year: 2019, Week: 01
-- [11 Jan 2019 — 17 Jan 2019](https://www.last.fm/user/phmullins/listening-report/year/2019/week/2) - Stats - Year: 2019, Week: 02
-- [18 Jan 2019 — 24 Jan 2019](https://www.last.fm/user/phmullins/listening-report/year/2019/week/3) - Stats - Year: 2019, Week: 03
+- [28 Dec 2018 - 03 Jan 2019](https://www.last.fm/user/phmullins/listening-report/year/2018/week/52) - Stats - Year: 2018, Week: 52
+- [04 Jan 2019 - 10 Jan 2019](https://www.last.fm/user/phmullins/listening-report/year/2019/week/1) - Stats - Year: 2019, Week: 01
+- [11 Jan 2019 - 17 Jan 2019](https://www.last.fm/user/phmullins/listening-report/year/2019/week/2) - Stats - Year: 2019, Week: 02
+- [18 Jan 2019 - 24 Jan 2019](https://www.last.fm/user/phmullins/listening-report/year/2019/week/3) - Stats - Year: 2019, Week: 03
 
 ## Links
 
