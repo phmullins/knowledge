@@ -4,21 +4,21 @@ Below you will find a list of my favorite songs.
 
 ## Alternative Metal
 
-- Black Wedding (In This Moment)
-- In The Air Tonight (In This Moment)
+- [Black Wedding](https://youtu.be/fHAi_-DOy40) (In This Moment)
+- [In The Air Tonight](https://youtu.be/azeh1ZbxWwI) (In This Moment)
 - Jambi (Tool)
 - Roots (In This Moment)
 - Rosetta Stoned (Tool)
 - The Pot (Tool)
 
 ## Industrial Rock                                                                                                                                                                             
-- [Contagion](https://open.spotify.com/track/6LMjSt9vwT4Q827avd4y8E) (Circle of Dust) 
-- Fuel (Front 242) 
-- Machines of Our Disgrace (Circle of Dust)
+- [Contagion](https://youtu.be/Z3UiKh9gLko) (Circle of Dust) 
+- [Fuel](https://youtu.be/HIEbt3YkHj4) (Front 242) 
+- [Machines of Our Disgrace](https://youtu.be/Gu5Z-FTRxRM) (Circle of Dust)
 
 ## Film Scores
 
-- [Blade Runner Blues](https://open.spotify.com/track/575blCgesVtCu0HEYaIcas) (Vangelis)
+- [Blade Runner Blues](https://youtu.be/ECYLHiXvrBQ) (Vangelis)
 - Chrysalis, Part 1 (Christopher Franke)
 
 ## Pop
