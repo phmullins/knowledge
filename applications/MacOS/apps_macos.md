@@ -6,8 +6,8 @@ A pretty extensive list of applications that I have installed and use either on 
 
 * [BitPerfect](http://bitperfectsound.com) 
 * [Cog](https://kode54.net/cog/)
-* [iTunes](https://www.apple.com/itunes/)
-* [Last.fm](https://www.last.fm/home) - World's largest online music service.
+* [iTunes](https://www.apple.com/itunes/) 
+* [TunesArt](https://www.jibapps.com/apps/tunesart/)
 * [XLD](http://tmkk.undo.jp/xld/index_e.html) - Decode/convert/play various "lossless" audio files.
 * [YouTube to MP3](https://www.mediahuman.com/)
 
