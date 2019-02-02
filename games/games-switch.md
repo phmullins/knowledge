@@ -8,7 +8,7 @@
 ## Nintendo Switch - Top 20 Wanted Games
 
 - [Doom](https://www.nintendo.com/games/detail/doom-switch)
-- Achtung! Cthulhu (Unknown Release Date)
+- [Achtung! Cthulhu Tactics](https://www.nintendo.com/games/detail/achtung-cthulu-tactics-switch)
 - [Wolfenstein II: The New Colossus](https://www.nintendo.com/games/detail/wolfenstein-ii-the-new-colossus-switch)
 - [The Legend of Zelda: Breath of the Wild](https://www.nintendo.com/games/detail/the-legend-of-zelda-breath-of-the-wild-switch)
 - [Sid Meier's Civilization VI](https://www.nintendo.com/games/detail/sid-meiers-civilization-vi-switch) (2018-11-16)
@@ -38,7 +38,10 @@
 - Bridge Constructor Portal
 - Captain Toad: Treasure Tracker
 - Donkey Kong Country: Tropical Freeze
+- [Doodle God: Evolution](https://www.nintendo.com/games/detail/doodle-god-evolution-switch)
+- [Elli](https://www.nintendo.com/games/detail/elli-switch)
 - Flood of Light
+- [Goat Simulator: The GOATY](https://www.nintendo.com/games/detail/goat-simulator-the-goaty-switch)
 - Has Been Heroes
 - Into the Breach
 - Kentucky Route Zero: TV Edition
@@ -52,9 +55,12 @@
 - My Brother Rabbit
 - Old Man's Journey
 - One More Dungeon
+- [Rad Rodgers Radical Edition](https://www.nintendo.com/games/detail/rad-rodgers-radical-edition-switch)
 - Red's Kingdom
 - Reigns: Kings & Queens
+- [RemiLore](https://www.nintendo.com/games/detail/remilore-switch)
 - Siegecraft Commander
+- [SteamWorld Quest](https://www.nintendo.com/games/detail/steamworld-quest-switch)
 - Subdivision Infinity DX
 - Super Dungeon Tactics
 - Wulverblade
