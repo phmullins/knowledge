@@ -96,4 +96,7 @@ Sad to say but the home theater has fallen by the wayside of late. There was a t
 - Remote: Harmony Ultimate One
 - Misc: Bose SOLO 5
 
+## Links
+
+- [Schiit Audio](https://www.schiit.com/)
 
