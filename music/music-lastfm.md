@@ -17,6 +17,7 @@ Interested in my musical statistics? I'm a Last.fm subscriber, meaning I get mor
 - [04 Jan 2019 - 10 Jan 2019](https://www.last.fm/user/phmullins/listening-report/year/2019/week/1) - Stats - Year: 2019, Week: 01
 - [11 Jan 2019 - 17 Jan 2019](https://www.last.fm/user/phmullins/listening-report/year/2019/week/2) - Stats - Year: 2019, Week: 02
 - [18 Jan 2019 - 24 Jan 2019](https://www.last.fm/user/phmullins/listening-report/year/2019/week/3) - Stats - Year: 2019, Week: 03
+- [25 Jan 2019 - 31 Jan 2019](https://www.last.fm/user/phmullins/listening-report/year/2019/week/4) -  - Stats - Year: 2019, Week: 04
 
 ## Links
 
