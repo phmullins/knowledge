@@ -5,6 +5,7 @@ A list of books that I am currently reading.
 ### 2019
 
 - Armor, by John Steakley (Currently reading)
+- The Last Days of New Paris: A Novel, by China Miéville 
 
 ### 2018 (Started in 2018)
 
