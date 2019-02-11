@@ -4,6 +4,7 @@ This is where I get all kinds of crazy talking about the audio devices that I ow
 
 You just can't beat the sound that a good pair of over-ear headphones can give you.
 
+- [AudioQuest Nighthawk Carbon](https://amzn.to/2N10Me6)
 - [Fostex T20RP MK3](https://amzn.to/2OUOm7d)
 - [Sennheiser HD660S](https://amzn.to/2OVGWAt)
 - [Bowers & Wilkins P7](https://amzn.to/2r6g9rT)
@@ -32,14 +33,13 @@ Awesome for portable use but not as good sound-wise as over-ears.
 
 There's no such thing has having too many headphones...
 
-- [Beyerdynamic Amiron](https://amzn.to/2GIyDJt) - (OVE, DYD)
+- [Sennheiser HD 800](https://amzn.to/2zHrdQH) - (OVE, DYD)
 - [Fostex AMS-TH-610](https://amzn.to/2SkhLtH) - (OVE, DYD)
 - [AKG Pro Audio K712 PRO](https://amzn.to/2GJW9pw) - (OVE, DYD)
 - [Grado GR8e](https://amzn.to/2GKd0bP) - (IEM, DYD)
 - [HiFiMan HE560](http://hifiman.com/products/detail/167) - (OVE, PLM)
 - [Monolith Electrostatic](https://amzn.to/2Q6PA4s) - (OVE, ESTAX)
 - [Koss ESP-950](https://amzn.to/2rno44d) - (OVE, ESTAX)
-- [Sennheiser HD 800](https://amzn.to/2zHrdQH) - (OVE, DYD)
 - [Master & Dynamic MW07](https://amzn.to/2DAGZzA) - (IEM, DYD)
 - [Monolith 16050](https://amzn.to/2KMevnX) - (OVE, PLM)
 - [Sennheiser Momentum](https://amzn.to/2OXS4gp) - (IEM, DYD)
@@ -47,7 +47,6 @@ There's no such thing has having too many headphones...
 - [Blue Ella](https://amzn.to/2E7SSyi) - (OVE, PLM)
 - [Philips X2HR Fidelio](https://amzn.to/2SkY9FC) - (OVE, DYD)
 - [Etymotic Research ER4XR](https://amzn.to/2KJkie5) - (IEM, DYD)
-- [AudioQuest NightHawk Carbon](https://amzn.to/2U0M3TD) - (OVE, DYD)
 - [Shure KSE1200](https://amzn.to/2SkeQ3S) - (IEM, ESTAX)
 - [PSB M4U 8](https://amzn.to/2OVOG5k) - (OVE, DYD)
 
@@ -60,7 +59,8 @@ Pretty much any decent headphone is going to require and AMP/DAC. Yes, even 32 o
 - [Apogee Groove](https://amzn.to/2TwkJMT)
 - [Hifiman EF2A](https://amzn.to/2TxrGx5) w/1960s Mullard 6AK5 tubes  
 - [FiiO E10](https://amzn.to/2E79SEO)
-- Schiit Fulla
+- [Schiit Modi 3](https://amzn.to/2Szsd4f)
+- [Schiit Mangi 3](https://amzn.to/2WQxJ1w)
 
 I'm happy to say that I managed to score a matched pair of 1960s Mullard 6AK5 tubes on eBay. The stock Chinese tubes that came with my HIFIMAN EF2A headphone amp are terribly harsh on the old ears. There's no bass to speak of, a middling midrange, and bright, ear splitting highs. They're probably the worst sounding tubes that I've ever heard and they needed to be swapped out immediately. The British-made Mullards (especially the vintage variety) are widely considered to be the Cadillacs of the vacuum tube world. They produce a heavenly sound that contains plenty of tight, controlled bass, a smooth, focused midrange, and crystal clear, non-fatiguing highs. The only real drawbacks to these tubes are the associated shipping costs and actually being able to track down a matched pair. The United Kingdom seems to be the only country that still has a readily available supply of vintage Mullard tubes and, as you might imagine, the shipping costs to the United States are completely insane. Still, all things considered, the sublime sound that these tubes produce is well worth the overall monetary costs and the agonizingly long trip across the pond.
 
