@@ -4,8 +4,9 @@ A list of books that I am currently reading.
 
 ### 2019
 
-- Armor, by John Steakley (Currently reading)
-- The Last Days of New Paris: A Novel, by China Miéville 
+- [Armor](https://amzn.to/2DvAoEY), by John Steakley
+- [The Last Days of New Paris: A Novel](https://amzn.to/2SIpQvH), by China Miéville 
+- [Casino Royale](https://amzn.to/2I6V6At) (James Bond - Book 1), by Ian Fleming 
 
 ### 2018 (Started in 2018)
 
