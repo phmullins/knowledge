@@ -59,8 +59,8 @@ Pretty much any decent headphone is going to require and AMP/DAC. Yes, even 32 o
 - [Apogee Groove](https://amzn.to/2TwkJMT)
 - [Hifiman EF2A](https://amzn.to/2TxrGx5) w/1960s Mullard 6AK5 tubes  
 - [FiiO E10](https://amzn.to/2E79SEO)
+- [Schiit Magni 3](https://amzn.to/2WQxJ1w)
 - [Schiit Modi 3](https://amzn.to/2Szsd4f)
-- [Schiit Mangi 3](https://amzn.to/2WQxJ1w)
 
 I'm happy to say that I managed to score a matched pair of 1960s Mullard 6AK5 tubes on eBay. The stock Chinese tubes that came with my HIFIMAN EF2A headphone amp are terribly harsh on the old ears. There's no bass to speak of, a middling midrange, and bright, ear splitting highs. They're probably the worst sounding tubes that I've ever heard and they needed to be swapped out immediately. The British-made Mullards (especially the vintage variety) are widely considered to be the Cadillacs of the vacuum tube world. They produce a heavenly sound that contains plenty of tight, controlled bass, a smooth, focused midrange, and crystal clear, non-fatiguing highs. The only real drawbacks to these tubes are the associated shipping costs and actually being able to track down a matched pair. The United Kingdom seems to be the only country that still has a readily available supply of vintage Mullard tubes and, as you might imagine, the shipping costs to the United States are completely insane. Still, all things considered, the sublime sound that these tubes produce is well worth the overall monetary costs and the agonizingly long trip across the pond.
 
@@ -71,8 +71,6 @@ These are just a few of the AMPs/DACS on my wish list. The full list can be seen
 - [Schiit Fulla 2](https://amzn.to/2QI6AO6)
 - [Marantz HD- DAC1](https://amzn.to/2GjjWwn)
 - [Monolith Tube](https://amzn.to/2LqQoMh)
-- [Schiit Magni 3](https://amzn.to/2UOHjRF)
-- [Schiit Modi 3](https://amzn.to/2UObWGQ)
 - [FiiO K3 DSD](https://amzn.to/2rtYz0X)
 - [CHORD Electronics Mojo](https://amzn.to/2S63Maq)
 - [iFi xDSD](https://amzn.to/2E6J9If)
@@ -98,5 +96,7 @@ Sad to say but the home theater has fallen by the wayside of late. There was a t
 
 ## Links
 
+- [Audioquest](https://www.audioquest.com)
 - [Schiit Audio](https://www.schiit.com/)
+- [Sennheiser](https://en-us.sennheiser.com)
 
