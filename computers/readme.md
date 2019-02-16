@@ -8,7 +8,8 @@
 
 ## Computers - Hardware
 
-- [Displays](computers-displays.md)
+- [Computer Displays](computers-displays.md)
+- [Field-Programmable Gate Array](computers-fpga.md)
 - [Hardware Setups](computers-setups.md)
 - [Quantum Computing](computers-quantum.md)
 - [Vintage Computers](computers-vintage.md)
