@@ -40,8 +40,9 @@
 - Child of Light Ultimate Edition + Valiant Hearts: The Great War
 - [Degrees of Separation](https://www.nintendo.com/games/detail/degrees-of-separation-switch)
 - [Dungeon Rushers](http://dungeon-rushers.com/en/index-en/) [(1)](https://www.nintendo.com/games/detail/dungeon-rushers-switch)
-- Dragon Quest Builders
-- Bridge Constructor Portal
+- [Dragon Quest Builders](https://dragonquest.square-enix-games.com/builders/us/)
+- [Dragon Quest Builders 2](https://www.nintendo.com/games/detail/dragon-quest-builders-2-switch)
+- Bridge Constructor Portal [[1]](https://www.nintendo.com/games/detail/bridge-constructor-portal-switch)
 - Captain Toad: Treasure Tracker [(1)](https://www.nintendo.com/games/detail/captain-toad-treasure-tracker-switch)
 - Donkey Kong Country: Tropical Freeze
 - [Doodle God: Evolution](https://www.nintendo.com/games/detail/doodle-god-evolution-switch)
