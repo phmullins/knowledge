@@ -32,11 +32,11 @@
 ## Nintendo Switch - Games That I Want
 
 - Assassin's Creed III Remastered [(NS)](https://www.nintendo.com/games/detail/assassins-creed-3-remastered-switch)
-- [Bastion](https://www.supergiantgames.com/games/bastion/) [(NS)](https://www.nintendo.com/games/detail/bastion-switch)
+- Bastionc[www](https://www.supergiantgames.com/games/bastion/) [(NS)](https://www.nintendo.com/games/detail/bastion-switch)
 - [Armello](https://armello.com) [(NS)](https://www.nintendo.com/games/detail/armello-switch)
 - Another World [(NS)](https://www.nintendo.com/games/detail/another-world-switch)
 - [Bad North](https://www.badnorth.com) [(NS)](https://www.nintendo.com/games/detail/bad-north-switch)
-- Bullet Age [(1)](https://www.nintendo.com/games/detail/bullet-age-switch)
+- Bullet Age [(NS)](https://www.nintendo.com/games/detail/bullet-age-switch)
 - Child of Light Ultimate Edition + Valiant Hearts: The Great War
 - [Degrees of Separation](https://www.nintendo.com/games/detail/degrees-of-separation-switch)
 - [Dungeon Rushers](http://dungeon-rushers.com/en/index-en/) [(NS)](https://www.nintendo.com/games/detail/dungeon-rushers-switch)
