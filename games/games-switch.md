@@ -7,7 +7,7 @@
 
 ## Nintendo Switch - Top 20 Wanted Games
 
-- Gods
+- [Gods](https://www.robotriotgames.com/gods_remastered.html)
 - [Super Mario Maker 2](https://www.nintendo.com/games/detail/super-mario-maker-2-switch)
 - [Doom](https://www.nintendo.com/games/detail/doom-switch)
 - [Achtung! Cthulhu Tactics](https://www.nintendo.com/games/detail/achtung-cthulu-tactics-switch)
@@ -32,17 +32,17 @@
 ## Nintendo Switch - Games That I Want
 
 - Assassin's Creed III Remastered
-- Bastion
-- Armello
-- Another World
-- Bad North
-- Bullet Age
+- [Bastion](https://www.supergiantgames.com/games/bastion/)
+- [Armello](https://armello.com)
+- [Another World](https://www.nintendo.com/games/detail/another-world-switch)
+- [Bad North](https://www.badnorth.com) [(1)](https://www.nintendo.com/games/detail/bad-north-switch)
+- Bullet Age [(1)](https://www.nintendo.com/games/detail/bullet-age-switch)
 - Child of Light Ultimate Edition + Valiant Hearts: The Great War
 - [Degrees of Separation](https://www.nintendo.com/games/detail/degrees-of-separation-switch)
-- Dungeon Rushers
+- [Dungeon Rushers](http://dungeon-rushers.com/en/index-en/) [(1)](https://www.nintendo.com/games/detail/dungeon-rushers-switch)
 - Dragon Quest Builders
 - Bridge Constructor Portal
-- Captain Toad: Treasure Tracker
+- Captain Toad: Treasure Tracker [(1)](https://www.nintendo.com/games/detail/captain-toad-treasure-tracker-switch)
 - Donkey Kong Country: Tropical Freeze
 - [Doodle God: Evolution](https://www.nintendo.com/games/detail/doodle-god-evolution-switch)
 - [Elli](https://www.nintendo.com/games/detail/elli-switch)
@@ -52,7 +52,7 @@
 - Has Been Heroes
 - Hellblade: Senua's Sacrifice
 - History 2048
-- Into the Breach
+- [Into the Breach](https://subsetgames.com/itb.html) [(1)](https://www.nintendo.com/games/detail/into-the-breach-switch)
 - Kentucky Route Zero: TV Edition
 - [Klondike Solitaire](https://www.nintendo.com/games/detail/klondike-solitaire-switch)
 - KORG Gadget
