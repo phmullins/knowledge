@@ -4,9 +4,10 @@ This is where I get all kinds of crazy talking about the audio devices that I ow
 
 You just can't beat the sound that a good pair of over-ear headphones can give you.
 
+- [Sennheiser HD800S](https://amzn.to/2SDc9Kp)
 - [AudioQuest Nighthawk Carbon](https://amzn.to/2N10Me6)
-- [Fostex T20RP MK3](https://amzn.to/2OUOm7d)
 - [Sennheiser HD660S](https://amzn.to/2OVGWAt)
+- [Fostex T20RP MK3](https://amzn.to/2OUOm7d)
 - [Bowers & Wilkins P7](https://amzn.to/2r6g9rT)
 - [Denon AHD-2000](https://amzn.to/2TqBSYp)
 - [Blue Satellite](https://amzn.to/2qVaAfC)
@@ -33,7 +34,6 @@ Awesome for portable use but not as good sound-wise as over-ears.
 
 There's no such thing has having too many headphones...
 
-- [Sennheiser HD 800](https://amzn.to/2zHrdQH) - (OVE, DYD)
 - [Fostex AMS-TH-610](https://amzn.to/2SkhLtH) - (OVE, DYD)
 - [AKG Pro Audio K712 PRO](https://amzn.to/2GJW9pw) - (OVE, DYD)
 - [Grado GR8e](https://amzn.to/2GKd0bP) - (IEM, DYD)
@@ -56,6 +56,8 @@ Legend: **OVE** = Over Ear, **IEM** = In-Ear Monitor, **DYD** = Dynamic Driver, 
 
 Pretty much any decent headphone is going to require and AMP/DAC. Yes, even 32 ohm cans will perform better with a good portable/desktop AMP.
 
+- [JDS EL AMP](https://jdslabs.com/product/el-amp/)
+- [JDS EL DAC](https://jdslabs.com/product/el-dac/)
 - [Apogee Groove](https://amzn.to/2TwkJMT)
 - [Hifiman EF2A](https://amzn.to/2TxrGx5) w/1960s Mullard 6AK5 tubes  
 - [FiiO E10](https://amzn.to/2E79SEO)
