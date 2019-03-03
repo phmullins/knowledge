@@ -16,12 +16,14 @@
 - [Dishonored 2](https://www.playstation.com/en-us/games/dishonored-2-ps4/)
 - [Dishonored: Death of the Outsider](https://www.playstation.com/en-us/games/dishonored-death-of-the-outsider-ps4/)
 - [Beyond Good and Evil 2](https://www.ubisoft.com/en-gb/game/beyond-good-and-evil-2/)
-- [Shadow of the Colossus](https://www.playstation.com/en-us/games/shadow-of-the-colossus-ps4/)
+- [Stellaris](https://www.paradoxplaza.com/stellaris)
 - [Horizon Zero Dawn: The Frozen Wilds](https://www.playstation.com/en-us/games/horizon-zero-dawn-ps4/the-frozen-wilds-dlc/)
-- [Wolfenstein: Youngblood](https://wolfenstein.bethesda.net/)
+- [Wartile](http://www.wartile.com/)
 
 ## PlayStation 4 - Games that I Want
 
+- [A Plague Tale: Innocence](http://aplaguetale.com/)
+- [Apex Legends](https://www.ea.com/games/apex-legends)
 - Assassin's Creed: Odyssey
 - Assassin's Creed: Syndicate - Standard Edition
 - Assassin's Creed: Unity - Limited Edition
@@ -40,8 +42,11 @@
 - Destiny 2
 - Detroit Become Human
 - Far Cry 4
+- [Far Cry: New Dawn](https://far-cry.ubisoft.com/game/en-us/home)
 - Far Cry Primal
+- [Farm Together](http://www.milkstonestudios.com/games/farm-together/)
 - For Honor
+- [Generation Zero](https://generationzero.com/en/)
 - Helldivers Super Earth Edition
 - Immortal: Unchained
 - InFamous First Light
@@ -50,7 +55,7 @@
 - Lara Croft and the Temple of Osiris + Season's Pass
 - Lords of the Fallen
 - Mad Max
-- Metro Exodus: Day One Edition
+- [Metro Exodus](https://www.metrothegame.com/en-us/)
 - Metro Redux
 - Middle-Earth: Shadow of Mordor Game of the Year
 - Middle-Earth: Shadow of War
@@ -59,16 +64,21 @@
 - Rage 2
 - Red Dead Redemption 2
 - Rise of the Tomb Raider: 20 Year Celebration
+- [Sekiro: Shadows Die Twice](https://www.sekirothegame.com/)
+- [Shadow of the Colossus](https://www.playstation.com/en-us/games/shadow-of-the-colossus-ps4/)
 - Shadow of the Tomb Raider
 - Sniper Elite 4
 - Star Wars Battlefront II
 - Tempest 4000
+- [The Mage's Tale](https://www.inxile-entertainment.com/magestale) (VR)
 - The Order: 1886
 - The Surge
 - Tom Clancy’s Ghost Recon Wildlands
-- Tom Clancy's The Division 2
+- [Tom Clancy's The Division 2](https://tomclancy-thedivision.ubisoft.com/game/en-us/home)
 - Watch Dogs 2
 - Witcher 3: Wild Hunt Complete Edition
+- [Wolfenstein: Youngblood](https://wolfenstein.bethesda.net/)
+- [XING: The Land Beyond](http://xingthegame.com/) (Beth)
 
 ## PlayStation 4 - Links
 
