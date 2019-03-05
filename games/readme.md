@@ -33,12 +33,8 @@ These are the games that had some kind of impact on me.
 - [Steam](https://store.steampowered.com/)
 - [GOG](https://www.gog.com/)
 
-## Game Companies
+## Game Development
 
-- [Amplitude-Studios](https://www.amplitude-studios.com)
-- [Blizzard](https://www.blizzard.com/en-us/)
-- [Epic Games](https://www.epicgames.com)
-- [Guerrilla](https://www.guerrilla-games.com/)
-- [Id Software](https://www.idsoftware.com)
+- [Game Developers](games-developers.md)
 
 

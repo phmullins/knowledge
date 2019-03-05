@@ -1,6 +1,6 @@
 ## PlayStation 4 - Top 20 Wanted Games
 
-- [God of War](https://www.playstation.com/en-us/games/god-of-war-ps4/)
+- [God of War](http://sms.playstation.com/god-of-war/)
 - [Cyberpunk 2077](https://www.cyberpunk.net/en/)
 - [Anthem](https://www.playstation.com/en-us/games/anthem-ps4/)
 - [Elite Dangerous: The Legendary Edition](https://www.elitedangerous.com/)
@@ -10,7 +10,7 @@
 - [Tom Clancy's The Division](https://www.playstation.com/en-us/games/tom-clancys-the-division-ps4/)
 - [Death Stranding](https://www.playstation.com/en-us/games/death-stranding-ps4/)
 - [Doom Eternal](https://bethesda.net/en/game/doom)
-- [Fallout 76](https://www.playstation.com/en-us/games/fallout-76-ps4/)
+- [Fallout 76](https://fallout.bethesda.net/en/games/fallout-76)
 - [Ghost of Tsushima](https://www.suckerpunch.com/category/games/ghost-of-tsushima/)
 - [Dishonored Definitive Edition](https://www.playstation.com/en-us/games/dishonored-definitive-edition-ps4/)
 - [Dishonored 2](https://www.playstation.com/en-us/games/dishonored-2-ps4/)
@@ -23,7 +23,6 @@
 ## PlayStation 4 - Games that I Want
 
 - [A Plague Tale: Innocence](http://aplaguetale.com/)
-- [Apex Legends](https://www.ea.com/games/apex-legends)
 - Assassin's Creed: Odyssey
 - Assassin's Creed: Syndicate - Standard Edition
 - Assassin's Creed: Unity - Limited Edition
@@ -45,7 +44,6 @@
 - [Far Cry: New Dawn](https://far-cry.ubisoft.com/game/en-us/home)
 - Far Cry Primal
 - [Farm Together](http://www.milkstonestudios.com/games/farm-together/)
-- For Honor
 - [Generation Zero](https://generationzero.com/en/)
 - Helldivers Super Earth Edition
 - Immortal: Unchained
@@ -80,6 +78,28 @@
 - [Wolfenstein: Youngblood](https://wolfenstein.bethesda.net/)
 - [XING: The Land Beyond](http://xingthegame.com/) (Beth)
 
+## PlayStation 4 - Games that I Have/Own
+
+- [Another World](https://www.anotherworld.fr/anotherworld_uk/)
+- [Apex Legends](https://www.ea.com/games/apex-legends)
+- [Child of Light](https://www.ubisoft.com/en-us/game/child-of-light/)
+- [Deus Ex: Mankind Divided](https://deusex.square-enix-games.com/game/dx-md)
+- [Diablo III: Eternal Collection](https://us.diablo3.com/en/)
+- [DOOM](https://bethesda.net/en/game/doom)
+- [EVE: Valkyrie – Warzone](https://www.evevalkyrie.com/)
+- [Fallout 4](https://fallout.bethesda.net/en/games/fallout-4)
+- [Fallout Shelter](https://www.falloutshelter.com/)
+- [Firewatch](http://www.firewatchgame.com/)
+- [For Honor](https://forhonor.ubisoft.com/game/en-us/home/)
+- [God of War III Remastered](https://www.playstation.com/en-us/games/god-of-war-iii-remastered-ps4/)
+- [Horizon Zero Dawn](http://HorizonZeroDawn.com)
+- [Inside](https://playdead.com/games/inside/)
+- [The Crew](https://www.ubisoft.com/en-us/game/the-crew/)
+- [The Elder Scrolls V: Skyrim](https://elderscrolls.bethesda.net/en/skyrim)
+- [The Last Of Us: Remastered](https://www.playstation.com/en-us/games/the-last-of-us-remastered-ps4/)
+- [Tomb Raider: Definitive Edition](https://crystald.com/projects/tomb-raider-definitive-edition)
+- [Transistor](https://www.supergiantgames.com/games/transistor/)
+
 ## PlayStation 4 - Links
 
 - [PlayStation](https://www.playstation.com/en-us/)
@@ -87,4 +107,3 @@
 - [PlayStation Deals](https://store.playstation.com/en-us/grid/STORE-MSF77008-WEEKLYDEALS/1)
 - [PlayStation Store](https://www.playstation.com/en-us/network/store/)
 - [PS4 Remote Play](https://remoteplay.dl.playstation.net/remoteplay)
-
