@@ -1,33 +1,38 @@
+## Sony PlayStation
+
+Up until recently I had considered myself just an ordinary gamer and wasn't particularly loyal to any platform or system in general. After all, a game is a game, right? Who cares what console and/or system it's being played on? At least that's what I'd tell myself when I found myself pondering the situation. Turns out I was wrong. It does matter what console or system you're playing on. Not only does each console have different system components and user interfaces but they also have wildly different user cultures and ecosystems in general. Everything, from the tactile feel of the controllers to the colors associated with each  system, is unique and helps distinguish one console from another. Over time I've come to learn that I prefer the aesthetics and general overall feel of the Sony PlayStation 4 versus  it's closest competitor the Microsoft Xbox One. Why, you might ask? I can't say for sure. It just feels right to me. Whereas the Xbox, its user interface, and the company behind it have always felt somewhat forced. Then again, maybe I only prefer black and dark blue versus black and forest green. Who's to say?
+
 ## PlayStation 4 - Top 20 Wanted Games
 
-- [God of War](http://sms.playstation.com/god-of-war/)
+- God of War [(PS4)](http://sms.playstation.com/god-of-war/)
+- [Mutant Year Zero: Road to Eden](https://www.mutantyearzero.com)
 - [Cyberpunk 2077](https://www.cyberpunk.net/en/)
-- [Anthem](https://www.playstation.com/en-us/games/anthem-ps4/)
+- Anthem [(PS4)](https://www.playstation.com/en-us/games/anthem-ps4/)
+- [Beyond Good and Evil 2](https://www.ubisoft.com/en-gb/game/beyond-good-and-evil-2/)
+- Death Stranding [(PS4)](https://www.playstation.com/en-us/games/death-stranding-ps4/)
+- [Stellaris](https://www.paradoxplaza.com/stellaris)
+- Horizon Zero Dawn: The Frozen Wilds [(PS4)](https://www.playstation.com/en-us/games/horizon-zero-dawn-ps4/the-frozen-wilds-dlc/)
+- [Wartile](http://www.wartile.com/) [(PS4)](https://www.playstation.com/en-us/games/wartile-ps4/)
 - [Elite Dangerous: The Legendary Edition](https://www.elitedangerous.com/)
 - [Overkill's The Walking Dead](https://www.playstation.com/en-us/games/overkills-the-walking-dead-ps4/)
 - [Call of Duty: WWII](https://www.playstation.com/en-us/games/call-of-duty-wwii-ps4/)
 - [Battlefield V](https://www.playstation.com/en-us/games/battlefield-v-ps4/)
 - [Tom Clancy's The Division](https://www.playstation.com/en-us/games/tom-clancys-the-division-ps4/)
-- [Death Stranding](https://www.playstation.com/en-us/games/death-stranding-ps4/)
 - [Doom Eternal](https://bethesda.net/en/game/doom)
 - [Fallout 76](https://fallout.bethesda.net/en/games/fallout-76)
 - [Ghost of Tsushima](https://www.suckerpunch.com/category/games/ghost-of-tsushima/)
 - [Dishonored Definitive Edition](https://www.playstation.com/en-us/games/dishonored-definitive-edition-ps4/)
 - [Dishonored 2](https://www.playstation.com/en-us/games/dishonored-2-ps4/)
 - [Dishonored: Death of the Outsider](https://www.playstation.com/en-us/games/dishonored-death-of-the-outsider-ps4/)
-- [Beyond Good and Evil 2](https://www.ubisoft.com/en-gb/game/beyond-good-and-evil-2/)
-- [Stellaris](https://www.paradoxplaza.com/stellaris)
-- [Horizon Zero Dawn: The Frozen Wilds](https://www.playstation.com/en-us/games/horizon-zero-dawn-ps4/the-frozen-wilds-dlc/)
-- [Wartile](http://www.wartile.com/)
 
 ## PlayStation 4 - Games that I Want
 
-- [A Plague Tale: Innocence](http://aplaguetale.com/)
+- A Plague Tale: Innocence [[www]](http://aplaguetale.com/)
 - Assassin's Creed: Odyssey
 - Assassin's Creed: Syndicate - Standard Edition
 - Assassin's Creed: Unity - Limited Edition
 - Battlefield 1
-- Biomutant
+- Biomutant [[www]](https://biomutant.com/)
 - BioShock: The Collection
 - Call of Duty: Advanced Warfare
 - Call of Duty: Black Ops III
@@ -41,10 +46,10 @@
 - Destiny 2
 - Detroit Become Human
 - Far Cry 4
-- [Far Cry: New Dawn](https://far-cry.ubisoft.com/game/en-us/home)
+- Far Cry: New Dawn [[www]](https://far-cry.ubisoft.com/game/en-us/home)
 - Far Cry Primal
-- [Farm Together](http://www.milkstonestudios.com/games/farm-together/)
-- [Generation Zero](https://generationzero.com/en/)
+- Farm Together [[www]](http://www.milkstonestudios.com/games/farm-together/)
+- Generation Zero [[www]](https://generationzero.com/en/)
 - Helldivers Super Earth Edition
 - Immortal: Unchained
 - InFamous First Light
@@ -53,7 +58,7 @@
 - Lara Croft and the Temple of Osiris + Season's Pass
 - Lords of the Fallen
 - Mad Max
-- [Metro Exodus](https://www.metrothegame.com/en-us/)
+- Metro Exodus [[www]](https://www.metrothegame.com/en-us/)
 - Metro Redux
 - Middle-Earth: Shadow of Mordor Game of the Year
 - Middle-Earth: Shadow of War
@@ -62,20 +67,20 @@
 - Rage 2
 - Red Dead Redemption 2
 - Rise of the Tomb Raider: 20 Year Celebration
-- [Sekiro: Shadows Die Twice](https://www.sekirothegame.com/)
-- [Shadow of the Colossus](https://www.playstation.com/en-us/games/shadow-of-the-colossus-ps4/)
+- Sekiro: Shadows Die Twice [[www]](https://www.sekirothegame.com/)
+- Shadow of the Colossus [[PS4]](https://www.playstation.com/en-us/games/shadow-of-the-colossus-ps4/)
 - Shadow of the Tomb Raider
 - Sniper Elite 4
 - Star Wars Battlefront II
 - Tempest 4000
-- [The Mage's Tale](https://www.inxile-entertainment.com/magestale) (VR)
+- The Mage's Tale [[www]](https://www.inxile-entertainment.com/magestale) (VR)
 - The Order: 1886
 - The Surge
 - Tom Clancy’s Ghost Recon Wildlands
-- [Tom Clancy's The Division 2](https://tomclancy-thedivision.ubisoft.com/game/en-us/home)
+- Tom Clancy's The Division 2 [[www]](https://tomclancy-thedivision.ubisoft.com/game/en-us/home)
 - Watch Dogs 2
 - Witcher 3: Wild Hunt Complete Edition
-- [Wolfenstein: Youngblood](https://wolfenstein.bethesda.net/)
+- Wolfenstein: Youngblood [[www]](https://wolfenstein.bethesda.net/)
 - [XING: The Land Beyond](http://xingthegame.com/) (Beth)
 
 ## PlayStation 4 - Games that I Have/Own
@@ -91,12 +96,12 @@
 - [Fallout Shelter](https://www.falloutshelter.com/)
 - [Firewatch](http://www.firewatchgame.com/)
 - [For Honor](https://forhonor.ubisoft.com/game/en-us/home/)
-- [God of War III Remastered](https://www.playstation.com/en-us/games/god-of-war-iii-remastered-ps4/)
+- God of War III: Remastered [(PS4)](https://www.playstation.com/en-us/games/god-of-war-iii-remastered-ps4/)
 - [Horizon Zero Dawn](http://HorizonZeroDawn.com)
 - [Inside](https://playdead.com/games/inside/)
 - [The Crew](https://www.ubisoft.com/en-us/game/the-crew/)
 - [The Elder Scrolls V: Skyrim](https://elderscrolls.bethesda.net/en/skyrim)
-- [The Last Of Us: Remastered](https://www.playstation.com/en-us/games/the-last-of-us-remastered-ps4/)
+- The Last Of Us: Remastered [(PS4)](https://www.playstation.com/en-us/games/the-last-of-us-remastered-ps4/)
 - [Tomb Raider: Definitive Edition](https://crystald.com/projects/tomb-raider-definitive-edition)
 - [Transistor](https://www.supergiantgames.com/games/transistor/)
 
