@@ -10,7 +10,7 @@ Up until recently I had considered myself just an ordinary gamer and wasn't part
 4. Cyberpunk 2077 - [(Web)](https://www.cyberpunk.net/en/)
 5. [Anthem](https://www.playstation.com/en-us/games/anthem-ps4/)
 6. Beyond Good and Evil 2 - [(Web)](https://beyondgoodandevil.ubisoft.com/en-us/)
-7. Death Stranding [(PS4)](https://www.playstation.com/en-us/games/death-stranding-ps4/)
+7. [Death Stranding](https://www.playstation.com/en-us/games/death-stranding-ps4/)
 8. [Horizon Zero Dawn: The Frozen Wilds](https://www.playstation.com/en-us/games/horizon-zero-dawn-ps4/the-frozen-wilds-dlc/)
 9. [Wartile](https://www.playstation.com/en-us/games/wartile-ps4/) - [(Web)](http://www.wartile.com/) 
 10. [Overkill's The Walking Dead](https://www.playstation.com/en-us/games/overkills-the-walking-dead-ps4/)
