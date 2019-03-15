@@ -9,6 +9,7 @@
 
 1. Feudal Alloy [(www)](http://feudalalloy.com/#) [(Switch)](https://www.nintendo.com/games/detail/feudal-alloy-switch)
 2. Achtung! Cthulhu Tactics [(switch)](https://www.nintendo.com/games/detail/achtung-cthulu-tactics-switch)
+3. [Shrouded Isle](http://www.kitfoxgames.com/shrouded-isle/) [(Switch)](https://www.nintendo.com/games/detail/the-shrouded-isle-switch)
 3. Gods [(www)](https://www.robotriotgames.com/gods_remastered.html) [(switch)](https://www.nintendo.com/games/detail/gods-remastered-switch)
 4. Doom [(switch)](https://www.nintendo.com/games/detail/doom-switch)
 5. Wolfenstein II: The New Colossus [(switch)](https://www.nintendo.com/games/detail/wolfenstein-ii-the-new-colossus-switch)
