@@ -1,3 +1,50 @@
+## Dune
+Author: Frank Herbert 
+
+1. [Dune](https://amzn.to/2RWqmCD)
+2. [Dune Messiah](https://amzn.to/2T8OeUI)
+3. [Children of Dune](https://amzn.to/2T9Z6la)
+4. [God Emperor of Dune](https://amzn.to/2ROmxz6)
+5. [Heretics of Dune](https://amzn.to/2T8SPpV)
+6. [Chapterhouse: Dune](https://amzn.to/2RSrozw)
+
+## Gears of War
+Author:  Karen Traviss
+
+- [Gears of War: Aspho Fields](https://amzn.to/2uo2M7Y)
+- [Gears of War: Jacinto's Remnant](https://amzn.to/2ur3EIK)
+- [Gears of War: Anvil Gate](https://amzn.to/2YmQZ7u)
+- [Gears of War: Coalition's End](https://amzn.to/2uoLAiH)
+- [Gears of War: The Slab]()
+
+## Hyperion Cantos
+Author: Dan Simmons
+
+1. [Hyperion](https://amzn.to/2OIEm0N)
+2. [The Fall of Hyperion](https://amzn.to/2T61lWJ)
+3. [Endymion](https://amzn.to/2T4Tk4B)
+4. [Rise of Endymion](https://amzn.to/2FhoWRu)
+
+## Long Earth
+Author: Terry Pratchett & Stephen Baxter
+
+1. [The Long Earth](https://amzn.to/2RSsjzY)
+2. [The Long War](https://amzn.to/2RTr7wb)
+3. [The Long Mars](https://amzn.to/2DiMenl)
+4. [The Long Utpoia](https://amzn.to/2FiAgNh)
+5. [The Long Cosmos](https://amzn.to/2RPvt7c)
+
+## Old Man's War 
+Author: John Scalzi
+
+1. [Old Man’s War](https://amzn.to/2T8F9LR)
+2. [The Ghost Brigades](https://amzn.to/2DBBRfy)
+3. [The Last Colony](https://amzn.to/2qKKv2O)
+4. [Zoe’s Tale](https://amzn.to/2FgV8nW)
+5. [The Human Division](https://amzn.to/2FiIgh7)
+6. [The End of All Things](https://amzn.to/2qJAUJK)
+7. [Short fiction: “After the Coup”](https://amzn.to/2Ft3EQO)
+
 ## Imperial Radch
 Author: Ann Leckie
 
@@ -34,16 +81,6 @@ Author: George R. R. Martin
 4. [A Feast for Crows](https://amzn.to/2T6mqjT)
 5. [A Dance with Dragons](https://amzn.to/2qHOQUn)
 
-## Dune
-Author: Frank Herbert 
-
-1. [Dune](https://amzn.to/2RWqmCD)
-2. [Dune Messiah](https://amzn.to/2T8OeUI)
-3. [Children of Dune](https://amzn.to/2T9Z6la)
-4. [God Emperor of Dune](https://amzn.to/2ROmxz6)
-5. [Heretics of Dune](https://amzn.to/2T8SPpV)
-6. [Chapterhouse: Dune](https://amzn.to/2RSrozw)
-
 ## Expeditionary Force
 Author: Craig Alanson
 
@@ -76,34 +113,6 @@ Author: Jason Anspach & Nick Cole
 07. [Turning Point](https://amzn.to/2RQ0rfx)
 08. [Message for the Dead](https://amzn.to/2DgwjpM)
 09. [Retribution](https://amzn.to/2DiR6Jm)
-
-## Hyperion Cantos
-Author: Dan Simmons
-
-1. [Hyperion](https://amzn.to/2OIEm0N)
-2. [The Fall of Hyperion](https://amzn.to/2T61lWJ)
-3. [Endymion](https://amzn.to/2T4Tk4B)
-4. [Rise of Endymion](https://amzn.to/2FhoWRu)
-
-## Long Earth
-Author: Terry Pratchett & Stephen Baxter
-
-1. [The Long Earth](https://amzn.to/2RSsjzY)
-2. [The Long War](https://amzn.to/2RTr7wb)
-3. [The Long Mars](https://amzn.to/2DiMenl)
-4. [The Long Utpoia](https://amzn.to/2FiAgNh)
-5. [The Long Cosmos](https://amzn.to/2RPvt7c)
-
-## Old Man's War 
-Author: John Scalzi
-
-1. [Old Man’s War](https://amzn.to/2T8F9LR)
-2. [The Ghost Brigades](https://amzn.to/2DBBRfy)
-3. [The Last Colony](https://amzn.to/2qKKv2O)
-4. [Zoe’s Tale](https://amzn.to/2FgV8nW)
-5. [The Human Division](https://amzn.to/2FiIgh7)
-6. [The End of All Things](https://amzn.to/2qJAUJK)
-7. [Short fiction: “After the Coup”](https://amzn.to/2Ft3EQO)
 
 ## On Silver Wings
 Author: Evan Currie
