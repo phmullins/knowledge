@@ -33,6 +33,10 @@
 
 ## Nintendo Switch - Games That I Want
 
+- Unruly Heroes [(switch)](https://www.nintendo.com/games/detail/unruly-heroes-switch)
+- Overland [(switch)](https://www.nintendo.com/games/detail/overland-switch)
+- Creature in the Well [(switch)](https://www.nintendo.com/games/detail/creature-in-the-well-switch)
+- RAD [(switch)](https://www.nintendo.com/games/detail/rad-switch)
 - Assassin's Creed III Remastered [(switch)](https://www.nintendo.com/games/detail/assassins-creed-3-remastered-switch)
 - Bastion [(www)](https://www.supergiantgames.com/games/bastion/) [(switch)](https://www.nintendo.com/games/detail/bastion-switch)
 - [Armello](https://armello.com) [(switch)](https://www.nintendo.com/games/detail/armello-switch)
