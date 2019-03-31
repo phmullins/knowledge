@@ -7,10 +7,10 @@
 
 ## Nintendo Switch - Top 20 Wanted Games
 
-1. Feudal Alloy [(www)](http://feudalalloy.com/#) [(Switch)](https://www.nintendo.com/games/detail/feudal-alloy-switch)
+1. Feudal Alloy [(www)](http://feudalalloy.com/#) [(switch)](https://www.nintendo.com/games/detail/feudal-alloy-switch)
 2. Mutant Year Zero: Road to Eden Deluxe
 2. Achtung! Cthulhu Tactics [(switch)](https://www.nintendo.com/games/detail/achtung-cthulu-tactics-switch)
-3. [Shrouded Isle](http://www.kitfoxgames.com/shrouded-isle/) [(Switch)](https://www.nintendo.com/games/detail/the-shrouded-isle-switch)
+3. [Shrouded Isle](http://www.kitfoxgames.com/shrouded-isle/) [(switch)](https://www.nintendo.com/games/detail/the-shrouded-isle-switch)
 3. Gods [(www)](https://www.robotriotgames.com/gods_remastered.html) [(switch)](https://www.nintendo.com/games/detail/gods-remastered-switch)
 4. Doom [(switch)](https://www.nintendo.com/games/detail/doom-switch)
 5. Wolfenstein II: The New Colossus [(switch)](https://www.nintendo.com/games/detail/wolfenstein-ii-the-new-colossus-switch)
@@ -30,9 +30,11 @@
 18. Everspace [(switch)](https://www.nintendo.com/games/detail/everspace-stellar-edition-switch)
 19. Pokemon: Let's Go, Eevee! [(switch)](https://www.nintendo.com/games/detail/pokemon-lets-go-eevee-switch)
 20. Yonder The Cloud Catcher Chronicles [(switch)](https://www.nintendo.com/games/detail/yonder-the-cloud-catcher-chronicles-switch)
+21. Monster Slayers [(switch)](https://www.nintendo.com/games/detail/monster-slayers-switch)
 
 ## Nintendo Switch - Games That I Want
 
+- SteamWorld Quest: Hand of Gilgamech [(switch)](https://www.nintendo.com/games/detail/steamworld-quest-hand-of-gilgamech-switch)
 - Unruly Heroes [(switch)](https://www.nintendo.com/games/detail/unruly-heroes-switch)
 - Overland [(switch)](https://www.nintendo.com/games/detail/overland-switch)
 - Creature in the Well [(switch)](https://www.nintendo.com/games/detail/creature-in-the-well-switch)
