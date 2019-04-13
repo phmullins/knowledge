@@ -34,6 +34,8 @@
 
 ## Nintendo Switch - Games That I Want
 
+- Jungle Z [(switch)](https://www.nintendo.com/games/detail/jungle-z-switch/)
+- The Legend of Zelda: Link's Awakening [(switch)](https://www.nintendo.com/games/detail/the-legend-of-zelda-links-awakening-switch/)
 - SteamWorld Quest: Hand of Gilgamech [(switch)](https://www.nintendo.com/games/detail/steamworld-quest-hand-of-gilgamech-switch)
 - Unruly Heroes [(switch)](https://www.nintendo.com/games/detail/unruly-heroes-switch)
 - Overland [(switch)](https://www.nintendo.com/games/detail/overland-switch)
