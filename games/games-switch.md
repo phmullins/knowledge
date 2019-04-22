@@ -4,6 +4,7 @@
 - [Diablo III: Eternal Collection](https://us.diablo3.com/en/switch)
 - [Darkest Dungeon](https://www.darkestdungeon.com)
 - [The Elder Scrolls V: Skyrim](https://elderscrolls.bethesda.net/en/skyrim)
+- Rogue Bit [(switch)](https://www.nintendo.com/games/detail/rogue-bit-switch/)
 
 ## Nintendo Switch - Top 20 Wanted Games
 
@@ -30,6 +31,7 @@
 
 ## Nintendo Switch - Games That I Want
 
+- Shalnor Legends: Sacred Lands [(switch)](https://www.nintendo.com/games/detail/shalnor-legends-sacred-lands-switch/)
 - SteamWorld Quest: Hand of Gilgamech [(switch)](https://www.nintendo.com/games/detail/steamworld-quest-hand-of-gilgamech-switch/)
 - Out There: Ω The Alliance [(switch)](https://www.nintendo.com/games/detail/out-there-omega-the-alliance-switch/)
 - Dawn of Survivors [(switch)](https://www.nintendo.com/games/detail/dawn-of-survivors-switch/)
