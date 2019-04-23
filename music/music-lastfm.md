@@ -19,6 +19,8 @@ Interested in my musical statistics? I'm a Last.fm subscriber, meaning I get mor
 - [15 Mar 2019 - 21 Mar 2019](https://www.last.fm/user/phmullins/listening-report/year/2019/week/11) - Stats - Year: 2019, Week: 11 (763 Scrobbles - Down 28%)
 - [22 Mar 2019 - 28 Mar 2019](https://www.last.fm/user/phmullins/listening-report/year/2019/week/12) - Stats - Year: 2019, Week: 12 (429 Scrobbles - Down 44%)
 - [29 Mar 2019 - 04 Apr 2019](https://www.last.fm/user/phmullins/listening-report/year/2019/week/13) - Stats - Year: 2019, Week: 13 (832 Scrobbles - Up 94%)
+- [05 Apr 2019 - 11 Apr 2019](https://www.last.fm/user/phmullins/listening-report/year/2019/week/14) - Stats - Year: 2019, Week: 14 (771 Scrobbles - Down 8%)
+- [12 Apr 2019 - 18 Apr 2019](https://www.last.fm/user/phmullins/listening-report/year/2019/week/15) - Stats - Year: 2019, Week: 15 (663 Scrobbles - Down 15%)
 
 ## Last.fm Data - Monthly
 
