@@ -31,6 +31,10 @@
 
 ## Nintendo Switch - Games That I Want
 
+- For The King [(switch)](https://www.nintendo.com/games/detail/for-the-king-switch/)
+- Meow Motors [(switch)](https://www.nintendo.com/games/detail/meow-motors-switch/)
+- Blazing Beaks [(switch)](https://www.nintendo.com/games/detail/blazing-beaks-switch/)
+- Undead Horde [(switch)](https://www.nintendo.com/games/detail/undead-horde-switch/)
 - Shalnor Legends: Sacred Lands [(switch)](https://www.nintendo.com/games/detail/shalnor-legends-sacred-lands-switch/)
 - SteamWorld Quest: Hand of Gilgamech [(switch)](https://www.nintendo.com/games/detail/steamworld-quest-hand-of-gilgamech-switch/)
 - Out There: Ω The Alliance [(switch)](https://www.nintendo.com/games/detail/out-there-omega-the-alliance-switch/)
