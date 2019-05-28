@@ -31,6 +31,8 @@
 
 ## Nintendo Switch - Games That I Want
 
+- 30-in-1 Game Collection [(switch)](https://www.nintendo.com/games/detail/30-in-1-game-collection-switch/)
+- Slay the Spire [(switch)](https://www.nintendo.com/games/detail/slay-the-spire-switch/)
 - For The King [(switch)](https://www.nintendo.com/games/detail/for-the-king-switch/)
 - Meow Motors [(switch)](https://www.nintendo.com/games/detail/meow-motors-switch/)
 - Blazing Beaks [(switch)](https://www.nintendo.com/games/detail/blazing-beaks-switch/)

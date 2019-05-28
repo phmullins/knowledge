@@ -21,12 +21,18 @@ Interested in my musical statistics? I'm a Last.fm subscriber, meaning I get mor
 - [29 Mar 2019 - 04 Apr 2019](https://www.last.fm/user/phmullins/listening-report/year/2019/week/13) - Stats - Year: 2019, Week: 13 (832 Scrobbles - Up 94%)
 - [05 Apr 2019 - 11 Apr 2019](https://www.last.fm/user/phmullins/listening-report/year/2019/week/14) - Stats - Year: 2019, Week: 14 (771 Scrobbles - Down 8%)
 - [12 Apr 2019 - 18 Apr 2019](https://www.last.fm/user/phmullins/listening-report/year/2019/week/15) - Stats - Year: 2019, Week: 15 (663 Scrobbles - Down 15%)
+- [19 Apr 2019 - 25 Apr 2019](https://www.last.fm/user/phmullins/listening-report/year/2019/week/16) - Stats - Year: 2019, Week: 16 (830 Scrobbles - Up 26%)
+- [26 Apr 2019 - 02 May 2019](https://www.last.fm/user/phmullins/listening-report/year/2019/week/17) - Stats - Year: 2019, Week: 17 (749 Scrobbles - Down 10%)
+- [03 May 2019 — 09 May 2019](https://www.last.fm/user/phmullins/listening-report/year/2019/week/18) - Stats - Year: 2019, Week: 18 (628 Scrobbles - Down 17%)
+- [10 May 2019 - 16 May 2019](https://www.last.fm/user/phmullins/listening-report/year/2019/week/19) - Stats - Year: 2019, Week: 19 (708 Scrobbles - Up 13%)
+- [17 May 2019 - 23 May 2019](https://www.last.fm/user/phmullins/listening-report/year/2019/week/20) - Stats - Year: 2019, Week: 20 (709 Scrobbles - Up 1%)
 
 ## Last.fm Data - Monthly
 
 - [01 - January, 2019](https://www.last.fm/user/phmullins/listening-report/year/2019/month/1) - Month: Jan, 2019 (3,393 Scrobbles)
 - [02 - February, 2019](https://www.last.fm/user/phmullins/listening-report/year/2019/month/2) - Month: Feb, 2019 (2,907 Scrobbles - Down 15%)
 - [03 - March, 2019](https://www.last.fm/user/phmullins/listening-report/year/2019/month/3) - Month: Mar, 2019 (3,389 Scrobbles - Up 17%)
+- [04 - April, 2019](https://www.last.fm/user/phmullins/listening-report/year/2019/month/4) - Month: Apr, 2019 (3,286 Scrobbles - Down 4%)
 
 ## Links
 
