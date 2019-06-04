@@ -10,7 +10,7 @@
 
 1. Lovecraft's Untold Stories [(switch)](https://www.nintendo.com/games/detail/lovecrafts-untold-stories-switch/)
 2. Feudal Alloy [(www)](http://feudalalloy.com/#) [(switch)](https://www.nintendo.com/games/detail/feudal-alloy-switch)
-3. Mutant Year Zero: Road to Eden Deluxe
+3. Mutant Year Zero: Road to Eden Deluxe [(www)](https://www.mutantyearzero.com/#1)
 4. Achtung! Cthulhu Tactics [(switch)](https://www.nintendo.com/games/detail/achtung-cthulu-tactics-switch)
 5. [Shrouded Isle](http://www.kitfoxgames.com/shrouded-isle/) [(switch)](https://www.nintendo.com/games/detail/the-shrouded-isle-switch)
 6. Gods [(www)](https://www.robotriotgames.com/gods_remastered.html) [(switch)](https://www.nintendo.com/games/detail/gods-remastered-switch)
@@ -31,8 +31,11 @@
 
 ## Nintendo Switch - Games That I Want
 
+- Northgard [(www)](http://northgard.net/)
+- Planescape Torment + Icewind Dale [(www)](https://store.skybound.com/products/planescape-torment-icewind-dale-enhanced-edition)
+- Baldurs Gate I/II [(www)](https://store.skybound.com/products/baldurs-gate-enhanced-edition?variant=28055151280203)
 - 30-in-1 Game Collection [(switch)](https://www.nintendo.com/games/detail/30-in-1-game-collection-switch/)
-- Slay the Spire [(switch)](https://www.nintendo.com/games/detail/slay-the-spire-switch/)
+- Slay the Spire [(switch)](https://www.nintendo.com/games/detail/slay-the-spire-switch/) [(www)](http://slaythespire.com/)
 - For The King [(switch)](https://www.nintendo.com/games/detail/for-the-king-switch/)
 - Meow Motors [(switch)](https://www.nintendo.com/games/detail/meow-motors-switch/)
 - Blazing Beaks [(switch)](https://www.nintendo.com/games/detail/blazing-beaks-switch/)
