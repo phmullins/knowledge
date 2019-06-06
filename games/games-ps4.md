@@ -2,6 +2,10 @@
 
 Up until recently I had considered myself just an ordinary gamer and wasn't particularly loyal to any platform or system in general. After all, a game is a game, right? Who cares what console and/or system it's being played on? At least that's what I'd tell myself when I found myself pondering the situation. Turns out I was wrong. It does matter what console or system you're playing on. Not only does each console have different system components and user interfaces but they also have wildly different user cultures and ecosystems in general. Everything, from the tactile feel of the controllers to the colors associated with each  system, is unique and helps distinguish one console from another. Over time I've come to learn that I prefer the aesthetics and general overall feel of the Sony PlayStation 4 versus  it's closest competitor the Microsoft Xbox One. Why, you might ask? I can't say for sure. It just feels right to me. Whereas the Xbox, its user interface, and the company behind it have always felt somewhat forced. Then again, maybe I only prefer black and dark blue versus black and forest green. Who's to say?
 
+## Recently Added to Collection
+
+- We Are The Dwarves [(www)](http://wearethedwarves.com/press/#description)
+
 ## Top 20 Wanted Games
 
 1. [God of War](https://www.playstation.com/en-us/games/god-of-war-ps4/)
