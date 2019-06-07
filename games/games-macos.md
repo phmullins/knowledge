@@ -6,12 +6,16 @@
 - [Deep Sky Derelicts](https://www.snowhoundgames.com/deep-sky-derelicts/)
 - [Dungeons 3](https://store.steampowered.com/app/493900/Dungeons_3/)
 - [Dungeon of the Endless](https://store.steampowered.com/app/249050/Dungeon_of_the_Endless/)
-- [Endless Space](https://www.endless-space.com)
-- [Endless Space 2](https://www.endless-space.com)
 - [Frostpunk](http://www.frostpunkgame.com)
 - [Pathfinder: Kingmaker](https://owlcatgames.com)
 - [Shadow Tactics: Blades of the Shogun](http://www.mimimi-productions.de/shadow_tactics_micro/)
 - [Warhammer 40,000: Dawn of War III](https://www.dawnofwar.com)
+
+## Recently Added to Collection
+
+- Endless Space [(www)](https://www.endless-space.com)
+- Endless Space 2 [(www)](https://www.endless-space.com)
+- We Are The Dwarves [(www)](http://wearethedwarves.com/press/#description)
 
 ## MacOS - Games I Own
 
@@ -22,6 +26,8 @@
 - Destiny 2
 - Diablo III
 - Endless Legend
+- Endless Space
+- Endless Space 2
 - Exapunks
 - FEZ
 - Fight the Dragon
@@ -45,6 +51,7 @@
 - Torchlight
 - Torchlight II
 - Transistor 
+- We Are The Dwarves
 - Warhammer Quest
 - XCOM: Enemy Unknown
 
