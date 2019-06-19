@@ -31,6 +31,9 @@
 
 ## Nintendo Switch - Games That I Want
 
+- Space Hulk
+- Minecraft Dungeons
+- Darksiders Genesis [(www)](http://www.airshipsyndicate.com/#dsg)
 - Northgard [(www)](http://northgard.net/)
 - Planescape Torment + Icewind Dale [(www)](https://store.skybound.com/products/planescape-torment-icewind-dale-enhanced-edition)
 - Baldurs Gate I/II [(www)](https://store.skybound.com/products/baldurs-gate-enhanced-edition?variant=28055151280203)
