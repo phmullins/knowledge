@@ -25,7 +25,7 @@
 15. Nine Parchments [(switch)](https://www.nintendo.com/games/detail/nine-parchments-switch)
 16. Lumo [(switch)](https://www.nintendo.com/games/detail/lumo-switch)
 17. Carcassonne [(www)](http://www.asmodee-digital.com/en/carcassonne/) [(switch)](https://www.nintendo.com/games/detail/carcassonne-switch)
-18. Catan Universe [(switch)](https://www.nintendo.com/games/detail/catan-universe-switch)
+18. Catan Universe [(switch)](https://www.nintendo.com/games/detail/catan-switch/)
 19. The Flame In The Flood [(switch)](https://www.nintendo.com/games/detail/the-flame-in-the-flood-complete-edition-switch)
 20. Monster Slayers [(switch)](https://www.nintendo.com/games/detail/monster-slayers-switch)
 
