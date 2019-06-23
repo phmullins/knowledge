@@ -31,6 +31,7 @@
 
 ## Nintendo Switch - Games That I Want
 
+- Luigi’s Mansion 3 [(switch)](https://www.nintendo.com/games/detail/luigis-mansion-3-switch/)
 - Space Hulk
 - Minecraft Dungeons
 - Darksiders Genesis [(www)](http://www.airshipsyndicate.com/#dsg)
