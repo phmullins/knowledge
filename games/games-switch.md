@@ -31,6 +31,7 @@
 
 ## Nintendo Switch - Games That I Want
 
+- The Legend of Zelda: Link's Awakening [(switch)](https://www.nintendo.com/games/detail/the-legend-of-zelda-links-awakening-switch/)
 - Luigi’s Mansion 3 [(switch)](https://www.nintendo.com/games/detail/luigis-mansion-3-switch/)
 - Space Hulk
 - Minecraft Dungeons
