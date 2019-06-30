@@ -31,6 +31,7 @@
 
 ## Nintendo Switch - Games That I Want
 
+- Realm Royale [(switch)](https://www.nintendo.com/games/detail/realm-royale-switch/)
 - The Elder Scrolls: Blades [(switch)](https://www.nintendo.com/games/detail/the-elder-scrolls-blades-switch/)
 - The Legend of Zelda: Link's Awakening [(switch)](https://www.nintendo.com/games/detail/the-legend-of-zelda-links-awakening-switch/)
 - Luigi’s Mansion 3 [(switch)](https://www.nintendo.com/games/detail/luigis-mansion-3-switch/)
