@@ -31,6 +31,7 @@
 
 ## Nintendo Switch - Games That I Want
 
+- Ziggurat [(switch)](https://www.nintendo.com/games/detail/ziggurat-switch/) [(www)](http://www.milkstonestudios.com/games/ziggurat/)
 - Distrust [(switch)](https://www.nintendo.com/games/detail/distrust-switch/)
 - Realm Royale [(switch)](https://www.nintendo.com/games/detail/realm-royale-switch/)
 - The Elder Scrolls: Blades [(switch)](https://www.nintendo.com/games/detail/the-elder-scrolls-blades-switch/)
