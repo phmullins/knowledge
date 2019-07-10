@@ -31,6 +31,8 @@
 
 ## Nintendo Switch - Games That I Want
 
+- CrisTales [(www)](https://modusgames.com)
+- Trine: Ultimate Collection [(www)](https://www.trine4.com)
 - Subdivision Infinity DX [(www)](https://www.blowfishstudios.com/game/si-dx)
 - Dead in Vinland - True Viking Edition [(switch)](https://www.nintendo.com/games/detail/dead-in-vinland-true-viking-edition-switch/)
 - Sakuna: Of Rice and Ruin [(switch)](https://www.nintendo.com/games/detail/sakuna-of-rice-and-ruin-switch/)
