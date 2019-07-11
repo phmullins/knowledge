@@ -31,6 +31,7 @@
 
 ## Nintendo Switch - Games That I Want
 
+- Lost Words [(www)](https://lostwordsgame.com/)
 - CrisTales [(www)](https://modusgames.com)
 - Trine: Ultimate Collection [(www)](https://www.trine4.com)
 - Subdivision Infinity DX [(www)](https://www.blowfishstudios.com/game/si-dx)
