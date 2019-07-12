@@ -33,6 +33,7 @@
 
 - Lost Words [(www)](https://lostwordsgame.com/)
 - CrisTales [(www)](https://modusgames.com)
+- Crimson Keep [(www)](https://www.mergegames.com/crimson-keep)
 - Trine: Ultimate Collection [(www)](https://www.trine4.com)
 - Subdivision Infinity DX [(www)](https://www.blowfishstudios.com/game/si-dx)
 - Dead in Vinland - True Viking Edition [(switch)](https://www.nintendo.com/games/detail/dead-in-vinland-true-viking-edition-switch/)
