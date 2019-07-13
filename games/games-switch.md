@@ -31,6 +31,7 @@
 
 ## Nintendo Switch - Games That I Want
 
+- Sparklite [(www)](https://www.mergegames.com/sparklite)
 - Lost Words [(www)](https://lostwordsgame.com/)
 - CrisTales [(www)](https://modusgames.com)
 - Crimson Keep [(www)](https://www.mergegames.com/crimson-keep)
