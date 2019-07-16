@@ -31,6 +31,7 @@
 
 ## Nintendo Switch - Games That I Want
 
+- Stranded Sails - Explorers of the Cursed Islands [(www)](https://www.mergegames.com/stranded-sails)
 - Sparklite [(www)](https://www.mergegames.com/sparklite)
 - Lost Words [(www)](https://lostwordsgame.com/)
 - CrisTales [(www)](https://modusgames.com)
