@@ -10,7 +10,7 @@
 
 1. Lovecraft's Untold Stories [(switch)](https://www.nintendo.com/games/detail/lovecrafts-untold-stories-switch/)
 2. Feudal Alloy [(www)](http://feudalalloy.com/#) [(switch)](https://www.nintendo.com/games/detail/feudal-alloy-switch)
-3. Mutant Year Zero: Road to Eden Deluxe [(www)](https://www.mutantyearzero.com/#1)
+3. Mutant Year Zero: Road to Eden Deluxe [(switch)](https://www.nintendo.com/games/detail/mutant-year-zero-road-to-eden-deluxe-edition-switch/) [(www)](https://www.mutantyearzero.com/#1)
 4. Achtung! Cthulhu Tactics [(switch)](https://www.nintendo.com/games/detail/achtung-cthulu-tactics-switch)
 5. Shrouded Isle [(www)](http://www.kitfoxgames.com/shrouded-isle/) [(switch)](https://www.nintendo.com/games/detail/the-shrouded-isle-switch)
 6. Gods [(www)](https://www.robotriotgames.com/gods_remastered.html) [(switch)](https://www.nintendo.com/games/detail/gods-remastered-switch)
@@ -31,6 +31,7 @@
 
 ## Nintendo Switch - Games That I Want
 
+- Battleship - [(switch)](https://www.nintendo.com/games/detail/battleship-switch/)
 - Tactics V: "Obsidian Brigade" - [(switch)](https://www.nintendo.com/games/detail/tactics-v-obsidian-brigade-switch/)
 - Stranded Sails - Explorers of the Cursed Islands [(www)](https://www.mergegames.com/stranded-sails)
 - Sparklite [(www)](https://www.mergegames.com/sparklite)
