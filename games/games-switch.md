@@ -31,10 +31,11 @@
 
 ## Nintendo Switch - Games That I Want
 
-- Alien Escape - [(switch)](https://www.nintendo.com/games/detail/alien-escape-switch/)
-- Battleship - [(switch)](https://www.nintendo.com/games/detail/battleship-switch/)
-- Tactics V: "Obsidian Brigade" - [(switch)](https://www.nintendo.com/games/detail/tactics-v-obsidian-brigade-switch/)
-- Stranded Sails - Explorers of the Cursed Islands [(www)](https://www.mergegames.com/stranded-sails)
+- Quest Hunter [(switch](https://www.nintendo.com/games/detail/quest-hunter-switch/)
+- Alien Escape [(switch)](https://www.nintendo.com/games/detail/alien-escape-switch/)
+- Battleship [(switch)](https://www.nintendo.com/games/detail/battleship-switch/)
+- Tactics V: "Obsidian Brigade" [(switch)](https://www.nintendo.com/games/detail/tactics-v-obsidian-brigade-switch/)
+- Stranded Sails Explorers of the Cursed Islands [(www)](https://www.mergegames.com/stranded-sails)
 - Sparklite [(www)](https://www.mergegames.com/sparklite)
 - Lost Words [(www)](https://lostwordsgame.com/)
 - CrisTales [(www)](https://modusgames.com)
