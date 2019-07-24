@@ -31,6 +31,7 @@
 
 ## Nintendo Switch - Games That I Want
 
+- Tiny Metal: Full Metal Rumble [(switch)](https://www.nintendo.com/games/detail/tiny-metal-full-metal-rumble-switch/)
 - Quest Hunter [(switch](https://www.nintendo.com/games/detail/quest-hunter-switch/)
 - Alien Escape [(switch)](https://www.nintendo.com/games/detail/alien-escape-switch/)
 - Battleship [(switch)](https://www.nintendo.com/games/detail/battleship-switch/)
