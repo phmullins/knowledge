@@ -1,15 +1,16 @@
-## MacOS - Most Wanted Games
+## MacOS/PC - Most Wanted Games
 
-- [Achtung! Cthulhu Tactics](https://store.steampowered.com/app/874460/Achtung_Cthulhu_Tactics/)
-- [Artifact](https://store.steampowered.com/app/583950/Artifact/)
-- [Book of Demons](https://www.return2games.com)
-- [Deep Sky Derelicts](https://www.snowhoundgames.com/deep-sky-derelicts/)
-- [Dungeons 3](https://store.steampowered.com/app/493900/Dungeons_3/)
-- [Dungeon of the Endless](https://store.steampowered.com/app/249050/Dungeon_of_the_Endless/)
-- [Frostpunk](http://www.frostpunkgame.com)
-- [Pathfinder: Kingmaker](https://owlcatgames.com)
-- [Shadow Tactics: Blades of the Shogun](http://www.mimimi-productions.de/shadow_tactics_micro/)
-- [Warhammer 40,000: Dawn of War III](https://www.dawnofwar.com)
+- Nowhere Prophet [(www)](http://www.noprophet.com/)
+- Achtung! Cthulhu Tactics [(www)](https://store.steampowered.com/app/874460/Achtung_Cthulhu_Tactics/)
+- Artifact [(www)](https://store.steampowered.com/app/583950/Artifact/)
+- Book of Demons [(www)](https://www.return2games.com)
+- Deep Sky Derelicts [(www)](https://www.snowhoundgames.com/deep-sky-derelicts/)
+- Dungeons 3 [(www)](https://store.steampowered.com/app/493900/Dungeons_3/)
+- Dungeon of the Endless [(www)](https://store.steampowered.com/app/249050/Dungeon_of_the_Endless/)
+- Frostpunk [(www)](http://www.frostpunkgame.com)
+- Pathfinder: Kingmaker [(www)](https://owlcatgames.com)
+- Shadow Tactics: Blades of the Shogun [(www)](http://www.mimimi-productions.de/shadow_tactics_micro/)
+- Warhammer 40,000: Dawn of War III [(www)](https://www.dawnofwar.com)
 
 ## Recently Added to Collection
 
@@ -17,7 +18,7 @@
 - Endless Space 2 [(www)](https://www.endless-space.com)
 - We Are The Dwarves [(www)](http://wearethedwarves.com/press/#description)
 
-## MacOS - Games I Own
+## MacOS/PC - Games I Own
 
 - Bastion
 - Blackguards
@@ -25,10 +26,14 @@
 - Creativerse
 - Destiny 2
 - Diablo III
+- Dungeon Hack
 - Endless Legend
 - Endless Space
 - Endless Space 2
 - Exapunks
+- Eye of The Beholder
+- Eye of The Beholder II
+- Eye of The Beholder III
 - FEZ
 - Fight the Dragon
 - Hacknet
@@ -51,11 +56,13 @@
 - Torchlight
 - Torchlight II
 - Transistor 
+- Unreal: Gold
+- Unreal Tournament (GOTY)
 - We Are The Dwarves
 - Warhammer Quest
 - XCOM: Enemy Unknown
 
-## MacOS - Links
+## MacOS/PC - Links
 
 - [GOG](https://www.gog.com/)
 - [Steam](https://store.steampowered.com/)
