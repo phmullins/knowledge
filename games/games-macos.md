@@ -1,6 +1,7 @@
 ## MacOS/PC - Most Wanted Games
 
 - Nowhere Prophet [(www)](http://www.noprophet.com/)
+- Warhammer 40,000: Mechanicus [(gog)](https://www.gog.com/game/warhammer_40000_mechanicus)
 - Achtung! Cthulhu Tactics [(www)](https://store.steampowered.com/app/874460/Achtung_Cthulhu_Tactics/)
 - Artifact [(www)](https://store.steampowered.com/app/583950/Artifact/)
 - Book of Demons [(www)](https://www.return2games.com)
