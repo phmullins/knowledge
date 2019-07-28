@@ -15,6 +15,7 @@
 
 ## Recently Added to Collection
 
+- Kingdom: New Lands [(epic)](https://www.epicgames.com/store/en-US/product/kingdom-new-lands/home)
 - Endless Space [(www)](https://www.endless-space.com)
 - Endless Space 2 [(www)](https://www.endless-space.com)
 - We Are The Dwarves [(www)](http://wearethedwarves.com/press/#description)
@@ -61,6 +62,7 @@
 - Unreal Tournament (GOTY)
 - We Are The Dwarves
 - Warhammer Quest
+- World of Goo [(epic)](https://www.epicgames.com/store/en-US/product/world-of-goo/home)
 - XCOM: Enemy Unknown
 
 ## MacOS/PC - Links
