@@ -10,10 +10,10 @@ I like to track all of the games that I've played or am currently playing. The g
 
 ## Games I'm Currently Playing
 
-- [Diablo III](https://us.diablo3.com/en/) (Switch)
+- [Borderlands 2](https://borderlands.com) (PS4)
+- [Diablo III](https://us.diablo3.com/en/) (PS4)(Switch)
 - [Horizon Zero Dawn](https://www.guerrilla-games.com/play/horizon) (PS4)
 - [Unreal Tournament](https://www.epicgames.com/unrealtournament/) (macOS)
-- [Warhammer Quest](http://rodeogames.co.uk/warhammer-quest/) (macOS)
 
 ## Favorite games
 
@@ -30,8 +30,9 @@ These are the games that had some kind of impact on me.
 
 ## Game Store Links
 
-- [Steam](https://store.steampowered.com/)
+- [Epic Games](https://www.epicgames.com)
 - [GOG](https://www.gog.com/)
+- [Steam](https://store.steampowered.com/)
 
 ## Game Development
 

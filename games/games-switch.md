@@ -31,6 +31,7 @@
 
 ## Nintendo Switch - Games That I Want
 
+- Redeemer: Enhanced Edition [(switch)](https://www.nintendo.com/games/detail/redeemer-enhanced-edition-switch/) [(www)](http://redeemerthegame.com/)
 - Tiny Metal: Full Metal Rumble [(switch)](https://www.nintendo.com/games/detail/tiny-metal-full-metal-rumble-switch/)
 - Quest Hunter [(switch](https://www.nintendo.com/games/detail/quest-hunter-switch/)
 - Alien Escape [(switch)](https://www.nintendo.com/games/detail/alien-escape-switch/)
