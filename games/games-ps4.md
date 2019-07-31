@@ -63,6 +63,7 @@ Up until recently I had considered myself just an ordinary gamer and wasn't part
 - Dishonored: Death of the Outsider [(ps4)](https://www.playstation.com/en-us/games/dishonored-death-of-the-outsider-ps4/)
 - Elite Dangerous: The Legendary Edition [(ps4)](https://www.playstation.com/en-us/games/elite-dangerous-ps4/) - [(www)](https://www.elitedangerous.com/)
 - Far Cry: New Dawn [(ps4)](https://www.playstation.com/en-us/games/far-cry-new-dawn-ps4/) - [(www)](https://far-cry.ubisoft.com/game/en-us/home)
+- Ghost of A Tale [(www)](https://www.ghostofatale.com/)
 - Ghost of Tsushima [(ps4)](https://www.playstation.com/en-us/games/ghost-of-tsushima-ps4/) - [(www)](https://www.suckerpunch.com/category/games/ghost-of-tsushima/)
 - Mad Max [(ps4)](https://www.playstation.com/en-us/games/mad-max-ps4/)
 - Middle-Earth: Shadow of Mordor (Game of the Year) [(ps4)](https://www.playstation.com/en-us/games/middle-earth-shadow-of-mordor-game-of-the-year-edition-ps4/)
