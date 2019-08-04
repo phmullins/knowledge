@@ -31,6 +31,9 @@
 
 ## Nintendo Switch - Games That I Want
 
+- Doom [(switch)](https://www.nintendo.com/games/detail/doom-1993-switch/)
+- Doom II [(switch)](https://www.nintendo.com/games/detail/doom-2-classic-switch/)
+- Doom 3 [(switch)](https://www.nintendo.com/games/detail/doom-3-switch/)
 - Redeemer: Enhanced Edition [(switch)](https://www.nintendo.com/games/detail/redeemer-enhanced-edition-switch/) [(www)](http://redeemerthegame.com/)
 - Tiny Metal: Full Metal Rumble [(switch)](https://www.nintendo.com/games/detail/tiny-metal-full-metal-rumble-switch/)
 - Quest Hunter [(switch](https://www.nintendo.com/games/detail/quest-hunter-switch/)
