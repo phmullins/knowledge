@@ -1,6 +1,6 @@
 ## MacOS/PC
 
-## MacOS/PC - All-time Favorite Games
+### MacOS/PC - All-time Favorite Games
 
 - Black Crypt (Amiga)
 - Borderlands 2 (MacOS)
@@ -13,7 +13,7 @@
 - Unreal (PC)
 - Unreal Tournament (PC)
 
-## MacOS/PC - Recently Added to Collection
+### MacOS/PC - Recently Added to Collection
 
 - Elder Sign: Omens [(www)](https://www.fantasyflightgames.com/en/products/elder-sign-omens/)
 - Kingdom: New Lands [(epic)](https://www.epicgames.com/store/en-US/product/kingdom-new-lands/home)
@@ -21,7 +21,7 @@
 - Endless Space 2 [(www)](https://www.endless-space.com)
 - We Are The Dwarves [(www)](http://wearethedwarves.com/press/#description)
 
-## MacOS/PC - Most Wanted Games
+### MacOS/PC - Most Wanted Games
 
 - Master of Orion [(www)](https://masteroforion.com)
 - Train Valley 2 [(www)](http://train-valley.com/tv2.html) [(GOG)](https://www.gog.com/game/train_valley_2)
@@ -37,7 +37,7 @@
 - Shadow Tactics: Blades of the Shogun [(www)](http://www.mimimi-productions.de/shadow_tactics_micro/)
 - Warhammer 40,000: Dawn of War III [(www)](https://www.dawnofwar.com)
 
-## MacOS/PC - Games I Have/Own
+### MacOS/PC - Games I Have/Own
 
 - Bastion
 - Blackguards
@@ -87,7 +87,7 @@
 - World of Goo [(epic)](https://www.epicgames.com/store/en-US/product/world-of-goo/home)
 - XCOM: Enemy Unknown
 
-## MacOS/PC - Links
+### MacOS/PC - Links
 
 - [GOG](https://www.gog.com/)
 - [Steam](https://store.steampowered.com/)

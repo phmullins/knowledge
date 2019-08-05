@@ -1,16 +1,16 @@
 ## Nintendo Switch
 
-## Nintendo Switch - All-time Favorite Games
+### Nintendo Switch - All-time Favorite Games
 
 - Diablo III: Eternal Collection [(www)](https://us.diablo3.com/en/switch)
 - Darkest Dungeon [(www)](https://www.darkestdungeon.com)
 - The Elder Scrolls V: Skyrim [(www)](https://elderscrolls.bethesda.net/en/skyrim)
 
-## Nintendo Switch - Recently Added to Collection
+### Nintendo Switch - Recently Added to Collection
 
 - Rogue Bit [(switch)](https://www.nintendo.com/games/detail/rogue-bit-switch/)
 
-## Nintendo Switch - Most Wanted Games
+### Nintendo Switch - Most Wanted Games
 
 - Lovecraft's Untold Stories [(switch)](https://www.nintendo.com/games/detail/lovecrafts-untold-stories-switch/)
 - Feudal Alloy [(www)](http://feudalalloy.com/#) [(switch)](https://www.nintendo.com/games/detail/feudal-alloy-switch)
@@ -33,7 +33,7 @@
 - The Flame In The Flood [(switch)](https://www.nintendo.com/games/detail/the-flame-in-the-flood-complete-edition-switch)
 - Monster Slayers [(switch)](https://www.nintendo.com/games/detail/monster-slayers-switch)
 
-## Nintendo Switch - Games That I Want
+### Nintendo Switch - Games That I Want
 
 - Doom [(switch)](https://www.nintendo.com/games/detail/doom-1993-switch/)
 - Doom II [(switch)](https://www.nintendo.com/games/detail/doom-2-classic-switch/)
@@ -146,7 +146,7 @@
 - Valley [(switch)](https://www.nintendo.com/games/detail/valley-switch)
 - Warhammer Quest [(switch)](https://www.nintendo.com/games/detail/warhammer-quest-switch)
 
-## Nintendo Switch - Games that I Have/Own
+### Nintendo Switch - Games that I Have/Own
 
 - Battle Chasers: Nightwar [(www)](https://www.battlechasers.com)
 - Diablo III: Eternal Collection [(www)](https://us.diablo3.com/en/switch)
@@ -154,7 +154,7 @@
 - The Elder Scrolls V: Skyrim [(www)](https://elderscrolls.bethesda.net/en/skyrim)
 - Rogue Bit [(switch)](https://www.nintendo.com/games/detail/rogue-bit-switch/)
 
-## Nintendo Switch - Links
+### Nintendo Switch - Links
 
 - [Nintendo](https://www.nintendo.com/)
 - [Nintendo Switch](https://www.nintendo.com/switch/)

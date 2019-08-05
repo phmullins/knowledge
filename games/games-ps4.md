@@ -2,14 +2,14 @@
 
 Up until recently I had considered myself just an ordinary gamer and wasn't particularly loyal to any platform or system in general. After all, a game is a game, right? Who cares what console and/or system it's being played on? At least that's what I'd tell myself when I found myself pondering the situation. Turns out I was wrong. It does matter what console or system you're playing on. Not only does each console have different system components and user interfaces but they also have wildly different user cultures and ecosystems in general. Everything, from the tactile feel of the controllers to the colors associated with each  system, is unique and helps distinguish one console from another. Over time I've come to learn that I prefer the aesthetics and general overall feel of the Sony PlayStation 4 versus  it's closest competitor the Microsoft Xbox One. Why, you might ask? I can't say for sure. It just feels right to me. Whereas the Xbox, its user interface, and the company behind it have always felt somewhat forced. Then again, maybe I only prefer black and dark blue versus black and forest green. Who's to say?
 
-## PlayStation 4 - All-time Favorite Games
+### PlayStation 4 - All-time Favorite Games
 
 - Borderlands 2
 - Diablo III: Eternal Collection
 - The Elder Scrolls V: Skyrim
 - Batman: Arkham Asylum
 
-## PlayStation 4 - Recently Added to Collection
+### PlayStation 4 - Recently Added to Collection
 
 - Borderlands: Handsome Jack Collection
 - Detroit Become Human [(ps4)](https://www.playstation.com/en-us/games/detroit-become-human-ps4/)
@@ -17,7 +17,7 @@ Up until recently I had considered myself just an ordinary gamer and wasn't part
 - Horizon Zero Dawn: The Frozen Wilds [(ps4)](https://www.playstation.com/en-us/games/horizon-zero-dawn-ps4/the-frozen-wilds-dlc/)
 - We Are The Dwarves [(www)](http://wearethedwarves.com/press/#description)
 
-## PlayStation 4 - Most Wanted Games
+### PlayStation 4 - Most Wanted Games
 
 - Cyberpunk 2077 - [(www)](https://www.cyberpunk.net/en/)
 - Death Stranding [(ps4)](https://www.playstation.com/en-us/games/death-stranding-ps4/)
@@ -40,7 +40,7 @@ Up until recently I had considered myself just an ordinary gamer and wasn't part
 - Call of Duty: WWII [(ps4)](https://www.playstation.com/en-us/games/call-of-duty-wwii-ps4/)
 - Battlefield V [(ps4)](https://www.playstation.com/en-us/games/battlefield-v-ps4/)
 
-## PlayStation 4 - Hardware that I want
+### PlayStation 4 - Hardware that I want
 
 - [PlayStation 4 Pro](https://www.playstation.com/en-us/explore/ps4-pro)
 - [PlayStation VR](https://www.playstation.com/en-us/explore/playstation-vr) 
@@ -167,7 +167,7 @@ Up until recently I had considered myself just an ordinary gamer and wasn't part
 - Watch Dogs [(ps4)](https://www.playstation.com/en-us/games/watch-dogs-ps4/)
 - We Are The Dwarves [(www)](http://wearethedwarves.com/press/#description)
 
-## PlayStation 4 - Links
+### PlayStation 4 - Links
 
 - [PlayStation](https://www.playstation.com/en-us/)
 - [PlayStation 4 Games](https://www.playstation.com/en-us/explore/games/ps4-games/?console=ps4)
