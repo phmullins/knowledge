@@ -1,27 +1,27 @@
 ## iOS
 
-## iOS - All-time Favorite Games
+### iOS - All-time Favorite Games
 
 - Hearthstone
 - Legend of Grimrock
 - Transistor
 
-## iOS - Recently Added to Collection
+### iOS - Recently Added to Collection
 
 - Asphalt 9: Legends
 - Oddworld: New 'n' Tasty
 - Oddworld: Stranger's Wrath
 - Oddworld: Munch's Oddysee
 
-## iOS - Most Wanted Games
+### iOS - Most Wanted Games
 
 - Diablo Immortal [(www)](https://diabloimmortal.com/en-us/)
 
-## iOS - Games that I want
+### iOS - Games that I want
 
 - Diablo Immortal [(www)](https://diabloimmortal.com/en-us/)
 
-## iOS - Games that I Have/Own (iPhone)
+### iOS - Games that I Have/Own (iPhone)
 
 - Angry Birds Classic
 - Angry Birds Friends
@@ -79,7 +79,7 @@
 - Words 2
 - World of Goo
 
-## iOS - Games that I Have/Own (iPad)
+### iOS - Games that I Have/Own (iPad)
 
 - Angry Birds Classic HD
 - Angry Birds Rio HD
