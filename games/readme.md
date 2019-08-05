@@ -4,7 +4,7 @@ I like to track all of the games that I've played or am currently playing. The g
 
 ## Games - Lists (PS4/MacOS/Switch)
 
-- Amiga
+- [Amiga](games-amiga.md)
 - Apple [iOS](games-ios.md)
 - Apple [MacOS](games-macos.md)
 - Nintendo [Switch](games-switch.md)
