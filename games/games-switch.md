@@ -1,33 +1,37 @@
-## Nintendo Switch - Games That I Own
+## Nintendo Switch
 
-- Battle Chasers: Nightwar [(www)](https://www.battlechasers.com)
+## Nintendo Switch - All-time Favorite Games
+
 - Diablo III: Eternal Collection [(www)](https://us.diablo3.com/en/switch)
 - Darkest Dungeon [(www)](https://www.darkestdungeon.com)
 - The Elder Scrolls V: Skyrim [(www)](https://elderscrolls.bethesda.net/en/skyrim)
+
+## Nintendo Switch - Recently Added to Collection
+
 - Rogue Bit [(switch)](https://www.nintendo.com/games/detail/rogue-bit-switch/)
 
-## Nintendo Switch - Top 20 Wanted Games
+## Nintendo Switch - Most Wanted Games
 
-1. Lovecraft's Untold Stories [(switch)](https://www.nintendo.com/games/detail/lovecrafts-untold-stories-switch/)
-2. Feudal Alloy [(www)](http://feudalalloy.com/#) [(switch)](https://www.nintendo.com/games/detail/feudal-alloy-switch)
-3. Mutant Year Zero: Road to Eden Deluxe [(switch)](https://www.nintendo.com/games/detail/mutant-year-zero-road-to-eden-deluxe-edition-switch/) [(www)](https://www.mutantyearzero.com/#1)
-4. Achtung! Cthulhu Tactics [(switch)](https://www.nintendo.com/games/detail/achtung-cthulu-tactics-switch)
-5. Shrouded Isle [(www)](http://www.kitfoxgames.com/shrouded-isle/) [(switch)](https://www.nintendo.com/games/detail/the-shrouded-isle-switch)
-6. Gods [(www)](https://www.robotriotgames.com/gods_remastered.html) [(switch)](https://www.nintendo.com/games/detail/gods-remastered-switch)
-7. Doom [(switch)](https://www.nintendo.com/games/detail/doom-switch)
-8. Wolfenstein II: The New Colossus [(switch)](https://www.nintendo.com/games/detail/wolfenstein-ii-the-new-colossus-switch)
-9. The Legend of Zelda: Breath of the Wild [(switch)](https://www.nintendo.com/games/detail/the-legend-of-zelda-breath-of-the-wild-switch)
-10. Transistor [(switch)](https://www.nintendo.com/games/detail/transistor-switch)
-11. Dead Cells [(switch)](https://www.nintendo.com/games/detail/dead-cells-switch)
-12. Dungeon Stars [(switch)](https://www.nintendo.com/games/detail/dungeon-stars-switch)
-13. Moonlighter [(www)](http://moonlighterthegame.com/)
-14. Dungeon Rushers [(www)](http://dungeon-rushers.com/en/index-en/) [(switch)](https://www.nintendo.com/games/detail/dungeon-rushers-switch)
-15. Nine Parchments [(switch)](https://www.nintendo.com/games/detail/nine-parchments-switch)
-16. Lumo [(switch)](https://www.nintendo.com/games/detail/lumo-switch)
-17. Carcassonne [(www)](http://www.asmodee-digital.com/en/carcassonne/) [(switch)](https://www.nintendo.com/games/detail/carcassonne-switch)
-18. Catan Universe [(switch)](https://www.nintendo.com/games/detail/catan-switch/)
-19. The Flame In The Flood [(switch)](https://www.nintendo.com/games/detail/the-flame-in-the-flood-complete-edition-switch)
-20. Monster Slayers [(switch)](https://www.nintendo.com/games/detail/monster-slayers-switch)
+- Lovecraft's Untold Stories [(switch)](https://www.nintendo.com/games/detail/lovecrafts-untold-stories-switch/)
+- Feudal Alloy [(www)](http://feudalalloy.com/#) [(switch)](https://www.nintendo.com/games/detail/feudal-alloy-switch)
+- Mutant Year Zero: Road to Eden Deluxe [(switch)](https://www.nintendo.com/games/detail/mutant-year-zero-road-to-eden-deluxe-edition-switch/) [(www)](https://www.mutantyearzero.com/#1)
+- Achtung! Cthulhu Tactics [(switch)](https://www.nintendo.com/games/detail/achtung-cthulu-tactics-switch)
+- Shrouded Isle [(www)](http://www.kitfoxgames.com/shrouded-isle/) [(switch)](https://www.nintendo.com/games/detail/the-shrouded-isle-switch)
+- Gods [(www)](https://www.robotriotgames.com/gods_remastered.html) [(switch)](https://www.nintendo.com/games/detail/gods-remastered-switch)
+- Doom [(switch)](https://www.nintendo.com/games/detail/doom-switch)
+- Wolfenstein II: The New Colossus [(switch)](https://www.nintendo.com/games/detail/wolfenstein-ii-the-new-colossus-switch)
+- The Legend of Zelda: Breath of the Wild [(switch)](https://www.nintendo.com/games/detail/the-legend-of-zelda-breath-of-the-wild-switch)
+- Transistor [(switch)](https://www.nintendo.com/games/detail/transistor-switch)
+- Dead Cells [(switch)](https://www.nintendo.com/games/detail/dead-cells-switch)
+- Dungeon Stars [(switch)](https://www.nintendo.com/games/detail/dungeon-stars-switch)
+- Moonlighter [(www)](http://moonlighterthegame.com/)
+- Dungeon Rushers [(www)](http://dungeon-rushers.com/en/index-en/) [(switch)](https://www.nintendo.com/games/detail/dungeon-rushers-switch)
+- Nine Parchments [(switch)](https://www.nintendo.com/games/detail/nine-parchments-switch)
+- Lumo [(switch)](https://www.nintendo.com/games/detail/lumo-switch)
+- Carcassonne [(www)](http://www.asmodee-digital.com/en/carcassonne/) [(switch)](https://www.nintendo.com/games/detail/carcassonne-switch)
+- Catan Universe [(switch)](https://www.nintendo.com/games/detail/catan-switch/)
+- The Flame In The Flood [(switch)](https://www.nintendo.com/games/detail/the-flame-in-the-flood-complete-edition-switch)
+- Monster Slayers [(switch)](https://www.nintendo.com/games/detail/monster-slayers-switch)
 
 ## Nintendo Switch - Games That I Want
 
@@ -141,6 +145,14 @@
 - Superbrothers: Sword & Sworcery EP [(switch)](https://www.nintendo.com/games/detail/superbrothers-sword-and-sworcery-ep-switch)
 - Valley [(switch)](https://www.nintendo.com/games/detail/valley-switch)
 - Warhammer Quest [(switch)](https://www.nintendo.com/games/detail/warhammer-quest-switch)
+
+## Nintendo Switch - Games that I Have/Own
+
+- Battle Chasers: Nightwar [(www)](https://www.battlechasers.com)
+- Diablo III: Eternal Collection [(www)](https://us.diablo3.com/en/switch)
+- Darkest Dungeon [(www)](https://www.darkestdungeon.com)
+- The Elder Scrolls V: Skyrim [(www)](https://elderscrolls.bethesda.net/en/skyrim)
+- Rogue Bit [(switch)](https://www.nintendo.com/games/detail/rogue-bit-switch/)
 
 ## Nintendo Switch - Links
 

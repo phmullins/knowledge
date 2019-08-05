@@ -2,7 +2,14 @@
 
 Up until recently I had considered myself just an ordinary gamer and wasn't particularly loyal to any platform or system in general. After all, a game is a game, right? Who cares what console and/or system it's being played on? At least that's what I'd tell myself when I found myself pondering the situation. Turns out I was wrong. It does matter what console or system you're playing on. Not only does each console have different system components and user interfaces but they also have wildly different user cultures and ecosystems in general. Everything, from the tactile feel of the controllers to the colors associated with each  system, is unique and helps distinguish one console from another. Over time I've come to learn that I prefer the aesthetics and general overall feel of the Sony PlayStation 4 versus  it's closest competitor the Microsoft Xbox One. Why, you might ask? I can't say for sure. It just feels right to me. Whereas the Xbox, its user interface, and the company behind it have always felt somewhat forced. Then again, maybe I only prefer black and dark blue versus black and forest green. Who's to say?
 
-## Recently Added to Collection
+## PlayStation 4 - All-time Favorite Games
+
+- Borderlands 2
+- Diablo III: Eternal Collection
+- The Elder Scrolls V: Skyrim
+- Batman: Arkham Asylum
+
+## PlayStation 4 - Recently Added to Collection
 
 - Borderlands: Handsome Jack Collection
 - Detroit Become Human [(ps4)](https://www.playstation.com/en-us/games/detroit-become-human-ps4/)
@@ -10,30 +17,39 @@ Up until recently I had considered myself just an ordinary gamer and wasn't part
 - Horizon Zero Dawn: The Frozen Wilds [(ps4)](https://www.playstation.com/en-us/games/horizon-zero-dawn-ps4/the-frozen-wilds-dlc/)
 - We Are The Dwarves [(www)](http://wearethedwarves.com/press/#description)
 
-## Top 20 Wanted Games
+## PlayStation 4 - Most Wanted Games
 
-1. Cyberpunk 2077 - [(www)](https://www.cyberpunk.net/en/)
-2. Death Stranding [(ps4)](https://www.playstation.com/en-us/games/death-stranding-ps4/)
-3. Doom Eternal [(www)](https://bethesda.net/en/game/doom)
-4. Mutant Year Zero: Road to Eden [(ps4)](https://www.playstation.com/en-us/games/mutant-year-zero-road-to-eden-ps4/) - [(www)](https://www.mutantyearzero.com)
-5. Achtung! Cthulhu Tactics [(ps4)](https://www.playstation.com/en-us/games/achtung-cthulhu-tactics-ps4/)
-6. Anthem [(ps4)](https://www.playstation.com/en-us/games/anthem-ps4/)
-7. Beyond Good and Evil 2 - [(www)](https://beyondgoodandevil.ubisoft.com/en-us/)
-8. Rage 2 [(ps4)](https://www.playstation.com/en-us/games/rage-2-ps4/) - [(www)](https://bethesda.net/en/game/rage2)
-9. Wartile [(ps4)](https://www.playstation.com/en-us/games/wartile-ps4/) - [(www)](http://www.wartile.com/) 
-10. Overkill's The Walking Dead [(ps4)](https://www.playstation.com/en-us/games/overkills-the-walking-dead-ps4/)
-11. Fallout 76 [(ps4)](https://www.playstation.com/en-us/games/fallout-76-ps4/) - [(www)](https://fallout.bethesda.net/en/games/fallout-76)
-12. Skull & Bones - [(www)](https://skullandbones.ubisoft.com/game/en-us/home/index.aspx)
-13. Ghost of Tsushima [(ps4)](https://www.playstation.com/en-us/games/ghost-of-tsushima-ps4/) [(www)](https://www.suckerpunch.com/category/games/ghost-of-tsushima/)
-14. Sekiro: Shadows Die Twice [(ps4)](https://www.playstation.com/en-us/games/sekiro-shadows-die-twice-ps4/) - [(www)](https://www.sekirothegame.com/)
-15. Star Wars: Battlefront II [(ps4)](https://www.playstation.com/en-us/games/star-wars-battlefront-ii-ps4/)
-16. Generation Zero [(ps4)](https://www.playstation.com/en-us/games/generation-zero-ps4/) - [(www)](https://generationzero.com/en/)
-17. Stellaris [(ps4)](https://www.playstation.com/en-us/games/stellaris-console-edition-ps4/) - [(www)](https://www.paradoxplaza.com/stellaris)
-18. Elite Dangerous: The Legendary Edition [(ps4)](https://www.playstation.com/en-us/games/elite-dangerous-ps4/) - [(www)](https://www.elitedangerous.com/)
-19. Call of Duty: WWII [(ps4)](https://www.playstation.com/en-us/games/call-of-duty-wwii-ps4/)
-20. Battlefield V [(ps4)](https://www.playstation.com/en-us/games/battlefield-v-ps4/)
+- Cyberpunk 2077 - [(www)](https://www.cyberpunk.net/en/)
+- Death Stranding [(ps4)](https://www.playstation.com/en-us/games/death-stranding-ps4/)
+- Doom Eternal [(www)](https://bethesda.net/en/game/doom)
+- Mutant Year Zero: Road to Eden [(ps4)](https://www.playstation.com/en-us/games/mutant-year-zero-road-to-eden-ps4/) - [(www)](https://www.mutantyearzero.com)
+- Achtung! Cthulhu Tactics [(ps4)](https://www.playstation.com/en-us/games/achtung-cthulhu-tactics-ps4/)
+- Anthem [(ps4)](https://www.playstation.com/en-us/games/anthem-ps4/)
+- Beyond Good and Evil 2 - [(www)](https://beyondgoodandevil.ubisoft.com/en-us/)
+- Rage 2 [(ps4)](https://www.playstation.com/en-us/games/rage-2-ps4/) - [(www)](https://bethesda.net/en/game/rage2)
+- Wartile [(ps4)](https://www.playstation.com/en-us/games/wartile-ps4/) - [(www)](http://www.wartile.com/) 
+- Overkill's The Walking Dead [(ps4)](https://www.playstation.com/en-us/games/overkills-the-walking-dead-ps4/)
+- Fallout 76 [(ps4)](https://www.playstation.com/en-us/games/fallout-76-ps4/) - [(www)](https://fallout.bethesda.net/en/games/fallout-76)
+- Skull & Bones - [(www)](https://skullandbones.ubisoft.com/game/en-us/home/index.aspx)
+- Ghost of Tsushima [(ps4)](https://www.playstation.com/en-us/games/ghost-of-tsushima-ps4/) [(www)](https://www.suckerpunch.com/category/games/ghost-of-tsushima/)
+- Sekiro: Shadows Die Twice [(ps4)](https://www.playstation.com/en-us/games/sekiro-shadows-die-twice-ps4/) - [(www)](https://www.sekirothegame.com/)
+- Star Wars: Battlefront II [(ps4)](https://www.playstation.com/en-us/games/star-wars-battlefront-ii-ps4/)
+- Generation Zero [(ps4)](https://www.playstation.com/en-us/games/generation-zero-ps4/) - [(www)](https://generationzero.com/en/)
+- Stellaris [(ps4)](https://www.playstation.com/en-us/games/stellaris-console-edition-ps4/) - [(www)](https://www.paradoxplaza.com/stellaris)
+- Elite Dangerous: The Legendary Edition [(ps4)](https://www.playstation.com/en-us/games/elite-dangerous-ps4/) - [(www)](https://www.elitedangerous.com/)
+- Call of Duty: WWII [(ps4)](https://www.playstation.com/en-us/games/call-of-duty-wwii-ps4/)
+- Battlefield V [(ps4)](https://www.playstation.com/en-us/games/battlefield-v-ps4/)
 
-## Games - Wanted List
+## PlayStation 4 - Hardware that I want
+
+- [PlayStation 4 Pro](https://www.playstation.com/en-us/explore/ps4-pro)
+- [PlayStation VR](https://www.playstation.com/en-us/explore/playstation-vr) 
+- [SCUF Vantage Controller](https://www.playstation.com/en-us/explore/accessories/vantage/) 
+- [PlayStation Aim Controller](https://www.playstation.com/en-us/explore/accessories/playstation-vr-aim-controller/)
+- [PlayStation Camera](https://www.playstation.com/en-us/explore/accessories/vr-accessories/playstation-camera/)
+- [PlayStation Move (2-pack)](https://www.playstation.com/en-us/explore/accessories/vr-accessories/playstation-move/)
+
+## PlayStation 4 - Games that I want
 
 #### Role Playing Game (RPG)
 - Cyberpunk 2077 [(www)](https://www.cyberpunk.net/en/)

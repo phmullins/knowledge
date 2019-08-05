@@ -4,16 +4,19 @@ I like to track all of the games that I've played or am currently playing. The g
 
 ## Games - Lists (PS4/MacOS/Switch)
 
-- [MacOS](games-macos.md)
-- [PlayStation 4](games-ps4.md)
-- [Nintendo Switch](games-switch.md)
+- Amiga
+- Apple [iOS](games-ios.md)
+- Apple [MacOS](games-macos.md)
+- Nintendo [Switch](games-switch.md)
+- PC/Windows
+- Sony [PlayStation 4](games-ps4.md)
 
 ## Games I'm Currently Playing
 
 - [Borderlands 2](https://borderlands.com) (PS4)
+- Destiny 2 (PS4)
 - [Diablo III](https://us.diablo3.com/en/) (PS4)(Switch)
 - [Horizon Zero Dawn](https://www.guerrilla-games.com/play/horizon) (PS4)
-- [Unreal Tournament](https://www.epicgames.com/unrealtournament/) (macOS)
 
 ## Favorite games
 
