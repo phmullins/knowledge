@@ -11,32 +11,33 @@ Up until recently I had considered myself just an ordinary gamer and wasn't part
 
 ### PlayStation 4 - Recently Added to Collection
 
+- Sniper Elite 4
+- WipEout Omega Collection
 - Borderlands: Handsome Jack Collection
 - Detroit Become Human [(ps4)](https://www.playstation.com/en-us/games/detroit-become-human-ps4/)
-- God of War [(ps4)](https://www.playstation.com/en-us/games/god-of-war-ps4/)
-- Horizon Zero Dawn: The Frozen Wilds [(ps4)](https://www.playstation.com/en-us/games/horizon-zero-dawn-ps4/the-frozen-wilds-dlc/)
 - We Are The Dwarves [(www)](http://wearethedwarves.com/press/#description)
 
 ### PlayStation 4 - Most Wanted Games
 
-- Cyberpunk 2077 - [(www)](https://www.cyberpunk.net/en/)
+- Cyberpunk 2077 [(www)](https://www.cyberpunk.net/en/)
+- Generation Zero [(ps4)](https://www.playstation.com/en-us/games/generation-zero-ps4/) [(www)](https://generationzero.com/en/)
+- Space Hulk: Tactics [(www)](http://spacehulk-tactics.com/)
 - Death Stranding [(ps4)](https://www.playstation.com/en-us/games/death-stranding-ps4/)
 - Doom Eternal [(www)](https://bethesda.net/en/game/doom)
-- Mutant Year Zero: Road to Eden [(ps4)](https://www.playstation.com/en-us/games/mutant-year-zero-road-to-eden-ps4/) - [(www)](https://www.mutantyearzero.com)
+- Mutant Year Zero: Road to Eden [(ps4)](https://www.playstation.com/en-us/games/mutant-year-zero-road-to-eden-ps4/) [(www)](https://www.mutantyearzero.com)
 - Achtung! Cthulhu Tactics [(ps4)](https://www.playstation.com/en-us/games/achtung-cthulhu-tactics-ps4/)
 - Anthem [(ps4)](https://www.playstation.com/en-us/games/anthem-ps4/)
-- Beyond Good and Evil 2 - [(www)](https://beyondgoodandevil.ubisoft.com/en-us/)
-- Rage 2 [(ps4)](https://www.playstation.com/en-us/games/rage-2-ps4/) - [(www)](https://bethesda.net/en/game/rage2)
-- Wartile [(ps4)](https://www.playstation.com/en-us/games/wartile-ps4/) - [(www)](http://www.wartile.com/) 
+- Beyond Good and Evil 2 [(www)](https://beyondgoodandevil.ubisoft.com/en-us/)
+- Rage 2 [(ps4)](https://www.playstation.com/en-us/games/rage-2-ps4/) [(www)](https://bethesda.net/en/game/rage2)
+- Wartile [(ps4)](https://www.playstation.com/en-us/games/wartile-ps4/) [(www)](http://www.wartile.com/) 
 - Overkill's The Walking Dead [(ps4)](https://www.playstation.com/en-us/games/overkills-the-walking-dead-ps4/)
-- Fallout 76 [(ps4)](https://www.playstation.com/en-us/games/fallout-76-ps4/) - [(www)](https://fallout.bethesda.net/en/games/fallout-76)
-- Skull & Bones - [(www)](https://skullandbones.ubisoft.com/game/en-us/home/index.aspx)
+- Fallout 76 [(ps4)](https://www.playstation.com/en-us/games/fallout-76-ps4/) [(www)](https://fallout.bethesda.net/en/games/fallout-76)
+- Skull & Bones [(www)](https://skullandbones.ubisoft.com/game/en-us/home/index.aspx)
 - Ghost of Tsushima [(ps4)](https://www.playstation.com/en-us/games/ghost-of-tsushima-ps4/) [(www)](https://www.suckerpunch.com/category/games/ghost-of-tsushima/)
 - Sekiro: Shadows Die Twice [(ps4)](https://www.playstation.com/en-us/games/sekiro-shadows-die-twice-ps4/) - [(www)](https://www.sekirothegame.com/)
 - Star Wars: Battlefront II [(ps4)](https://www.playstation.com/en-us/games/star-wars-battlefront-ii-ps4/)
-- Generation Zero [(ps4)](https://www.playstation.com/en-us/games/generation-zero-ps4/) - [(www)](https://generationzero.com/en/)
-- Stellaris [(ps4)](https://www.playstation.com/en-us/games/stellaris-console-edition-ps4/) - [(www)](https://www.paradoxplaza.com/stellaris)
-- Elite Dangerous: The Legendary Edition [(ps4)](https://www.playstation.com/en-us/games/elite-dangerous-ps4/) - [(www)](https://www.elitedangerous.com/)
+- Stellaris [(ps4)](https://www.playstation.com/en-us/games/stellaris-console-edition-ps4/) [(www)](https://www.paradoxplaza.com/stellaris)
+- Elite Dangerous: The Legendary Edition [(ps4)](https://www.playstation.com/en-us/games/elite-dangerous-ps4/) [(www)](https://www.elitedangerous.com/)
 - Call of Duty: WWII [(ps4)](https://www.playstation.com/en-us/games/call-of-duty-wwii-ps4/)
 - Battlefield V [(ps4)](https://www.playstation.com/en-us/games/battlefield-v-ps4/)
 
@@ -62,6 +63,7 @@ Up until recently I had considered myself just an ordinary gamer and wasn't part
 
 #### Action Role Playing Game (RPG)
 - Anthem [(ps4)](https://www.playstation.com/en-us/games/anthem-ps4/)
+- Generation Zero [(www)](https://generationzero.com/en/)
 - Tom Clancy's The Division [(ps4)](https://www.playstation.com/en-us/games/tom-clancys-the-division-ps4/)
 - Tom Clancy's The Division 2 [(ps4)](https://www.playstation.com/en-us/games/tom-clancys-the-division-2-ps4/) - [(www)](https://tomclancy-thedivision.ubisoft.com/game/en-us/home)
 
@@ -161,11 +163,13 @@ Up until recently I had considered myself just an ordinary gamer and wasn't part
 - The Crew [(www)](https://www.ubisoft.com/en-us/game/the-crew/)
 - The Elder Scrolls V: Skyrim [(www)](https://elderscrolls.bethesda.net/en/skyrim)
 - The Last Of Us: Remastered [(ps4)](https://www.playstation.com/en-us/games/the-last-of-us-remastered-ps4/)
+- Sniper Elite 4
 - Titanfall 2 [(ps4)](https://www.playstation.com/en-us/games/titanfall-2-ps4/)
 - Tomb Raider: www Edition [(www)](https://crystald.com/projects/tomb-raider-definitive-edition)
 - Transistor [(www)](https://www.supergiantgames.com/games/transistor/)
 - Watch Dogs [(ps4)](https://www.playstation.com/en-us/games/watch-dogs-ps4/)
 - We Are The Dwarves [(www)](http://wearethedwarves.com/press/#description)
+- WipEout Omega Collection
 
 ### PlayStation 4 - Links
 
