@@ -36,7 +36,6 @@ Up until recently I had considered myself just an ordinary gamer and wasn't part
 - Ghost of Tsushima [(ps4)](https://www.playstation.com/en-us/games/ghost-of-tsushima-ps4/) [(www)](https://www.suckerpunch.com/category/games/ghost-of-tsushima/)
 - Sekiro: Shadows Die Twice [(ps4)](https://www.playstation.com/en-us/games/sekiro-shadows-die-twice-ps4/) - [(www)](https://www.sekirothegame.com/)
 - Star Wars: Battlefront II [(ps4)](https://www.playstation.com/en-us/games/star-wars-battlefront-ii-ps4/)
-- Stellaris [(ps4)](https://www.playstation.com/en-us/games/stellaris-console-edition-ps4/) [(www)](https://www.paradoxplaza.com/stellaris)
 - Elite Dangerous: The Legendary Edition [(ps4)](https://www.playstation.com/en-us/games/elite-dangerous-ps4/) [(www)](https://www.elitedangerous.com/)
 - Call of Duty: WWII [(ps4)](https://www.playstation.com/en-us/games/call-of-duty-wwii-ps4/)
 - Battlefield V [(ps4)](https://www.playstation.com/en-us/games/battlefield-v-ps4/)
@@ -59,6 +58,7 @@ Up until recently I had considered myself just an ordinary gamer and wasn't part
 #### Tactical Role Playing Game (RPG)
 - Achtung! Cthulhu Tactics [(ps4)](https://www.playstation.com/en-us/games/achtung-cthulhu-tactics-ps4/)
 - Mutant Year Zero: Road to Eden [(ps4)](https://www.playstation.com/en-us/games/mutant-year-zero-road-to-eden-ps4/) - [(www)](https://www.mutantyearzero.com)
+- Stellaris [(ps4)](https://www.playstation.com/en-us/games/stellaris-console-edition-ps4/) [(www)](https://www.paradoxplaza.com/stellaris)
 - Wartile [(ps4)](https://www.playstation.com/en-us/games/wartile-ps4/) - [(www)](http://www.wartile.com/) 
 
 #### Action Role Playing Game (RPG)

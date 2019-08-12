@@ -35,6 +35,7 @@
 
 ### Nintendo Switch - Games That I Want
 
+- Raiders of the North Sea [(switch)](https://www.nintendo.com/games/detail/raiders-of-the-north-sea-switch/)
 - Doom [(switch)](https://www.nintendo.com/games/detail/doom-1993-switch/)
 - Doom II [(switch)](https://www.nintendo.com/games/detail/doom-2-classic-switch/)
 - Doom 3 [(switch)](https://www.nintendo.com/games/detail/doom-3-switch/)
