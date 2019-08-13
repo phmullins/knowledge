@@ -36,6 +36,7 @@
 - Pathfinder: Kingmaker [(www)](https://owlcatgames.com)
 - Shadow Tactics: Blades of the Shogun [(www)](http://www.mimimi-productions.de/shadow_tactics_micro/)
 - Warhammer 40,000: Dawn of War III [(www)](https://www.dawnofwar.com)
+- Rebel Galaxy Outlaw [(Epic)](https://www.epicgames.com/store/en-US/product/rebel-galaxy-outlaw/home) [(www)](https://rebel-galaxy.com/)
 
 ### MacOS/PC - Games I Have/Own
 
