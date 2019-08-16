@@ -23,6 +23,7 @@
 
 ### MacOS/PC - Most Wanted Games
 
+- Rebel Galaxy Outlaw [(www)](https://rebel-galaxy.com/)
 - Master of Orion [(www)](https://masteroforion.com)
 - Train Valley 2 [(www)](http://train-valley.com/tv2.html) [(GOG)](https://www.gog.com/game/train_valley_2)
 - Nowhere Prophet [(www)](http://www.noprophet.com/)
