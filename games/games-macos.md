@@ -15,6 +15,8 @@
 
 ### MacOS/PC - Recently Added to Collection
 
+- Mutant Year Zero [(www)](https://www.mutantyearzero.com)
+- Hyper Light Drifter [(www)](https://heartmachine.com/hyper-light)
 - Elder Sign: Omens [(www)](https://www.fantasyflightgames.com/en/products/elder-sign-omens/)
 - Kingdom: New Lands [(epic)](https://www.epicgames.com/store/en-US/product/kingdom-new-lands/home)
 - Endless Space [(www)](https://www.endless-space.com)
@@ -24,6 +26,7 @@
 ### MacOS/PC - Most Wanted Games
 
 - Rebel Galaxy Outlaw [(www)](https://rebel-galaxy.com/)
+- Phoenix Point [(www)](https://phoenixpoint.info/)
 - Master of Orion [(www)](https://masteroforion.com)
 - Train Valley 2 [(www)](http://train-valley.com/tv2.html) [(GOG)](https://www.gog.com/game/train_valley_2)
 - Nowhere Prophet [(www)](http://www.noprophet.com/)
@@ -38,6 +41,10 @@
 - Shadow Tactics: Blades of the Shogun [(www)](http://www.mimimi-productions.de/shadow_tactics_micro/)
 - Warhammer 40,000: Dawn of War III [(www)](https://www.dawnofwar.com)
 - Rebel Galaxy Outlaw [(Epic)](https://www.epicgames.com/store/en-US/product/rebel-galaxy-outlaw/home) [(www)](https://rebel-galaxy.com/)
+
+### MacOS/PC - Games That I Wanted
+
+- John Wick Hex [(WWW)](https://johnwickhex.com/)
 
 ### MacOS/PC - Games I Have/Own
 
@@ -63,11 +70,13 @@
 - Hacknet
 - Half-Life
 - Half-Life 2
+- Hyper Light Drifter 
 - Invisible, Inc.
 - Kingdom: New Lands [(epic)](https://www.epicgames.com/store/en-US/product/kingdom-new-lands/home)
 - Legend of Grimrock
 - Legend of Grimrock 2
 - Minecraft
+- Mutant Year Zero 
 - Poly Bridge
 - Portal
 - Portal 2
