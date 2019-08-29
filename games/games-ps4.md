@@ -53,6 +53,9 @@ Up until recently I had considered myself just an ordinary gamer and wasn't part
 
 ## PlayStation 4 - Games that I want
 
+- Alienation [(YouTube)](https://youtu.be/AaJ1YoSHATE)
+- Helldivers: A New Hell Edition [(YouTube)](https://youtu.be/qKrSiKSNwNg)
+- Helldivers [(www)](http://arrowheadgamestudios.com/games/helldivers/)
 - Fallout 76 [(ps4)](https://www.playstation.com/en-us/games/fallout-76-ps4/) - [(www)](https://fallout.bethesda.net/en/games/fallout-76)
 - Achtung! Cthulhu Tactics [(ps4)](https://www.playstation.com/en-us/games/achtung-cthulhu-tactics-ps4/)
 - Mutant Year Zero: Road to Eden [(ps4)](https://www.playstation.com/en-us/games/mutant-year-zero-road-to-eden-ps4/) - [(www)](https://www.mutantyearzero.com)
