@@ -8,6 +8,8 @@
 
 ### Nintendo Switch - Recently Added to Collection
 
+- Doom [(switch)](https://www.nintendo.com/games/detail/doom-1993-switch/)
+- Doom II [(switch)](https://www.nintendo.com/games/detail/doom-2-classic-switch/)
 - Rogue Bit [(switch)](https://www.nintendo.com/games/detail/rogue-bit-switch/)
 
 ### Nintendo Switch - Most Wanted Games
@@ -39,8 +41,6 @@
 
 - Dungeon Defenders: Awakened [(switch)](https://www.nintendo.com/games/detail/dungeon-defenders-awakened-switch/)
 - Raiders of the North Sea [(switch)](https://www.nintendo.com/games/detail/raiders-of-the-north-sea-switch/)
-- Doom [(switch)](https://www.nintendo.com/games/detail/doom-1993-switch/)
-- Doom II [(switch)](https://www.nintendo.com/games/detail/doom-2-classic-switch/)
 - Doom 3 [(switch)](https://www.nintendo.com/games/detail/doom-3-switch/)
 - Redeemer: Enhanced Edition [(switch)](https://www.nintendo.com/games/detail/redeemer-enhanced-edition-switch/) [(www)](http://redeemerthegame.com/)
 - Tiny Metal: Full Metal Rumble [(switch)](https://www.nintendo.com/games/detail/tiny-metal-full-metal-rumble-switch/)
@@ -157,6 +157,8 @@
 - Darkest Dungeon [(www)](https://www.darkestdungeon.com)
 - The Elder Scrolls V: Skyrim [(www)](https://elderscrolls.bethesda.net/en/skyrim)
 - Rogue Bit [(switch)](https://www.nintendo.com/games/detail/rogue-bit-switch/)
+- Doom [(switch)](https://www.nintendo.com/games/detail/doom-1993-switch/)
+- Doom II [(switch)](https://www.nintendo.com/games/detail/doom-2-classic-switch/)
 
 ### Nintendo Switch - Links
 
