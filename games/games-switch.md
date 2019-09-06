@@ -1,13 +1,16 @@
 ## Nintendo Switch
 
-### Nintendo Switch - All-time Favorite Games
+### Nintendo Switch - Top 5 All-time Favorite Switch Games
 
 - Diablo III: Eternal Collection [(www)](https://us.diablo3.com/en/switch)
+- Torchlight II [(switch)](https://www.nintendo.com/games/detail/torchlight-2-switch/)
 - Darkest Dungeon [(www)](https://www.darkestdungeon.com)
 - The Elder Scrolls V: Skyrim [(www)](https://elderscrolls.bethesda.net/en/skyrim)
+- Cat Quest [(switch)](https://www.nintendo.com/games/detail/cat-quest-switch/)
 
 ### Nintendo Switch - Recently Added to Collection
 
+- Torchlight II [(switch)](https://www.nintendo.com/games/detail/torchlight-2-switch/)
 - Doom [(switch)](https://www.nintendo.com/games/detail/doom-1993-switch/)
 - Doom II [(switch)](https://www.nintendo.com/games/detail/doom-2-classic-switch/)
 - Rogue Bit [(switch)](https://www.nintendo.com/games/detail/rogue-bit-switch/)
@@ -152,6 +155,7 @@
 
 ### Nintendo Switch - Games that I Have/Own
 
+- Cat Quest [(switch)](https://www.nintendo.com/games/detail/cat-quest-switch/)
 - Battle Chasers: Nightwar [(www)](https://www.battlechasers.com)
 - Diablo III: Eternal Collection [(www)](https://us.diablo3.com/en/switch)
 - Darkest Dungeon [(www)](https://www.darkestdungeon.com)
@@ -159,6 +163,7 @@
 - Rogue Bit [(switch)](https://www.nintendo.com/games/detail/rogue-bit-switch/)
 - Doom [(switch)](https://www.nintendo.com/games/detail/doom-1993-switch/)
 - Doom II [(switch)](https://www.nintendo.com/games/detail/doom-2-classic-switch/)
+- Torchlight II [(switch)](https://www.nintendo.com/games/detail/torchlight-2-switch/)
 
 ### Nintendo Switch - Links
 

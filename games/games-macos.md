@@ -15,6 +15,7 @@
 
 ### MacOS/PC - Recently Added to Collection
 
+- Darkest Dungeon [(gog)](https://www.gog.com/game/darkest_dungeon)
 - Mutant Year Zero [(www)](https://www.mutantyearzero.com)
 - Hyper Light Drifter [(www)](https://heartmachine.com/hyper-light)
 - Elder Sign: Omens [(www)](https://www.fantasyflightgames.com/en/products/elder-sign-omens/)
@@ -42,7 +43,7 @@
 - Warhammer 40,000: Dawn of War III [(www)](https://www.dawnofwar.com)
 - Rebel Galaxy Outlaw [(Epic)](https://www.epicgames.com/store/en-US/product/rebel-galaxy-outlaw/home) [(www)](https://rebel-galaxy.com/)
 
-### MacOS/PC - Games That I Wanted
+### MacOS/PC - Games That I Want
 
 - John Wick Hex [(WWW)](https://johnwickhex.com/)
 
