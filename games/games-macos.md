@@ -46,6 +46,7 @@
 ### MacOS/PC - Games That I Want
 
 - John Wick Hex [(WWW)](https://johnwickhex.com/)
+- The Outer Worlds [(EPIC)](https://www.epicgames.com/store/en-US/product/the-outer-worlds/home)
 
 ### MacOS/PC - Games I Have/Own
 
