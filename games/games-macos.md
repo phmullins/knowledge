@@ -28,11 +28,11 @@
 
 - Rebel Galaxy Outlaw [(www)](https://rebel-galaxy.com/)
 - Phoenix Point [(www)](https://phoenixpoint.info/)
+- Achtung! Cthulhu Tactics [(www)](https://store.steampowered.com/app/874460/Achtung_Cthulhu_Tactics/)
 - Master of Orion [(www)](https://masteroforion.com)
 - Train Valley 2 [(www)](http://train-valley.com/tv2.html) [(GOG)](https://www.gog.com/game/train_valley_2)
 - Nowhere Prophet [(www)](http://www.noprophet.com/)
 - Warhammer 40,000: Mechanicus [(GOG)](https://www.gog.com/game/warhammer_40000_mechanicus)
-- Achtung! Cthulhu Tactics [(www)](https://store.steampowered.com/app/874460/Achtung_Cthulhu_Tactics/)
 - Artifact [(www)](https://store.steampowered.com/app/583950/Artifact/)
 - Book of Demons [(www)](https://www.return2games.com)
 - Deep Sky Derelicts [(www)](https://www.snowhoundgames.com/deep-sky-derelicts/)
@@ -41,12 +41,12 @@
 - Pathfinder: Kingmaker [(www)](https://owlcatgames.com)
 - Shadow Tactics: Blades of the Shogun [(www)](http://www.mimimi-productions.de/shadow_tactics_micro/)
 - Warhammer 40,000: Dawn of War III [(www)](https://www.dawnofwar.com)
-- Rebel Galaxy Outlaw [(Epic)](https://www.epicgames.com/store/en-US/product/rebel-galaxy-outlaw/home) [(www)](https://rebel-galaxy.com/)
 
 ### MacOS/PC - Games That I Want
 
 - John Wick Hex [(WWW)](https://johnwickhex.com/)
 - The Outer Worlds [(EPIC)](https://www.epicgames.com/store/en-US/product/the-outer-worlds/home)
+- Bad North: Jotunn Edition [(gog)](https://www.gog.com/game/bad_north)
 
 ### MacOS/PC - Games I Have/Own
 
