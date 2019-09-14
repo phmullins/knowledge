@@ -15,6 +15,7 @@
 
 ### MacOS/PC - Recently Added to Collection
 
+- Conarium
 - Darkest Dungeon [(gog)](https://www.gog.com/game/darkest_dungeon)
 - Mutant Year Zero [(www)](https://www.mutantyearzero.com)
 - Hyper Light Drifter [(www)](https://heartmachine.com/hyper-light)
@@ -54,6 +55,7 @@
 - Blackguards
 - Borderlands 2
 - Creativerse
+- Darkest Dungeon [(gog)](https://www.gog.com/game/darkest_dungeon)
 - Destiny 2
 - Diablo III
 - Doom
@@ -72,13 +74,13 @@
 - Hacknet
 - Half-Life
 - Half-Life 2
-- Hyper Light Drifter 
+- Hyper Light Drifter [(www)](https://heartmachine.com/hyper-light)
 - Invisible, Inc.
 - Kingdom: New Lands [(epic)](https://www.epicgames.com/store/en-US/product/kingdom-new-lands/home)
 - Legend of Grimrock
 - Legend of Grimrock 2
 - Minecraft
-- Mutant Year Zero 
+- Mutant Year Zero [(www)](https://www.mutantyearzero.com)
 - Poly Bridge
 - Portal
 - Portal 2
