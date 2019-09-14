@@ -17,6 +17,7 @@
 
 ### Nintendo Switch - Most Wanted Games
 
+- Overwatch [(switch)](https://www.nintendo.com/games/detail/overwatch-legendary-edition-switch/)
 - Bulletstorm: Duke of Switch Edition [(switch)](https://www.nintendo.com/games/detail/bulletstorm-duke-of-switch-edition/)
 - Cat Quest II [(switch)](https://www.nintendo.com/games/detail/cat-quest-2-switch/)
 - Lovecraft's Untold Stories [(switch)](https://www.nintendo.com/games/detail/lovecrafts-untold-stories-switch/)
