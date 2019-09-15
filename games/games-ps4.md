@@ -57,6 +57,7 @@ Up until recently I had considered myself just an ordinary gamer and wasn't part
 - Helldivers: A New Hell Edition [(YouTube)](https://youtu.be/qKrSiKSNwNg)
 - Helldivers [(www)](http://arrowheadgamestudios.com/games/helldivers/)
 - Frostpunk [(www)](http://www.frostpunkgame.com)
+- The Savage Planet [(ps4)](https://savageplanetgame.com/)
 - Stellaris [(ps4)](https://www.playstation.com/en-us/games/stellaris-console-edition-ps4/) [(www)](https://www.paradoxplaza.com/stellaris)
 - Tom Clancy's The Division [(ps4)](https://www.playstation.com/en-us/games/tom-clancys-the-division-ps4/)
 - Tom Clancy's The Division 2 [(ps4)](https://www.playstation.com/en-us/games/tom-clancys-the-division-2-ps4/) - [(www)](https://tomclancy-thedivision.ubisoft.com/game/en-us/home)
