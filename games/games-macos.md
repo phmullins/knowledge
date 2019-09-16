@@ -48,6 +48,7 @@
 - John Wick Hex [(WWW)](https://johnwickhex.com/)
 - The Outer Worlds [(EPIC)](https://www.epicgames.com/store/en-US/product/the-outer-worlds/home)
 - Bad North: Jotunn Edition [(gog)](https://www.gog.com/game/bad_north)
+- Guild of Dungeoneering [(gog)](https://www.gog.com/game/guild_of_dungeoneering)
 
 ### MacOS/PC - Games I Have/Own
 
