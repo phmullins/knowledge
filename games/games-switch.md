@@ -43,6 +43,7 @@
 
 ### Nintendo Switch - Games That I Want
 
+- Risk of Rain 2 [(switch)](https://www.nintendo.com/games/detail/risk-of-rain-2-switch/)
 - Dungeon Defenders: Awakened [(switch)](https://www.nintendo.com/games/detail/dungeon-defenders-awakened-switch/)
 - Raiders of the North Sea [(switch)](https://www.nintendo.com/games/detail/raiders-of-the-north-sea-switch/)
 - Doom 3 [(switch)](https://www.nintendo.com/games/detail/doom-3-switch/)
