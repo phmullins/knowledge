@@ -1,86 +1,3 @@
-## Dune
-Author: Frank Herbert 
-
-1. [Dune](https://amzn.to/2RWqmCD)
-2. [Dune Messiah](https://amzn.to/2T8OeUI)
-3. [Children of Dune](https://amzn.to/2T9Z6la)
-4. [God Emperor of Dune](https://amzn.to/2ROmxz6)
-5. [Heretics of Dune](https://amzn.to/2T8SPpV)
-6. [Chapterhouse: Dune](https://amzn.to/2RSrozw)
-
-## Gears of War
-Author:  Karen Traviss
-
-- [Gears of War: Aspho Fields](https://amzn.to/2uo2M7Y)
-- [Gears of War: Jacinto's Remnant](https://amzn.to/2ur3EIK)
-- [Gears of War: Anvil Gate](https://amzn.to/2YmQZ7u)
-- [Gears of War: Coalition's End](https://amzn.to/2uoLAiH)
-- [Gears of War: The Slab]()
-
-## Hyperion Cantos
-Author: Dan Simmons
-
-1. [Hyperion](https://amzn.to/2OIEm0N)
-2. [The Fall of Hyperion](https://amzn.to/2T61lWJ)
-3. [Endymion](https://amzn.to/2T4Tk4B)
-4. [Rise of Endymion](https://amzn.to/2FhoWRu)
-
-## Long Earth
-Author: Terry Pratchett & Stephen Baxter
-
-1. [The Long Earth](https://amzn.to/2RSsjzY)
-2. [The Long War](https://amzn.to/2RTr7wb)
-3. [The Long Mars](https://amzn.to/2DiMenl)
-4. [The Long Utpoia](https://amzn.to/2FiAgNh)
-5. [The Long Cosmos](https://amzn.to/2RPvt7c)
-
-## Old Man's War 
-Author: John Scalzi
-
-1. [Old Man’s War](https://amzn.to/2T8F9LR)
-2. [The Ghost Brigades](https://amzn.to/2DBBRfy)
-3. [The Last Colony](https://amzn.to/2qKKv2O)
-4. [Zoe’s Tale](https://amzn.to/2FgV8nW)
-5. [The Human Division](https://amzn.to/2FiIgh7)
-6. [The End of All Things](https://amzn.to/2qJAUJK)
-7. [Short fiction: “After the Coup”](https://amzn.to/2Ft3EQO)
-
-## Imperial Radch
-Author: Ann Leckie
-
-- [Ancillary Justice](https://amzn.to/2CoIOgI) (Book One)
-- [Ancillary Sword](https://amzn.to/2T8rsMc) (Book Two)
-- [Ancillary Mercy](https://amzn.to/2DfYnJh) (Book Three)
-
-## The Chronicles of St Mary's
-Author: Jodi Taylor
-
-- [Just One Damned Thing After Another](https://amzn.to/2S6XyHo) (Book One)
-- [A Symphony of Echoes](https://amzn.to/2Bw8RDz) (Book Two)
-- [A Second Chance](https://amzn.to/2BuIz4K) (Book Three)
-- [A Trail Through Time](https://amzn.to/2TITDlG) (Book Four)
-- [No Time Like the Past](https://amzn.to/2PPXQ93) (Book Five)
-- [What Could Possibly Go Wrong?](https://amzn.to/2DWm2QQ) (Book Six)
-- [Lies, Damned Lies, and History](https://amzn.to/2KusYoH) (Book Seven)
-- [And the Rest Is History](https://amzn.to/2DXqrTw) (Book Eight)
-- [An Argumentation of Historians](https://amzn.to/2S6hj1G) (Book Nine)
-
-## A Land Fit for Heroes
-Author: Richard K. Morgan 
-
-1. [The Steel Remains](https://amzn.to/2DzPJa5)
-2. [The Cold Commands](https://amzn.to/2PS6enM)
-3. [The Dark Defiles](https://amzn.to/2DAH47i)
-
-## A Song of Ice and Fire
-Author: George R. R. Martin
-
-1. [A Game of Thrones](https://amzn.to/2z6m4Sa)
-2. [A Clash of Kings](https://amzn.to/2RQ09oX)
-3. [A Storm of Swords](https://amzn.to/2Fh2qIx)
-4. [A Feast for Crows](https://amzn.to/2T6mqjT)
-5. [A Dance with Dragons](https://amzn.to/2qHOQUn)
-
 ## Expeditionary Force
 Author: Craig Alanson
 
@@ -90,16 +7,6 @@ Author: Craig Alanson
 4. [Black Ops](https://amzn.to/2RQfohL)
 5. [Zero Hour](https://amzn.to/2T8Txn5)
 6. [Mavericks](https://amzn.to/2OL0UxW)
-
-## Frontlines
-Author: Marko Kloos 
-
-1. [Terms of Enlistment](https://amzn.to/2DjJ7Mb)
-2. [Lines of Departure](https://amzn.to/2OHgJFN) 
-3. [Angles of Attack](https://amzn.to/2z4c8II)
-4. [Chains of Command](https://amzn.to/2RPdoGv)
-5. [Fields of Fire](https://amzn.to/2DiPS0s)
-6. [Points of Impact](https://amzn.to/2Fh2fNn)
 
 ## Galaxy's Edge
 Author: Jason Anspach & Nick Cole
@@ -113,30 +20,6 @@ Author: Jason Anspach & Nick Cole
 07. [Turning Point](https://amzn.to/2RQ0rfx)
 08. [Message for the Dead](https://amzn.to/2DgwjpM)
 09. [Retribution](https://amzn.to/2DiR6Jm)
-
-## On Silver Wings
-Author: Evan Currie
-
-1. [On Silver Wings](https://amzn.to/2DiT3FG)
-2. [Valkyrie Rising](https://amzn.to/2JYTUN2)
-3. [Valkyrie Burning](https://amzn.to/2DB1Jbg)
-4. [The Valhalla Call](https://amzn.to/2Fw0SL1)
-5. [By Other Means](https://amzn.to/2OIEJrU)
-6. [De Oppresso Liber](https://amzn.to/2FmPSzh)
-7. [Open Arms](https://amzn.to/2FmQ6q7)
-
-## Star Corpsman
-Author: Ian Douglas
-
-1. [Bloodstar](https://amzn.to/2Fgu4Fl)
-2. [Abyss Deep](https://amzn.to/2qJUHIL)
-
-## Takeshi Kovacs
-Author: Richard K. Morgan 
-
-1. [Altered Carbon](https://amzn.to/2Dz1lKk)
-2. [Broken Angels](https://amzn.to/2DBcdYj)
-3. [Woken Furies](https://amzn.to/2DAZMvs)
 
 ## The Culture
 Author: Iain M. Banks
@@ -163,4 +46,123 @@ Author: James S. A. Corey
 6. [Babylon's Ashes](https://amzn.to/2qR4pJH)
 7. [Persepolis Rising](https://amzn.to/2RRDSaq)
 8. [Tiamat's Wrath](https://amzn.to/2qLm3OR)
+
+## On Silver Wings
+Author: Evan Currie
+
+1. [On Silver Wings](https://amzn.to/2DiT3FG)
+2. [Valkyrie Rising](https://amzn.to/2JYTUN2)
+3. [Valkyrie Burning](https://amzn.to/2DB1Jbg)
+4. [The Valhalla Call](https://amzn.to/2Fw0SL1)
+5. [By Other Means](https://amzn.to/2OIEJrU)
+6. [De Oppresso Liber](https://amzn.to/2FmPSzh)
+7. [Open Arms](https://amzn.to/2FmQ6q7)
+
+## Star Corpsman
+Author: Ian Douglas
+
+1. [Bloodstar](https://amzn.to/2Fgu4Fl)
+2. [Abyss Deep](https://amzn.to/2qJUHIL)
+
+## Dune
+Author: Frank Herbert 
+
+1. [Dune](https://amzn.to/2RWqmCD)
+2. [Dune Messiah](https://amzn.to/2T8OeUI)
+3. [Children of Dune](https://amzn.to/2T9Z6la)
+4. [God Emperor of Dune](https://amzn.to/2ROmxz6)
+5. [Heretics of Dune](https://amzn.to/2T8SPpV)
+6. [Chapterhouse: Dune](https://amzn.to/2RSrozw)
+
+## Frontlines
+Author: Marko Kloos 
+
+1. [Terms of Enlistment](https://amzn.to/2DjJ7Mb)
+2. [Lines of Departure](https://amzn.to/2OHgJFN) 
+3. [Angles of Attack](https://amzn.to/2z4c8II)
+4. [Chains of Command](https://amzn.to/2RPdoGv)
+5. [Fields of Fire](https://amzn.to/2DiPS0s)
+6. [Points of Impact](https://amzn.to/2Fh2fNn)
+
+## Imperial Radch
+Author: Ann Leckie
+
+- [Ancillary Justice](https://amzn.to/2CoIOgI) (Book One)
+- [Ancillary Sword](https://amzn.to/2T8rsMc) (Book Two)
+- [Ancillary Mercy](https://amzn.to/2DfYnJh) (Book Three)
+
+## A Song of Ice and Fire
+Author: George R. R. Martin
+
+1. [A Game of Thrones](https://amzn.to/2z6m4Sa)
+2. [A Clash of Kings](https://amzn.to/2RQ09oX)
+3. [A Storm of Swords](https://amzn.to/2Fh2qIx)
+4. [A Feast for Crows](https://amzn.to/2T6mqjT)
+5. [A Dance with Dragons](https://amzn.to/2qHOQUn)
+
+## A Land Fit for Heroes
+Author: Richard K. Morgan 
+
+1. [The Steel Remains](https://amzn.to/2DzPJa5)
+2. [The Cold Commands](https://amzn.to/2PS6enM)
+3. [The Dark Defiles](https://amzn.to/2DAH47i)
+
+## Takeshi Kovacs
+Author: Richard K. Morgan 
+
+1. [Altered Carbon](https://amzn.to/2Dz1lKk)
+2. [Broken Angels](https://amzn.to/2DBcdYj)
+3. [Woken Furies](https://amzn.to/2DAZMvs)
+
+## Long Earth
+Author: Terry Pratchett & Stephen Baxter
+
+1. [The Long Earth](https://amzn.to/2RSsjzY)
+2. [The Long War](https://amzn.to/2RTr7wb)
+3. [The Long Mars](https://amzn.to/2DiMenl)
+4. [The Long Utpoia](https://amzn.to/2FiAgNh)
+5. [The Long Cosmos](https://amzn.to/2RPvt7c)
+
+## Old Man's War 
+Author: John Scalzi
+
+1. [Old Man’s War](https://amzn.to/2T8F9LR)
+2. [The Ghost Brigades](https://amzn.to/2DBBRfy)
+3. [The Last Colony](https://amzn.to/2qKKv2O)
+4. [Zoe’s Tale](https://amzn.to/2FgV8nW)
+5. [The Human Division](https://amzn.to/2FiIgh7)
+6. [The End of All Things](https://amzn.to/2qJAUJK)
+7. [Short fiction: “After the Coup”](https://amzn.to/2Ft3EQO)
+
+## Hyperion Cantos
+Author: Dan Simmons
+
+1. [Hyperion](https://amzn.to/2OIEm0N)
+2. [The Fall of Hyperion](https://amzn.to/2T61lWJ)
+3. [Endymion](https://amzn.to/2T4Tk4B)
+4. [Rise of Endymion](https://amzn.to/2FhoWRu)
+
+## Gears of War
+Author: Karen Traviss
+
+- [Gears of War: Aspho Fields](https://amzn.to/2uo2M7Y)
+- [Gears of War: Jacinto's Remnant](https://amzn.to/2ur3EIK)
+- [Gears of War: Anvil Gate](https://amzn.to/2YmQZ7u)
+- [Gears of War: Coalition's End](https://amzn.to/2uoLAiH)
+- [Gears of War: The Slab]()
+
+## The Chronicles of St Mary's
+Author: Jodi Taylor
+
+- [Just One Damned Thing After Another](https://amzn.to/2S6XyHo) (Book One)
+- [A Symphony of Echoes](https://amzn.to/2Bw8RDz) (Book Two)
+- [A Second Chance](https://amzn.to/2BuIz4K) (Book Three)
+- [A Trail Through Time](https://amzn.to/2TITDlG) (Book Four)
+- [No Time Like the Past](https://amzn.to/2PPXQ93) (Book Five)
+- [What Could Possibly Go Wrong?](https://amzn.to/2DWm2QQ) (Book Six)
+- [Lies, Damned Lies, and History](https://amzn.to/2KusYoH) (Book Seven)
+- [And the Rest Is History](https://amzn.to/2DXqrTw) (Book Eight)
+- [An Argumentation of Historians](https://amzn.to/2S6hj1G) (Book Nine)
+
+
 
