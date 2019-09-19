@@ -43,6 +43,7 @@
 
 ### Nintendo Switch - Games That I Want
 
+- Sparklite [(switch)](https://www.nintendo.com/games/detail/sparklite-switch/)
 - Risk of Rain 2 [(switch)](https://www.nintendo.com/games/detail/risk-of-rain-2-switch/)
 - Dungeon Defenders: Awakened [(switch)](https://www.nintendo.com/games/detail/dungeon-defenders-awakened-switch/)
 - Raiders of the North Sea [(switch)](https://www.nintendo.com/games/detail/raiders-of-the-north-sea-switch/)
