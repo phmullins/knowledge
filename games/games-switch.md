@@ -17,6 +17,7 @@
 
 ### Nintendo Switch - Most Wanted Games
 
+- Assassin’s Creed: The Rebel Collection [(switch)](https://www.nintendo.com/games/detail/assassins-creed-the-rebel-collection-switch/)
 - Munchkin: Quacked Quest [(switch)](https://www.nintendo.com/games/detail/munchkin-switch/)
 - Bulletstorm: Duke of Switch Edition [(switch)](https://www.nintendo.com/games/detail/bulletstorm-duke-of-switch-edition/)
 - Cat Quest II [(switch)](https://www.nintendo.com/games/detail/cat-quest-2-switch/)
