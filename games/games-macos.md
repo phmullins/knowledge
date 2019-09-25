@@ -15,7 +15,9 @@
 
 ### MacOS/PC - Recently Added to Collection
 
-- Conarium
+- Shadowrun Returns [(got)](https://www.gog.com/game/shadowrun_returns)
+- Shadowrun: Dragonfall - Director's Cut [(got)](https://www.gog.com/game/shadowrun_dragonfall_directors_cut)
+- Shadowrun: Hong Kong - Extended Edition [(got)](https://www.gog.com/game/shadowrun_hong_kong_extended_edition)
 - Darkest Dungeon [(gog)](https://www.gog.com/game/darkest_dungeon)
 - Mutant Year Zero [(www)](https://www.mutantyearzero.com)
 - Hyper Light Drifter [(www)](https://heartmachine.com/hyper-light)
@@ -86,8 +88,9 @@
 - Portal
 - Portal 2
 - Satellite Reign
-- Shadowrun Returns
-- Shadowrun: Dragonfall
+- Shadowrun Returns [(got)](https://www.gog.com/game/shadowrun_returns)
+- Shadowrun: Dragonfall - Director's Cut [(got)](https://www.gog.com/game/shadowrun_dragonfall_directors_cut)
+- Shadowrun: Hong Kong - Extended Edition [(got)](https://www.gog.com/game/shadowrun_hong_kong_extended_edition)
 - Sid Meier's Civilization IV
 - Sid Meier's Civilization: Beyond Earth
 - Sid Meier's Starships [(www)](https://www.2k.com/en-US/game/sid-meiers-starships/)
