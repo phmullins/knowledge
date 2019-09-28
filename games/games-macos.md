@@ -15,7 +15,9 @@
 
 ### MacOS/PC - Recently Added to Collection
 
-- Batman: Arkham Asylum (GOTY)
+- Batman: Arkham Asylum (GOTY) [(epic)](https://www.epicgames.com/store/en-US/product/batman-arkham-asylum/home)
+- Batman: Arkham City (GOTY) [(epic)](https://www.epicgames.com/store/en-US/product/batman-arkham-city/home)
+- Batman: Arkham Knight [(epic)](https://www.epicgames.com/store/en-US/product/batman-arkham-knight/home)
 - Shadowrun Returns [(got)](https://www.gog.com/game/shadowrun_returns)
 - Shadowrun: Dragonfall - Director's Cut [(got)](https://www.gog.com/game/shadowrun_dragonfall_directors_cut)
 - Shadowrun: Hong Kong - Extended Edition [(got)](https://www.gog.com/game/shadowrun_hong_kong_extended_edition)
