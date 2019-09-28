@@ -15,6 +15,7 @@
 
 ### MacOS/PC - Recently Added to Collection
 
+- Batman: Arkham Asylum (GOTY)
 - Shadowrun Returns [(got)](https://www.gog.com/game/shadowrun_returns)
 - Shadowrun: Dragonfall - Director's Cut [(got)](https://www.gog.com/game/shadowrun_dragonfall_directors_cut)
 - Shadowrun: Hong Kong - Extended Edition [(got)](https://www.gog.com/game/shadowrun_hong_kong_extended_edition)
@@ -52,6 +53,7 @@
 - Bad North: Jotunn Edition [(gog)](https://www.gog.com/game/bad_north)
 - Guild of Dungeoneering [(gog)](https://www.gog.com/game/guild_of_dungeoneering)
 - Hacknet Ultimate Edition [(gog)](https://www.gog.com/game/hacknet_ultimate_edition)
+- Space Haven [(gog)](https://www.gog.com/game/space_haven)
 
 ### MacOS/PC - Games I Have/Own
 
