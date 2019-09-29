@@ -15,6 +15,7 @@
 
 ### MacOS/PC - Recently Added to Collection
 
+- Metro: 2033 Redux [(epic)](https://www.epicgames.com/store/en-US/product/metro-2033-redux/home)
 - Batman: Arkham Asylum (GOTY) [(epic)](https://www.epicgames.com/store/en-US/product/batman-arkham-asylum/home)
 - Batman: Arkham City (GOTY) [(epic)](https://www.epicgames.com/store/en-US/product/batman-arkham-city/home)
 - Batman: Arkham Knight [(epic)](https://www.epicgames.com/store/en-US/product/batman-arkham-knight/home)
