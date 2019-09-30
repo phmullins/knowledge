@@ -57,6 +57,7 @@
 - Guild of Dungeoneering [(gog)](https://www.gog.com/game/guild_of_dungeoneering)
 - Hacknet Ultimate Edition [(gog)](https://www.gog.com/game/hacknet_ultimate_edition)
 - Space Haven [(gog)](https://www.gog.com/game/space_haven)
+- Invisible Inc. [(gog)](https://www.gog.com/game/invisible_inc)
 
 ### MacOS/PC - Games I Have/Own
 
