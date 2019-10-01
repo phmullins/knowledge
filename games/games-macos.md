@@ -58,6 +58,7 @@
 - Hacknet Ultimate Edition [(gog)](https://www.gog.com/game/hacknet_ultimate_edition)
 - Space Haven [(gog)](https://www.gog.com/game/space_haven)
 - Invisible Inc. [(gog)](https://www.gog.com/game/invisible_inc)
+- Satellite Reign [(gog)](https://www.gog.com/game/satellite_reign)
 
 ### MacOS/PC - Games I Have/Own
 
