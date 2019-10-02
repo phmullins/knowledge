@@ -45,6 +45,7 @@
 
 ### Nintendo Switch - Games That I Want
 
+- Children of Morta [(switch)](https://www.nintendo.com/games/detail/children-of-morta-switch/)
 - Asphalt 9: Legends [(switch)](https://www.nintendo.com/games/detail/asphalt-9-legends-switch/)
 - Sparklite [(switch)](https://www.nintendo.com/games/detail/sparklite-switch/)
 - Risk of Rain 2 [(switch)](https://www.nintendo.com/games/detail/risk-of-rain-2-switch/)
