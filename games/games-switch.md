@@ -45,6 +45,7 @@
 
 ### Nintendo Switch - Games That I Want
 
+- Sakuna: Of Rice and Ruin [(switch)](https://www.nintendo.com/games/detail/sakuna-of-rice-and-ruin-switch/)
 - Children of Morta [(switch)](https://www.nintendo.com/games/detail/children-of-morta-switch/)
 - Asphalt 9: Legends [(switch)](https://www.nintendo.com/games/detail/asphalt-9-legends-switch/)
 - Sparklite [(switch)](https://www.nintendo.com/games/detail/sparklite-switch/)
