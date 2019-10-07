@@ -45,7 +45,6 @@
 - Book of Demons [(www)](https://www.return2games.com)
 - Deep Sky Derelicts [(www)](https://www.snowhoundgames.com/deep-sky-derelicts/)
 - Dungeon of the Endless [(www)](https://store.steampowered.com/app/249050/Dungeon_of_the_Endless/)
-- Frostpunk [(www)](http://www.frostpunkgame.com)
 - Pathfinder: Kingmaker [(www)](https://owlcatgames.com)
 - Shadow Tactics: Blades of the Shogun [(www)](http://www.mimimi-productions.de/shadow_tactics_micro/)
 - Warhammer 40,000: Dawn of War III [(www)](https://www.dawnofwar.com)
@@ -60,6 +59,7 @@
 - Space Haven [(gog)](https://www.gog.com/game/space_haven)
 - Invisible Inc. [(gog)](https://www.gog.com/game/invisible_inc)
 - Satellite Reign [(gog)](https://www.gog.com/game/satellite_reign)
+- Into the Breach [(gog)](https://www.gog.com/game/into_the_breach)
 
 ### MacOS/PC - Games I Have/Own
 
