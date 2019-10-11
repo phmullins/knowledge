@@ -60,6 +60,7 @@
 - Invisible Inc. [(gog)](https://www.gog.com/game/invisible_inc)
 - Satellite Reign [(gog)](https://www.gog.com/game/satellite_reign)
 - Into the Breach [(gog)](https://www.gog.com/game/into_the_breach)
+- Feudal Alloy [(gog)](https://www.gog.com/game/feudal_alloy)
 
 ### MacOS/PC - Games I Have/Own
 
