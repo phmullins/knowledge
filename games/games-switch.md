@@ -17,8 +17,8 @@
 
 ### Nintendo Switch - Most Wanted Games
 
-- Assassin’s Creed: The Rebel Collection [(switch)](https://www.nintendo.com/games/detail/assassins-creed-the-rebel-collection-switch/)
 - Munchkin: Quacked Quest [(switch)](https://www.nintendo.com/games/detail/munchkin-switch/)
+- Assassin’s Creed: The Rebel Collection [(switch)](https://www.nintendo.com/games/detail/assassins-creed-the-rebel-collection-switch/)
 - Bulletstorm: Duke of Switch Edition [(switch)](https://www.nintendo.com/games/detail/bulletstorm-duke-of-switch-edition/)
 - Cat Quest II [(switch)](https://www.nintendo.com/games/detail/cat-quest-2-switch/)
 - JUMANJI: The Video Game [(switch)](https://www.nintendo.com/games/detail/jumanji-the-video-game-switch/)
@@ -129,7 +129,6 @@
 - The Legend of Zelda: Link's Awakening
 - Light Fingers
 - Lost Sea
-- Munchkin [(NS)](https://www.nintendo.com/games/detail/munchkin-switch)
 - Mahjong Deluxe 3 [(switch)](https://www.nintendo.com/games/detail/mahjong-deluxe-3-switch)
 - Mushroom Wars 2 [(www)](https://mushroomwars2.com) [(switch)](https://www.nintendo.com/games/detail/mushroom-wars-2-switch)
 - Mutant Football League: Dynasty Edition [(switch)](https://www.nintendo.com/games/detail/mutant-football-league-dynasty-edition-switch)
