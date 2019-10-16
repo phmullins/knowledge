@@ -34,13 +34,13 @@
 
 ### MacOS/PC - Most Wanted Games
 
+- Warhammer 40,000: Mechanicus [(GOG)](https://www.gog.com/game/warhammer_40000_mechanicus)
 - Rebel Galaxy Outlaw [(www)](https://rebel-galaxy.com/)
 - Phoenix Point [(www)](https://phoenixpoint.info/)
 - Achtung! Cthulhu Tactics [(www)](https://store.steampowered.com/app/874460/Achtung_Cthulhu_Tactics/)
 - Master of Orion [(www)](https://masteroforion.com)
 - Train Valley 2 [(www)](http://train-valley.com/tv2.html) [(GOG)](https://www.gog.com/game/train_valley_2)
 - Nowhere Prophet [(www)](http://www.noprophet.com/)
-- Warhammer 40,000: Mechanicus [(GOG)](https://www.gog.com/game/warhammer_40000_mechanicus)
 - Artifact [(www)](https://store.steampowered.com/app/583950/Artifact/)
 - Book of Demons [(www)](https://www.return2games.com)
 - Deep Sky Derelicts [(www)](https://www.snowhoundgames.com/deep-sky-derelicts/)
