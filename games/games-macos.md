@@ -15,6 +15,7 @@
 
 ### MacOS/PC - Recently Added to Collection
 
+- Warhammer 40,000: Mechanicus [(GOG)](https://www.gog.com/game/warhammer_40000_mechanicus)
 - Frostpunk [(gog)](https://www.gog.com/game/frostpunk)
 - Metro: 2033 Redux [(epic)](https://www.epicgames.com/store/en-US/product/metro-2033-redux/home)
 - Batman: Arkham Asylum (GOTY) [(epic)](https://www.epicgames.com/store/en-US/product/batman-arkham-asylum/home)
@@ -34,7 +35,6 @@
 
 ### MacOS/PC - Most Wanted Games
 
-- Warhammer 40,000: Mechanicus [(GOG)](https://www.gog.com/game/warhammer_40000_mechanicus)
 - Rebel Galaxy Outlaw [(www)](https://rebel-galaxy.com/)
 - Phoenix Point [(www)](https://phoenixpoint.info/)
 - Achtung! Cthulhu Tactics [(www)](https://store.steampowered.com/app/874460/Achtung_Cthulhu_Tactics/)
