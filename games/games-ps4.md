@@ -38,8 +38,6 @@ Up until recently I had considered myself just an ordinary gamer and wasn't part
 - Overkill's The Walking Dead [(ps4)](https://www.playstation.com/en-us/games/overkills-the-walking-dead-ps4/)
 - Fallout 76 [(ps4)](https://www.playstation.com/en-us/games/fallout-76-ps4/) [(www)](https://fallout.bethesda.net/en/games/fallout-76)
 - Skull & Bones [(www)](https://skullandbones.ubisoft.com/game/en-us/home/index.aspx)
-- Ghost of Tsushima [(ps4)](https://www.playstation.com/en-us/games/ghost-of-tsushima-ps4/) [(www)](https://www.suckerpunch.com/category/games/ghost-of-tsushima/)
-- Sekiro: Shadows Die Twice [(ps4)](https://www.playstation.com/en-us/games/sekiro-shadows-die-twice-ps4/) - [(www)](https://www.sekirothegame.com/)
 - Elite Dangerous: The Legendary Edition [(ps4)](https://www.playstation.com/en-us/games/elite-dangerous-ps4/) [(www)](https://www.elitedangerous.com/)
 - Call of Duty: WWII [(ps4)](https://www.playstation.com/en-us/games/call-of-duty-wwii-ps4/)
 - Battlefield V [(ps4)](https://www.playstation.com/en-us/games/battlefield-v-ps4/)
@@ -55,10 +53,11 @@ Up until recently I had considered myself just an ordinary gamer and wasn't part
 
 ## PlayStation 4 - Games that I want
 
+- Ghost of Tsushima [(ps4)](https://www.playstation.com/en-us/games/ghost-of-tsushima-ps4/) [(www)](https://www.suckerpunch.com/category/games/ghost-of-tsushima/)
+- Sekiro: Shadows Die Twice [(ps4)](https://www.playstation.com/en-us/games/sekiro-shadows-die-twice-ps4/) - [(www)](https://www.sekirothegame.com/)
 - Alienation [(YouTube)](https://youtu.be/AaJ1YoSHATE)
 - Helldivers: A New Hell Edition [(YouTube)](https://youtu.be/qKrSiKSNwNg)
 - Helldivers [(www)](http://arrowheadgamestudios.com/games/helldivers/)
-- Frostpunk [(www)](http://www.frostpunkgame.com)
 - The Savage Planet [(ps4)](https://savageplanetgame.com/)
 - Stellaris [(ps4)](https://www.playstation.com/en-us/games/stellaris-console-edition-ps4/) [(www)](https://www.paradoxplaza.com/stellaris)
 - Tom Clancy's The Division [(ps4)](https://www.playstation.com/en-us/games/tom-clancys-the-division-ps4/)
