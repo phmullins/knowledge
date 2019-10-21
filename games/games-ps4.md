@@ -39,8 +39,6 @@ Up until recently I had considered myself just an ordinary gamer and wasn't part
 - Fallout 76 [(ps4)](https://www.playstation.com/en-us/games/fallout-76-ps4/) [(www)](https://fallout.bethesda.net/en/games/fallout-76)
 - Skull & Bones [(www)](https://skullandbones.ubisoft.com/game/en-us/home/index.aspx)
 - Elite Dangerous: The Legendary Edition [(ps4)](https://www.playstation.com/en-us/games/elite-dangerous-ps4/) [(www)](https://www.elitedangerous.com/)
-- Call of Duty: WWII [(ps4)](https://www.playstation.com/en-us/games/call-of-duty-wwii-ps4/)
-- Battlefield V [(ps4)](https://www.playstation.com/en-us/games/battlefield-v-ps4/)
 
 ### PlayStation 4 - Hardware that I want
 
@@ -63,6 +61,7 @@ Up until recently I had considered myself just an ordinary gamer and wasn't part
 - Tom Clancy's The Division [(ps4)](https://www.playstation.com/en-us/games/tom-clancys-the-division-ps4/)
 - Tom Clancy's The Division 2 [(ps4)](https://www.playstation.com/en-us/games/tom-clancys-the-division-2-ps4/) - [(www)](https://tomclancy-thedivision.ubisoft.com/game/en-us/home)
 - Tempest 4000 [(ps4)](https://www.playstation.com/en-us/games/tempest-4000-ps4/)
+- Battlefield V [(ps4)](https://www.playstation.com/en-us/games/battlefield-v-ps4/)
 - Control [(ps4)](https://www.playstation.com/en-us/games/control-ps4/)
 - Dishonored: Definitive Edition [(ps4)](https://www.playstation.com/en-us/games/dishonored-definitive-edition-ps4/)
 - Dishonored 2 [(ps4)](https://www.playstation.com/en-us/games/dishonored-2-ps4/)
