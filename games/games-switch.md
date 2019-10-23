@@ -10,6 +10,7 @@
 
 ### Nintendo Switch - Recently Added to Collection
 
+- The Flame In The Flood [(switch)](https://www.nintendo.com/games/detail/the-flame-in-the-flood-complete-edition-switch)
 - Torchlight II [(switch)](https://www.nintendo.com/games/detail/torchlight-2-switch/)
 - Doom [(switch)](https://www.nintendo.com/games/detail/doom-1993-switch/)
 - Doom II [(switch)](https://www.nintendo.com/games/detail/doom-2-classic-switch/)
@@ -41,7 +42,6 @@
 - Lumo [(switch)](https://www.nintendo.com/games/detail/lumo-switch)
 - Carcassonne [(www)](http://www.asmodee-digital.com/en/carcassonne/) [(switch)](https://www.nintendo.com/games/detail/carcassonne-switch)
 - Catan Universe [(switch)](https://www.nintendo.com/games/detail/catan-switch/)
-- The Flame In The Flood [(switch)](https://www.nintendo.com/games/detail/the-flame-in-the-flood-complete-edition-switch)
 - Monster Slayers [(switch)](https://www.nintendo.com/games/detail/monster-slayers-switch)
 
 ### Nintendo Switch - Games That I Want
@@ -169,6 +169,7 @@
 - Doom [(switch)](https://www.nintendo.com/games/detail/doom-1993-switch/)
 - Doom II [(switch)](https://www.nintendo.com/games/detail/doom-2-classic-switch/)
 - Torchlight II [(switch)](https://www.nintendo.com/games/detail/torchlight-2-switch/)
+- The Flame In The Flood [(switch)](https://www.nintendo.com/games/detail/the-flame-in-the-flood-complete-edition-switch)
 
 ### Nintendo Switch - Links
 
