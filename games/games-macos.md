@@ -51,16 +51,16 @@
 
 ### MacOS/PC - Games That I Want
 
-- John Wick Hex [(WWW)](https://johnwickhex.com/)
 - The Outer Worlds [(EPIC)](https://www.epicgames.com/store/en-US/product/the-outer-worlds/home)
-- Bad North: Jotunn Edition [(gog)](https://www.gog.com/game/bad_north)
-- Guild of Dungeoneering [(gog)](https://www.gog.com/game/guild_of_dungeoneering)
-- Hacknet Ultimate Edition [(gog)](https://www.gog.com/game/hacknet_ultimate_edition)
-- Space Haven [(gog)](https://www.gog.com/game/space_haven)
 - Invisible Inc. [(gog)](https://www.gog.com/game/invisible_inc)
 - Satellite Reign [(gog)](https://www.gog.com/game/satellite_reign)
 - Into the Breach [(gog)](https://www.gog.com/game/into_the_breach)
 - Feudal Alloy [(gog)](https://www.gog.com/game/feudal_alloy)
+- John Wick Hex [(WWW)](https://johnwickhex.com/)
+- Bad North: Jotunn Edition [(gog)](https://www.gog.com/game/bad_north)
+- Guild of Dungeoneering [(gog)](https://www.gog.com/game/guild_of_dungeoneering)
+- Hacknet Ultimate Edition [(gog)](https://www.gog.com/game/hacknet_ultimate_edition)
+- Space Haven [(gog)](https://www.gog.com/game/space_haven)
 
 ### MacOS/PC - Games I Have/Own
 
