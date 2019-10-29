@@ -32,11 +32,11 @@ Up until recently I had considered myself just an ordinary gamer and wasn't part
 - Rage 2 [(ps4)](https://www.playstation.com/en-us/games/rage-2-ps4/) [(www)](https://bethesda.net/en/game/rage2)
 - Doom Eternal [(www)](https://bethesda.net/en/game/doom)
 - A Plague Tale: Innocence [(ps4)](https://www.playstation.com/en-us/games/aplague-tale-innocence-ps4/)
+- Fallout 76 [(ps4)](https://www.playstation.com/en-us/games/fallout-76-ps4/) [(www)](https://fallout.bethesda.net/en/games/fallout-76)
 - Anthem [(ps4)](https://www.playstation.com/en-us/games/anthem-ps4/)
 - Beyond Good and Evil 2 [(www)](https://beyondgoodandevil.ubisoft.com/en-us/)
 - Wartile [(ps4)](https://www.playstation.com/en-us/games/wartile-ps4/) [(www)](http://www.wartile.com/) 
 - Overkill's The Walking Dead [(ps4)](https://www.playstation.com/en-us/games/overkills-the-walking-dead-ps4/)
-- Fallout 76 [(ps4)](https://www.playstation.com/en-us/games/fallout-76-ps4/) [(www)](https://fallout.bethesda.net/en/games/fallout-76)
 - Skull & Bones [(www)](https://skullandbones.ubisoft.com/game/en-us/home/index.aspx)
 - Elite Dangerous: The Legendary Edition [(ps4)](https://www.playstation.com/en-us/games/elite-dangerous-ps4/) [(www)](https://www.elitedangerous.com/)
 
