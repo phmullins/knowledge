@@ -35,10 +35,10 @@
 
 ### MacOS/PC - Most Wanted Games
 
-- Rebel Galaxy Outlaw [(www)](https://rebel-galaxy.com/)
+- Master of Orion [(www)](https://masteroforion.com)
 - Phoenix Point [(www)](https://phoenixpoint.info/)
 - Achtung! Cthulhu Tactics [(www)](https://store.steampowered.com/app/874460/Achtung_Cthulhu_Tactics/)
-- Master of Orion [(www)](https://masteroforion.com)
+- Rebel Galaxy Outlaw [(www)](https://rebel-galaxy.com/)
 - Train Valley 2 [(www)](http://train-valley.com/tv2.html) [(GOG)](https://www.gog.com/game/train_valley_2)
 - Nowhere Prophet [(www)](http://www.noprophet.com/)
 - Artifact [(www)](https://store.steampowered.com/app/583950/Artifact/)
