@@ -35,6 +35,7 @@
 
 ### MacOS/PC - Most Wanted Games
 
+- Borderlands 3
 - Master of Orion [(www)](https://masteroforion.com)
 - Phoenix Point [(www)](https://phoenixpoint.info/)
 - Achtung! Cthulhu Tactics [(www)](https://store.steampowered.com/app/874460/Achtung_Cthulhu_Tactics/)
