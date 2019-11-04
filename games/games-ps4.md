@@ -11,7 +11,7 @@ Up until recently I had considered myself just an ordinary gamer and wasn't part
 
 ### PlayStation 4 - Recently Added to Collection
 
-- Doom (2016)
+- Doom (2016) [(www)](https://youtu.be/SgSrpnW0EmU)
 - Borderlands 3 [(www)](https://borderlands.com/en-US/)
 - Generation Zero [(ps4)](https://www.playstation.com/en-us/games/generation-zero-ps4/) [(www)](https://generationzero.com/en/)
 - Space Hulk: Tactics [(www)](http://spacehulk-tactics.com/)
