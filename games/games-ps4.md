@@ -27,9 +27,9 @@ Up until recently I had considered myself just an ordinary gamer and wasn't part
 
 - Cyberpunk 2077 [(www)](https://www.cyberpunk.net/en/)
 - Death Stranding [(ps4)](https://www.playstation.com/en-us/games/death-stranding-ps4/)
-- Frostpunk [(ps4)](https://store.playstation.com/en-us/product/UP4361-CUSA15716_00-FROSTPUNKGAME000)
 - Mutant Year Zero: Road to Eden [(ps4)](https://www.playstation.com/en-us/games/mutant-year-zero-road-to-eden-ps4/) [(www)](https://www.mutantyearzero.com)
 - Achtung! Cthulhu Tactics [(ps4)](https://www.playstation.com/en-us/games/achtung-cthulhu-tactics-ps4/)
+- Frostpunk [(ps4)](https://store.playstation.com/en-us/product/UP4361-CUSA15716_00-FROSTPUNKGAME000)
 - Rage 2 [(ps4)](https://www.playstation.com/en-us/games/rage-2-ps4/) [(www)](https://bethesda.net/en/game/rage2)
 - Doom Eternal [(www)](https://bethesda.net/en/game/doom)
 - A Plague Tale: Innocence [(ps4)](https://www.playstation.com/en-us/games/aplague-tale-innocence-ps4/)
