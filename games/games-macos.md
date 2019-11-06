@@ -35,6 +35,7 @@
 
 ### MacOS/PC - Most Wanted Games
 
+- Diablo IV [(www)](https://diablo.blizzard.com/en-us/) (Unreleased)
 - Borderlands 3
 - Master of Orion [(www)](https://masteroforion.com)
 - Phoenix Point [(www)](https://phoenixpoint.info/)
