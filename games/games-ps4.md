@@ -26,8 +26,8 @@ Up until recently I had considered myself just an ordinary gamer and wasn't part
 ### PlayStation 4 - Most Wanted Games
 
 - Diablo IV [(www)](https://diablo.blizzard.com/en-us/) (Unreleased)
-- Cyberpunk 2077 [(www)](https://www.cyberpunk.net/en/)
 - Death Stranding [(ps4)](https://www.playstation.com/en-us/games/death-stranding-ps4/)
+- Cyberpunk 2077 [(www)](https://www.cyberpunk.net/en/)
 - Mutant Year Zero: Road to Eden [(ps4)](https://www.playstation.com/en-us/games/mutant-year-zero-road-to-eden-ps4/) [(www)](https://www.mutantyearzero.com)
 - Achtung! Cthulhu Tactics [(ps4)](https://www.playstation.com/en-us/games/achtung-cthulhu-tactics-ps4/)
 - Frostpunk [(ps4)](https://store.playstation.com/en-us/product/UP4361-CUSA15716_00-FROSTPUNKGAME000)
