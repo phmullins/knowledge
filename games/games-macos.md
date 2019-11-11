@@ -36,7 +36,7 @@
 ### MacOS/PC - Most Wanted Games
 
 - Diablo IV [(www)](https://diablo.blizzard.com/en-us/) (Unreleased)
-- Borderlands 3
+- Borderlands 3 [(www)](https://boderlands.com)
 - Master of Orion [(www)](https://masteroforion.com)
 - Phoenix Point [(www)](https://phoenixpoint.info/)
 - Achtung! Cthulhu Tactics [(www)](https://store.steampowered.com/app/874460/Achtung_Cthulhu_Tactics/)
