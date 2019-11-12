@@ -53,6 +53,7 @@ Up until recently I had considered myself just an ordinary gamer and wasn't part
 
 ## PlayStation 4 - Games that I want
 
+- Destiny 1: The Collection [(ps4)](https://www.playstation.com/en-us/games/destiny-ps4/)
 - Ghost of Tsushima [(ps4)](https://www.playstation.com/en-us/games/ghost-of-tsushima-ps4/) [(www)](https://www.suckerpunch.com/category/games/ghost-of-tsushima/)
 - Sekiro: Shadows Die Twice [(ps4)](https://www.playstation.com/en-us/games/sekiro-shadows-die-twice-ps4/) - [(www)](https://www.sekirothegame.com/)
 - Alienation [(YouTube)](https://youtu.be/AaJ1YoSHATE)
@@ -64,7 +65,6 @@ Up until recently I had considered myself just an ordinary gamer and wasn't part
 - Tom Clancy's The Division 2 [(ps4)](https://www.playstation.com/en-us/games/tom-clancys-the-division-2-ps4/) - [(www)](https://tomclancy-thedivision.ubisoft.com/game/en-us/home)
 - Tempest 4000 [(ps4)](https://www.playstation.com/en-us/games/tempest-4000-ps4/)
 - Battlefield V [(ps4)](https://www.playstation.com/en-us/games/battlefield-v-ps4/)
-- Control [(ps4)](https://www.playstation.com/en-us/games/control-ps4/)
 - Dishonored: Definitive Edition [(ps4)](https://www.playstation.com/en-us/games/dishonored-definitive-edition-ps4/)
 - Dishonored 2 [(ps4)](https://www.playstation.com/en-us/games/dishonored-2-ps4/)
 - Dishonored: Death of the Outsider [(ps4)](https://www.playstation.com/en-us/games/dishonored-death-of-the-outsider-ps4/)
@@ -73,7 +73,6 @@ Up until recently I had considered myself just an ordinary gamer and wasn't part
 - Mad Max [(ps4)](https://www.playstation.com/en-us/games/mad-max-ps4/)
 - Middle-Earth: Shadow of Mordor (Game of the Year) [(ps4)](https://www.playstation.com/en-us/games/middle-earth-shadow-of-mordor-game-of-the-year-edition-ps4/)
 - Middle-Earth: Shadow of War [(ps4)](https://www.playstation.com/en-us/games/middle-earth-shadow-of-war-ps4/)
-- Destiny 1: The Collection [(ps4)](https://www.playstation.com/en-us/games/destiny-ps4/)
 - Tom Clancy’s Ghost Recon Wildlands [(ps4)](https://www.playstation.com/en-us/games/tom-clancys-ghost-recon-wildlands-ps4/)
 - Watch Dogs 2 [(ps4)](https://www.playstation.com/en-us/games/watch-dogs-2-ps4/)
 - Wolfenstein: The New Order [(ps4)](https://www.playstation.com/en-us/games/wolfenstein-the-new-order-ps4/)
