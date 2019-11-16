@@ -6,10 +6,10 @@ A pretty extensive list of applications that I have installed and use either on 
 
 * [BitPerfect](http://bitperfectsound.com) 
 * [Cog](https://kode54.net/cog/)
-* [iTunes](https://www.apple.com/itunes/) 
+* [Metadatics](https://www.markvapps.com/metadatics)
+* [SoundSource](https://rogueamoeba.com/soundsource/)
 * [TunesArt](https://www.jibapps.com/apps/tunesart/)
 * [XLD](http://tmkk.undo.jp/xld/index_e.html) - Decode/convert/play various "lossless" audio files.
-* [YouTube to MP3](https://www.mediahuman.com/)
 
 ## Backups
 
@@ -20,8 +20,6 @@ A pretty extensive list of applications that I have installed and use either on 
 ## Communication & Chat
 
 * [Discord](https://discordapp.com/)
-* [Riot](https://about.riot.im/)
-* [Skype](https://www.skype.com/en/)
 * [Slack](https://slack.com)
 * [Telegram](https://telegram.org/)
 * [Textual](https://www.codeux.com/textual/)
@@ -29,24 +27,22 @@ A pretty extensive list of applications that I have installed and use either on 
 ## Database
 
 * [PSequel](https://www.psequel.com/) - a PostgreSQL GUI tool for macOS.
-* [Sequel Pro](https://sequelpro.com)
+* [Sequel Pro](https://sequelpro.com) - a MySQL GUI client for macOS.
 
 ## Development
 
-* [Atom](https://atom.io/) - A hackable text editor for the 21st Century.
 * [CodeRunner](https://coderunnerapp.com)
 * [Couleurs](https://couleursapp.com)
 * [Dash](https://kapeli.com/dash)
 * [SnippetsLab](https://www.renfei.org/snippets-lab/) - Code snippets manager.
 * [Sourcetree](https://www.sourcetreeapp.com/)
-* [Visual Studio Code](https://code.visualstudio.com)
 * [Xcode](https://developer.apple.com/xcode/)
 
 ## Encryption & Password Management 
 
 * [1Password](https://1password.com/)
 * [Cryptomator](https://cryptomator.org/)
-* [EncryptMe](https://www.encrypt.me/)
+* [EncryptMe](https://www.encrypt.me/) - Virtual Private Network.
 * [GPG Suite](https://gpgtools.org)
 * [Keybase](https://keybase.io)
 
@@ -70,20 +66,12 @@ A pretty extensive list of applications that I have installed and use either on 
 ## Music & Composing
 
 * [Audacity](https://www.audacityteam.org/)
-* [Audio Hijack](https://www.rogueamoeba.com/audiohijack/)
-* [Cypher2](https://www.fxpansion.com/products/cypher2/)
 * [Equator](https://roli.com/products/software/equator-synth)
-* [Farrago](https://www.rogueamoeba.com/farrago/)
-* [Fission](https://www.rogueamoeba.com/fission/)
 * [GarageBand](https://www.apple.com/mac/garageband/)
-* [Massive](https://www.native-instruments.com/en/products/komplete/synths/massive/)
 * [Paul's Extreme Sound Stretch](http://hypermammut.sourceforge.net/paulstretch/)
 * [Rack](https://vcvrack.com)
 * [ROLI Dashboard](https://roli.com/products/software/blocks-dashboard)
 * [Hyperion Strings Micro](https://soundiron.com/products/hyperion-strings-micro)
-* [SoundSource](https://rogueamoeba.com/soundsource/)
-* [Strobe2](https://www.fxpansion.com/products/strobe2/)
-* [Tracktion 7](https://www.tracktion.com/products/t7-daw)
 
 ## Network
 
@@ -93,13 +81,10 @@ A pretty extensive list of applications that I have installed and use either on 
 
 ## Office Tools
 
-* [DEVONthink Pro Office](https://www.devontechnologies.com/products/devonthink)
+* [DEVONthink 3](https://www.devontechnologies.com/products/devonthink)
 * [Apple Keynote](https://www.apple.com/keynote/) - Presentations.
 * [Apple Numbers](https://www.apple.com/numbers/) - Spreadsheet.
 * [Apple Pages](https://www.apple.com/pages/) - Word processor.
-* [Microsoft Excel](https://products.office.com/en-us/excel) - Industry leading spreadsheet.
-* [Microsoft PowerPoint](https://products.office.com/en-us/powerpoint) - Create presentations that stand out.
-* [Microsoft Word](https://products.office.com/en-us/word) - Word processor.
 * [OmniFocus](https://www.omnigroup.com/omnifocus/)
 * [OmniGraffle](https://www.omnigroup.com/omnigraffle/)
 * [OmniOutliner](https://www.omnigroup.com/omnioutliner/)
@@ -115,8 +100,6 @@ A pretty extensive list of applications that I have installed and use either on 
 ## Social Media
 
 * [Caprine](https://sindresorhus.com/caprine/)
-* [Flume](https://flumeapp.com)
-* [Telegram](https://telegram.org)
 * [Tweetbot](https://tapbots.com/tweetbot/)
 
 ## Utilities
@@ -131,15 +114,11 @@ A pretty extensive list of applications that I have installed and use either on 
 * [ImageOptim](https://imageoptim.com/mac)
 * [iTerm](https://iterm2.com)
 * [LiteIcon](http://freemacsoft.net/liteicon/)
-* [Mail](https://www.apple.com/mail/)
-* [Metadatics](https://www.markvapps.com/metadatics)
 * [Monolingual](https://ingmarstein.github.io/Monolingual/)
 * [Numi](http://numi.io)
 * [PMenu](https://danadesign.ltd)
 * [Reeder](http://reederapp.com/mac/)
-* [Speedtest](http://www.speedtest.net/apps/mac)
 * [The Unarchiver](https://macpaw.com/the-unarchiver)
-* [TotalSpaces2](https://totalspaces.binaryage.com)
 * [TrashMe](https://www.jibapps.com/apps/trashme/)
 
 ## Video
@@ -153,19 +132,12 @@ A pretty extensive list of applications that I have installed and use either on 
 ## Web Browsers
 
 * [Firefox](https://www.mozilla.org/en-US/firefox)
-* [Google Chrome](https://www.google.com/chrome)
-* [Opera](https://www.opera.com)
-* [Safari](https://www.apple.com/safari/)
-* [Vivaldi](https://vivaldi.com/)
 
 ## Writing
 
 * [Byword](https://www.bywordapp.com)
 * [Day One](http://dayoneapp.com)
-* [GitBook](https://www.gitbook.com) - Modern documentation platform.
-* [GitBook Editor](https://legacy.gitbook.com/editor) - Simple writing from your desktop.
 * [IA Writer](https://ia.net/writer) - The Focused Writing App.
-* [MWeb](http://www.mweb.im)
 * [Marked 2](http://marked2app.com)
 * [Scrivener](https://www.literatureandlatte.com/scrivener/overview)
 
