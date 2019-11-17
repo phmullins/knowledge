@@ -4,6 +4,8 @@ A list of every book that I've read going back to 2003.
 
 - Armor, by John Steakley (Currently reading)
 - [Ancillary Justice](https://amzn.to/2CoIOgI) (Imperial Radch, Book 1), by Ann Leckie 
+- Neuromancer, by William Gibson
+- Deadman's Crossing by Joe R. Lansdale 
 
 ## 2018
 
