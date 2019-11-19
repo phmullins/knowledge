@@ -32,7 +32,6 @@ A pretty extensive list of applications that I have installed and use either on 
 ## Development
 
 * [CodeRunner](https://coderunnerapp.com)
-* [Couleurs](https://couleursapp.com)
 * [Dash](https://kapeli.com/dash)
 * [SnippetsLab](https://www.renfei.org/snippets-lab/) - Code snippets manager.
 * [Sourcetree](https://www.sourcetreeapp.com/)
@@ -54,6 +53,7 @@ A pretty extensive list of applications that I have installed and use either on 
 
 ## Graphics
 
+* [Couleurs](https://couleursapp.com)
 * [Pixave](http://www.littlehj.com/mac/)
 * [Pixelmator](http://www.pixelmator.com)
 * [Spect](https://stevenf.com/spect/)
