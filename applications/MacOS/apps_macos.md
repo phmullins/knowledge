@@ -31,8 +31,8 @@ A pretty extensive list of applications that I have installed and use either on 
 
 ## Development
 
-* [CodeRunner](https://coderunnerapp.com)
-* [Dash](https://kapeli.com/dash)
+* [CodeRunner](https://coderunnerapp.com) - Lightweight programming editor for macOS.
+* [Dash](https://kapeli.com/dash) - API Documentation Browser and Code Snippet Manager.
 * [SnippetsLab](https://www.renfei.org/snippets-lab/) - Code snippets manager.
 * [Sourcetree](https://www.sourcetreeapp.com/)
 * [Xcode](https://developer.apple.com/xcode/)
@@ -53,10 +53,11 @@ A pretty extensive list of applications that I have installed and use either on 
 
 ## Graphics
 
-* [Couleurs](https://couleursapp.com)
-* [Pixave](http://www.littlehj.com/mac/)
-* [Pixelmator](http://www.pixelmator.com)
-* [Spect](https://stevenf.com/spect/)
+* [Couleurs](https://couleursapp.com) - Simple color grabber.
+- [ColorSlurp](http://colorslurp.com) - The best Mac color picker in the universe!
+* [Pixave](http://www.littlehj.com/mac/) - The ultimate macOS image organizer.
+* [Pixelmator Pro](https://www.pixelmator.com/pro/) - Professional image editing tool.
+* [Spect](https://stevenf.com/spect/) - Fast image browser and organizer for macOS
 
 ## Miscellaneous 
 
@@ -66,22 +67,18 @@ A pretty extensive list of applications that I have installed and use either on 
 ## Music & Composing
 
 * [Audacity](https://www.audacityteam.org/)
-* [Equator](https://roli.com/products/software/equator-synth)
 * [GarageBand](https://www.apple.com/mac/garageband/)
 * [Paul's Extreme Sound Stretch](http://hypermammut.sourceforge.net/paulstretch/)
 * [Rack](https://vcvrack.com)
-* [ROLI Dashboard](https://roli.com/products/software/blocks-dashboard)
-* [Hyperion Strings Micro](https://soundiron.com/products/hyperion-strings-micro)
 
 ## Network
 
-* [AnyDesk](https://anydesk.com)
-* [Jump Desktop](https://jumpdesktop.com)
-* [WiFi Explorer](https://www.adriangranados.com/apps/wifi-explorer)
+* [Jump Desktop](https://jumpdesktop.com) - RDP and VNC macOS client.
+* [WiFi Explorer](https://www.adriangranados.com/apps/wifi-explorer) - Troubleshoot wireless networks.
 
 ## Office Tools
 
-* [DEVONthink 3](https://www.devontechnologies.com/products/devonthink)
+* [DEVONthink 3](https://www.devontechnologies.com/products/devonthink) - Knowledge Database.
 * [Apple Keynote](https://www.apple.com/keynote/) - Presentations.
 * [Apple Numbers](https://www.apple.com/numbers/) - Spreadsheet.
 * [Apple Pages](https://www.apple.com/pages/) - Word processor.
@@ -99,8 +96,8 @@ A pretty extensive list of applications that I have installed and use either on 
 
 ## Social Media
 
-* [Caprine](https://sindresorhus.com/caprine/)
-* [Tweetbot](https://tapbots.com/tweetbot/)
+* [Caprine](https://sindresorhus.com/caprine/) - Facebook client.
+* [Tweetbot](https://tapbots.com/tweetbot/) - Twitter client.
 
 ## Utilities
 
