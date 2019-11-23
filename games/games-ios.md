@@ -8,6 +8,7 @@
 
 ### iOS - Recently Added to Collection
 
+- Minecraft: Earth
 - Asphalt 9: Legends
 - Oddworld: New 'n' Tasty
 - Oddworld: Stranger's Wrath
