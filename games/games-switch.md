@@ -20,6 +20,7 @@
 
 - Diablo IV [(www)](https://diablo.blizzard.com/en-us/) (Unreleased)
 - Rebel Galaxy Outlaw [(www)](https://rebel-galaxy.com/) (Unreleased)
+- Yaga [(www)](https://yaga-game.com/)
 - JUMANJI: The Video Game [(switch)](https://www.nintendo.com/games/detail/jumanji-the-video-game-switch/)
 - Mutant Year Zero: Road to Eden Deluxe [(switch)](https://www.nintendo.com/games/detail/mutant-year-zero-road-to-eden-deluxe-edition-switch/) [(www)](https://www.mutantyearzero.com/#1)
 - Achtung! Cthulhu Tactics [(switch)](https://www.nintendo.com/games/detail/achtung-cthulu-tactics-switch)
