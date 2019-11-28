@@ -21,6 +21,7 @@
 - Diablo IV [(www)](https://diablo.blizzard.com/en-us/) (Unreleased)
 - Rebel Galaxy Outlaw [(www)](https://rebel-galaxy.com/) (Unreleased)
 - Yaga [(www)](https://yaga-game.com/)
+- Space Land [(switch)](https://www.nintendo.com/games/detail/spaceland-switch/)
 - JUMANJI: The Video Game [(switch)](https://www.nintendo.com/games/detail/jumanji-the-video-game-switch/)
 - Mutant Year Zero: Road to Eden Deluxe [(switch)](https://www.nintendo.com/games/detail/mutant-year-zero-road-to-eden-deluxe-edition-switch/) [(www)](https://www.mutantyearzero.com/#1)
 - Achtung! Cthulhu Tactics [(switch)](https://www.nintendo.com/games/detail/achtung-cthulu-tactics-switch)
@@ -44,10 +45,10 @@
 - Lumo [(switch)](https://www.nintendo.com/games/detail/lumo-switch)
 - Carcassonne [(www)](http://www.asmodee-digital.com/en/carcassonne/) [(switch)](https://www.nintendo.com/games/detail/carcassonne-switch)
 - Catan Universe [(switch)](https://www.nintendo.com/games/detail/catan-switch/)
-- Monster Slayers [(switch)](https://www.nintendo.com/games/detail/monster-slayers-switch)
 
 ### Nintendo Switch - Games That I Want
 
+- Monster Slayers [(switch)](https://www.nintendo.com/games/detail/monster-slayers-switch)
 - Sakuna: Of Rice and Ruin [(switch)](https://www.nintendo.com/games/detail/sakuna-of-rice-and-ruin-switch/)
 - Children of Morta [(switch)](https://www.nintendo.com/games/detail/children-of-morta-switch/)
 - Asphalt 9: Legends [(switch)](https://www.nintendo.com/games/detail/asphalt-9-legends-switch/)
