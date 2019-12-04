@@ -53,6 +53,7 @@
 
 ### MacOS/PC - Games That I Want
 
+- Rezrog [(gog)](https://www.gog.com/game/rezrog)
 - Objects in Space [(gog)](https://www.gog.com/game/objects_in_space)
 - The Outer Worlds [(EPIC)](https://www.epicgames.com/store/en-US/product/the-outer-worlds/home)
 - Invisible Inc. [(gog)](https://www.gog.com/game/invisible_inc)
