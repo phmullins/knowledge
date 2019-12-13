@@ -53,8 +53,8 @@
 
 ### MacOS/PC - Games That I Want
 
-- Tyranny - Gold Edition [(gog)](https://www.gog.com/game/tyranny_gold_edition)
 - Rezrog [(gog)](https://www.gog.com/game/rezrog)
+- Tyranny - Gold Edition [(gog)](https://www.gog.com/game/tyranny_gold_edition)
 - Objects in Space [(gog)](https://www.gog.com/game/objects_in_space)
 - The Outer Worlds [(EPIC)](https://www.epicgames.com/store/en-US/product/the-outer-worlds/home)
 - Invisible Inc. [(gog)](https://www.gog.com/game/invisible_inc)
