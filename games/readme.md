@@ -10,10 +10,11 @@ I like to track all of the games that I've played or am currently playing. The g
 - Nintendo [Switch](games-switch.md)
 - PC/Windows
 - Sony [PlayStation 4](games-ps4.md)
+- [Windows](games-windows.md)
 
 ## Games I'm Currently Playing
 
-- [Borderlands 2](https://borderlands.com) (PS4)
+- [Borderlands 3](https://borderlands.com) (PS4)
 - Destiny 2 (PS4)
 - [Diablo III](https://us.diablo3.com/en/) (PS4)(Switch)
 - [Horizon Zero Dawn](https://www.guerrilla-games.com/play/horizon) (PS4)
