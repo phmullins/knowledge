@@ -1,6 +1,6 @@
-## MacOS/PC
+## MacOS
 
-### MacOS/PC - All-time Favorite Games
+### MacOS - All-time Favorite Games
 
 - Black Crypt (Amiga)
 - Borderlands 2 (MacOS)
@@ -13,7 +13,7 @@
 - Unreal (PC)
 - Unreal Tournament (PC)
 
-### MacOS/PC - Recently Added to Collection
+### MacOS - Recently Added to Collection
 
 - Warhammer 40,000: Mechanicus [(GOG)](https://www.gog.com/game/warhammer_40000_mechanicus)
 - Frostpunk [(gog)](https://www.gog.com/game/frostpunk)
@@ -33,7 +33,7 @@
 - Endless Space 2 [(www)](https://www.endless-space.com)
 - We Are The Dwarves [(www)](http://wearethedwarves.com/press/#description)
 
-### MacOS/PC - Most Wanted Games
+### MacOS - Most Wanted Games
 
 - Diablo IV [(www)](https://diablo.blizzard.com/en-us/) (Unreleased)
 - Borderlands 3 [(www)](https://boderlands.com)
@@ -51,7 +51,7 @@
 - Shadow Tactics: Blades of the Shogun [(www)](http://www.mimimi-productions.de/shadow_tactics_micro/)
 - Warhammer 40,000: Dawn of War III [(www)](https://www.dawnofwar.com)
 
-### MacOS/PC - Games That I Want
+### MacOS - Games That I Want
 
 - Rezrog [(gog)](https://www.gog.com/game/rezrog)
 - Tyranny - Gold Edition [(gog)](https://www.gog.com/game/tyranny_gold_edition)
@@ -67,7 +67,7 @@
 - Hacknet Ultimate Edition [(gog)](https://www.gog.com/game/hacknet_ultimate_edition)
 - Space Haven [(gog)](https://www.gog.com/game/space_haven)
 
-### MacOS/PC - Games I Have/Own
+### MacOS - Games I Have/Own
 
 - Bastion
 - Blackguards
@@ -121,7 +121,7 @@
 - World of Goo [(epic)](https://www.epicgames.com/store/en-US/product/world-of-goo/home)
 - XCOM: Enemy Unknown
 
-### MacOS/PC - Links
+### MacOS - Links
 
 - [GOG](https://www.gog.com/)
 - [Steam](https://store.steampowered.com/)
