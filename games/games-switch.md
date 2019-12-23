@@ -10,6 +10,7 @@
 
 ### Nintendo Switch - Recently Added to Collection
 
+- Transistor [(switch)](https://www.nintendo.com/games/detail/transistor-switch)
 - The Flame In The Flood [(switch)](https://www.nintendo.com/games/detail/the-flame-in-the-flood-complete-edition-switch)
 - Torchlight II [(switch)](https://www.nintendo.com/games/detail/torchlight-2-switch/)
 - Doom [(switch)](https://www.nintendo.com/games/detail/doom-1993-switch/)
@@ -29,7 +30,6 @@
 - Feudal Alloy [(www)](http://feudalalloy.com/#) [(switch)](https://www.nintendo.com/games/detail/feudal-alloy-switch)
 - Doom [(switch)](https://www.nintendo.com/games/detail/doom-switch)
 - The Legend of Zelda: Breath of the Wild [(switch)](https://www.nintendo.com/games/detail/the-legend-of-zelda-breath-of-the-wild-switch)
-- Transistor [(switch)](https://www.nintendo.com/games/detail/transistor-switch)
 - Munchkin: Quacked Quest [(switch)](https://www.nintendo.com/games/detail/munchkin-switch/)
 - Spaceland [(Switch)](https://www.nintendo.com/games/detail/spaceland-switch/)
 - Bulletstorm: Duke of Switch Edition [(switch)](https://www.nintendo.com/games/detail/bulletstorm-duke-of-switch-edition/)
@@ -175,6 +175,7 @@
 - Doom II [(switch)](https://www.nintendo.com/games/detail/doom-2-classic-switch/)
 - Torchlight II [(switch)](https://www.nintendo.com/games/detail/torchlight-2-switch/)
 - The Flame In The Flood [(switch)](https://www.nintendo.com/games/detail/the-flame-in-the-flood-complete-edition-switch)
+- Transistor [(switch)](https://www.nintendo.com/games/detail/transistor-switch)
 
 ### Nintendo Switch - Links
 
