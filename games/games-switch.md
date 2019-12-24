@@ -12,6 +12,7 @@
 
 - Transistor [(switch)](https://www.nintendo.com/games/detail/transistor-switch)
 - The Flame In The Flood [(switch)](https://www.nintendo.com/games/detail/the-flame-in-the-flood-complete-edition-switch)
+- Asphalt 9: Legends [(switch)](https://www.nintendo.com/games/detail/asphalt-9-legends-switch/)
 - Torchlight II [(switch)](https://www.nintendo.com/games/detail/torchlight-2-switch/)
 - Doom [(switch)](https://www.nintendo.com/games/detail/doom-1993-switch/)
 - Doom II [(switch)](https://www.nintendo.com/games/detail/doom-2-classic-switch/)
@@ -19,41 +20,38 @@
 
 ### Nintendo Switch - Most Wanted Games
 
-- Diablo IV [(www)](https://diablo.blizzard.com/en-us/) (Unreleased)
 - Rebel Galaxy Outlaw [(www)](https://rebel-galaxy.com/) (Unreleased)
 - Munchkin: Quacked Quest [(switch)](https://www.nintendo.com/games/detail/munchkin-switch/)
-- Yaga [(www)](https://yaga-game.com/)
 - Space Land [(switch)](https://www.nintendo.com/games/detail/spaceland-switch/)
-- JUMANJI: The Video Game [(switch)](https://www.nintendo.com/games/detail/jumanji-the-video-game-switch/)
+- Carcassonne [(www)](http://www.asmodee-digital.com/en/carcassonne/) [(switch)](https://www.nintendo.com/games/detail/carcassonne-switch)
+- Catan Universe [(switch)](https://www.nintendo.com/games/detail/catan-switch/)
 - Mutant Year Zero: Road to Eden Deluxe [(switch)](https://www.nintendo.com/games/detail/mutant-year-zero-road-to-eden-deluxe-edition-switch/) [(www)](https://www.mutantyearzero.com/#1)
 - Achtung! Cthulhu Tactics [(switch)](https://www.nintendo.com/games/detail/achtung-cthulu-tactics-switch)
+- Dead Cells [(switch)](https://www.nintendo.com/games/detail/dead-cells-switch)
+- Moonlighter [(www)](http://moonlighterthegame.com/)
+- Diablo IV [(www)](https://diablo.blizzard.com/en-us/) (Unreleased)
+- Yaga [(www)](https://yaga-game.com/)
+- JUMANJI: The Video Game [(switch)](https://www.nintendo.com/games/detail/jumanji-the-video-game-switch/)
 - Feudal Alloy [(www)](http://feudalalloy.com/#) [(switch)](https://www.nintendo.com/games/detail/feudal-alloy-switch)
 - Doom [(switch)](https://www.nintendo.com/games/detail/doom-switch)
 - The Legend of Zelda: Breath of the Wild [(switch)](https://www.nintendo.com/games/detail/the-legend-of-zelda-breath-of-the-wild-switch)
-- Munchkin: Quacked Quest [(switch)](https://www.nintendo.com/games/detail/munchkin-switch/)
-- Spaceland [(Switch)](https://www.nintendo.com/games/detail/spaceland-switch/)
-- Bulletstorm: Duke of Switch Edition [(switch)](https://www.nintendo.com/games/detail/bulletstorm-duke-of-switch-edition/)
 - Cat Quest II [(switch)](https://www.nintendo.com/games/detail/cat-quest-2-switch/)
 - Lovecraft's Untold Stories [(switch)](https://www.nintendo.com/games/detail/lovecrafts-untold-stories-switch/)
 - Shrouded Isle [(www)](http://www.kitfoxgames.com/shrouded-isle/) [(switch)](https://www.nintendo.com/games/detail/the-shrouded-isle-switch)
 - Gods [(www)](https://www.robotriotgames.com/gods_remastered.html) [(switch)](https://www.nintendo.com/games/detail/gods-remastered-switch)
 - Wolfenstein II: The New Colossus [(switch)](https://www.nintendo.com/games/detail/wolfenstein-ii-the-new-colossus-switch)
-- Dead Cells [(switch)](https://www.nintendo.com/games/detail/dead-cells-switch)
 - Dungeon Stars [(switch)](https://www.nintendo.com/games/detail/dungeon-stars-switch)
-- Moonlighter [(www)](http://moonlighterthegame.com/)
 - Dungeon Rushers [(www)](http://dungeon-rushers.com/en/index-en/) [(switch)](https://www.nintendo.com/games/detail/dungeon-rushers-switch)
 - Nine Parchments [(switch)](https://www.nintendo.com/games/detail/nine-parchments-switch)
 - Lumo [(switch)](https://www.nintendo.com/games/detail/lumo-switch)
-- Carcassonne [(www)](http://www.asmodee-digital.com/en/carcassonne/) [(switch)](https://www.nintendo.com/games/detail/carcassonne-switch)
-- Catan Universe [(switch)](https://www.nintendo.com/games/detail/catan-switch/)
 
 ### Nintendo Switch - Games That I Want
 
+- Bulletstorm: Duke of Switch Edition [(switch)](https://www.nintendo.com/games/detail/bulletstorm-duke-of-switch-edition/)
 - Immortal Planet [(switch)](https://www.nintendo.com/games/detail/immortal-planet-switch/)
 - Monster Slayers [(switch)](https://www.nintendo.com/games/detail/monster-slayers-switch)
 - Sakuna: Of Rice and Ruin [(switch)](https://www.nintendo.com/games/detail/sakuna-of-rice-and-ruin-switch/)
 - Children of Morta [(switch)](https://www.nintendo.com/games/detail/children-of-morta-switch/)
-- Asphalt 9: Legends [(switch)](https://www.nintendo.com/games/detail/asphalt-9-legends-switch/)
 - Sparklite [(switch)](https://www.nintendo.com/games/detail/sparklite-switch/)
 - Risk of Rain 2 [(switch)](https://www.nintendo.com/games/detail/risk-of-rain-2-switch/)
 - Dungeon Defenders: Awakened [(switch)](https://www.nintendo.com/games/detail/dungeon-defenders-awakened-switch/)
@@ -165,6 +163,7 @@
 
 ### Nintendo Switch - Games that I Have/Own
 
+- Asphalt 9: Legends [(switch)](https://www.nintendo.com/games/detail/asphalt-9-legends-switch/)
 - Cat Quest [(switch)](https://www.nintendo.com/games/detail/cat-quest-switch/)
 - Battle Chasers: Nightwar [(www)](https://www.battlechasers.com)
 - Diablo III: Eternal Collection [(www)](https://us.diablo3.com/en/switch)
