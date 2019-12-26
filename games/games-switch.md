@@ -10,6 +10,7 @@
 
 ### Nintendo Switch - Recently Added to Collection
 
+- The Keep [(switch)](https://www.nintendo.com/games/detail/the-keep-switch/)
 - Transistor [(switch)](https://www.nintendo.com/games/detail/transistor-switch)
 - The Flame In The Flood [(switch)](https://www.nintendo.com/games/detail/the-flame-in-the-flood-complete-edition-switch)
 - Asphalt 9: Legends [(switch)](https://www.nintendo.com/games/detail/asphalt-9-legends-switch/)
@@ -174,6 +175,7 @@
 - Doom II [(switch)](https://www.nintendo.com/games/detail/doom-2-classic-switch/)
 - Torchlight II [(switch)](https://www.nintendo.com/games/detail/torchlight-2-switch/)
 - The Flame In The Flood [(switch)](https://www.nintendo.com/games/detail/the-flame-in-the-flood-complete-edition-switch)
+- The Keep [(switch)](https://www.nintendo.com/games/detail/the-keep-switch/)
 - Transistor [(switch)](https://www.nintendo.com/games/detail/transistor-switch)
 
 ### Nintendo Switch - Links
