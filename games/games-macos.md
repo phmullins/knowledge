@@ -1,20 +1,26 @@
-## MacOS
+## macOS
 
-### MacOS - All-time Favorite Games
+I know what you're thinking, but gaming on macOS *is* getting better these days. The platform might not have access to
+Microsoft's DirectX graphics runtime but it does have Apple's [Metal](https://developer.apple.com/metal/) graphics API 
+and the later is slowly proving itself more than capable of providing game developers everything needed to create games 
+and/or port them.
+
+### macOS - All-time Favorite Games
 
 - Black Crypt (Amiga)
-- Borderlands 2 (MacOS)
-- Diablo III (MacOS)
+- Borderlands 2 (macOS)
+- Diablo III (macOS)
 - Dungeon Master (Amiga)
 - Eye of The Beholder (Amiga)
 - Half-Life (PC)
 - Doom & Doom II (PC)
-- Torchlight (MacOS)
+- Torchlight (macOS)
 - Unreal (PC)
 - Unreal Tournament (PC)
 
-### MacOS - Recently Added to Collection
+### macOS - Games Recently Added to Collection
 
+- FTL: Advanced Edition [(www)](https://subsetgames.com/ftl.html)
 - Warhammer 40,000: Mechanicus [(GOG)](https://www.gog.com/game/warhammer_40000_mechanicus)
 - Frostpunk [(gog)](https://www.gog.com/game/frostpunk)
 - Metro: 2033 Redux [(epic)](https://www.epicgames.com/store/en-US/product/metro-2033-redux/home)
@@ -33,7 +39,7 @@
 - Endless Space 2 [(www)](https://www.endless-space.com)
 - We Are The Dwarves [(www)](http://wearethedwarves.com/press/#description)
 
-### MacOS - Most Wanted Games
+### macOS - Most Wanted Games
 
 - Diablo IV [(www)](https://diablo.blizzard.com/en-us/) (Unreleased)
 - Borderlands 3 [(www)](https://boderlands.com)
@@ -51,7 +57,7 @@
 - Shadow Tactics: Blades of the Shogun [(www)](http://www.mimimi-productions.de/shadow_tactics_micro/)
 - Warhammer 40,000: Dawn of War III [(www)](https://www.dawnofwar.com)
 
-### MacOS - Games That I Want
+### macOS - Wanted Games List
 
 - Rezrog [(gog)](https://www.gog.com/game/rezrog)
 - Tyranny - Gold Edition [(gog)](https://www.gog.com/game/tyranny_gold_edition)
@@ -67,7 +73,9 @@
 - Hacknet Ultimate Edition [(gog)](https://www.gog.com/game/hacknet_ultimate_edition)
 - Space Haven [(gog)](https://www.gog.com/game/space_haven)
 
-### MacOS - Games I Have/Own
+### macOS - Games Collections
+
+A list of games that I currently own or have access to.
 
 - Bastion
 - Blackguards
@@ -89,6 +97,7 @@
 - Eye of The Beholder III
 - FEZ
 - Fight the Dragon
+- FTL: Advanced Edition [(www)](https://subsetgames.com/ftl.html)
 - Hacknet
 - Half-Life
 - Half-Life 2
@@ -121,7 +130,7 @@
 - World of Goo [(epic)](https://www.epicgames.com/store/en-US/product/world-of-goo/home)
 - XCOM: Enemy Unknown
 
-### MacOS - Links
+### macOS - Links
 
 - [GOG](https://www.gog.com/)
 - [Steam](https://store.steampowered.com/)
