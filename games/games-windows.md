@@ -10,6 +10,7 @@
 
 ### Windows/PC - Recently Added to Collection
 
+- Shadow Tactics: Blades of the Shogun
 - Frostpunk [(gog)](https://www.gog.com/game/frostpunk)
 
 ### Windows/PC - Most Wanted Games
