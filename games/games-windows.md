@@ -10,6 +10,7 @@
 
 ### Windows/PC - Recently Added to Collection
 
+- The Talos Principle
 - Shadow Tactics: Blades of the Shogun
 - Frostpunk [(gog)](https://www.gog.com/game/frostpunk)
 
