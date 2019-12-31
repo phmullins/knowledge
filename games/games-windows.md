@@ -10,8 +10,9 @@
 
 ### Windows/PC - Recently Added to Collection
 
-- The Talos Principle
-- Shadow Tactics: Blades of the Shogun
+- Tower of Time [(gog)](https://www.gog.com/game/tower_of_time)
+- The Talos Principle [(epic)](https://www.epicgames.com/store/en-US/product/the-talos-principle/home)
+- Shadow Tactics: Blades of the Shogun [(epic)](https://www.epicgames.com/store/en-US/product/shadow-tactics/home)
 - Frostpunk [(gog)](https://www.gog.com/game/frostpunk)
 
 ### Windows/PC - Most Wanted Games
