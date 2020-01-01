@@ -7,16 +7,9 @@ and/or port them.
 
 ### macOS - All-time Favorite Games
 
-- Black Crypt (Amiga)
 - Borderlands 2 (macOS)
 - Diablo III (macOS)
-- Dungeon Master (Amiga)
-- Eye of The Beholder (Amiga)
-- Half-Life (PC)
-- Doom & Doom II (PC)
 - Torchlight (macOS)
-- Unreal (PC)
-- Unreal Tournament (PC)
 
 ### macOS - Games Recently Added to Collection
 
