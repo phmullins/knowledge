@@ -14,6 +14,7 @@
 - The Talos Principle [(epic)](https://www.epicgames.com/store/en-US/product/the-talos-principle/home)
 - Shadow Tactics: Blades of the Shogun [(epic)](https://www.epicgames.com/store/en-US/product/shadow-tactics/home)
 - Frostpunk [(gog)](https://www.gog.com/game/frostpunk)
+- Mutant Year Zero: Road to Eden [(gog)](https://www.gog.com/game/mutant_year_zero_road_to_eden)
 
 ### Windows/PC - Most Wanted Games
 

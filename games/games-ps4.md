@@ -19,7 +19,8 @@ maybe I only prefer black and dark blue versus black and forest green. Who's to 
 
 ### PlayStation 4 - Recently Added to Collection
 
-- Battlefield I [(ps4)](https://www.playstation.com/en-us/games/battlefield-1-ps4/)
+- Death Stranding [(ps4)](https://www.playstation.com/en-us/games/death-stranding-ps4/)
+- Battlefield 1 [(ps4)](https://www.playstation.com/en-us/games/battlefield-1-ps4/)
 - Call of Duty: WWII [(ps4)](https://www.playstation.com/en-us/games/call-of-duty-wwii-ps4/)
 - Doom (2016) [(www)](https://youtu.be/SgSrpnW0EmU)
 - Borderlands 3 [(www)](https://borderlands.com/en-US/)
@@ -36,7 +37,6 @@ maybe I only prefer black and dark blue versus black and forest green. Who's to 
 ### PlayStation 4 - Most Wanted Games
 
 - Diablo IV [(www)](https://diablo.blizzard.com/en-us/) (Unreleased)
-- Death Stranding [(ps4)](https://www.playstation.com/en-us/games/death-stranding-ps4/)
 - Cyberpunk 2077 [(www)](https://www.cyberpunk.net/en/)
 - Yaga [(www)](https://yaga-game.com/)
 - Mutant Year Zero: Road to Eden [(ps4)](https://www.playstation.com/en-us/games/mutant-year-zero-road-to-eden-ps4/) [(www)](https://www.mutantyearzero.com)
@@ -64,9 +64,8 @@ maybe I only prefer black and dark blue versus black and forest green. Who's to 
 
 ## PlayStation 4 - Games that I want
 
+- Battlefield V [(ps4)](https://www.playstation.com/en-us/games/battlefield-v-ps4/)
 - Destiny 1: The Collection [(ps4)](https://www.playstation.com/en-us/games/destiny-ps4/)
-- Ghost of Tsushima [(ps4)](https://www.playstation.com/en-us/games/ghost-of-tsushima-ps4/) [(www)](https://www.suckerpunch.com/category/games/ghost-of-tsushima/)
-- Sekiro: Shadows Die Twice [(ps4)](https://www.playstation.com/en-us/games/sekiro-shadows-die-twice-ps4/) - [(www)](https://www.sekirothegame.com/)
 - Alienation [(YouTube)](https://youtu.be/AaJ1YoSHATE)
 - Helldivers: A New Hell Edition [(YouTube)](https://youtu.be/qKrSiKSNwNg)
 - Helldivers [(www)](http://arrowheadgamestudios.com/games/helldivers/)
@@ -78,16 +77,11 @@ maybe I only prefer black and dark blue versus black and forest green. Who's to 
 - Dishonored: Definitive Edition [(ps4)](https://www.playstation.com/en-us/games/dishonored-definitive-edition-ps4/)
 - Dishonored 2 [(ps4)](https://www.playstation.com/en-us/games/dishonored-2-ps4/)
 - Dishonored: Death of the Outsider [(ps4)](https://www.playstation.com/en-us/games/dishonored-death-of-the-outsider-ps4/)
-- Far Cry: New Dawn [(ps4)](https://www.playstation.com/en-us/games/far-cry-new-dawn-ps4/) - [(www)](https://far-cry.ubisoft.com/game/en-us/home)
-- Ghost of A Tale [(www)](https://www.ghostofatale.com/)
 - Mad Max [(ps4)](https://www.playstation.com/en-us/games/mad-max-ps4/)
-- Middle-Earth: Shadow of Mordor (Game of the Year) [(ps4)](https://www.playstation.com/en-us/games/middle-earth-shadow-of-mordor-game-of-the-year-edition-ps4/)
-- Middle-Earth: Shadow of War [(ps4)](https://www.playstation.com/en-us/games/middle-earth-shadow-of-war-ps4/)
 - Tom Clancy’s Ghost Recon Wildlands [(ps4)](https://www.playstation.com/en-us/games/tom-clancys-ghost-recon-wildlands-ps4/)
 - Watch Dogs 2 [(ps4)](https://www.playstation.com/en-us/games/watch-dogs-2-ps4/)
 - Wolfenstein: The New Order [(ps4)](https://www.playstation.com/en-us/games/wolfenstein-the-new-order-ps4/)
 - Wolfenstein II: The New Colossus [(ps4)](https://www.playstation.com/en-us/games/wolfenstein-ii-the-new-colossus-ps4/)
-- Battlefield V [(ps4)](https://www.playstation.com/en-us/games/battlefield-v-ps4/)
 - Call of Duty: Advanced Warfare [(ps4)](https://www.playstation.com/en-us/games/call-of-duty-advanced-warfare-ps4/)
 - Call of Duty: Black Ops III [(ps4)](https://www.playstation.com/en-us/games/call-of-duty-black-ops-iii-ps4/)
 - Call of Duty: Black Ops 4 [(ps4)](https://www.playstation.com/en-us/games/call-of-duty-black-ops-4-ps4/)
@@ -97,10 +91,8 @@ maybe I only prefer black and dark blue versus black and forest green. Who's to 
 - A Plague Tale: Innocence - [(www)](http://aplaguetale.com/)
 - Biomutant - [(www)](https://biomutant.com/)
 - BioShock: The Collection [(ps4)](https://www.playstation.com/en-us/games/bioshock-the-collection-ps4/)
-- Overwatch: Legendary Edition [(ps4)](https://www.playstation.com/en-us/games/overwatch-legendary-edition-ps4/)
 - Shadow of the Colossus [(ps4)](https://www.playstation.com/en-us/games/shadow-of-the-colossus-ps4/)
 - The Mage's Tale [(ps4)](https://www.playstation.com/en-us/games/the-mages-tale-ps4/) - [(www)](https://www.inxile-entertainment.com/magestale) (PSVR)
-- XING: The Land Beyond [(ps4)](https://www.playstation.com/en-us/games/xing-the-land-beyond-ps4/) - [(www)](http://xingthegame.com/) (Beth) (PSVR)
 
 ## PlayStation 4 - Games that I Have/Own
 
@@ -109,18 +101,19 @@ maybe I only prefer black and dark blue versus black and forest green. Who's to 
 - Assassin's Creed IV - Black Flag [(www)](https://www.ubisoft.com/en-us/game/assassins-creed-iv-black-flag/)
 - Batman: Arkham Asylum [(www)](https://en.wikipedia.org/wiki/Batman:_Arkham_Asylum)
 - Batman: Arkham Knight [(www)](https://www.batmanarkhamknight.com/)
-- Battlefield I [(ps4)](https://www.playstation.com/en-us/games/battlefield-1-ps4/)
+- Battlefield 1 [(ps4)](https://www.playstation.com/en-us/games/battlefield-1-ps4/)
 - Borderlands: Handsome Jack Collection [(www)](https://www.gearboxsoftware.com/game/borderlands-the-handsome-collection/)
 - Borderlands 3 [(www)](https://borderlands.com/en-US/)
 - Call of Duty: Ghosts [(www)](https://www.callofduty.com/ghosts/)
 - Call of Duty: Infinite Warfare [(www)](https://www.callofduty.com/infinitewarfare)
 - Call of Duty: WWII [(ps4)](https://www.playstation.com/en-us/games/call-of-duty-wwii-ps4/)
 - Child of Light [(www)](https://www.ubisoft.com/en-us/game/child-of-light/)
+- Death Stranding [(ps4)](https://www.playstation.com/en-us/games/death-stranding-ps4/)
 - Destiny 2: Forsaken [(ps4)](https://www.playstation.com/en-us/games/destiny-2-ps4/) 
 - Detroit Become Human [(ps4)](https://www.playstation.com/en-us/games/detroit-become-human-ps4/)
 - Deus Ex: Mankind Divided [(www)](https://deusex.square-enix-games.com/game/dx-md)
 - Diablo III: Eternal Collection [(www)](https://us.diablo3.com/en/)
-- DOOM [(www)](https://bethesda.net/en/game/doom)
+- DOOM (2016) [(www)](https://bethesda.net/en/game/doom)
 - EVE: Valkyrie – Warzone [(www)](https://www.evevalkyrie.com/)
 - Fallout 4 [(wwww)](https://fallout.bethesda.net/en/games/fallout-4)
 - Fallout Shelter [(www)](https://www.falloutshelter.com/)
