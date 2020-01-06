@@ -22,10 +22,12 @@
 
 ### Windows/PC - Games That I Want
 
+- Cyberpunk 2077 [(gog)](https://www.gog.com/game/cyberpunk_2077)
 - Rebel Galaxy Outlaw [(www)](https://rebel-galaxy.com/)
 
 ### Windows/PC - Games I Have/Own
 
+- Batman: Arkham Asylum (Game of the Year Edition) [(epic)](https://www.epicgames.com/store/en-US/product/batman-arkham-asylum/home)
 - Destiny 2
 - Doom
 - Doom II
