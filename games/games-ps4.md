@@ -19,36 +19,23 @@ maybe I only prefer black and dark blue versus black and forest green. Who's to 
 
 ### PlayStation 4 - Recently Added to Collection
 
+- A Plague Tale: Innocence [(www)](http://aplaguetale.com/)
 - Death Stranding [(ps4)](https://www.playstation.com/en-us/games/death-stranding-ps4/)
 - Battlefield 1 [(ps4)](https://www.playstation.com/en-us/games/battlefield-1-ps4/)
 - Call of Duty: WWII [(ps4)](https://www.playstation.com/en-us/games/call-of-duty-wwii-ps4/)
 - Doom (2016) [(www)](https://youtu.be/SgSrpnW0EmU)
 - Borderlands 3 [(www)](https://borderlands.com/en-US/)
-- Generation Zero [(ps4)](https://www.playstation.com/en-us/games/generation-zero-ps4/) [(www)](https://generationzero.com/en/)
-- Space Hulk: Tactics [(www)](http://spacehulk-tactics.com/)
-- Sniper Elite 4 [(www)](https://www.sniperelite4.com)
-- WipEout Omega Collection [(ps4)](https://www.playstation.com/en-us/games/wipeout-omega-collection-ps4/)
-- Destiny 2: Forsaken [(ps4)](https://www.playstation.com/en-us/games/destiny-2-ps4/) 
-- Borderlands: Handsome Jack Collection [(www)](https://www.gearboxsoftware.com/game/borderlands-the-handsome-collection/)
-- Detroit Become Human [(ps4)](https://www.playstation.com/en-us/games/detroit-become-human-ps4/)
-- We Are The Dwarves [(www)](http://wearethedwarves.com/press/#description)
-- Star Wars: Battlefront II [(www)](https://www.ea.com/games/starwars/battlefront/battlefront-2)
 
 ### PlayStation 4 - Most Wanted Games
 
 - Diablo IV [(www)](https://diablo.blizzard.com/en-us/) (Unreleased)
 - Cyberpunk 2077 [(www)](https://www.cyberpunk.net/en/)
-- Yaga [(www)](https://yaga-game.com/)
 - Mutant Year Zero: Road to Eden [(ps4)](https://www.playstation.com/en-us/games/mutant-year-zero-road-to-eden-ps4/) [(www)](https://www.mutantyearzero.com)
 - Achtung! Cthulhu Tactics [(ps4)](https://www.playstation.com/en-us/games/achtung-cthulhu-tactics-ps4/)
 - Frostpunk [(ps4)](https://store.playstation.com/en-us/product/UP4361-CUSA15716_00-FROSTPUNKGAME000)
 - Rage 2 [(ps4)](https://www.playstation.com/en-us/games/rage-2-ps4/) [(www)](https://bethesda.net/en/game/rage2)
 - Doom Eternal [(www)](https://bethesda.net/en/game/doom)
-- A Plague Tale: Innocence [(ps4)](https://www.playstation.com/en-us/games/aplague-tale-innocence-ps4/)
-- Fallout 76 [(ps4)](https://www.playstation.com/en-us/games/fallout-76-ps4/) [(www)](https://fallout.bethesda.net/en/games/fallout-76)
-- Anthem [(ps4)](https://www.playstation.com/en-us/games/anthem-ps4/)
 - Beyond Good and Evil 2 [(www)](https://beyondgoodandevil.ubisoft.com/en-us/)
-- Wartile [(ps4)](https://www.playstation.com/en-us/games/wartile-ps4/) [(www)](http://www.wartile.com/) 
 - Overkill's The Walking Dead [(ps4)](https://www.playstation.com/en-us/games/overkills-the-walking-dead-ps4/)
 - Skull & Bones [(www)](https://skullandbones.ubisoft.com/game/en-us/home/index.aspx)
 - Elite Dangerous: The Legendary Edition [(ps4)](https://www.playstation.com/en-us/games/elite-dangerous-ps4/) [(www)](https://www.elitedangerous.com/)
@@ -64,6 +51,7 @@ maybe I only prefer black and dark blue versus black and forest green. Who's to 
 
 ## PlayStation 4 - Games that I want
 
+- Yaga [(www)](https://yaga-game.com/)
 - Battlefield V [(ps4)](https://www.playstation.com/en-us/games/battlefield-v-ps4/)
 - Destiny 1: The Collection [(ps4)](https://www.playstation.com/en-us/games/destiny-ps4/)
 - Alienation [(YouTube)](https://youtu.be/AaJ1YoSHATE)
@@ -88,7 +76,6 @@ maybe I only prefer black and dark blue versus black and forest green. Who's to 
 - Metro Exodus [(ps4)](https://www.playstation.com/en-us/games/metro-exodus-ps4/) - [(www)](https://www.metrothegame.com/en-us/)
 - Overkill's The Walking Dead [(ps4)](https://www.playstation.com/en-us/games/overkills-the-walking-dead-ps4/)
 - Skull & Bones - [(www)](https://skullandbones.ubisoft.com/game/en-us/home/index.aspx)
-- A Plague Tale: Innocence - [(www)](http://aplaguetale.com/)
 - Biomutant - [(www)](https://biomutant.com/)
 - BioShock: The Collection [(ps4)](https://www.playstation.com/en-us/games/bioshock-the-collection-ps4/)
 - Shadow of the Colossus [(ps4)](https://www.playstation.com/en-us/games/shadow-of-the-colossus-ps4/)
@@ -96,6 +83,7 @@ maybe I only prefer black and dark blue versus black and forest green. Who's to 
 
 ## PlayStation 4 - Games that I Have/Own
 
+- A Plague Tale: Innocence [(www)](http://aplaguetale.com/)
 - Another World [(www)](https://www.anotherworld.fr/anotherworld_uk/)
 - Apex Legends [(www)](https://www.ea.com/games/apex-legends)
 - Assassin's Creed IV - Black Flag [(www)](https://www.ubisoft.com/en-us/game/assassins-creed-iv-black-flag/)
