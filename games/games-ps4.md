@@ -19,6 +19,7 @@ maybe I only prefer black and dark blue versus black and forest green. Who's to 
 
 ### PlayStation 4 - Recently Added to Collection
 
+- Battlefield V [(www)](https://www.ea.com/games/battlefield/battlefield-5)
 - A Plague Tale: Innocence [(www)](http://aplaguetale.com/)
 - Death Stranding [(ps4)](https://www.playstation.com/en-us/games/death-stranding-ps4/)
 - Battlefield 1 [(ps4)](https://www.playstation.com/en-us/games/battlefield-1-ps4/)
@@ -52,7 +53,6 @@ maybe I only prefer black and dark blue versus black and forest green. Who's to 
 ## PlayStation 4 - Games that I want
 
 - Yaga [(www)](https://yaga-game.com/)
-- Battlefield V [(ps4)](https://www.playstation.com/en-us/games/battlefield-v-ps4/)
 - Destiny 1: The Collection [(ps4)](https://www.playstation.com/en-us/games/destiny-ps4/)
 - Alienation [(YouTube)](https://youtu.be/AaJ1YoSHATE)
 - Helldivers: A New Hell Edition [(YouTube)](https://youtu.be/qKrSiKSNwNg)
@@ -90,6 +90,7 @@ maybe I only prefer black and dark blue versus black and forest green. Who's to 
 - Batman: Arkham Asylum [(www)](https://en.wikipedia.org/wiki/Batman:_Arkham_Asylum)
 - Batman: Arkham Knight [(www)](https://www.batmanarkhamknight.com/)
 - Battlefield 1 [(ps4)](https://www.playstation.com/en-us/games/battlefield-1-ps4/)
+- Battlefield V [(www)](https://www.ea.com/games/battlefield/battlefield-5)
 - Borderlands: Handsome Jack Collection [(www)](https://www.gearboxsoftware.com/game/borderlands-the-handsome-collection/)
 - Borderlands 3 [(www)](https://borderlands.com/en-US/)
 - Call of Duty: Ghosts [(www)](https://www.callofduty.com/ghosts/)
