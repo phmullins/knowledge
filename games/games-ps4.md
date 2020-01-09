@@ -19,6 +19,7 @@ maybe I only prefer black and dark blue versus black and forest green. Who's to 
 
 ### PlayStation 4 - Recently Added to Collection
 
+- Anthem [(www)](https://www.ea.com/games/anthem)
 - Battlefield V [(www)](https://www.ea.com/games/battlefield/battlefield-5)
 - A Plague Tale: Innocence [(www)](http://aplaguetale.com/)
 - Death Stranding [(ps4)](https://www.playstation.com/en-us/games/death-stranding-ps4/)
@@ -85,6 +86,7 @@ maybe I only prefer black and dark blue versus black and forest green. Who's to 
 
 - A Plague Tale: Innocence [(www)](http://aplaguetale.com/)
 - Another World [(www)](https://www.anotherworld.fr/anotherworld_uk/)
+- Anthem [(www)](https://www.ea.com/games/anthem)
 - Apex Legends [(www)](https://www.ea.com/games/apex-legends)
 - Assassin's Creed IV - Black Flag [(www)](https://www.ubisoft.com/en-us/game/assassins-creed-iv-black-flag/)
 - Batman: Arkham Asylum [(www)](https://en.wikipedia.org/wiki/Batman:_Arkham_Asylum)
