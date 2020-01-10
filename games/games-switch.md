@@ -10,6 +10,7 @@
 
 ### Nintendo Switch - Recently Added to Collection
 
+- Mudrunner: American Wilds [(switch)](https://www.nintendo.com/games/detail/mudrunner-american-wilds-switch/)
 - The Keep [(switch)](https://www.nintendo.com/games/detail/the-keep-switch/)
 - Transistor [(switch)](https://www.nintendo.com/games/detail/transistor-switch)
 - The Flame In The Flood [(switch)](https://www.nintendo.com/games/detail/the-flame-in-the-flood-complete-edition-switch)
