@@ -13,6 +13,7 @@ and/or port them.
 
 ### macOS - Games Recently Added to Collection
 
+- Sundered: Eldritch Edition [(Epic)](https://www.epicgames.com/store/en-US/product/sundered-eldritch-edition/home)
 - FTL: Advanced Edition [(www)](https://subsetgames.com/ftl.html)
 - Warhammer 40,000: Mechanicus [(GOG)](https://www.gog.com/game/warhammer_40000_mechanicus)
 - Frostpunk [(gog)](https://www.gog.com/game/frostpunk)
@@ -112,6 +113,7 @@ A list of games that I currently own or have access to.
 - Sid Meier's Civilization: Beyond Earth
 - Sid Meier's Starships [(www)](https://www.2k.com/en-US/game/sid-meiers-starships/)
 - Space Hulk
+- Sundered: Eldritch Edition [(Epic)](https://www.epicgames.com/store/en-US/product/sundered-eldritch-edition/home)
 - Sword Coast: Legends
 - Torchlight
 - Torchlight II
