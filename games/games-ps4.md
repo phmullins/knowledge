@@ -26,7 +26,6 @@ maybe I only prefer black and dark blue versus black and forest green. Who's to 
 - Battlefield 1 [(ps4)](https://www.playstation.com/en-us/games/battlefield-1-ps4/)
 - Call of Duty: WWII [(ps4)](https://www.playstation.com/en-us/games/call-of-duty-wwii-ps4/)
 - Doom (2016) [(www)](https://youtu.be/SgSrpnW0EmU)
-- Borderlands 3 [(www)](https://borderlands.com/en-US/)
 
 ### PlayStation 4 - Most Wanted Games
 
