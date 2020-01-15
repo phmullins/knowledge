@@ -118,8 +118,6 @@ A list of games that I currently own or have access to.
 - Torchlight
 - Torchlight II
 - Transistor 
-- Unreal: Gold
-- Unreal Tournament (GOTY)
 - We Are The Dwarves [(www)](http://wearethedwarves.com/press/#description)
 - Warhammer Quest
 - World of Goo [(epic)](https://www.epicgames.com/store/en-US/product/world-of-goo/home)
