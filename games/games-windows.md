@@ -37,6 +37,8 @@
 - Legend of Grimrock
 - Legend of Grimrock 2
 - Minecraft
+- Unreal: Gold
+- Unreal Tournament (GOTY)
 
 ### Windows/PC - Links
 
