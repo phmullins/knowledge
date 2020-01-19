@@ -19,19 +19,18 @@ maybe I only prefer black and dark blue versus black and forest green. Who's to 
 
 ### PlayStation 4 - Recently Added to Collection
 
+- Mutant Year Zero: Road to Eden [(ps4)](https://www.playstation.com/en-us/games/mutant-year-zero-road-to-eden-ps4/) [(www)](https://www.mutantyearzero.com)
 - Anthem [(www)](https://www.ea.com/games/anthem)
 - Battlefield V [(www)](https://www.ea.com/games/battlefield/battlefield-5)
 - A Plague Tale: Innocence [(www)](http://aplaguetale.com/)
 - Death Stranding [(ps4)](https://www.playstation.com/en-us/games/death-stranding-ps4/)
 - Battlefield 1 [(ps4)](https://www.playstation.com/en-us/games/battlefield-1-ps4/)
 - Call of Duty: WWII [(ps4)](https://www.playstation.com/en-us/games/call-of-duty-wwii-ps4/)
-- Doom (2016) [(www)](https://youtu.be/SgSrpnW0EmU)
 
 ### PlayStation 4 - Most Wanted Games
 
 - Diablo IV [(www)](https://diablo.blizzard.com/en-us/) (Unreleased)
 - Cyberpunk 2077 [(www)](https://www.cyberpunk.net/en/)
-- Mutant Year Zero: Road to Eden [(ps4)](https://www.playstation.com/en-us/games/mutant-year-zero-road-to-eden-ps4/) [(www)](https://www.mutantyearzero.com)
 - Achtung! Cthulhu Tactics [(ps4)](https://www.playstation.com/en-us/games/achtung-cthulhu-tactics-ps4/)
 - Frostpunk [(ps4)](https://store.playstation.com/en-us/product/UP4361-CUSA15716_00-FROSTPUNKGAME000)
 - Rage 2 [(ps4)](https://www.playstation.com/en-us/games/rage-2-ps4/) [(www)](https://bethesda.net/en/game/rage2)
@@ -115,6 +114,7 @@ maybe I only prefer black and dark blue versus black and forest green. Who's to 
 - Horizon Zero Dawn [(www)](http://HorizonZeroDawn.com)
 - Horizon Zero Dawn: The Frozen Wilds [(ps4)](https://www.playstation.com/en-us/games/horizon-zero-dawn-ps4/the-frozen-wilds-dlc/)
 - Inside [(www)](https://playdead.com/games/inside/)
+- Mutant Year Zero: Road to Eden [(ps4)](https://www.playstation.com/en-us/games/mutant-year-zero-road-to-eden-ps4/) [(www)](https://www.mutantyearzero.com)
 - No Man's Sky [(www)](https://www.nomanssky.com/)
 - Space Hulk: Tactics [(www)](http://spacehulk-tactics.com/)
 - Star Wars: Battlefront I [(www)](https://www.ea.com/games/star-wars/star-wars-battlefront)
