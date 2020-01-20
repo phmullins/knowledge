@@ -65,7 +65,6 @@ maybe I only prefer black and dark blue versus black and forest green. Who's to 
 - Dishonored 2 [(ps4)](https://www.playstation.com/en-us/games/dishonored-2-ps4/)
 - Dishonored: Death of the Outsider [(ps4)](https://www.playstation.com/en-us/games/dishonored-death-of-the-outsider-ps4/)
 - Mad Max [(ps4)](https://www.playstation.com/en-us/games/mad-max-ps4/)
-- Tom Clancy’s Ghost Recon Wildlands [(ps4)](https://www.playstation.com/en-us/games/tom-clancys-ghost-recon-wildlands-ps4/)
 - Watch Dogs 2 [(ps4)](https://www.playstation.com/en-us/games/watch-dogs-2-ps4/)
 - Wolfenstein: The New Order [(ps4)](https://www.playstation.com/en-us/games/wolfenstein-the-new-order-ps4/)
 - Wolfenstein II: The New Colossus [(ps4)](https://www.playstation.com/en-us/games/wolfenstein-ii-the-new-colossus-ps4/)
