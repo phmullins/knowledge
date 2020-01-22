@@ -41,7 +41,6 @@ and/or port them.
 - Phoenix Point [(www)](https://phoenixpoint.info/)
 - Achtung! Cthulhu Tactics [(www)](https://store.steampowered.com/app/874460/Achtung_Cthulhu_Tactics/)
 - Rebel Galaxy Outlaw [(www)](https://rebel-galaxy.com/)
-- Train Valley 2 [(www)](http://train-valley.com/tv2.html) [(GOG)](https://www.gog.com/game/train_valley_2)
 - Nowhere Prophet [(www)](http://www.noprophet.com/)
 - Artifact [(www)](https://store.steampowered.com/app/583950/Artifact/)
 - Book of Demons [(www)](https://www.return2games.com)
