@@ -74,7 +74,6 @@ maybe I only prefer black and dark blue versus black and forest green. Who's to 
 - Metro Exodus [(ps4)](https://www.playstation.com/en-us/games/metro-exodus-ps4/) - [(www)](https://www.metrothegame.com/en-us/)
 - Overkill's The Walking Dead [(ps4)](https://www.playstation.com/en-us/games/overkills-the-walking-dead-ps4/)
 - Skull & Bones - [(www)](https://skullandbones.ubisoft.com/game/en-us/home/index.aspx)
-- Biomutant - [(www)](https://biomutant.com/)
 - BioShock: The Collection [(ps4)](https://www.playstation.com/en-us/games/bioshock-the-collection-ps4/)
 - Shadow of the Colossus [(ps4)](https://www.playstation.com/en-us/games/shadow-of-the-colossus-ps4/)
 - The Mage's Tale [(ps4)](https://www.playstation.com/en-us/games/the-mages-tale-ps4/) - [(www)](https://www.inxile-entertainment.com/magestale) (PSVR)
