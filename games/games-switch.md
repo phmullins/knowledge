@@ -2,7 +2,7 @@
 
 ### Nintendo Switch - Top 5 All-time Favorite Switch Games
 
-- Diablo III: Eternal Collection [(www)](https://us.diablo3.com/en/switch)
+- Diablo III: The Eternal Collection [(www)](https://us.diablo3.com/en/switch)
 - Torchlight II [(switch)](https://www.nintendo.com/games/detail/torchlight-2-switch/)
 - Darkest Dungeon [(www)](https://www.darkestdungeon.com)
 - The Elder Scrolls V: Skyrim [(www)](https://elderscrolls.bethesda.net/en/skyrim)
@@ -22,26 +22,26 @@
 
 ### Nintendo Switch - Most Wanted Games
 
+- Diablo IV [(www)](https://diablo.blizzard.com/en-us/) (Unreleased)
 - Rebel Galaxy Outlaw [(www)](https://rebel-galaxy.com/) (Unreleased)
+- Mutant Year Zero: Road to Eden Deluxe [(switch)](https://www.nintendo.com/games/detail/mutant-year-zero-road-to-eden-deluxe-edition-switch/) [(www)](https://www.mutantyearzero.com/#1)
 - Munchkin: Quacked Quest [(switch)](https://www.nintendo.com/games/detail/munchkin-switch/)
+- Achtung! Cthulhu Tactics [(switch)](https://www.nintendo.com/games/detail/achtung-cthulu-tactics-switch)
+- Doom (2016) [(switch)](https://www.nintendo.com/games/detail/doom-switch)
+- Wolfenstein II: The New Colossus [(switch)](https://www.nintendo.com/games/detail/wolfenstein-ii-the-new-colossus-switch)
 - Space Land [(switch)](https://www.nintendo.com/games/detail/spaceland-switch/)
 - Carcassonne [(switch)](https://www.nintendo.com/games/detail/carcassonne-switch) [(www)](http://www.asmodee-digital.com/en/carcassonne/)
 - Catan Universe [(switch)](https://www.nintendo.com/games/detail/catan-switch/)
-- Mutant Year Zero: Road to Eden Deluxe [(switch)](https://www.nintendo.com/games/detail/mutant-year-zero-road-to-eden-deluxe-edition-switch/) [(www)](https://www.mutantyearzero.com/#1)
-- Achtung! Cthulhu Tactics [(switch)](https://www.nintendo.com/games/detail/achtung-cthulu-tactics-switch)
 - Dead Cells [(switch)](https://www.nintendo.com/games/detail/dead-cells-switch)
 - Moonlighter [(www)](http://moonlighterthegame.com/)
-- Diablo IV [(www)](https://diablo.blizzard.com/en-us/) (Unreleased)
 - Yaga [(www)](https://yaga-game.com/)
 - JUMANJI: The Video Game [(switch)](https://www.nintendo.com/games/detail/jumanji-the-video-game-switch/)
 - Feudal Alloy [(www)](http://feudalalloy.com/#) [(switch)](https://www.nintendo.com/games/detail/feudal-alloy-switch)
-- Doom (2016) [(switch)](https://www.nintendo.com/games/detail/doom-switch)
 - The Legend of Zelda: Breath of the Wild [(switch)](https://www.nintendo.com/games/detail/the-legend-of-zelda-breath-of-the-wild-switch)
 - Cat Quest II [(switch)](https://www.nintendo.com/games/detail/cat-quest-2-switch/)
 - Lovecraft's Untold Stories [(switch)](https://www.nintendo.com/games/detail/lovecrafts-untold-stories-switch/)
 - Shrouded Isle [(www)](http://www.kitfoxgames.com/shrouded-isle/) [(switch)](https://www.nintendo.com/games/detail/the-shrouded-isle-switch)
 - Gods [(www)](https://www.robotriotgames.com/gods_remastered.html) [(switch)](https://www.nintendo.com/games/detail/gods-remastered-switch)
-- Wolfenstein II: The New Colossus [(switch)](https://www.nintendo.com/games/detail/wolfenstein-ii-the-new-colossus-switch)
 - Dungeon Stars [(switch)](https://www.nintendo.com/games/detail/dungeon-stars-switch)
 - Dungeon Rushers [(www)](http://dungeon-rushers.com/en/index-en/) [(switch)](https://www.nintendo.com/games/detail/dungeon-rushers-switch)
 - Nine Parchments [(switch)](https://www.nintendo.com/games/detail/nine-parchments-switch)
