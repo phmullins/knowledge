@@ -19,6 +19,7 @@ maybe I only prefer black and dark blue versus black and forest green. Who's to 
 
 ### PlayStation 4 - Recently Added to Collection
 
+- Real Farm [(ps4)](https://www.playstation.com/en-us/games/real-farm-ps4/)
 - Mutant Year Zero: Road to Eden [(ps4)](https://www.playstation.com/en-us/games/mutant-year-zero-road-to-eden-ps4/) [(www)](https://www.mutantyearzero.com)
 - Anthem [(www)](https://www.ea.com/games/anthem)
 - Battlefield V [(www)](https://www.ea.com/games/battlefield/battlefield-5)
@@ -120,6 +121,7 @@ maybe I only prefer black and dark blue versus black and forest green. Who's to 
 - The Crew [(www)](https://www.ubisoft.com/en-us/game/the-crew/)
 - The Elder Scrolls V: Skyrim [(www)](https://elderscrolls.bethesda.net/en/skyrim)
 - The Last Of Us: Remastered [(ps4)](https://www.playstation.com/en-us/games/the-last-of-us-remastered-ps4/)
+- Real Farm [(ps4)](https://www.playstation.com/en-us/games/real-farm-ps4/)
 - Sniper Elite 4 [(www)](https://www.sniperelite4.com)
 - Titanfall 2 [(ps4)](https://www.playstation.com/en-us/games/titanfall-2-ps4/)
 - Tomb Raider: www Edition [(www)](https://crystald.com/projects/tomb-raider-definitive-edition)
