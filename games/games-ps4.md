@@ -19,6 +19,7 @@ maybe I only prefer black and dark blue versus black and forest green. Who's to 
 
 ### PlayStation 4 - Recently Added to Collection
 
+- Invisible, Inc.[(ps4)](https://www.playstation.com/en-us/games/invisible-inc-console-edition-ps4/)
 - Real Farm [(ps4)](https://www.playstation.com/en-us/games/real-farm-ps4/)
 - Mutant Year Zero: Road to Eden [(ps4)](https://www.playstation.com/en-us/games/mutant-year-zero-road-to-eden-ps4/) [(www)](https://www.mutantyearzero.com)
 - Anthem [(www)](https://www.ea.com/games/anthem)
@@ -113,6 +114,7 @@ maybe I only prefer black and dark blue versus black and forest green. Who's to 
 - Horizon Zero Dawn [(www)](http://HorizonZeroDawn.com)
 - Horizon Zero Dawn: The Frozen Wilds [(ps4)](https://www.playstation.com/en-us/games/horizon-zero-dawn-ps4/the-frozen-wilds-dlc/)
 - Inside [(www)](https://playdead.com/games/inside/)
+- Invisible, Inc.[(ps4)](https://www.playstation.com/en-us/games/invisible-inc-console-edition-ps4/)
 - Mutant Year Zero: Road to Eden [(ps4)](https://www.playstation.com/en-us/games/mutant-year-zero-road-to-eden-ps4/) [(www)](https://www.mutantyearzero.com)
 - No Man's Sky [(www)](https://www.nomanssky.com/)
 - Space Hulk: Tactics [(www)](http://spacehulk-tactics.com/)
