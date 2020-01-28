@@ -20,6 +20,7 @@ maybe I only prefer black and dark blue versus black and forest green. Who's to 
 ### PlayStation 4 - Recently Added to Collection
 
 - Invisible, Inc.[(ps4)](https://www.playstation.com/en-us/games/invisible-inc-console-edition-ps4/)
+- Feist [(ps4)](https://www.playstation.com/en-us/games/feist-ps4/)
 - Real Farm [(ps4)](https://www.playstation.com/en-us/games/real-farm-ps4/)
 - Mutant Year Zero: Road to Eden [(ps4)](https://www.playstation.com/en-us/games/mutant-year-zero-road-to-eden-ps4/) [(www)](https://www.mutantyearzero.com)
 - Anthem [(www)](https://www.ea.com/games/anthem)
@@ -106,6 +107,7 @@ maybe I only prefer black and dark blue versus black and forest green. Who's to 
 - EVE: Valkyrie – Warzone [(www)](https://www.evevalkyrie.com/)
 - Fallout 4 [(wwww)](https://fallout.bethesda.net/en/games/fallout-4)
 - Fallout Shelter [(www)](https://www.falloutshelter.com/)
+- Feist [(ps4)](https://www.playstation.com/en-us/games/feist-ps4/)
 - Firewatch [(www)](http://www.firewatchgame.com/)
 - For Honor [(www)](https://forhonor.ubisoft.com/game/en-us/home/)
 - Generation Zero [(ps4)](https://www.playstation.com/en-us/games/generation-zero-ps4/) [(www)](https://generationzero.com/en/)
