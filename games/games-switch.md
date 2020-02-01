@@ -50,6 +50,7 @@
 ### Nintendo Switch - Games That I Want
 
 - Raiders of the North Sea [(switch)](https://www.nintendo.com/games/detail/raiders-of-the-north-sea-switch/)
+- Dungeon Defenders: Awakened [(switch)](https://www.nintendo.com/games/detail/dungeon-defenders-awakened-switch/)
 - Immortal Planet [(switch)](https://www.nintendo.com/games/detail/immortal-planet-switch/)
 - Monster Slayers [(switch)](https://www.nintendo.com/games/detail/monster-slayers-switch)
 - Bulletstorm: Duke of Switch Edition [(switch)](https://www.nintendo.com/games/detail/bulletstorm-duke-of-switch-edition/)
@@ -57,7 +58,6 @@
 - Children of Morta [(switch)](https://www.nintendo.com/games/detail/children-of-morta-switch/)
 - Sparklite [(switch)](https://www.nintendo.com/games/detail/sparklite-switch/) [(www)](https://www.mergegames.com/sparklite)
 - Risk of Rain 2 [(switch)](https://www.nintendo.com/games/detail/risk-of-rain-2-switch/)
-- Dungeon Defenders: Awakened [(switch)](https://www.nintendo.com/games/detail/dungeon-defenders-awakened-switch/)
 - Doom 3 [(switch)](https://www.nintendo.com/games/detail/doom-3-switch/)
 - Redeemer: Enhanced Edition [(switch)](https://www.nintendo.com/games/detail/redeemer-enhanced-edition-switch/) [(www)](http://redeemerthegame.com/)
 - Tiny Metal: Full Metal Rumble [(switch)](https://www.nintendo.com/games/detail/tiny-metal-full-metal-rumble-switch/)
