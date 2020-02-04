@@ -49,6 +49,10 @@
 
 ### Nintendo Switch - Games That I Want
 
+- Minecraft Dungeons [(www)](https://www.minecraft.net/en-us/dungeons)
+- Darksiders Genesis [(www)](http://www.airshipsyndicate.com/#dsg)
+- Northgard [(www)](http://northgard.net/)
+- Crimson Keep [(www)](https://www.mergegames.com/crimson-keep)
 - Raiders of the North Sea [(switch)](https://www.nintendo.com/games/detail/raiders-of-the-north-sea-switch/)
 - Dungeon Defenders: Awakened [(switch)](https://www.nintendo.com/games/detail/dungeon-defenders-awakened-switch/)
 - Immortal Planet [(switch)](https://www.nintendo.com/games/detail/immortal-planet-switch/)
@@ -67,7 +71,6 @@
 - Tactics V: "Obsidian Brigade" [(switch)](https://www.nintendo.com/games/detail/tactics-v-obsidian-brigade-switch/)
 - Stranded Sails Explorers of the Cursed Islands [(www)](https://www.mergegames.com/stranded-sails)
 - Lost Words [(www)](https://lostwordsgame.com/)
-- Crimson Keep [(www)](https://www.mergegames.com/crimson-keep)
 - Trine: Ultimate Collection [(www)](https://www.trine4.com)
 - Subdivision Infinity DX [(www)](https://www.blowfishstudios.com/game/si-dx)
 - Dead in Vinland - True Viking Edition [(switch)](https://www.nintendo.com/games/detail/dead-in-vinland-true-viking-edition-switch/)
@@ -77,9 +80,6 @@
 - The Elder Scrolls: Blades [(switch)](https://www.nintendo.com/games/detail/the-elder-scrolls-blades-switch/) [(www)](https://elderscrolls.bethesda.net/en/blades)
 - The Legend of Zelda: Link's Awakening [(switch)](https://www.nintendo.com/games/detail/the-legend-of-zelda-links-awakening-switch/)
 - Luigi’s Mansion 3 [(switch)](https://www.nintendo.com/games/detail/luigis-mansion-3-switch/)
-- Minecraft Dungeons [(www)](https://www.minecraft.net/en-us/dungeons)
-- Darksiders Genesis [(www)](http://www.airshipsyndicate.com/#dsg)
-- Northgard [(www)](http://northgard.net/)
 - Planescape Torment + Icewind Dale [(www)](https://store.skybound.com/products/planescape-torment-icewind-dale-enhanced-edition)
 - Baldurs Gate I/II [(www)](https://store.skybound.com/products/baldurs-gate-enhanced-edition?variant=28055151280203)
 - 30-in-1 Game Collection [(switch)](https://www.nintendo.com/games/detail/30-in-1-game-collection-switch/)
