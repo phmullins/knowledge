@@ -19,7 +19,8 @@ maybe I only prefer black and dark blue versus black and forest green. Who's to 
 
 ### PlayStation 4 - Recently Added to Collection
 
-- Invisible, Inc.[(ps4)](https://www.playstation.com/en-us/games/invisible-inc-console-edition-ps4/)
+- BioShock: The Collection
+- Invisible, Inc. [(ps4)](https://www.playstation.com/en-us/games/invisible-inc-console-edition-ps4/)
 - Feist [(ps4)](https://www.playstation.com/en-us/games/feist-ps4/)
 - Real Farm [(ps4)](https://www.playstation.com/en-us/games/real-farm-ps4/)
 - Mutant Year Zero: Road to Eden [(ps4)](https://www.playstation.com/en-us/games/mutant-year-zero-road-to-eden-ps4/) [(www)](https://www.mutantyearzero.com)
