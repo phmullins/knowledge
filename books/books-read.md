@@ -1,11 +1,16 @@
 A list of every book that I've read going back to 2003.
 
+## 2020
+
+- Armada by Ernest Cline
+
 ## 2019
 
-- Armor, by John Steakley (Currently reading)
+- Armor, by John Steakley ⭐️
 - [Ancillary Justice](https://amzn.to/2CoIOgI) (Imperial Radch, Book 1), by Ann Leckie 
-- Neuromancer, by William Gibson
+- Neuromancer, by William Gibson ⭐️
 - Deadman's Crossing by Joe R. Lansdale 
+- Introducing Markdown and Pandoc by Thomas Mailund
 
 ## 2018
 
@@ -213,4 +218,3 @@ A list of every book that I've read going back to 2003.
 - Foundation and Empire, by Isaac Asimov
 - Second Foundation, by Isaac Asimov
 - Shadows Bend, by David Barbour and Richard Raleigh
-

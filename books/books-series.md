@@ -1,4 +1,5 @@
 ## Expeditionary Force
+
 Author: Craig Alanson
 
 1. [Columbus Day](https://amzn.to/2T226jL)
@@ -9,19 +10,21 @@ Author: Craig Alanson
 6. [Mavericks](https://amzn.to/2OL0UxW)
 
 ## Galaxy's Edge
+
 Author: Jason Anspach & Nick Cole
 
-01. [Legionnaire](https://amzn.to/2DiZV5R)
-02. [Galactic Outlaws](https://amzn.to/2OH2K2v)
-03. [Kill Team](https://amzn.to/2DiM3bF)
-04. [Attack of Shadows](https://amzn.to/2T22NJT)
-05. [Sword of the Legion](https://amzn.to/2T8ERof)
-06. [Prisoners of Darkness](https://amzn.to/2FlkZv8)
-07. [Turning Point](https://amzn.to/2RQ0rfx)
-08. [Message for the Dead](https://amzn.to/2DgwjpM)
-09. [Retribution](https://amzn.to/2DiR6Jm)
+1. [Legionnaire](https://amzn.to/2DiZV5R)
+2. [Galactic Outlaws](https://amzn.to/2OH2K2v)
+3. [Kill Team](https://amzn.to/2DiM3bF)
+4. [Attack of Shadows](https://amzn.to/2T22NJT)
+5. [Sword of the Legion](https://amzn.to/2T8ERof)
+6. [Prisoners of Darkness](https://amzn.to/2FlkZv8)
+7. [Turning Point](https://amzn.to/2RQ0rfx)
+8. [Message for the Dead](https://amzn.to/2DgwjpM)
+9. [Retribution](https://amzn.to/2DiR6Jm)
 
 ## The Culture
+
 Author: Iain M. Banks
 
 1. [Consider Phelbas](https://amzn.to/2FkuISs)
@@ -36,6 +39,7 @@ Author: Iain M. Banks
 10. [The Hydrogen Sonata](https://amzn.to/2T6BVIu)
 
 ## The Expanse
+
 Author: James S. A. Corey
 
 1. [Leviathan Wakes](https://amzn.to/2DzvVnl)
@@ -48,6 +52,7 @@ Author: James S. A. Corey
 8. [Tiamat's Wrath](https://amzn.to/2qLm3OR)
 
 ## On Silver Wings
+
 Author: Evan Currie
 
 1. [On Silver Wings](https://amzn.to/2DiT3FG)
@@ -59,12 +64,14 @@ Author: Evan Currie
 7. [Open Arms](https://amzn.to/2FmQ6q7)
 
 ## Star Corpsman
+
 Author: Ian Douglas
 
 1. [Bloodstar](https://amzn.to/2Fgu4Fl)
 2. [Abyss Deep](https://amzn.to/2qJUHIL)
 
 ## Dune
+
 Author: Frank Herbert 
 
 1. [Dune](https://amzn.to/2RWqmCD)
@@ -75,6 +82,7 @@ Author: Frank Herbert
 6. [Chapterhouse: Dune](https://amzn.to/2RSrozw)
 
 ## Frontlines
+
 Author: Marko Kloos 
 
 1. [Terms of Enlistment](https://amzn.to/2DjJ7Mb)
@@ -85,6 +93,7 @@ Author: Marko Kloos
 6. [Points of Impact](https://amzn.to/2Fh2fNn)
 
 ## Imperial Radch
+
 Author: Ann Leckie
 
 - [Ancillary Justice](https://amzn.to/2CoIOgI) (Book One)
@@ -92,6 +101,7 @@ Author: Ann Leckie
 - [Ancillary Mercy](https://amzn.to/2DfYnJh) (Book Three)
 
 ## A Song of Ice and Fire
+
 Author: George R. R. Martin
 
 1. [A Game of Thrones](https://amzn.to/2z6m4Sa)
@@ -101,6 +111,7 @@ Author: George R. R. Martin
 5. [A Dance with Dragons](https://amzn.to/2qHOQUn)
 
 ## A Land Fit for Heroes
+
 Author: Richard K. Morgan 
 
 1. [The Steel Remains](https://amzn.to/2DzPJa5)
@@ -108,6 +119,7 @@ Author: Richard K. Morgan
 3. [The Dark Defiles](https://amzn.to/2DAH47i)
 
 ## Takeshi Kovacs
+
 Author: Richard K. Morgan 
 
 1. [Altered Carbon](https://amzn.to/2Dz1lKk)
@@ -115,6 +127,7 @@ Author: Richard K. Morgan
 3. [Woken Furies](https://amzn.to/2DAZMvs)
 
 ## Long Earth
+
 Author: Terry Pratchett & Stephen Baxter
 
 1. [The Long Earth](https://amzn.to/2RSsjzY)
@@ -123,7 +136,8 @@ Author: Terry Pratchett & Stephen Baxter
 4. [The Long Utpoia](https://amzn.to/2FiAgNh)
 5. [The Long Cosmos](https://amzn.to/2RPvt7c)
 
-## Old Man's War 
+## Old Man's War
+
 Author: John Scalzi
 
 1. [Old Man’s War](https://amzn.to/2T8F9LR)
@@ -135,6 +149,7 @@ Author: John Scalzi
 7. [Short fiction: “After the Coup”](https://amzn.to/2Ft3EQO)
 
 ## Hyperion Cantos
+
 Author: Dan Simmons
 
 1. [Hyperion](https://amzn.to/2OIEm0N)
@@ -143,6 +158,7 @@ Author: Dan Simmons
 4. [Rise of Endymion](https://amzn.to/2FhoWRu)
 
 ## Gears of War
+
 Author: Karen Traviss
 
 - [Gears of War: Aspho Fields](https://amzn.to/2uo2M7Y)
@@ -152,6 +168,7 @@ Author: Karen Traviss
 - [Gears of War: The Slab]()
 
 ## The Chronicles of St Mary's
+
 Author: Jodi Taylor
 
 - [Just One Damned Thing After Another](https://amzn.to/2S6XyHo) (Book One)
@@ -163,6 +180,3 @@ Author: Jodi Taylor
 - [Lies, Damned Lies, and History](https://amzn.to/2KusYoH) (Book Seven)
 - [And the Rest Is History](https://amzn.to/2DXqrTw) (Book Eight)
 - [An Argumentation of Historians](https://amzn.to/2S6hj1G) (Book Nine)
-
-
-
