@@ -1,7 +1,6 @@
 ## Text/Source Code Editors
 
-My current text editor of choice is Microsoft's [Visual Studio Code](https://code.visualstudio.com/). VScode is a modern, free, and open-source text editor that is extremely customizable and supports things like debugging, Git management, syntax highlighting, snippets, code refactoring, and code completion. For those interested, I've configured it to use the [Hack](https://sourcefoundry.org/hack/) font, the [GitHub Plus](https://github.com/thenikso/github-plus-theme) and [Relaxed](https://marketplace.visualstudio.com/items?itemName=mischah.relaxed-theme) themes, [Material](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) icons, and extensions including Ruby, VSCode-Elixir, Markdown All In One, Docker, and Better TOML.
-In addition to VScode I have recently been toying around with [Atom](https://atom.io) from GitHub, [Brackets](http://brackets.io/), and [Oni](https://www.onivim.io/).
+My current text editor of choice is BBEdit, a modern text editor that supports things like debugging, Git management, syntax highlighting, and code snippets. For those interested, I've configured it to use the [Hack](https://sourcefoundry.org/hack/) font and the Solarized Light theme. In addition to BBEdit I have recently been toying around with Microsoft's [Visual Studio Code](https://code.visualstudio.com/), GitHub's [Atom](https://atom.io), [Brackets](http://brackets.io/), and [Oni](https://www.onivim.io/).
 
 ## Links - Text/Source Code Editors
 
@@ -18,8 +17,9 @@ In addition to VScode I have recently been toying around with [Atom](https://ato
 - [Espresso](https://espressoapp.com/) - The web editor for Mac is back.
 - [Oni](https://www.onivim.io/) - Mouse-free productivity with the perks of modern code editors.
 
-## Links - Miscellaneous 
+## Links - Miscellaneous
 
 - [10 Best Text Editors For Linux And Programming (2018 Edition)](https://fossbytes.com/9-best-text-editors-linux-programming-2017/)
 - [Hack](https://sourcefoundry.org/hack/) - A typeface designed for source code.
+
 

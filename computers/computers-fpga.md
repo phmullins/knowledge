@@ -7,3 +7,5 @@ I just found a decently priced FPGA-based computer system on eBay. An FPGA is ba
 [What is an FPGA?](https://www.xilinx.com/products/silicon-devices/fpga/what-is-an-fpga.html)
 [Intel FPGAs and Programmable Devices](https://www.intel.com/content/www/us/en/products/programmable/fpga.html)
 [MIST FPGA Board](https://github.com/mist-devel/mist-board/wiki/GettingStarted)
+
+
