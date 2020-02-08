@@ -8,7 +8,7 @@ My desktop setup is a wee bit more complicated than my mobile setup. In my home 
 
 ## Mobile Devices
 
-I just picked up a new Apple [iPhone Xs Max](https://www.apple.com/iphone-xs/specs/) with an [A12 Bionic](https://www.apple.com/iphone-xs/a12-bionic/) CPU, and a [Series 4](https://www.apple.com/apple-watch-series-4/) Watch to go along with my 2015 12.9" iPad Pro and my Series 4 Apple Watch.
+I have two 15" MacBook Pro laptops (2016 & 2018), a 2011 Mac Mini desktop, a 2015 12.9" iPad Pro, iPhone XS MAX, and a Series 4 Apple Watch. My wife Beth has a 13" MacBook Air laptop, a 9.7" iPad Pro, iPhone X, iPhone 7, and a Series 3 Apple Watch. My son Benjamin has an iPod Touch, iPhone 4S, iPhone SE, iPad Air 2, iPad Mini, and an iPad Mini 3. As a family we also have three Magic Mice, and two Magic Keyboards.
 
 ## Networking
 
@@ -25,5 +25,3 @@ My home lab contains a [QNAP 563](https://www.qnap.com/en-us/product/model.php?I
 - [Apollo Accelerators](https://www.apollo-accelerators.com)
 - [Raspberry Pi](https://www.raspberrypi.org)
 - [VMWare ESXi](https://www.vmware.com/products/esxi-and-esx.html)
-
-
