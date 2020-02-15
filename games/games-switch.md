@@ -28,6 +28,7 @@
 - Munchkin: Quacked Quest [(switch)](https://www.nintendo.com/games/detail/munchkin-switch/)
 - Achtung! Cthulhu Tactics [(switch)](https://www.nintendo.com/games/detail/achtung-cthulu-tactics-switch)
 - Doom (2016) [(switch)](https://www.nintendo.com/games/detail/doom-switch)
+- Doom 64 [(switch)](https://www.nintendo.com/games/detail/doom-64-switch/)
 - Wolfenstein II: The New Colossus [(switch)](https://www.nintendo.com/games/detail/wolfenstein-ii-the-new-colossus-switch)
 - Space Land [(switch)](https://www.nintendo.com/games/detail/spaceland-switch/)
 - Carcassonne [(switch)](https://www.nintendo.com/games/detail/carcassonne-switch) [(www)](http://www.asmodee-digital.com/en/carcassonne/)
