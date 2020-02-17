@@ -19,6 +19,7 @@ maybe I only prefer black and dark blue versus black and forest green. Who's to 
 
 ### PlayStation 4 - Recently Added to Collection
 
+- Firewall Zero Hour [(ps4)](https://www.playstation.com/en-us/games/firewall-zero-hour-ps4/)
 - Tom Clancy’s The Division 2 [(ps4)](https://www.playstation.com/en-us/games/tom-clancys-the-division-2-ps4/)
 - Sims 4 [(ps4)](https://www.playstation.com/en-us/games/the-sims-4-ps4/)
 - BioShock: The Collection [(ps4)](https://www.playstation.com/en-us/games/bioshock-the-collection-ps4/)
@@ -111,6 +112,7 @@ maybe I only prefer black and dark blue versus black and forest green. Who's to 
 - Fallout Shelter [(www)](https://www.falloutshelter.com/)
 - Feist [(ps4)](https://www.playstation.com/en-us/games/feist-ps4/)
 - Firewatch [(www)](http://www.firewatchgame.com/)
+- Firewall Zero Hour [(ps4)](https://www.playstation.com/en-us/games/firewall-zero-hour-ps4/)
 - For Honor [(www)](https://forhonor.ubisoft.com/game/en-us/home/)
 - Generation Zero [(ps4)](https://www.playstation.com/en-us/games/generation-zero-ps4/) [(www)](https://generationzero.com/en/)
 - God of War [(ps4)](https://www.playstation.com/en-us/games/god-of-war-ps4/)
