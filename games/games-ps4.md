@@ -19,6 +19,7 @@ maybe I only prefer black and dark blue versus black and forest green. Who's to 
 
 ### PlayStation 4 - Recently Added to Collection
 
+- Doom [(ps4)](https://www.playstation.com/en-us/games/doom-1993-ps4/)
 - Firewall Zero Hour [(ps4)](https://www.playstation.com/en-us/games/firewall-zero-hour-ps4/)
 - Tom Clancy’s The Division 2 [(ps4)](https://www.playstation.com/en-us/games/tom-clancys-the-division-2-ps4/)
 - Sims 4 [(ps4)](https://www.playstation.com/en-us/games/the-sims-4-ps4/)
@@ -106,6 +107,7 @@ maybe I only prefer black and dark blue versus black and forest green. Who's to 
 - Detroit Become Human [(ps4)](https://www.playstation.com/en-us/games/detroit-become-human-ps4/)
 - Deus Ex: Mankind Divided [(www)](https://deusex.square-enix-games.com/game/dx-md)
 - Diablo III: Eternal Collection [(www)](https://us.diablo3.com/en/)
+- Doom [(ps4)](https://www.playstation.com/en-us/games/doom-1993-ps4/)
 - DOOM (2016) [(www)](https://bethesda.net/en/game/doom)
 - EVE: Valkyrie – Warzone [(www)](https://www.evevalkyrie.com/)
 - Fallout 4 [(wwww)](https://fallout.bethesda.net/en/games/fallout-4)
