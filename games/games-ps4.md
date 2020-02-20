@@ -38,6 +38,7 @@ maybe I only prefer black and dark blue versus black and forest green. Who's to 
 
 - Diablo IV [(www)](https://diablo.blizzard.com/en-us/) (Unreleased)
 - Cyberpunk 2077 [(www)](https://www.cyberpunk.net/en/)
+- Darksiders Genesis [(ps4)](https://www.nintendo.com/games/detail/darksiders-genesis-switch/)
 - Achtung! Cthulhu Tactics [(ps4)](https://www.playstation.com/en-us/games/achtung-cthulhu-tactics-ps4/)
 - Frostpunk [(ps4)](https://store.playstation.com/en-us/product/UP4361-CUSA15716_00-FROSTPUNKGAME000)
 - Rage 2 [(ps4)](https://www.playstation.com/en-us/games/rage-2-ps4/) [(www)](https://bethesda.net/en/game/rage2)
