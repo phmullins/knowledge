@@ -60,6 +60,7 @@ maybe I only prefer black and dark blue versus black and forest green. Who's to 
 
 ## PlayStation 4 - Games that I want
 
+- SnowRunner [(www)](https://snowrunner-thegame.com/)
 - Yaga [(www)](https://yaga-game.com/)
 - Destiny 1: The Collection [(ps4)](https://www.playstation.com/en-us/games/destiny-ps4/)
 - Alienation [(YouTube)](https://youtu.be/AaJ1YoSHATE)
