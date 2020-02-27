@@ -22,12 +22,12 @@
 
 ### Nintendo Switch - Most Wanted Games
 
+- Doom (2016) [(switch)](https://www.nintendo.com/games/detail/doom-switch)
 - Diablo IV [(www)](https://diablo.blizzard.com/en-us/) (Unreleased)
 - Rebel Galaxy Outlaw [(www)](https://rebel-galaxy.com/) (Unreleased)
 - Mutant Year Zero: Road to Eden Deluxe [(switch)](https://www.nintendo.com/games/detail/mutant-year-zero-road-to-eden-deluxe-edition-switch/) [(www)](https://www.mutantyearzero.com/#1)
 - Munchkin: Quacked Quest [(switch)](https://www.nintendo.com/games/detail/munchkin-switch/)
 - Achtung! Cthulhu Tactics [(switch)](https://www.nintendo.com/games/detail/achtung-cthulu-tactics-switch)
-- Doom (2016) [(switch)](https://www.nintendo.com/games/detail/doom-switch)
 - Doom 64 [(switch)](https://www.nintendo.com/games/detail/doom-64-switch/)
 - Wolfenstein II: The New Colossus [(switch)](https://www.nintendo.com/games/detail/wolfenstein-ii-the-new-colossus-switch)
 - Space Land [(switch)](https://www.nintendo.com/games/detail/spaceland-switch/)
