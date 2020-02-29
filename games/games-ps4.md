@@ -60,10 +60,9 @@ maybe I only prefer black and dark blue versus black and forest green. Who's to 
 
 ## PlayStation 4 - Games that I want
 
-- SnowRunner [(www)](https://snowrunner-thegame.com/)
-- Yaga [(www)](https://yaga-game.com/)
-- Destiny 1: The Collection [(ps4)](https://www.playstation.com/en-us/games/destiny-ps4/)
 - Alienation [(YouTube)](https://youtu.be/AaJ1YoSHATE)
+- SnowRunner [(www)](https://snowrunner-thegame.com/)
+- Destiny 1: The Collection [(ps4)](https://www.playstation.com/en-us/games/destiny-ps4/)
 - Helldivers: A New Hell Edition [(YouTube)](https://youtu.be/qKrSiKSNwNg)
 - Helldivers [(www)](http://arrowheadgamestudios.com/games/helldivers/)
 - The Savage Planet [(ps4)](https://savageplanetgame.com/)
@@ -87,6 +86,7 @@ maybe I only prefer black and dark blue versus black and forest green. Who's to 
 - BioShock: The Collection [(ps4)](https://www.playstation.com/en-us/games/bioshock-the-collection-ps4/)
 - Shadow of the Colossus [(ps4)](https://www.playstation.com/en-us/games/shadow-of-the-colossus-ps4/)
 - The Mage's Tale [(ps4)](https://www.playstation.com/en-us/games/the-mages-tale-ps4/) - [(www)](https://www.inxile-entertainment.com/magestale) (PSVR)
+- Yaga [(www)](https://yaga-game.com/)
 
 ## PlayStation 4 - Games that I Have/Own
 
