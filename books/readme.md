@@ -34,4 +34,3 @@ A small list of my favorite authors. Why do authors have such horrible personal 
 - [Goodreads](https://www.goodreads.com/)
 - [Penguin Books](http://www.penguin.com/)
 - [Rakuten Kobo](https://www.kobo.com/)
-- 
