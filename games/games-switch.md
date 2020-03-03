@@ -22,6 +22,7 @@
 
 ### Nintendo Switch - Most Wanted Games
 
+- Pokemon: Mystery Dungeon [(switch)](https://mysterydungeon.pokemon.com/en-us/)
 - Doom (2016) [(switch)](https://www.nintendo.com/games/detail/doom-switch)
 - Diablo IV [(www)](https://diablo.blizzard.com/en-us/) (Unreleased)
 - Rebel Galaxy Outlaw [(www)](https://rebel-galaxy.com/) (Unreleased)
