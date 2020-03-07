@@ -13,6 +13,7 @@ and/or port them.
 
 ### macOS - Games Recently Added to Collection
 
+- Offworld Trading Company (Epic)[(www)](https://www.offworldgame.com)
 - Sundered: Eldritch Edition [(Epic)](https://www.epicgames.com/store/en-US/product/sundered-eldritch-edition/home)
 - FTL: Advanced Edition [(www)](https://subsetgames.com/ftl.html)
 - Warhammer 40,000: Mechanicus [(GOG)](https://www.gog.com/game/warhammer_40000_mechanicus)
