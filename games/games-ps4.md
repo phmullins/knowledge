@@ -19,6 +19,7 @@ maybe I only prefer black and dark blue versus black and forest green. Who's to 
 
 ### PlayStation 4 - Recently Added to Collection
 
+- Call of Duty: Warzone [(www)](https://www.callofduty.com/warzone)
 - Doom II [(ps4)](https://www.playstation.com/en-us/games/doom-ii-classic-ps4/)
 - Doom [(ps4)](https://www.playstation.com/en-us/games/doom-1993-ps4/)
 - Firewall Zero Hour [(ps4)](https://www.playstation.com/en-us/games/firewall-zero-hour-ps4/)

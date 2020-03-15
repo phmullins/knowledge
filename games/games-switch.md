@@ -51,6 +51,7 @@
 
 ### Nintendo Switch - Games That I Want
 
+- Regions of Ruin [(switch)](https://www.nintendo.com/games/detail/regions-of-ruin-switch/)
 - Oddmar [(switch)](https://www.nintendo.com/games/detail/oddmar-switch/)
 - Minecraft Dungeons [(www)](https://www.minecraft.net/en-us/dungeons)
 - Darksiders Genesis [(www)](http://www.airshipsyndicate.com/#dsg)
