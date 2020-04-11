@@ -23,7 +23,6 @@
 ### Nintendo Switch - Most Wanted Games
 
 - Burnout Paradise: Remastered [(switch)](https://www.nintendo.com/games/detail/burnout-paradise-remastered-switch/)
-- Pokemon: Mystery Dungeon [(switch)](https://mysterydungeon.pokemon.com/en-us/)
 - Doom (2016) [(switch)](https://www.nintendo.com/games/detail/doom-switch)
 - Diablo IV [(www)](https://diablo.blizzard.com/en-us/) (Unreleased)
 - Rebel Galaxy Outlaw [(www)](https://rebel-galaxy.com/) (Unreleased)
@@ -52,6 +51,7 @@
 
 ### Nintendo Switch - Games That I Want
 
+- Pokemon: Mystery Dungeon [(switch)](https://mysterydungeon.pokemon.com/en-us/)
 - Regions of Ruin [(switch)](https://www.nintendo.com/games/detail/regions-of-ruin-switch/)
 - Oddmar [(switch)](https://www.nintendo.com/games/detail/oddmar-switch/)
 - Minecraft Dungeons [(www)](https://www.minecraft.net/en-us/dungeons)
