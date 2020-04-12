@@ -22,6 +22,7 @@
 
 ### Nintendo Switch - Most Wanted Games
 
+- Vigor [(switch)](https://www.nintendo.com/games/detail/vigor-switch/)
 - Burnout Paradise: Remastered [(switch)](https://www.nintendo.com/games/detail/burnout-paradise-remastered-switch/)
 - Doom (2016) [(switch)](https://www.nintendo.com/games/detail/doom-switch)
 - Diablo IV [(www)](https://diablo.blizzard.com/en-us/) (Unreleased)
@@ -30,7 +31,6 @@
 - Munchkin: Quacked Quest [(switch)](https://www.nintendo.com/games/detail/munchkin-switch/)
 - Achtung! Cthulhu Tactics [(switch)](https://www.nintendo.com/games/detail/achtung-cthulu-tactics-switch)
 - Doom 64 [(switch)](https://www.nintendo.com/games/detail/doom-64-switch/)
-- Wolfenstein II: The New Colossus [(switch)](https://www.nintendo.com/games/detail/wolfenstein-ii-the-new-colossus-switch)
 - Space Land [(switch)](https://www.nintendo.com/games/detail/spaceland-switch/)
 - Carcassonne [(switch)](https://www.nintendo.com/games/detail/carcassonne-switch) [(www)](http://www.asmodee-digital.com/en/carcassonne/)
 - Catan Universe [(switch)](https://www.nintendo.com/games/detail/catan-switch/)
@@ -158,6 +158,7 @@
 - Swords & Soldiers [(switch)](https://www.nintendo.com/games/detail/swords-and-soldiers-switch)
 - Swords & Soldiers 2 - Shawarmageddon [(switch)](https://www.nintendo.com/games/detail/swords-and-soldiers-2-shawarmageddon-switch)
 - Trüberbrook [(switch)](https://www.nintendo.com/games/detail/truberbrook-switch)
+- Wolfenstein II: The New Colossus [(switch)](https://www.nintendo.com/games/detail/wolfenstein-ii-the-new-colossus-switch)
 - Wulverblade [(www)](http://wulverblade.com) [(switch)](https://www.nintendo.com/games/detail/wulverblade-switch)
 - Yono and the Celestial Elephants [(switch)](https://www.nintendo.com/games/detail/yono-and-the-celestial-elephants-switch)
 - Superbrothers: Sword & Sworcery EP [(switch)](https://www.nintendo.com/games/detail/superbrothers-sword-and-sworcery-ep-switch)
