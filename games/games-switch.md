@@ -51,6 +51,7 @@
 
 ### Nintendo Switch - Games That I Want
 
+- The Last Campfire [(switch)](https://www.nintendo.com/games/detail/the-last-campfire-switch/)
 - Eldest Souls [(switch)](https://www.nintendo.com/games/detail/eldest-souls-switch/)
 - Pokemon: Mystery Dungeon [(switch)](https://mysterydungeon.pokemon.com/en-us/)
 - Regions of Ruin [(switch)](https://www.nintendo.com/games/detail/regions-of-ruin-switch/)
