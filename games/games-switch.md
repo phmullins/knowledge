@@ -51,6 +51,7 @@
 
 ### Nintendo Switch - Games That I Want
 
+- Warhammer 40,000: Mechanicus [(switch)](https://www.nintendo.com/games/detail/warhammer-40000-mechanicus-switch/)
 - The Last Campfire [(switch)](https://www.nintendo.com/games/detail/the-last-campfire-switch/)
 - Eldest Souls [(switch)](https://www.nintendo.com/games/detail/eldest-souls-switch/)
 - Pokemon: Mystery Dungeon [(switch)](https://mysterydungeon.pokemon.com/en-us/)
@@ -69,8 +70,6 @@
 - Children of Morta [(switch)](https://www.nintendo.com/games/detail/children-of-morta-switch/)
 - Sparklite [(switch)](https://www.nintendo.com/games/detail/sparklite-switch/) [(www)](https://www.mergegames.com/sparklite)
 - Risk of Rain 2 [(switch)](https://www.nintendo.com/games/detail/risk-of-rain-2-switch/)
-- Doom 3 [(switch)](https://www.nintendo.com/games/detail/doom-3-switch/)
-- Redeemer: Enhanced Edition [(switch)](https://www.nintendo.com/games/detail/redeemer-enhanced-edition-switch/) [(www)](http://redeemerthegame.com/)
 - Tiny Metal: Full Metal Rumble [(switch)](https://www.nintendo.com/games/detail/tiny-metal-full-metal-rumble-switch/)
 - Quest Hunter [(switch)](https://www.nintendo.com/games/detail/quest-hunter-switch/)
 - Alien Escape [(switch)](https://www.nintendo.com/games/detail/alien-escape-switch/)
@@ -145,7 +144,6 @@
 - My Memory of Us [(switch)](https://www.nintendo.com/games/detail/my-memory-of-us-switch)
 - Old Man's Journey [(www)](http://oldmansjourney.com) [(switch)](https://www.nintendo.com/games/detail/old-mans-journey-switch)
 - One More Dungeon [(www)](http://statelysnail.com/onemoredungeon) [(switch)](https://www.nintendo.com/games/detail/one-more-dungeon-switch)
-- Pandemic [(switch)](https://www.nintendo.com/games/detail/pandemic-switch)
 - Rad Rodgers Radical Edition [(switch)](https://www.nintendo.com/games/detail/rad-rodgers-radical-edition-switch)
 - Red's Kingdom [(switch)](https://www.nintendo.com/games/detail/reds-kingdom-switch)
 - Reigns: Kings & Queens [(switch)](https://www.nintendo.com/games/detail/reigns-kings-and-queens-switch)
