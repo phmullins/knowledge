@@ -22,6 +22,7 @@
 
 ### Nintendo Switch - Most Wanted Games
 
+- Borderlands Legendary Collection [(switch)](https://www.nintendo.com/games/detail/borderlands-legendary-collection-switch/)
 - Vigor [(switch)](https://www.nintendo.com/games/detail/vigor-switch/)
 - Burnout Paradise: Remastered [(switch)](https://www.nintendo.com/games/detail/burnout-paradise-remastered-switch/)
 - Doom (2016) [(switch)](https://www.nintendo.com/games/detail/doom-switch)
@@ -30,7 +31,6 @@
 - Mutant Year Zero: Road to Eden Deluxe [(switch)](https://www.nintendo.com/games/detail/mutant-year-zero-road-to-eden-deluxe-edition-switch/) [(www)](https://www.mutantyearzero.com/#1)
 - Munchkin: Quacked Quest [(switch)](https://www.nintendo.com/games/detail/munchkin-switch/)
 - Achtung! Cthulhu Tactics [(switch)](https://www.nintendo.com/games/detail/achtung-cthulu-tactics-switch)
-- Doom 64 [(switch)](https://www.nintendo.com/games/detail/doom-64-switch/)
 - Space Land [(switch)](https://www.nintendo.com/games/detail/spaceland-switch/)
 - Carcassonne [(switch)](https://www.nintendo.com/games/detail/carcassonne-switch) [(www)](http://www.asmodee-digital.com/en/carcassonne/)
 - Catan Universe [(switch)](https://www.nintendo.com/games/detail/catan-switch/)
@@ -51,6 +51,7 @@
 
 ### Nintendo Switch - Games That I Want
 
+- Doom 64 [(switch)](https://www.nintendo.com/games/detail/doom-64-switch/)
 - Warhammer 40,000: Mechanicus [(switch)](https://www.nintendo.com/games/detail/warhammer-40000-mechanicus-switch/)
 - The Last Campfire [(switch)](https://www.nintendo.com/games/detail/the-last-campfire-switch/)
 - Eldest Souls [(switch)](https://www.nintendo.com/games/detail/eldest-souls-switch/)
