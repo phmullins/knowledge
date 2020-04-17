@@ -10,6 +10,7 @@
 
 ### Nintendo Switch - Recently Added to Collection
 
+- Beach Buggy Racing [(switch)](https://www.nintendo.com/games/detail/beach-buggy-racing-switch/)
 - Mudrunner: American Wilds [(switch)](https://www.nintendo.com/games/detail/mudrunner-american-wilds-switch/)
 - The Keep [(switch)](https://www.nintendo.com/games/detail/the-keep-switch/)
 - Transistor [(switch)](https://www.nintendo.com/games/detail/transistor-switch)
