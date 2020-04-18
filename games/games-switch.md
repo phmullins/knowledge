@@ -10,6 +10,7 @@
 
 ### Nintendo Switch - Recently Added to Collection
 
+- Uno [(switch)](https://www.nintendo.com/games/detail/uno-for-nintendo-switch-switch/)
 - Beach Buggy Racing [(switch)](https://www.nintendo.com/games/detail/beach-buggy-racing-switch/)
 - Mudrunner: American Wilds [(switch)](https://www.nintendo.com/games/detail/mudrunner-american-wilds-switch/)
 - The Keep [(switch)](https://www.nintendo.com/games/detail/the-keep-switch/)
@@ -172,16 +173,19 @@
 - Asphalt 9: Legends [(switch)](https://www.nintendo.com/games/detail/asphalt-9-legends-switch/)
 - Cat Quest [(switch)](https://www.nintendo.com/games/detail/cat-quest-switch/)
 - Battle Chasers: Nightwar [(www)](https://www.battlechasers.com)
+- Beach Buggy Racing [(switch)](https://www.nintendo.com/games/detail/beach-buggy-racing-switch/)
 - Diablo III: Eternal Collection [(www)](https://us.diablo3.com/en/switch)
 - Darkest Dungeon [(www)](https://www.darkestdungeon.com)
-- The Elder Scrolls V: Skyrim [(www)](https://elderscrolls.bethesda.net/en/skyrim)
-- Rogue Bit [(switch)](https://www.nintendo.com/games/detail/rogue-bit-switch/)
 - Doom [(switch)](https://www.nintendo.com/games/detail/doom-1993-switch/)
 - Doom II [(switch)](https://www.nintendo.com/games/detail/doom-2-classic-switch/)
+- Mudrunner: American Wilds [(switch)](https://www.nintendo.com/games/detail/mudrunner-american-wilds-switch/)
+- Rogue Bit [(switch)](https://www.nintendo.com/games/detail/rogue-bit-switch/)
 - Torchlight II [(switch)](https://www.nintendo.com/games/detail/torchlight-2-switch/)
+- The Elder Scrolls V: Skyrim [(www)](https://elderscrolls.bethesda.net/en/skyrim)
 - The Flame In The Flood [(switch)](https://www.nintendo.com/games/detail/the-flame-in-the-flood-complete-edition-switch)
 - The Keep [(switch)](https://www.nintendo.com/games/detail/the-keep-switch/)
 - Transistor [(switch)](https://www.nintendo.com/games/detail/transistor-switch)
+- Uno [(switch)](https://www.nintendo.com/games/detail/uno-for-nintendo-switch-switch/)
 
 ### Nintendo Switch - Links
 
