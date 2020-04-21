@@ -53,6 +53,7 @@
 
 ### Nintendo Switch - Games That I Want
 
+- Zen Chess [(switch)](https://www.nintendo.com/games/detail/zen-chess-collection-switch/)
 - Doom 64 [(switch)](https://www.nintendo.com/games/detail/doom-64-switch/)
 - Warhammer 40,000: Mechanicus [(switch)](https://www.nintendo.com/games/detail/warhammer-40000-mechanicus-switch/)
 - The Last Campfire [(switch)](https://www.nintendo.com/games/detail/the-last-campfire-switch/)
@@ -61,7 +62,7 @@
 - Regions of Ruin [(switch)](https://www.nintendo.com/games/detail/regions-of-ruin-switch/)
 - Oddmar [(switch)](https://www.nintendo.com/games/detail/oddmar-switch/)
 - Minecraft Dungeons [(www)](https://www.minecraft.net/en-us/dungeons)
-- Darksiders Genesis [(www)](http://www.airshipsyndicate.com/#dsg)
+- Darksiders Genesis [(switch)](https://www.nintendo.com/games/detail/darksiders-genesis-switch/)
 - Northgard [(www)](http://northgard.net/)
 - Crimson Keep [(www)](https://www.mergegames.com/crimson-keep)
 - Raiders of the North Sea [(switch)](https://www.nintendo.com/games/detail/raiders-of-the-north-sea-switch/)
