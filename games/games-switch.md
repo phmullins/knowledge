@@ -53,6 +53,7 @@
 
 ### Nintendo Switch - Games That I Want
 
+- Snack World: The Dungeon Crawl [(switch)](https://www.nintendo.com/games/detail/snack-world-the-dungeon-crawl-gold-switch/)
 - Zen Chess [(switch)](https://www.nintendo.com/games/detail/zen-chess-collection-switch/)
 - Doom 64 [(switch)](https://www.nintendo.com/games/detail/doom-64-switch/)
 - Warhammer 40,000: Mechanicus [(switch)](https://www.nintendo.com/games/detail/warhammer-40000-mechanicus-switch/)
