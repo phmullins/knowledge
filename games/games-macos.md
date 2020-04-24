@@ -13,6 +13,7 @@ and/or port them.
 
 ### macOS - Games Recently Added to Collection
 
+- Just Cause 4
 - A Short Hike [(Epic)](https://www.epicgames.com/store/en-US/product/a-short-hike/home)
 - GoNNER (Epic)[(www)](https://www.gonnergame.com/)
 - Offworld Trading Company (Epic)[(www)](https://www.offworldgame.com)
