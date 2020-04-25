@@ -3,6 +3,7 @@ A list of every book that I've read going back to 2003.
 ## 2020
 
 - Armada by Ernest Cline
+- All Systems Red (Murderbot Diaries, Book 1) by Martha Wells
 
 ## 2019
 
