@@ -34,28 +34,23 @@ Awesome for portable use but not as good sound-wise as over-ears.
 
 There's no such thing has having too many headphones...
 
-- [Bowers & Wilkins PX7](https://amzn.to/2Kx59xf) - (OVE, DYD, ANC)
-- [Grado SR325e](https://gradolabs.com/headphones/prestige-series/item/5-sr325e) - (OVE, DYD)
 - [Master & Dynamic MW65](https://amzn.to/2S6jncF) - (OVE, DYD, ANC)
-- [Shure AONIC 50](https://amzn.to/2zuRu7I) - (OVE, DYD)
-- [Tin HiFi T3](https://amzn.to/2xXNCf0) - (IEM, DYD)
-- [Fostex AMS-TH-610](https://amzn.to/2SkhLtH) - (OVE, DYD)
-- [AKG Pro Audio K712 PRO](https://amzn.to/2GJW9pw) - (OVE, DYD)
-- [Grado GR8e](https://amzn.to/2GKd0bP) - (IEM, DYD)
-- [HiFiMan HE560](http://hifiman.com/products/detail/167) - (OVE, PLM)
-- [Monolith Electrostatic](https://amzn.to/2Q6PA4s) - (OVE, ESTAX)
-- [Koss ESP-950](https://amzn.to/2rno44d) - (OVE, ESTAX)
+- [Grado SR325e](https://gradolabs.com/headphones/prestige-series/item/5-sr325e) - (OVE, DYD)
 - [Master & Dynamic MW07 Plus](https://amzn.to/3cKpcUR) - (IEM, DYD, ANC)
-- [Monolith 16050](https://amzn.to/2KMevnX) - (OVE, PLM)
-- [Sennheiser Momentum](https://amzn.to/2OXS4gp) - (IEM, DYD)
+- [Shure AONIC 50](https://amzn.to/2zuRu7I) - (OVE, DYD)
 - [Beyerdynamic DT1990 Pro](https://amzn.to/2PdjnDd) - (OVE, DYD)
-- [Blue Ella](https://amzn.to/2E7SSyi) - (OVE, PLM)
+- [Sennheiser Momentum TW2](https://amzn.to/3bClsF5) - (IEM, DYD, ANC)
+- [PSB M4U 8](https://amzn.to/2OVOG5k) - (OVE, DYD, ANC)
+- [Grado GR8e](https://amzn.to/2GKd0bP) - (IEM, DYD)
+- [Bowers & Wilkins PX7](https://amzn.to/2Kx59xf) - (OVE, DYD, ANC)
+- [AKG Pro Audio K712 PRO](https://amzn.to/2GJW9pw) - (OVE, DYD)
+- [Tin HiFi T3](https://amzn.to/2xXNCf0) - (IEM, DYD)
 - [Philips X2HR Fidelio](https://amzn.to/2SkY9FC) - (OVE, DYD)
 - [Etymotic Research ER4XR](https://amzn.to/2KJkie5) - (IEM, DYD)
-- [Shure KSE1200](https://amzn.to/2SkeQ3S) - (IEM, ESTAX)
-- [PSB M4U 8](https://amzn.to/2OVOG5k) - (OVE, DYD)
+- [Monolith Electrostatic](https://amzn.to/2Q6PA4s) - (OVE, ESTAX)
+- [Monolith M16050](https://amzn.to/2KMevnX) - (OVE, PLM)
 
-Legend: **OVE** = Over Ear, **IEM** = In-Ear Monitor, **DYD** = Dynamic Driver, **PLM** = Planar Magnetic, **ESTAX** = Electrostatic.
+Legend: **ANC** = Active Noise Cancelling, **OVE** = Over Ear, **IEM** = In-Ear Monitor, **DYD** = Dynamic Driver, **PLM** = Planar Magnetic, **ESTAX** = Electrostatic.
 
 ## Headphone AMPS/DACS (Own)
 
@@ -76,7 +71,7 @@ These are just a few of the AMPs/DACS on my wish list. The full list can be seen
 
 - [Sound BlasterX G6](https://amzn.to/2yELEQG)
 - [Schiit Fulla 2](https://amzn.to/2QI6AO6)
-- [Marantz HD- DAC1](https://amzn.to/2GjjWwn)
+- [Marantz HD-DAC1](https://amzn.to/2GjjWwn)
 - [Monolith Tube](https://amzn.to/2LqQoMh)
 - [FiiO K3 DSD](https://amzn.to/2rtYz0X)
 - [CHORD Electronics Mojo](https://amzn.to/2S63Maq)
@@ -98,7 +93,7 @@ Sad to say but the home theater has fallen by the wayside of late. There was a t
 - Sub Woofer: Polk PSW108 10”
 - Television: 65" Sony XBR65X750D 4K HDR
 - DVD/Blu-Ray: Sony UBP-X800
-- Remote: Harmony Ultimate One
+- Remote: Caavo
 - Misc: Bose SOLO 5
 
 ## Links
