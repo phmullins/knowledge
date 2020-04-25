@@ -34,13 +34,18 @@ Awesome for portable use but not as good sound-wise as over-ears.
 
 There's no such thing has having too many headphones...
 
+- [Bowers & Wilkins PX7](https://amzn.to/2Kx59xf) - (OVE, DYD, ANC)
+- [Grado SR325e](https://gradolabs.com/headphones/prestige-series/item/5-sr325e) - (OVE, DYD)
+- [Master & Dynamic MW65](https://amzn.to/2S6jncF) - (OVE, DYD, ANC)
+- [Shure AONIC 50](https://amzn.to/2zuRu7I) - (OVE, DYD)
+- [Tin HiFi T3](https://amzn.to/2xXNCf0) - (IEM, DYD)
 - [Fostex AMS-TH-610](https://amzn.to/2SkhLtH) - (OVE, DYD)
 - [AKG Pro Audio K712 PRO](https://amzn.to/2GJW9pw) - (OVE, DYD)
 - [Grado GR8e](https://amzn.to/2GKd0bP) - (IEM, DYD)
 - [HiFiMan HE560](http://hifiman.com/products/detail/167) - (OVE, PLM)
 - [Monolith Electrostatic](https://amzn.to/2Q6PA4s) - (OVE, ESTAX)
 - [Koss ESP-950](https://amzn.to/2rno44d) - (OVE, ESTAX)
-- [Master & Dynamic MW07](https://amzn.to/2DAGZzA) - (IEM, DYD)
+- [Master & Dynamic MW07 Plus](https://amzn.to/3cKpcUR) - (IEM, DYD, ANC)
 - [Monolith 16050](https://amzn.to/2KMevnX) - (OVE, PLM)
 - [Sennheiser Momentum](https://amzn.to/2OXS4gp) - (IEM, DYD)
 - [Beyerdynamic DT1990 Pro](https://amzn.to/2PdjnDd) - (OVE, DYD)
@@ -61,8 +66,7 @@ Pretty much any decent headphone is going to require and AMP/DAC. Yes, even 32 o
 - [Apogee Groove](https://amzn.to/2TwkJMT)
 - [Hifiman EF2A](https://amzn.to/2TxrGx5) w/1960s Mullard 6AK5 tubes  
 - [FiiO E10](https://amzn.to/2E79SEO)
-- [Schiit Magni 3](https://amzn.to/2WQxJ1w)
-- [Schiit Modi 3](https://amzn.to/2Szsd4f)
+- Schiit Fulla (1st Gen)
 
 I'm happy to say that I managed to score a matched pair of 1960s Mullard 6AK5 tubes on eBay. The stock Chinese tubes that came with my HIFIMAN EF2A headphone amp are terribly harsh on the old ears. There's no bass to speak of, a middling midrange, and bright, ear splitting highs. They're probably the worst sounding tubes that I've ever heard and they needed to be swapped out immediately. The British-made Mullards (especially the vintage variety) are widely considered to be the Cadillacs of the vacuum tube world. They produce a heavenly sound that contains plenty of tight, controlled bass, a smooth, focused midrange, and crystal clear, non-fatiguing highs. The only real drawbacks to these tubes are the associated shipping costs and actually being able to track down a matched pair. The United Kingdom seems to be the only country that still has a readily available supply of vintage Mullard tubes and, as you might imagine, the shipping costs to the United States are completely insane. Still, all things considered, the sublime sound that these tubes produce is well worth the overall monetary costs and the agonizingly long trip across the pond.
 
@@ -70,6 +74,7 @@ I'm happy to say that I managed to score a matched pair of 1960s Mullard 6AK5 tu
 
 These are just a few of the AMPs/DACS on my wish list. The full list can be seen over at [Amazon]( http://a.co/jaL3p1K).
 
+- [Sound BlasterX G6](https://amzn.to/2yELEQG)
 - [Schiit Fulla 2](https://amzn.to/2QI6AO6)
 - [Marantz HD- DAC1](https://amzn.to/2GjjWwn)
 - [Monolith Tube](https://amzn.to/2LqQoMh)
