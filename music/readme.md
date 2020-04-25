@@ -35,6 +35,8 @@ Whenever possible I try to stick with [ALAC](https://en.wikipedia.org/wiki/Apple
 
 My primary method of listening to music is via my MacBook Pro combined with a JDS Labs [EL Amp](https://jdslabs.com/product/el-amp/) and [El Dac](https://jdslabs.com/product/el-dac/) stack and a pair of AudioQuest [Nighthawk](http://personal.audioquest.com/nighthawk-carbon) Carbon, Sennheiser [HD800S](https://en-us.sennheiser.com/high-resolution-headphones-3d-audio-hd-800-s), or Sennheiser [HD660S](https://en-us.sennheiser.com/headphones-audiophile-high-end-hd-660-s) headphones. Secondary method is via my iPhone Xs Max and a pair of Sennheiser [IE 800](https://en-us.sennheiser.com/in-ear-headphones-earphones-ie-800-s-ceramic) or Tin Audio T2 headphones. My travel/portable kit contains an [Apogee Groove](https://www.apogeedigital.com/products/groove) AMP/DAC and a pair of Tin Audio T2 headphones.
 
+- [Audio Equipment](music-hardware.md)
+
 ## Links
 
 Check out Bandcamp if you're the type who likes to download and manage your own music library. Otherwise, look to Apple Music or Deezer for music streaming.
