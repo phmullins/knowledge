@@ -1,4 +1,4 @@
-## MacOS Applications
+## macOS Applications
 
 A pretty extensive list of applications that I have installed and use either on a daily basis or semi-regularly. 
 
