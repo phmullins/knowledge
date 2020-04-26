@@ -53,6 +53,7 @@
 
 ### Nintendo Switch - Games That I Want
 
+- Dungeon of the Endless [(switch)](https://www.nintendo.com/games/detail/dungeon-of-the-endless-switch/)
 - Deep Sky Derelicts: Definitive Edition [(switch)](https://www.nintendo.com/games/detail/deep-sky-derelicts-definitive-edition-switch/)
 - Snack World: The Dungeon Crawl [(switch)](https://www.nintendo.com/games/detail/snack-world-the-dungeon-crawl-gold-switch/)
 - Zen Chess [(switch)](https://www.nintendo.com/games/detail/zen-chess-collection-switch/)
