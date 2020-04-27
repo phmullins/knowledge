@@ -53,6 +53,7 @@
 
 ### Nintendo Switch - Games That I Want
 
+- In Other Waters [(switch)](https://www.nintendo.com/games/detail/in-other-waters-switch/)
 - Dungeon of the Endless [(switch)](https://www.nintendo.com/games/detail/dungeon-of-the-endless-switch/)
 - Deep Sky Derelicts: Definitive Edition [(switch)](https://www.nintendo.com/games/detail/deep-sky-derelicts-definitive-edition-switch/)
 - Snack World: The Dungeon Crawl [(switch)](https://www.nintendo.com/games/detail/snack-world-the-dungeon-crawl-gold-switch/)
