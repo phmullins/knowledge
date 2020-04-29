@@ -53,6 +53,7 @@ Up until recently I had considered myself just an ordinary gamer and wasn't part
 
 ## PlayStation 4 - Games that I want
 
+- In Other Waters [(switch)](https://www.nintendo.com/games/detail/in-other-waters-switch/)
 - Alienation [(YouTube)](https://youtu.be/AaJ1YoSHATE)
 - SnowRunner [(www)](https://snowrunner-thegame.com/)
 - Destiny 1: The Collection [(ps4)](https://www.playstation.com/en-us/games/destiny-ps4/)
