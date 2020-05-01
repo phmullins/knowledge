@@ -53,6 +53,7 @@
 
 ### Nintendo Switch - Games That I Want
 
+- BioShock: The Collection [(switch)](https://www.nintendo.com/games/detail/bioshock-the-collection-switch/)
 - In Other Waters [(switch)](https://www.nintendo.com/games/detail/in-other-waters-switch/)
 - Dungeon of the Endless [(switch)](https://www.nintendo.com/games/detail/dungeon-of-the-endless-switch/)
 - Deep Sky Derelicts: Definitive Edition [(switch)](https://www.nintendo.com/games/detail/deep-sky-derelicts-definitive-edition-switch/)
