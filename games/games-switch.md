@@ -55,6 +55,7 @@
 
 - Borderlands: The Handsome Collection [(switch)](https://www.nintendo.com/games/detail/borderlands-the-handsome-collection-switch/)
 - BioShock: The Collection [(switch)](https://www.nintendo.com/games/detail/bioshock-the-collection-switch/)
+- BioShock 2 Remastered [(switch)](https://www.nintendo.com/games/detail/bioshock-2-remastered-switch/)
 - In Other Waters [(switch)](https://www.nintendo.com/games/detail/in-other-waters-switch/)
 - Dungeon of the Endless [(switch)](https://www.nintendo.com/games/detail/dungeon-of-the-endless-switch/)
 - Deep Sky Derelicts: Definitive Edition [(switch)](https://www.nintendo.com/games/detail/deep-sky-derelicts-definitive-edition-switch/)
