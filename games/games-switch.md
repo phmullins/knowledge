@@ -53,6 +53,7 @@
 
 ### Nintendo Switch - Games That I Want
 
+- Regions of Ruin [(switch)](https://www.nintendo.com/games/detail/regions-of-ruin-switch/)
 - Alien Isolation [(switch)](https://www.nintendo.com/games/detail/alien-isolation-switch/)
 - Borderlands: The Handsome Collection [(switch)](https://www.nintendo.com/games/detail/borderlands-the-handsome-collection-switch/)
 - BioShock: The Collection [(switch)](https://www.nintendo.com/games/detail/bioshock-the-collection-switch/)
