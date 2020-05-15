@@ -10,6 +10,7 @@
 
 ### Windows/PC - Recently Added to Collection
 
+- Grand Theft Auto V
 - Tower of Time [(gog)](https://www.gog.com/game/tower_of_time)
 - The Talos Principle [(epic)](https://www.epicgames.com/store/en-US/product/the-talos-principle/home)
 - Shadow Tactics: Blades of the Shogun [(epic)](https://www.epicgames.com/store/en-US/product/shadow-tactics/home)
@@ -27,6 +28,7 @@
 
 ### Windows/PC - Games I Have/Own
 
+- Grand Theft Auto V
 - Batman: Arkham Asylum (Game of the Year Edition) [(epic)](https://www.epicgames.com/store/en-US/product/batman-arkham-asylum/home)
 - Destiny 2
 - Doom
