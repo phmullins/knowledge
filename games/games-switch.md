@@ -24,6 +24,7 @@
 
 ### Nintendo Switch - Most Wanted Games
 
+- Project Warlock [(switch)](https://www.nintendo.com/games/detail/project-warlock-switch/)
 - Borderlands Legendary Collection [(switch)](https://www.nintendo.com/games/detail/borderlands-legendary-collection-switch/)
 - Vigor [(switch)](https://www.nintendo.com/games/detail/vigor-switch/)
 - Burnout Paradise: Remastered [(switch)](https://www.nintendo.com/games/detail/burnout-paradise-remastered-switch/)
