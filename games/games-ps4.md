@@ -31,7 +31,6 @@ Up until recently I had considered myself just an ordinary gamer and wasn't part
 
 - Diablo IV [(www)](https://diablo.blizzard.com/en-us/) (Unreleased)
 - Cyberpunk 2077 [(www)](https://www.cyberpunk.net/en/)
-- Hunt: Showdown [(www)](https://www.huntshowdown.com/)
 - Darksiders Genesis [(ps4)](https://www.nintendo.com/games/detail/darksiders-genesis-switch/)
 - Achtung! Cthulhu Tactics [(ps4)](https://www.playstation.com/en-us/games/achtung-cthulhu-tactics-ps4/)
 - Frostpunk [(ps4)](https://store.playstation.com/en-us/product/UP4361-CUSA15716_00-FROSTPUNKGAME000)
