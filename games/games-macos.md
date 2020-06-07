@@ -47,7 +47,6 @@ and/or port them.
 - Rebel Galaxy Outlaw [(www)](https://rebel-galaxy.com/)
 - Nowhere Prophet [(www)](http://www.noprophet.com/)
 - Artifact [(www)](https://store.steampowered.com/app/583950/Artifact/)
-- Book of Demons [(www)](https://www.return2games.com)
 - Deep Sky Derelicts [(www)](https://www.snowhoundgames.com/deep-sky-derelicts/)
 - Dungeon of the Endless [(www)](https://store.steampowered.com/app/249050/Dungeon_of_the_Endless/)
 - Pathfinder: Kingmaker [(www)](https://owlcatgames.com)
