@@ -13,6 +13,7 @@ and/or port them.
 
 ### macOS - Games Recently Added to Collection
 
+- Borderlands 3 [(www)](https://boderlands.com)
 - Just Cause 4 [(www)](https://justcause.square-enix-games.com/en-us/)
 - A Short Hike [(Epic)](https://www.epicgames.com/store/en-US/product/a-short-hike/home)
 - GoNNER (Epic)[(www)](https://www.gonnergame.com/)
@@ -39,7 +40,6 @@ and/or port them.
 
 ### macOS - Most Wanted Games
 
-- Borderlands 3 [(www)](https://boderlands.com)
 - Diablo IV [(www)](https://diablo.blizzard.com/en-us/) (Unreleased)
 - Achtung! Cthulhu Tactics [(www)](https://store.steampowered.com/app/874460/Achtung_Cthulhu_Tactics/)
 - Master of Orion [(www)](https://masteroforion.com)
@@ -76,6 +76,7 @@ A list of games that I currently own or have access to.
 - Bastion
 - Blackguards
 - Borderlands 2
+- Borderlands 3 [(www)](https://boderlands.com)
 - Creativerse
 - Darkest Dungeon [(gog)](https://www.gog.com/game/darkest_dungeon)
 - Destiny 2
