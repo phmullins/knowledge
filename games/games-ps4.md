@@ -1,6 +1,15 @@
 ## PlayStation 4
 
-Up until recently I had considered myself just an ordinary gamer and wasn't particularly loyal to any platform or system in general. After all, a game is a game, right? Who cares what console and/or system it's being played on? At least that's what I'd tell myself when I found myself pondering the situation. Turns out I was wrong. It does matter what console or system you're playing on. Not only does each console have different system components and user interfaces but they also have wildly different user cultures and ecosystems in general. Everything, from the tactile feel of the controllers to the colors associated with each  system, is unique and helps distinguish one console from another. Over time I've come to learn that I prefer the aesthetics and general overall feel of the Sony PlayStation 4 versus  it's closest competitor the Microsoft Xbox One. Why, you might ask? I can't say for sure. It just feels right to me. Whereas the Xbox, its user interface, and the company behind it have always felt somewhat forced. Then again, maybe I only prefer black and dark blue versus black and forest green. Who's to say?
+Up until recently I had considered myself just an ordinary gamer and wasn't particularly loyal to any platform or system in 
+general. After all, a game is a game, right? Who cares what console and/or system it's being played on? At least that's what 
+I'd tell myself when I found myself pondering the situation. Turns out I was wrong. It does matter what console or system 
+you're playing on. Not only does each console have different system components and user interfaces but they also have wildly 
+different user cultures and ecosystems in general. Everything, from the tactile feel of the controllers to the colors 
+associated with each  system, is unique and helps distinguish one console from another. Over time I've come to learn that 
+I prefer the aesthetics and general overall feel of the Sony PlayStation 4 versus  it's closest competitor the Microsoft 
+Xbox One. Why, you might ask? I can't say for sure. It just feels right to me. Whereas the Xbox, its user interface, and 
+the company behind it have always felt somewhat forced. Then again, maybe I only prefer black and dark blue versus black 
+and forest green. Who's to say?
 
 ### PlayStation 4 - All-time Favorite Games
 
@@ -11,18 +20,14 @@ Up until recently I had considered myself just an ordinary gamer and wasn't part
 
 ### PlayStation 4 - Recently Added to Collection
 
+- Mooseman [(www)](http://www.mooseman.ru/mooseman.html)
+- Dishonored: Definitive Edition [(ps4)](https://www.playstation.com/en-us/games/dishonored-definitive-edition-ps4/)
+- 7th Sector [(ps4)](https://store.playstation.com/en-us/product/UP1675-CUSA15797_00-SYPS47THSECTOR00)
 - Call of Duty: Warzone [(www)](https://www.callofduty.com/warzone)
-- Doom II [(ps4)](https://www.playstation.com/en-us/games/doom-ii-classic-ps4/)
-- Doom [(ps4)](https://www.playstation.com/en-us/games/doom-1993-ps4/)
-- Firewall Zero Hour [(ps4)](https://www.playstation.com/en-us/games/firewall-zero-hour-ps4/)
-- Tom Clancy’s The Division 2 [(ps4)](https://www.playstation.com/en-us/games/tom-clancys-the-division-2-ps4/)
-- Sims 4 [(ps4)](https://www.playstation.com/en-us/games/the-sims-4-ps4/)
-- BioShock: The Collection [(ps4)](https://www.playstation.com/en-us/games/bioshock-the-collection-ps4/)
-- Invisible, Inc. [(ps4)](https://www.playstation.com/en-us/games/invisible-inc-console-edition-ps4/)
+- Tom Clancy's The Division 2 [(ps4)](https://www.playstation.com/en-us/games/tom-clancys-the-division-2-ps4/) - [(www)](https://tomclancy-thedivision.ubisoft.com/game/en-us/home)
 - Mutant Year Zero: Road to Eden [(ps4)](https://www.playstation.com/en-us/games/mutant-year-zero-road-to-eden-ps4/) [(www)](https://www.mutantyearzero.com)
 - Anthem [(www)](https://www.ea.com/games/anthem)
 - Battlefield V [(www)](https://www.ea.com/games/battlefield/battlefield-5)
-- A Plague Tale: Innocence [(www)](http://aplaguetale.com/)
 - Death Stranding [(ps4)](https://www.playstation.com/en-us/games/death-stranding-ps4/)
 - Battlefield 1 [(ps4)](https://www.playstation.com/en-us/games/battlefield-1-ps4/)
 - Call of Duty: WWII [(ps4)](https://www.playstation.com/en-us/games/call-of-duty-wwii-ps4/)
@@ -39,7 +44,6 @@ Up until recently I had considered myself just an ordinary gamer and wasn't part
 - Beyond Good and Evil 2 [(www)](https://beyondgoodandevil.ubisoft.com/en-us/)
 - Overkill's The Walking Dead [(ps4)](https://www.playstation.com/en-us/games/overkills-the-walking-dead-ps4/)
 - Skull & Bones [(www)](https://skullandbones.ubisoft.com/game/en-us/home/index.aspx)
-- Elite Dangerous: The Legendary Edition [(ps4)](https://www.playstation.com/en-us/games/elite-dangerous-ps4/) [(www)](https://www.elitedangerous.com/)
 
 ### PlayStation 4 - Hardware that I want
 
@@ -61,9 +65,7 @@ Up until recently I had considered myself just an ordinary gamer and wasn't part
 - The Savage Planet [(ps4)](https://savageplanetgame.com/)
 - Stellaris [(ps4)](https://www.playstation.com/en-us/games/stellaris-console-edition-ps4/) [(www)](https://www.paradoxplaza.com/stellaris)
 - Tom Clancy's The Division [(ps4)](https://www.playstation.com/en-us/games/tom-clancys-the-division-ps4/)
-- Tom Clancy's The Division 2 [(ps4)](https://www.playstation.com/en-us/games/tom-clancys-the-division-2-ps4/) - [(www)](https://tomclancy-thedivision.ubisoft.com/game/en-us/home)
 - Tempest 4000 [(ps4)](https://www.playstation.com/en-us/games/tempest-4000-ps4/)
-- Dishonored: Definitive Edition [(ps4)](https://www.playstation.com/en-us/games/dishonored-definitive-edition-ps4/)
 - Dishonored 2 [(ps4)](https://www.playstation.com/en-us/games/dishonored-2-ps4/)
 - Dishonored: Death of the Outsider [(ps4)](https://www.playstation.com/en-us/games/dishonored-death-of-the-outsider-ps4/)
 - Mad Max [(ps4)](https://www.playstation.com/en-us/games/mad-max-ps4/)
@@ -83,6 +85,7 @@ Up until recently I had considered myself just an ordinary gamer and wasn't part
 
 ## PlayStation 4 - Games that I Have/Own
 
+- 7th Sector [(ps4)](https://store.playstation.com/en-us/product/UP1675-CUSA15797_00-SYPS47THSECTOR00)
 - A Plague Tale: Innocence [(www)](http://aplaguetale.com/)
 - Another World [(www)](https://www.anotherworld.fr/anotherworld_uk/)
 - Anthem [(www)](https://www.ea.com/games/anthem)
@@ -104,6 +107,7 @@ Up until recently I had considered myself just an ordinary gamer and wasn't part
 - Detroit Become Human [(ps4)](https://www.playstation.com/en-us/games/detroit-become-human-ps4/)
 - Deus Ex: Mankind Divided [(www)](https://deusex.square-enix-games.com/game/dx-md)
 - Diablo III: Eternal Collection [(www)](https://us.diablo3.com/en/)
+- Dishonored: Definitive Edition [(ps4)](https://www.playstation.com/en-us/games/dishonored-definitive-edition-ps4/)
 - Doom [(ps4)](https://www.playstation.com/en-us/games/doom-1993-ps4/)
 - Doom II [(ps4)](https://www.playstation.com/en-us/games/doom-ii-classic-ps4/)
 - Doom (2016) [(www)](https://bethesda.net/en/game/doom)
@@ -121,6 +125,7 @@ Up until recently I had considered myself just an ordinary gamer and wasn't part
 - Horizon Zero Dawn: The Frozen Wilds [(ps4)](https://www.playstation.com/en-us/games/horizon-zero-dawn-ps4/the-frozen-wilds-dlc/)
 - Inside [(www)](https://playdead.com/games/inside/)
 - Invisible, Inc.[(ps4)](https://www.playstation.com/en-us/games/invisible-inc-console-edition-ps4/)
+- Mooseman [(www)](http://www.mooseman.ru/mooseman.html)
 - Mutant Year Zero: Road to Eden [(ps4)](https://www.playstation.com/en-us/games/mutant-year-zero-road-to-eden-ps4/) [(www)](https://www.mutantyearzero.com)
 - No Man's Sky [(www)](https://www.nomanssky.com/)
 - Real Farm [(ps4)](https://www.playstation.com/en-us/games/real-farm-ps4/)
@@ -131,7 +136,7 @@ Up until recently I had considered myself just an ordinary gamer and wasn't part
 - The Crew [(www)](https://www.ubisoft.com/en-us/game/the-crew/)
 - The Elder Scrolls V: Skyrim [(www)](https://elderscrolls.bethesda.net/en/skyrim)
 - The Last Of Us: Remastered [(ps4)](https://www.playstation.com/en-us/games/the-last-of-us-remastered-ps4/)
-- Tom Clancy’s The Division 2 [(ps4)](https://www.playstation.com/en-us/games/tom-clancys-the-division-2-ps4/)
+- Tom Clancy's The Division 2 [(ps4)](https://www.playstation.com/en-us/games/tom-clancys-the-division-2-ps4/) - [(www)](https://tomclancy-thedivision.ubisoft.com/game/en-us/home)
 - Sims 4 [(ps4)](https://www.playstation.com/en-us/games/the-sims-4-ps4/)
 - Titanfall 2 [(ps4)](https://www.playstation.com/en-us/games/titanfall-2-ps4/)
 - Tomb Raider: www Edition [(www)](https://crystald.com/projects/tomb-raider-definitive-edition)
