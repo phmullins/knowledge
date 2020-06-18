@@ -13,6 +13,7 @@ and/or port them.
 
 ### macOS - Games Recently Added to Collection
 
+- ARK: Survival Evolved
 - Borderlands 3 [(www)](https://boderlands.com)
 - Just Cause 4 [(www)](https://justcause.square-enix-games.com/en-us/)
 - A Short Hike [(Epic)](https://www.epicgames.com/store/en-US/product/a-short-hike/home)
@@ -73,6 +74,7 @@ and/or port them.
 
 A list of games that I currently own or have access to.
 
+- ARK: Survival Evolved
 - Bastion
 - Blackguards
 - Borderlands 2
