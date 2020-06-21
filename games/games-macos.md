@@ -13,6 +13,7 @@ and/or port them.
 
 ### macOS - Games Recently Added to Collection
 
+- Pathway
 - ARK: Survival Evolved
 - Borderlands 3 [(www)](https://boderlands.com)
 - Just Cause 4 [(www)](https://justcause.square-enix-games.com/en-us/)
