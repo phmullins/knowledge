@@ -5,6 +5,10 @@ Microsoft's DirectX graphics runtime but it does have Apple's [Metal](https://de
 and the later is slowly proving itself more than capable of providing game developers everything needed to create games 
 and/or port them.
 
+### macOS - Legend for Links
+
+**Dev** = Developer Homepage, **Epic** = Epic Game store, **GoG** = Good Old Games store, **Steam** = Steam Game store.
+
 ### macOS - All-time Favorite Games
 
 - Borderlands 2 (macOS)
@@ -13,124 +17,120 @@ and/or port them.
 
 ### macOS - Games Recently Added to Collection
 
-- Pathway
-- ARK: Survival Evolved
-- Borderlands 3 [(www)](https://boderlands.com)
-- Just Cause 4 [(www)](https://justcause.square-enix-games.com/en-us/)
-- A Short Hike [(Epic)](https://www.epicgames.com/store/en-US/product/a-short-hike/home)
-- GoNNER (Epic)[(www)](https://www.gonnergame.com/)
-- Offworld Trading Company (Epic)[(www)](https://www.offworldgame.com)
-- Sundered: Eldritch Edition [(Epic)](https://www.epicgames.com/store/en-US/product/sundered-eldritch-edition/home)
-- FTL: Advanced Edition [(www)](https://subsetgames.com/ftl.html)
-- Warhammer 40,000: Mechanicus [(GOG)](https://www.gog.com/game/warhammer_40000_mechanicus)
-- Frostpunk [(gog)](https://www.gog.com/game/frostpunk)
-- Metro: 2033 Redux [(epic)](https://www.epicgames.com/store/en-US/product/metro-2033-redux/home)
-- Batman: Arkham Asylum (GOTY) [(epic)](https://www.epicgames.com/store/en-US/product/batman-arkham-asylum/home)
-- Batman: Arkham City (GOTY) [(epic)](https://www.epicgames.com/store/en-US/product/batman-arkham-city/home)
-- Batman: Arkham Knight [(epic)](https://www.epicgames.com/store/en-US/product/batman-arkham-knight/home)
-- Shadowrun Returns [(got)](https://www.gog.com/game/shadowrun_returns)
+- Pathway [(Dev)](http://pathway-game.com/) [(Epic)](https://www.epicgames.com/store/en-US/product/pathway/home)
+- ARK: Survival Evolved [(Epic)](https://www.epicgames.com/store/en-US/product/ark/home)
+- Borderlands 3 [(Dev)](https://boderlands.com) [(Epic)](https://www.epicgames.com/store/en-US/product/borderlands-3/home)
+- Just Cause 4 [(Dev)](https://justcause.square-enix-games.com/en-us/) [(Epic)](https://www.epicgames.com/store/en-US/product/just-cause-4/home)
+- Warhammer 40,000: Mechanicus [(GoG)](https://www.gog.com/game/warhammer_40000_mechanicus)
+- Frostpunk [(GoG)](https://www.gog.com/game/frostpunk)
+- Shadowrun Returns [(GoG)](https://www.gog.com/game/shadowrun_returns)
 - Shadowrun: Dragonfall - Director's Cut [(got)](https://www.gog.com/game/shadowrun_dragonfall_directors_cut)
 - Shadowrun: Hong Kong - Extended Edition [(got)](https://www.gog.com/game/shadowrun_hong_kong_extended_edition)
-- Darkest Dungeon [(gog)](https://www.gog.com/game/darkest_dungeon)
-- Mutant Year Zero [(www)](https://www.mutantyearzero.com)
-- Hyper Light Drifter [(www)](https://heartmachine.com/hyper-light)
-- Elder Sign: Omens [(www)](https://www.fantasyflightgames.com/en/products/elder-sign-omens/)
-- Kingdom: New Lands [(epic)](https://www.epicgames.com/store/en-US/product/kingdom-new-lands/home)
-- Endless Space [(www)](https://www.endless-space.com)
-- Endless Space 2 [(www)](https://www.endless-space.com)
-- We Are The Dwarves [(www)](http://wearethedwarves.com/press/#description)
+- Darkest Dungeon [(GoG)](https://www.gog.com/game/darkest_dungeon)
+- Mutant Year Zero [(Dev)](https://www.mutantyearzero.com)
 
 ### macOS - Most Wanted Games
 
-- Diablo IV [(www)](https://diablo.blizzard.com/en-us/) (Unreleased)
-- Achtung! Cthulhu Tactics [(www)](https://store.steampowered.com/app/874460/Achtung_Cthulhu_Tactics/)
-- Master of Orion [(www)](https://masteroforion.com)
-- Phoenix Point [(www)](https://phoenixpoint.info/)
-- Rebel Galaxy Outlaw [(www)](https://rebel-galaxy.com/)
-- Nowhere Prophet [(www)](http://www.noprophet.com/)
-- Artifact [(www)](https://store.steampowered.com/app/583950/Artifact/)
-- Deep Sky Derelicts [(www)](https://www.snowhoundgames.com/deep-sky-derelicts/)
-- Dungeon of the Endless [(www)](https://store.steampowered.com/app/249050/Dungeon_of_the_Endless/)
-- Pathfinder: Kingmaker [(www)](https://owlcatgames.com)
-- Shadow Tactics: Blades of the Shogun [(www)](http://www.mimimi-productions.de/shadow_tactics_micro/)
-- Warhammer 40,000: Dawn of War III [(www)](https://www.dawnofwar.com)
+- Diablo IV [(Dev)](https://diablo.blizzard.com/en-us/) (Unreleased)
+- Achtung! Cthulhu Tactics [(Dev)](https://store.steampowered.com/app/874460/Achtung_Cthulhu_Tactics/)
+- Master of Orion [(Dev)](https://masteroforion.com)
+- Phoenix Point [(Dev)](https://phoenixpoint.info/)
+- Rebel Galaxy Outlaw [(Dev)](https://rebel-galaxy.com/)
+- Nowhere Prophet [(Dev)](http://www.noprophet.com/)
+- Artifact [(Dev)](https://store.steampowered.com/app/583950/Artifact/)
+- Deep Sky Derelicts [(Dev)](https://www.snowhoundgames.com/deep-sky-derelicts/)
+- Dungeon of the Endless [(Dev)](https://store.steampowered.com/app/249050/Dungeon_of_the_Endless/)
+- Pathfinder: Kingmaker [(Dev)](https://owlcatgames.com)
+- Shadow Tactics: Blades of the Shogun [(Dev)](http://www.mimimi-productions.de/shadow_tactics_micro/)
+- Warhammer 40,000: Dawn of War III [(Dev)](https://www.dawnofwar.com)
 
 ### macOS - Wanted Games List
 
-- Rezrog [(gog)](https://www.gog.com/game/rezrog)
-- Tyranny - Gold Edition [(gog)](https://www.gog.com/game/tyranny_gold_edition)
-- Objects in Space [(gog)](https://www.gog.com/game/objects_in_space)
-- The Outer Worlds [(EPIC)](https://www.epicgames.com/store/en-US/product/the-outer-worlds/home)
-- Invisible Inc. [(gog)](https://www.gog.com/game/invisible_inc)
-- Satellite Reign [(gog)](https://www.gog.com/game/satellite_reign)
-- Into the Breach [(gog)](https://www.gog.com/game/into_the_breach)
-- Feudal Alloy [(gog)](https://www.gog.com/game/feudal_alloy)
-- John Wick Hex [(WWW)](https://johnwickhex.com/)
-- Bad North: Jotunn Edition [(gog)](https://www.gog.com/game/bad_north)
-- Guild of Dungeoneering [(gog)](https://www.gog.com/game/guild_of_dungeoneering)
-- Hacknet Ultimate Edition [(gog)](https://www.gog.com/game/hacknet_ultimate_edition)
-- Space Haven [(gog)](https://www.gog.com/game/space_haven)
+- Rezrog [(GoG)](https://www.gog.com/game/rezrog)
+- Tyranny - Gold Edition [(GoG)](https://www.gog.com/game/tyranny_gold_edition)
+- Objects in Space [(GoG)](https://www.gog.com/game/objects_in_space)
+- The Outer Worlds [(Epic)](https://www.epicgames.com/store/en-US/product/the-outer-worlds/home)
+- Invisible Inc. [(GoG)](https://www.gog.com/game/invisible_inc)
+- Satellite Reign [(GoG)](https://www.gog.com/game/satellite_reign)
+- Into the Breach [(GoG)](https://www.gog.com/game/into_the_breach)
+- Feudal Alloy [(GoG)](https://www.gog.com/game/feudal_alloy)
+- Bad North: Jotunn Edition [(GoG)](https://www.gog.com/game/bad_north)
+- Guild of Dungeoneering [(GoG)](https://www.gog.com/game/guild_of_dungeoneering)
+- Hacknet Ultimate Edition [(GoG)](https://www.gog.com/game/hacknet_ultimate_edition)
+- Space Haven [(GoG)](https://www.gog.com/game/space_haven)
 
 ### macOS - Games Collections
 
 A list of games that I currently own or have access to.
 
-- ARK: Survival Evolved
+- A Short Hike [(Epic)](https://www.epicgames.com/store/en-US/product/a-short-hike/home)
+- ARK: Survival Evolved [(Epic)](https://www.epicgames.com/store/en-US/product/ark/home)
 - Bastion
+- Batman: Arkham Asylum (GOTY) [(Epic)](https://www.epicgames.com/store/en-US/product/batman-arkham-asylum/home)
+- Batman: Arkham City (GOTY) [(Epic)](https://www.epicgames.com/store/en-US/product/batman-arkham-city/home)
+- Batman: Arkham Knight [(Epic)](https://www.epicgames.com/store/en-US/product/batman-arkham-knight/home)
 - Blackguards
 - Borderlands 2
-- Borderlands 3 [(www)](https://boderlands.com)
+- Borderlands 3 [(Dev)](https://boderlands.com)
 - Creativerse
-- Darkest Dungeon [(gog)](https://www.gog.com/game/darkest_dungeon)
+- Darkest Dungeon [(GoG)](https://www.gog.com/game/darkest_dungeon)
 - Destiny 2
 - Diablo III
 - Doom
 - Doom II
 - Dungeon Hack
 - Endless Legend
-- Endless Space [(www)](https://www.endless-space.com)
-- Endless Space 2 [(www)](https://www.endless-space.com)
-- Elder Sign: Omens [(www)](https://www.fantasyflightgames.com/en/products/elder-sign-omens/)
+- Endless Space [(Dev)](https://www.endless-space.com)
+- Endless Space 2 [(Dev)](https://www.endless-space.com)
+- Elder Sign: Omens [(Dev)](https://www.fantasyflightgames.com/en/products/elder-sign-omens/)
 - Exapunks
 - Eye of The Beholder
 - Eye of The Beholder II
 - Eye of The Beholder III
 - FEZ
 - Fight the Dragon
-- FTL: Advanced Edition [(www)](https://subsetgames.com/ftl.html)
+- FTL: Advanced Edition [(Dev)](https://subsetgames.com/ftl.html)
+- Frostpunk [(GoG)](https://www.gog.com/game/frostpunk)
+- GoNNER (Epic)[(Dev)](https://www.gonnergame.com/) [(Epic)](https://www.epicgames.com/store/en-US/product/gonner/home)
 - Hacknet
 - Half-Life
 - Half-Life 2
-- Hyper Light Drifter [(www)](https://heartmachine.com/hyper-light)
+- Hyper Light Drifter [(Dev)](https://heartmachine.com/hyper-light)
 - Invisible, Inc.
-- Kingdom: New Lands [(epic)](https://www.epicgames.com/store/en-US/product/kingdom-new-lands/home)
+- Just Cause 4 [(Dev)](https://justcause.square-enix-games.com/en-us/) [(Epic)](https://www.epicgames.com/store/en-US/product/just-cause-4/home)
+- Kingdom: New Lands [(Epic)](https://www.epicgames.com/store/en-US/product/kingdom-new-lands/home)
 - Legend of Grimrock
 - Legend of Grimrock 2
+- Metro: 2033 Redux [(Epic)](https://www.epicgames.com/store/en-US/product/metro-2033-redux/home)
 - Minecraft
-- Mutant Year Zero [(www)](https://www.mutantyearzero.com)
+- Mutant Year Zero [(Dev)](https://www.mutantyearzero.com)
+- Offworld Trading Company (Epic)[(Dev)](https://www.offworldgame.com)
+- Pathway [(Dev)](http://pathway-game.com/) [(Epic)](https://www.epicgames.com/store/en-US/product/pathway/home)
 - Poly Bridge
 - Portal
 - Portal 2
 - Satellite Reign
-- Shadowrun Returns [(got)](https://www.gog.com/game/shadowrun_returns)
-- Shadowrun: Dragonfall - Director's Cut [(got)](https://www.gog.com/game/shadowrun_dragonfall_directors_cut)
-- Shadowrun: Hong Kong - Extended Edition [(got)](https://www.gog.com/game/shadowrun_hong_kong_extended_edition)
+- Shadowrun Returns [(GoG)](https://www.gog.com/game/shadowrun_returns)
+- Shadowrun: Dragonfall - Director's Cut [(GoG)](https://www.gog.com/game/shadowrun_dragonfall_directors_cut)
+- Shadowrun: Hong Kong - Extended Edition [(GoG)](https://www.gog.com/game/shadowrun_hong_kong_extended_edition)
 - Sid Meier's Civilization IV
 - Sid Meier's Civilization: Beyond Earth
-- Sid Meier's Starships [(www)](https://www.2k.com/en-US/game/sid-meiers-starships/)
+- Sid Meier's Starships [(Dev)](https://www.2k.com/en-US/game/sid-meiers-starships/)
 - Space Hulk
 - Sundered: Eldritch Edition [(Epic)](https://www.epicgames.com/store/en-US/product/sundered-eldritch-edition/home)
 - Sword Coast: Legends
 - Torchlight
 - Torchlight II
 - Transistor 
-- We Are The Dwarves [(www)](http://wearethedwarves.com/press/#description)
+- We Are The Dwarves [(Dev)](http://wearethedwarves.com/press/#description)
+- Warhammer 40,000: Mechanicus [(GoG)](https://www.gog.com/game/warhammer_40000_mechanicus)
 - Warhammer Quest
-- World of Goo [(epic)](https://www.epicgames.com/store/en-US/product/world-of-goo/home)
+- World of Goo [(Epic)](https://www.epicgames.com/store/en-US/product/world-of-goo/home)
 - XCOM: Enemy Unknown
 
 ### macOS - Links
 
-- [GOG](https://www.gog.com/)
+- [Epic](https://www.epicgames.com/store/en-US)
+- [GoG](https://www.gog.com/)
 - [Steam](https://store.steampowered.com/)
 
