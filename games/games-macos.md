@@ -17,6 +17,7 @@ and/or port them.
 
 ### macOS - Games Recently Added to Collection
 
+- Master of Orion [(www)](http://masteroforion.com/intro)
 - Pathway [(Dev)](http://pathway-game.com/) [(Epic)](https://www.epicgames.com/store/en-US/product/pathway/home)
 - ARK: Survival Evolved [(Epic)](https://www.epicgames.com/store/en-US/product/ark/home)
 - Borderlands 3 [(Dev)](https://boderlands.com) [(Epic)](https://www.epicgames.com/store/en-US/product/borderlands-3/home)
@@ -101,6 +102,7 @@ A list of games that I currently own or have access to.
 - Kingdom: New Lands [(Epic)](https://www.epicgames.com/store/en-US/product/kingdom-new-lands/home)
 - Legend of Grimrock
 - Legend of Grimrock 2
+- Master of Orion [(www)](http://masteroforion.com/intro)
 - Metro: 2033 Redux [(Epic)](https://www.epicgames.com/store/en-US/product/metro-2033-redux/home)
 - Minecraft
 - Mutant Year Zero [(Dev)](https://www.mutantyearzero.com)
