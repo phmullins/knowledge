@@ -10,6 +10,7 @@
 
 ### Nintendo Switch - Recently Added to Collection
 
+- Borderlands: The Handsome Collection [(switch)](https://www.nintendo.com/games/detail/borderlands-the-handsome-collection-switch/)
 - Dungeon Rushers [(www)](http://dungeon-rushers.com/en/index-en/) [(switch)](https://www.nintendo.com/games/detail/dungeon-rushers-switch)
 - Uno [(switch)](https://www.nintendo.com/games/detail/uno-for-nintendo-switch-switch/)
 - Beach Buggy Racing [(switch)](https://www.nintendo.com/games/detail/beach-buggy-racing-switch/)
@@ -25,7 +26,6 @@
 
 ### Nintendo Switch - Most Wanted Games
 
-- Borderlands: The Handsome Collection [(switch)](https://www.nintendo.com/games/detail/borderlands-the-handsome-collection-switch/)
 - Carrion [(www)](https://devolverdigital.com/games/carrion)
 - Mutant Year Zero: Road to Eden Deluxe [(switch)](https://www.nintendo.com/games/detail/mutant-year-zero-road-to-eden-deluxe-edition-switch/) [(www)](https://www.mutantyearzero.com/#1)
 - Achtung! Cthulhu Tactics [(switch)](https://www.nintendo.com/games/detail/achtung-cthulu-tactics-switch)
@@ -183,6 +183,7 @@
 ### Nintendo Switch - Games that I Have/Own
 
 - Asphalt 9: Legends [(switch)](https://www.nintendo.com/games/detail/asphalt-9-legends-switch/)
+- Borderlands: The Handsome Collection [(switch)](https://www.nintendo.com/games/detail/borderlands-the-handsome-collection-switch/)
 - Cat Quest [(switch)](https://www.nintendo.com/games/detail/cat-quest-switch/)
 - Battle Chasers: Nightwar [(www)](https://www.battlechasers.com)
 - Beach Buggy Racing [(switch)](https://www.nintendo.com/games/detail/beach-buggy-racing-switch/)
