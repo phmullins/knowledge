@@ -1,6 +1,6 @@
-## Movies - Favorites
+### Movies - Favorites
 
-A list of my favorite movies.
+A few of my favorite movies.
 
 - Alien
 - Blade Runner
@@ -10,6 +10,6 @@ A list of my favorite movies.
 - Star Wars: The Empire Strikes Back
 - Star Wars: Return of The Jedi
 - Time Bandits
-
+- Star Trek II: The Wrath of Kahn
 
 

@@ -17,6 +17,7 @@ and/or port them.
 
 ### macOS - Games Recently Added to Collection
 
+- Guild of Dungeoneering [(GoG)](http://www.guildofdungeoneering.com/)
 - Master of Orion [(www)](http://masteroforion.com/intro)
 - Pathway [(Dev)](http://pathway-game.com/) [(Epic)](https://www.epicgames.com/store/en-US/product/pathway/home)
 - ARK: Survival Evolved [(Epic)](https://www.epicgames.com/store/en-US/product/ark/home)
@@ -93,6 +94,7 @@ A list of games that I currently own or have access to.
 - FTL: Advanced Edition [(Dev)](https://subsetgames.com/ftl.html)
 - Frostpunk [(GoG)](https://www.gog.com/game/frostpunk)
 - GoNNER (Epic)[(Dev)](https://www.gonnergame.com/) [(Epic)](https://www.epicgames.com/store/en-US/product/gonner/home)
+- Guild of Dungeoneering [(GoG)](http://www.guildofdungeoneering.com/)
 - Hacknet
 - Half-Life
 - Half-Life 2
