@@ -17,6 +17,7 @@ and/or port them.
 
 ### macOS - Games Recently Added to Collection
 
+- Crawl [(Steam)](https://store.steampowered.com/app/293780/Crawl/)
 - Guild of Dungeoneering [(GoG)](http://www.guildofdungeoneering.com/)
 - Master of Orion [(www)](http://masteroforion.com/intro)
 - Pathway [(Dev)](http://pathway-game.com/) [(Epic)](https://www.epicgames.com/store/en-US/product/pathway/home)
