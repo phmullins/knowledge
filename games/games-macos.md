@@ -58,7 +58,6 @@ and/or port them.
 - Into the Breach [(GoG)](https://www.gog.com/game/into_the_breach)
 - Feudal Alloy [(GoG)](https://www.gog.com/game/feudal_alloy)
 - Bad North: Jotunn Edition [(GoG)](https://www.gog.com/game/bad_north)
-- Guild of Dungeoneering [(GoG)](https://www.gog.com/game/guild_of_dungeoneering)
 - Hacknet Ultimate Edition [(GoG)](https://www.gog.com/game/hacknet_ultimate_edition)
 - Space Haven [(GoG)](https://www.gog.com/game/space_haven)
 
@@ -75,6 +74,7 @@ A list of games that I currently own or have access to.
 - Blackguards
 - Borderlands 2
 - Borderlands 3 [(Dev)](https://boderlands.com)
+- Crawl [(Steam)](https://store.steampowered.com/app/293780/Crawl/)
 - Creativerse
 - Darkest Dungeon [(GoG)](https://www.gog.com/game/darkest_dungeon)
 - Destiny 2
