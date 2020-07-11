@@ -17,6 +17,7 @@ and/or port them.
 
 ### macOS - Games Recently Added to Collection
 
+- Tales from Candlekeep: Tomb of Annihilation [(Steam)](https://store.steampowered.com/app/663380/Tales_from_Candlekeep_Tomb_of_Annihilation/)
 - Crawl [(Steam)](https://store.steampowered.com/app/293780/Crawl/)
 - Guild of Dungeoneering [(GoG)](http://www.guildofdungeoneering.com/)
 - Master of Orion [(www)](http://masteroforion.com/intro)
@@ -124,6 +125,7 @@ A list of games that I currently own or have access to.
 - Space Hulk
 - Sundered: Eldritch Edition [(Epic)](https://www.epicgames.com/store/en-US/product/sundered-eldritch-edition/home)
 - Sword Coast: Legends
+- Tales from Candlekeep: Tomb of Annihilation [(Steam)](https://store.steampowered.com/app/663380/Tales_from_Candlekeep_Tomb_of_Annihilation/)
 - Torchlight
 - Torchlight II
 - Transistor 
