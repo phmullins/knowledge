@@ -17,6 +17,7 @@ and/or port them.
 
 ### macOS - Games Recently Added to Collection
 
+- HeXen II [(Steam)](https://store.steampowered.com/app/9060/HeXen_II/)
 - HeXen: Beyond Heretic [(Steam)](https://store.steampowered.com/app/2360/HeXen_Beyond_Heretic/)
 - Tales from Candlekeep: Tomb of Annihilation [(Steam)](https://store.steampowered.com/app/663380/Tales_from_Candlekeep_Tomb_of_Annihilation/)
 - Crawl [(Steam)](https://store.steampowered.com/app/293780/Crawl/)
@@ -98,6 +99,7 @@ A list of games that I currently own or have access to.
 - Half-Life
 - Half-Life 2
 - HeXen: Beyond Heretic [(Steam)](https://store.steampowered.com/app/2360/HeXen_Beyond_Heretic/)
+- HeXen II [(Steam)](https://store.steampowered.com/app/9060/HeXen_II/)
 - Hyper Light Drifter [(Dev)](https://heartmachine.com/hyper-light)
 - Invisible, Inc.
 - Just Cause 4 [(Dev)](https://justcause.square-enix-games.com/en-us/) [(Epic)](https://www.epicgames.com/store/en-US/product/just-cause-4/home)
