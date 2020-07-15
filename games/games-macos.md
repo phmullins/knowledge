@@ -17,6 +17,7 @@ and/or port them.
 
 ### macOS - Games Recently Added to Collection
 
+- Heretic: Shadow of the Serpent Riders [(Steam)](https://store.steampowered.com/app/2390/Heretic_Shadow_of_the_Serpent_Riders/)
 - HeXen: Deathkings of the Dark Citadel [(Steam)](https://store.steampowered.com/app/2370/HeXen_Deathkings_of_the_Dark_Citadel/)
 - HeXen II [(Steam)](https://store.steampowered.com/app/9060/HeXen_II/)
 - HeXen: Beyond Heretic [(Steam)](https://store.steampowered.com/app/2360/HeXen_Beyond_Heretic/)
@@ -102,6 +103,7 @@ A list of games that I currently own or have access to.
 - HeXen: Beyond Heretic [(Steam)](https://store.steampowered.com/app/2360/HeXen_Beyond_Heretic/)
 - HeXen: Deathkings of the Dark Citadel [(Steam)](https://store.steampowered.com/app/2370/HeXen_Deathkings_of_the_Dark_Citadel/)
 - HeXen II [(Steam)](https://store.steampowered.com/app/9060/HeXen_II/)
+- Heretic: Shadow of the Serpent Riders [(Steam)](https://store.steampowered.com/app/2390/Heretic_Shadow_of_the_Serpent_Riders/)
 - Hyper Light Drifter [(Dev)](https://heartmachine.com/hyper-light)
 - Invisible, Inc.
 - Just Cause 4 [(Dev)](https://justcause.square-enix-games.com/en-us/) [(Epic)](https://www.epicgames.com/store/en-US/product/just-cause-4/home)
