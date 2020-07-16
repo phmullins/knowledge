@@ -20,7 +20,7 @@
 - Syndicate
 - Space Hulk
 
-### Amiga - Games that I Have/Own (iPhone)
+### Amiga - Games that I Have/Own
 
 - Another World
 - Black Crypt
