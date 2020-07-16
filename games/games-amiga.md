@@ -13,6 +13,7 @@
 
 ### Amiga - Recently Added to Collection
 
+- Indiana Jones and the Last Crusade
 - Heart of China
 - Hunter Killer
 - Silent Service
@@ -31,6 +32,7 @@
 - Gods
 - Heart of China
 - Hunter Killer
+- Indiana Jones and the Last Crusade
 - Overlord
 - Red Storm Rising
 - Rise of the Dragon
