@@ -13,6 +13,7 @@
 
 ### Amiga - Recently Added to Collection
 
+- Atomino
 - Indiana Jones and the Last Crusade
 - Heart of China
 - Hunter Killer
@@ -22,6 +23,7 @@
 
 ### Amiga - Games that I Have/Own
 
+- Atomino
 - Another World
 - Black Crypt
 - Dungeon Keeper
