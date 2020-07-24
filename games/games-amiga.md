@@ -13,6 +13,7 @@
 
 ### Amiga - Recently Added to Collection
 
+- Dragon Tiles
 - Atomino
 - Indiana Jones and the Last Crusade
 - Heart of China
@@ -26,6 +27,7 @@
 - Atomino
 - Another World
 - Black Crypt
+- Dragon Tiles
 - Dungeon Keeper
 - Eye of The Beholder
 - Eye of The Beholder II: The Legend of Darkmoon
