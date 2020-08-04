@@ -17,6 +17,7 @@ and/or port them.
 
 ### macOS - Games Recently Added to Collection
 
+- Barony
 - Heretic: Shadow of the Serpent Riders [(Steam)](https://store.steampowered.com/app/2390/Heretic_Shadow_of_the_Serpent_Riders/)
 - HeXen: Deathkings of the Dark Citadel [(Steam)](https://store.steampowered.com/app/2370/HeXen_Deathkings_of_the_Dark_Citadel/)
 - HeXen II [(Steam)](https://store.steampowered.com/app/9060/HeXen_II/)
@@ -68,6 +69,7 @@ A list of games that I currently own or have access to.
 
 - A Short Hike [(Epic)](https://www.epicgames.com/store/en-US/product/a-short-hike/home)
 - ARK: Survival Evolved [(Epic)](https://www.epicgames.com/store/en-US/product/ark/home)
+- Barony
 - Bastion
 - Batman: Arkham Asylum (GOTY) [(Epic)](https://www.epicgames.com/store/en-US/product/batman-arkham-asylum/home)
 - Batman: Arkham City (GOTY) [(Epic)](https://www.epicgames.com/store/en-US/product/batman-arkham-city/home)
