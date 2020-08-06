@@ -18,6 +18,8 @@ the PC.
 
 ### Windows/PC - Recently Added to Collection
 
+- Barony
+- Superbrothers: Sword & Sworcery EP 
 - Borderlands 3 [(www)](https://borderlands.com)
 - The Division 2 [(www)](https://www.ubisoft.com/en-us/game/the-division/the-division-2)
 - Frostpunk [(gog)](https://www.gog.com/game/frostpunk)
