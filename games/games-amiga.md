@@ -24,6 +24,7 @@
 
 ### Amiga - Games that I Have/Own
 
+- Akira (1988)
 - Atomino
 - Another World
 - Black Crypt
