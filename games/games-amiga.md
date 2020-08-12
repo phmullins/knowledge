@@ -14,7 +14,7 @@
 ### Amiga - Recently Added to Collection
 
 - Dragon Tiles
-- Atomino
+- Atomino (1990)
 - Indiana Jones and the Last Crusade
 - Heart of China
 - Hunter Killer
@@ -25,8 +25,8 @@
 ### Amiga - Games that I Have/Own
 
 - Akira (1988)
-- Atomino
-- Another World
+- Another World (1991)
+- Atomino (1990)
 - Black Crypt
 - Dragon Tiles
 - Dungeon Keeper
