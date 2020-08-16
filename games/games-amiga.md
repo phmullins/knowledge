@@ -2,7 +2,7 @@
 
 ### Amiga - All-time Favorite Games
 
-- Black Crypt
+- Black Crypt (1992)
 - Dungeon Keeper
 - Eye of The Beholder
 - Full Metal Planet
@@ -13,6 +13,7 @@
 
 ### Amiga - Recently Added to Collection
 
+- Beneath A Steel Sky (1994)
 - Dragon Tiles
 - Atomino (1990)
 - Indiana Jones and the Last Crusade
@@ -27,7 +28,8 @@
 - Akira (1988)
 - Another World (1991)
 - Atomino (1990)
-- Black Crypt
+- Beneath A Steel Sky (1994)
+- Black Crypt (1992)
 - Dragon Tiles
 - Dungeon Keeper
 - Eye of The Beholder
