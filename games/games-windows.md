@@ -18,6 +18,8 @@ the PC.
 
 ### Windows/PC - Recently Added to Collection
 
+- The Alto Collection
+- Remnant: From the Ashes
 - Barony
 - Superbrothers: Sword & Sworcery EP 
 - Borderlands 3 [(www)](https://borderlands.com)
