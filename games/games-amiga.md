@@ -3,25 +3,22 @@
 ### Amiga - All-time Favorite Games
 
 - Black Crypt (1992)
-- Dungeon Keeper
-- Eye of The Beholder
-- Full Metal Planet
-- Gods
-- Overlord
-- Red Storm Rising
-- Rise of the Dragon
+- Dungeon Master (1988)
+- Eye of The Beholder (1991)
+- Full Metal Planet (1989)
+- Gods (1991)
+- Overlord (1994)
+- Red Storm Rising (1990)
+- Rise of the Dragon (1991)
 
-### Amiga - Recently Added to Collection
+### Amiga - Last Six Added to Collection
 
+- Cannon Fodder (1994)
+- Cannon Fodder 2 (1995)
 - Beneath A Steel Sky (1994)
-- Dragon Tiles
+- Dragon Tiles (1992)
 - Atomino (1990)
-- Indiana Jones and the Last Crusade
-- Heart of China
-- Hunter Killer
-- Silent Service
-- Syndicate
-- Space Hulk
+- Indiana Jones and the Last Crusade (1989)
 
 ### Amiga - Games that I Have/Own
 
@@ -30,19 +27,21 @@
 - Atomino (1990)
 - Beneath A Steel Sky (1994)
 - Black Crypt (1992)
-- Dragon Tiles
-- Dungeon Keeper
-- Eye of The Beholder
+- Cannon Fodder (1994)
+- Cannon Fodder 2 (1995)
+- Dragon Tiles (1992)
+- Dungeon Master (1988)
+- Eye of The Beholder (1991)
 - Eye of The Beholder II: The Legend of Darkmoon
 - Eye of The Beholder III
-- Full Metal Planet
-- Gods
+- Full Metal Planet (1989)
+- Gods (1991)
 - Heart of China
 - Hunter Killer
-- Indiana Jones and the Last Crusade
-- Overlord
-- Red Storm Rising
-- Rise of the Dragon
+- Indiana Jones and the Last Crusade (1989)
+- Overlord (1994)
+- Red Storm Rising (1990)
+- Rise of the Dragon (1991)
 - Silent Service
 - Space Hulk
 - Speedball
