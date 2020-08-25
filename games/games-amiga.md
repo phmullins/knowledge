@@ -29,6 +29,8 @@
 - Black Crypt (1992)
 - Cannon Fodder (1994)
 - Cannon Fodder 2 (1995)
+- Chaos Engine (1993)
+- Chaos Engine 2 (1996)
 - Dragon Tiles (1992)
 - Dungeon Master (1988)
 - Eye of The Beholder (1991)
