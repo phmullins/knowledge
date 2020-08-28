@@ -5,22 +5,24 @@
 - Black Crypt (1992)
 - Dungeon Master (1988)
 - Eye of The Beholder (1991)
-- Full Metal Planet (1989)
-- Gods (1991)
 - Overlord (1994)
-- Red Storm Rising (1990)
+- Gods (1991)
 - Rise of the Dragon (1991)
+- Full Metal Planet (1989)
+- Red Storm Rising (1990)
 
-### Amiga - Last Six Added to Collection
+### Amiga - Last Six added to the Collection
 
+- Chessmaster 2000 (1986)
+- Chuck Rock (1991)
+- Chuck Rock 2 - Son of Chuck (1993)
 - Cannon Fodder (1994)
 - Cannon Fodder 2 (1995)
 - Beneath A Steel Sky (1994)
-- Dragon Tiles (1992)
-- Atomino (1990)
-- Indiana Jones and the Last Crusade (1989)
 
-### Amiga - Games that I Have/Own
+### Amiga - Games Collections
+
+A list of games that I have on both my Amiga and my RetroPie box.
 
 - Akira (1988)
 - Another World (1991)
@@ -31,6 +33,9 @@
 - Cannon Fodder 2 (1995)
 - Chaos Engine (1993)
 - Chaos Engine 2 (1996)
+- Chessmaster 2000 (1986)
+- Chuck Rock (1991)
+- Chuck Rock 2 - Son of Chuck (1993)
 - Dragon Tiles (1992)
 - Dungeon Master (1988)
 - Eye of The Beholder (1991)
