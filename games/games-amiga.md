@@ -1,5 +1,7 @@
 ## Amiga
 
+A list of all of the games I currently have for the Amiga. Note: Most of these are in .adf format.
+
 ### Amiga - All-time Favorite Games
 
 - Black Crypt (1992)
@@ -13,12 +15,12 @@
 
 ### Amiga - Last Six added to the Collection
 
+- Deluxe Galaga (1993)
+- Civilization (1991)
 - Chessmaster 2000 (1986)
 - Chuck Rock (1991)
 - Chuck Rock 2 - Son of Chuck (1993)
 - Cannon Fodder (1994)
-- Cannon Fodder 2 (1995)
-- Beneath A Steel Sky (1994)
 
 ### Amiga - Games Collections
 
@@ -36,6 +38,8 @@ A list of games that I have on both my Amiga and my RetroPie box.
 - Chessmaster 2000 (1986)
 - Chuck Rock (1991)
 - Chuck Rock 2 - Son of Chuck (1993)
+- Civilization (1991)
+- Deluxe Galaga (1993)
 - Dragon Tiles (1992)
 - Dungeon Master (1988)
 - Eye of The Beholder (1991)
