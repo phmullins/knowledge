@@ -15,12 +15,12 @@ A list of all of the games I currently have for the Amiga. Note: Most of these a
 
 ### Amiga - Last Six added to the Collection
 
+- Dragon Tiles (1992)
 - Deluxe Galaga (1993)
 - Civilization (1991)
 - Chessmaster 2000 (1986)
 - Chuck Rock (1991)
 - Chuck Rock 2 - Son of Chuck (1993)
-- Cannon Fodder (1994)
 
 ### Amiga - Games Collections
 
