@@ -15,12 +15,12 @@ A list of all of the games I currently have for the Amiga. Note: Most of these a
 
 ### Amiga - Last Six added to the Collection
 
+- Dungeon Master (1988)
+- Dungeon Master II - The Legend of Skullkeep (1995)
 - Dragon Tiles (1992)
 - Deluxe Galaga (1993)
 - Civilization (1991)
 - Chessmaster 2000 (1986)
-- Chuck Rock (1991)
-- Chuck Rock 2 - Son of Chuck (1993)
 
 ### Amiga - Games Collections
 
@@ -42,6 +42,7 @@ A list of games that I have on both my Amiga and my RetroPie box.
 - Deluxe Galaga (1993)
 - Dragon Tiles (1992)
 - Dungeon Master (1988)
+- Dungeon Master II - The Legend of Skullkeep (1995)
 - Eye of The Beholder (1991)
 - Eye of The Beholder II: The Legend of Darkmoon
 - Eye of The Beholder III
