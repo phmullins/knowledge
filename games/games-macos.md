@@ -51,6 +51,8 @@ and/or port them.
 
 ### macOS - Wanted Games List
 
+- Observer [(www)](https://www.blooberteam.com/observer_)
+- Gamedec [(www)](https://www.gamedec.com/)
 - Rezrog [(GoG)](https://www.gog.com/game/rezrog)
 - Tyranny - Gold Edition [(GoG)](https://www.gog.com/game/tyranny_gold_edition)
 - Objects in Space [(GoG)](https://www.gog.com/game/objects_in_space)
