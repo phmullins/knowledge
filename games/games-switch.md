@@ -26,6 +26,11 @@
 
 ### Nintendo Switch - Most Wanted Games
 
+- Graven - [(Trailer)](https://youtu.be/3TXvcsxay8s)
+- Rebel Galaxy Outlaw [(www)](https://rebel-galaxy.com/) 09-22-2020
+- Observer [(www)](https://www.blooberteam.com/observer_)
+- Gamedec [(www)](https://www.gamedec.com/)
+- Atom RPG [(www)](https://atomrpg.com/) [(switch)](https://www.nintendo.com/games/detail/atom-rpg-switch/)
 - Torchlight 3 [(www)](https://www.arcgames.com/en/games/Torchlight_3) [(switch)](https://www.nintendo.com/games/detail/torchlight-iii-switch/)
 - Carrion [(www)](https://devolverdigital.com/games/carrion)
 - Mutant Year Zero: Road to Eden Deluxe [(switch)](https://www.nintendo.com/games/detail/mutant-year-zero-road-to-eden-deluxe-edition-switch/) [(www)](https://www.mutantyearzero.com/#1)
@@ -35,7 +40,6 @@
 - Burnout Paradise: Remastered [(switch)](https://www.nintendo.com/games/detail/burnout-paradise-remastered-switch/)
 - Doom (2016) [(switch)](https://www.nintendo.com/games/detail/doom-switch)
 - Diablo IV [(www)](https://diablo.blizzard.com/en-us/) (Unreleased)
-- Rebel Galaxy Outlaw [(www)](https://rebel-galaxy.com/) (Unreleased)
 - Space Land [(switch)](https://www.nintendo.com/games/detail/spaceland-switch/)
 - Carcassonne [(switch)](https://www.nintendo.com/games/detail/carcassonne-switch) [(www)](http://www.asmodee-digital.com/en/carcassonne/)
 - Catan Universe [(switch)](https://www.nintendo.com/games/detail/catan-switch/)
