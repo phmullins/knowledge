@@ -1,5 +1,8 @@
 ## Atari 2600 Games - Personal Library
 
+These are actual, physical game cartridges that I own. Some, like Fantastic Voyage, have seen better days. I'll probably cap 
+my collection at 20 games and then play everything else via an UNO cart and SDHC card.
+
 - Fantastic Voyage
 - Galaxian
 - Missile Command
@@ -7,6 +10,8 @@
 - Worm War One
 
 ## Atari 2600 Games - Top 20 Games that I Want
+
+The games that I want more than any other. These will probably end up in the physical cartridge collection at some point.
 
 - Asteroids
 - Atlantis
@@ -28,6 +33,9 @@
 - Star Wars: The Arcade Game
 
 ## Atari 2600 Games - Games that I want to add to the collection
+
+These are all the games that I'm currently searching for ROMS for. If found, I'll load them in [OpenEMU](http://openemu.org/) 
+and play them via a VCS emulator. Eventually all of these ROMs will find a new home one a UNO cartridge.
 
 - Adventure
 - Alien
@@ -102,3 +110,7 @@
 
 ## Atari Links
 
+- [AtariAge](https://atariage.com/forums/) - Atari Forum.
+- [Hatari](http://hatari.tuxfamily.org/) - Atari ST/STE/TT/Falcon Emulator.
+- [Stella](https://stella-emu.github.io/) - Atari 2600 VCS Emulator.
+- [EmuTOS](https://emutos.sourceforge.io/en/index.html) - OS designed to run on (ST(e), TT, Falcon) and their emulators.
