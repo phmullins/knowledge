@@ -7,17 +7,20 @@ and/or port them.
 
 ### macOS - Legend for Links
 
-**Dev** = Developer Homepage, **Epic** = Epic Game store, **GoG** = Good Old Games store, **Steam** = Steam Game store.
+**www** = Game Homepage, **Epic** = Epic Game store, **GoG** = Good Old Games store, **Steam** = Steam Game store.
 
 ### macOS - All-time Favorite Games
 
-- Borderlands 2 (macOS)
-- Diablo III (macOS)
-- Torchlight (macOS)
+- Borderlands 2
+- Borderlands 3 [(Dev)](https://boderlands.com)
+- Darkest Dungeon [(GoG)](https://www.gog.com/game/darkest_dungeon)
+- Diablo III 
+- Torchlight 
 
 ### macOS - Games Recently Added to Collection
 
-- Barony
+- Into The Breach [(www)](https://subsetgames.com/itb.html)
+- Barony [(www)](http://www.baronygame.com/)
 - Heretic: Shadow of the Serpent Riders [(Steam)](https://store.steampowered.com/app/2390/Heretic_Shadow_of_the_Serpent_Riders/)
 - HeXen: Deathkings of the Dark Citadel [(Steam)](https://store.steampowered.com/app/2370/HeXen_Deathkings_of_the_Dark_Citadel/)
 - HeXen II [(Steam)](https://store.steampowered.com/app/9060/HeXen_II/)
@@ -29,25 +32,25 @@ and/or port them.
 - Borderlands 3 [(Dev)](https://boderlands.com) [(Epic)](https://www.epicgames.com/store/en-US/product/borderlands-3/home)
 - Frostpunk [(GoG)](https://www.gog.com/game/frostpunk)
 - Shadowrun Returns [(GoG)](https://www.gog.com/game/shadowrun_returns)
-- Shadowrun: Dragonfall - Director's Cut [(got)](https://www.gog.com/game/shadowrun_dragonfall_directors_cut)
-- Shadowrun: Hong Kong - Extended Edition [(got)](https://www.gog.com/game/shadowrun_hong_kong_extended_edition)
+- Shadowrun: Dragonfall - Director's Cut [(GoG)](https://www.gog.com/game/shadowrun_dragonfall_directors_cut)
+- Shadowrun: Hong Kong - Extended Edition [(GoG)](https://www.gog.com/game/shadowrun_hong_kong_extended_edition)
 - Darkest Dungeon [(GoG)](https://www.gog.com/game/darkest_dungeon)
-- Mutant Year Zero [(Dev)](https://www.mutantyearzero.com)
+- Mutant Year Zero [(www)](https://www.mutantyearzero.com)
 
 ### macOS - Most Wanted Games
 
-- Diablo IV [(Dev)](https://diablo.blizzard.com/en-us/) (Unreleased)
-- Achtung! Cthulhu Tactics [(Dev)](https://store.steampowered.com/app/874460/Achtung_Cthulhu_Tactics/)
-- Master of Orion [(Dev)](https://masteroforion.com)
-- Phoenix Point [(Dev)](https://phoenixpoint.info/)
-- Rebel Galaxy Outlaw [(Dev)](https://rebel-galaxy.com/)
-- Nowhere Prophet [(Dev)](http://www.noprophet.com/)
-- Artifact [(Dev)](https://store.steampowered.com/app/583950/Artifact/)
-- Deep Sky Derelicts [(Dev)](https://www.snowhoundgames.com/deep-sky-derelicts/)
-- Dungeon of the Endless [(Dev)](https://store.steampowered.com/app/249050/Dungeon_of_the_Endless/)
-- Pathfinder: Kingmaker [(Dev)](https://owlcatgames.com)
-- Shadow Tactics: Blades of the Shogun [(Dev)](http://www.mimimi-productions.de/shadow_tactics_micro/)
-- Warhammer 40,000: Dawn of War III [(Dev)](https://www.dawnofwar.com)
+- Diablo IV [(www)](https://diablo.blizzard.com/en-us/) (Unreleased)
+- Achtung! Cthulhu Tactics [(www)](https://store.steampowered.com/app/874460/Achtung_Cthulhu_Tactics/)
+- Master of Orion [(www)](https://masteroforion.com)
+- Phoenix Point [(www)](https://phoenixpoint.info/)
+- Rebel Galaxy Outlaw [(www)](https://rebel-galaxy.com/)
+- Nowhere Prophet [(www)](http://www.noprophet.com/)
+- Artifact [(www)](https://store.steampowered.com/app/583950/Artifact/)
+- Deep Sky Derelicts [(www)](https://www.snowhoundgames.com/deep-sky-derelicts/)
+- Dungeon of the Endless [(www)](https://store.steampowered.com/app/249050/Dungeon_of_the_Endless/)
+- Pathfinder: Kingmaker [(www)](https://owlcatgames.com)
+- Shadow Tactics: Blades of the Shogun [(www)](http://www.mimimi-productions.de/shadow_tactics_micro/)
+- Warhammer 40,000: Dawn of War III [(www)](https://www.dawnofwar.com)
 
 ### macOS - Wanted Games List
 
@@ -71,14 +74,14 @@ A list of games that I currently own or have access to.
 
 - A Short Hike [(Epic)](https://www.epicgames.com/store/en-US/product/a-short-hike/home)
 - ARK: Survival Evolved [(Epic)](https://www.epicgames.com/store/en-US/product/ark/home)
-- Barony
+- Barony [(www)](http://www.baronygame.com/)
 - Bastion
 - Batman: Arkham Asylum (GOTY) [(Epic)](https://www.epicgames.com/store/en-US/product/batman-arkham-asylum/home)
 - Batman: Arkham City (GOTY) [(Epic)](https://www.epicgames.com/store/en-US/product/batman-arkham-city/home)
 - Batman: Arkham Knight [(Epic)](https://www.epicgames.com/store/en-US/product/batman-arkham-knight/home)
 - Blackguards
 - Borderlands 2
-- Borderlands 3 [(Dev)](https://boderlands.com)
+- Borderlands 3 [(www)](https://boderlands.com)
 - Crawl [(Steam)](https://store.steampowered.com/app/293780/Crawl/)
 - Creativerse
 - Darkest Dungeon [(GoG)](https://www.gog.com/game/darkest_dungeon)
@@ -88,18 +91,18 @@ A list of games that I currently own or have access to.
 - Doom II
 - Dungeon Hack
 - Endless Legend
-- Endless Space [(Dev)](https://www.endless-space.com)
-- Endless Space 2 [(Dev)](https://www.endless-space.com)
-- Elder Sign: Omens [(Dev)](https://www.fantasyflightgames.com/en/products/elder-sign-omens/)
+- Endless Space [(www)](https://www.endless-space.com)
+- Endless Space 2 [(www)](https://www.endless-space.com)
+- Elder Sign: Omens [(www)](https://www.fantasyflightgames.com/en/products/elder-sign-omens/)
 - Exapunks
 - Eye of The Beholder
 - Eye of The Beholder II
 - Eye of The Beholder III
 - FEZ
 - Fight the Dragon
-- FTL: Advanced Edition [(Dev)](https://subsetgames.com/ftl.html)
+- FTL: Advanced Edition [(www)](https://subsetgames.com/ftl.html)
 - Frostpunk [(GoG)](https://www.gog.com/game/frostpunk)
-- GoNNER (Epic)[(Dev)](https://www.gonnergame.com/) [(Epic)](https://www.epicgames.com/store/en-US/product/gonner/home)
+- GoNNER (Epic)[(www)](https://www.gonnergame.com/) [(Epic)](https://www.epicgames.com/store/en-US/product/gonner/home)
 - Guild of Dungeoneering [(GoG)](http://www.guildofdungeoneering.com/)
 - Hacknet
 - Half-Life
@@ -108,18 +111,19 @@ A list of games that I currently own or have access to.
 - HeXen: Deathkings of the Dark Citadel [(Steam)](https://store.steampowered.com/app/2370/HeXen_Deathkings_of_the_Dark_Citadel/)
 - HeXen II [(Steam)](https://store.steampowered.com/app/9060/HeXen_II/)
 - Heretic: Shadow of the Serpent Riders [(Steam)](https://store.steampowered.com/app/2390/Heretic_Shadow_of_the_Serpent_Riders/)
-- Hyper Light Drifter [(Dev)](https://heartmachine.com/hyper-light)
+- Hyper Light Drifter [(www)](https://heartmachine.com/hyper-light)
+- Into The Breach [(www)](https://subsetgames.com/itb.html)
 - Invisible, Inc.
-- Just Cause 4 [(Dev)](https://justcause.square-enix-games.com/en-us/) [(Epic)](https://www.epicgames.com/store/en-US/product/just-cause-4/home)
+- Just Cause 4 [(www)](https://justcause.square-enix-games.com/en-us/) [(Epic)](https://www.epicgames.com/store/en-US/product/just-cause-4/home)
 - Kingdom: New Lands [(Epic)](https://www.epicgames.com/store/en-US/product/kingdom-new-lands/home)
 - Legend of Grimrock
 - Legend of Grimrock 2
 - Master of Orion [(www)](http://masteroforion.com/intro)
 - Metro: 2033 Redux [(Epic)](https://www.epicgames.com/store/en-US/product/metro-2033-redux/home)
 - Minecraft
-- Mutant Year Zero [(Dev)](https://www.mutantyearzero.com)
-- Offworld Trading Company (Epic)[(Dev)](https://www.offworldgame.com)
-- Pathway [(Dev)](http://pathway-game.com/) [(Epic)](https://www.epicgames.com/store/en-US/product/pathway/home)
+- Mutant Year Zero [(www)](https://www.mutantyearzero.com)
+- Offworld Trading Company (Epic)[(www)](https://www.offworldgame.com)
+- Pathway [(www)](http://pathway-game.com/) [(Epic)](https://www.epicgames.com/store/en-US/product/pathway/home)
 - Poly Bridge
 - Portal
 - Portal 2
@@ -129,7 +133,7 @@ A list of games that I currently own or have access to.
 - Shadowrun: Hong Kong - Extended Edition [(GoG)](https://www.gog.com/game/shadowrun_hong_kong_extended_edition)
 - Sid Meier's Civilization IV
 - Sid Meier's Civilization: Beyond Earth
-- Sid Meier's Starships [(Dev)](https://www.2k.com/en-US/game/sid-meiers-starships/)
+- Sid Meier's Starships [(www)](https://www.2k.com/en-US/game/sid-meiers-starships/)
 - Space Hulk
 - Sundered: Eldritch Edition [(Epic)](https://www.epicgames.com/store/en-US/product/sundered-eldritch-edition/home)
 - Sword Coast: Legends
@@ -137,7 +141,7 @@ A list of games that I currently own or have access to.
 - Torchlight
 - Torchlight II
 - Transistor 
-- We Are The Dwarves [(Dev)](http://wearethedwarves.com/press/#description)
+- We Are The Dwarves [(www)](http://wearethedwarves.com/press/#description)
 - Warhammer 40,000: Mechanicus [(GoG)](https://www.gog.com/game/warhammer_40000_mechanicus)
 - Warhammer Quest
 - World of Goo [(Epic)](https://www.epicgames.com/store/en-US/product/world-of-goo/home)
