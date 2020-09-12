@@ -29,6 +29,9 @@ the PC.
 
 ### Windows/PC - Most Wanted Games
 
+- Baldur’s Gate 3 [(www)](https://baldursgate3.game/)
+- Observer [(www)](https://www.blooberteam.com/observer_)
+- Gamedec [(www)](https://www.gamedec.com/)
 - Cyberpunk 2077 [(gog)](https://www.gog.com/game/cyberpunk_2077)
 - Rebel Galaxy Outlaw [(www)](https://rebel-galaxy.com/)
 
