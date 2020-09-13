@@ -7,6 +7,7 @@ A list of all of the games I currently have for the Amiga. Note: Most of these a
 - Black Crypt (1992)
 - Dungeon Master (1988)
 - Eye of The Beholder (1991)
+- Eye of the Beholder II - The Legend of Darkmoon (1992)
 - Overlord (1994)
 - Gods (1991)
 - Rise of the Dragon (1991)
@@ -15,12 +16,12 @@ A list of all of the games I currently have for the Amiga. Note: Most of these a
 
 ### Amiga - Last Six added to the Collection
 
+- Eye of the Beholder II - The Legend of Darkmoon (1992)
 - Elite (1987)
 - Dungeon Master (1988)
 - Dungeon Master II - The Legend of Skullkeep (1995)
 - Dragon Tiles (1992)
 - Deluxe Galaga (1993)
-- Civilization (1991)
 
 ### Amiga - Games Collections
 
@@ -45,7 +46,7 @@ A list of games that I have on both my Amiga and my RetroPie box.
 - Dungeon Master II - The Legend of Skullkeep (1995)
 - Elite (1987)
 - Eye of The Beholder (1991)
-- Eye of The Beholder II: The Legend of Darkmoon
+- Eye of the Beholder II - The Legend of Darkmoon (1992)
 - Eye of The Beholder III
 - Full Metal Planet (1989)
 - Gods (1991)
