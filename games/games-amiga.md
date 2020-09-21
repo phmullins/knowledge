@@ -16,12 +16,12 @@ A list of all of the games I currently have for the Amiga. Note: Most of these a
 
 ### Amiga - Last Six added to the Collection
 
+- Hunter Killer (1990)
 - Fantastic Voyage (1991)
 - Eye of the Beholder II - The Legend of Darkmoon (1992)
 - Elite (1987)
 - Dungeon Master (1988)
 - Dungeon Master II - The Legend of Skullkeep (1995)
-- Dragon Tiles (1992)
 
 ### Amiga - Games Collections
 
@@ -52,7 +52,7 @@ A list of games that I have on both my Amiga and my RetroPie box.
 - Full Metal Planet (1989)
 - Gods (1991)
 - Heart of China (1991)
-- Hunter Killer
+- Hunter Killer (1990)
 - Indiana Jones and the Last Crusade (1989)
 - Overlord (1994)
 - Red Storm Rising (1990)
