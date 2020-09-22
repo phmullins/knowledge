@@ -10,6 +10,7 @@
 
 ### Nintendo Switch - Recently Added to Collection
 
+- Dark Quest 2 [(switch)](https://www.nintendo.com/games/detail/dark-quest-2-switch/) 
 - Borderlands: The Handsome Collection [(switch)](https://www.nintendo.com/games/detail/borderlands-the-handsome-collection-switch/)
 - Dungeon Rushers [(www)](http://dungeon-rushers.com/en/index-en/) [(switch)](https://www.nintendo.com/games/detail/dungeon-rushers-switch)
 - Uno [(switch)](https://www.nintendo.com/games/detail/uno-for-nintendo-switch-switch/)
@@ -55,6 +56,7 @@
 
 ### Nintendo Switch - Games That I Want
 
+- The Legend of Zelda: Link’s Awakening [(switch)](https://www.nintendo.com/games/detail/the-legend-of-zelda-links-awakening-switch/)
 - Ashen [(switch)](https://www.nintendo.com/games/detail/ashen-switch/)
 - Regions of Ruin [(switch)](https://www.nintendo.com/games/detail/regions-of-ruin-switch/)
 - Alien Isolation [(switch)](https://www.nintendo.com/games/detail/alien-isolation-switch/)
