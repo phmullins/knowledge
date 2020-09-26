@@ -95,9 +95,9 @@ A list of games that I currently own or have access to.
 - Endless Space 2 [(www)](https://www.endless-space.com)
 - Elder Sign: Omens [(www)](https://www.fantasyflightgames.com/en/products/elder-sign-omens/)
 - Exapunks
-- Eye of The Beholder
-- Eye of The Beholder II
-- Eye of The Beholder III
+- Eye of The Beholder [(www)](https://en.wikipedia.org/wiki/Eye_of_the_Beholder_(video_game))
+- Eye of The Beholder II [(www)](https://en.wikipedia.org/wiki/Eye_of_the_Beholder_II:_The_Legend_of_Darkmoon)
+- Eye of The Beholder III [(www)](https://en.wikipedia.org/wiki/Eye_of_the_Beholder_III:_Assault_on_Myth_Drannor)
 - FEZ
 - Fight the Dragon
 - FTL: Advanced Edition [(www)](https://subsetgames.com/ftl.html)
@@ -116,8 +116,8 @@ A list of games that I currently own or have access to.
 - Invisible, Inc.
 - Just Cause 4 [(www)](https://justcause.square-enix-games.com/en-us/) [(Epic)](https://www.epicgames.com/store/en-US/product/just-cause-4/home)
 - Kingdom: New Lands [(Epic)](https://www.epicgames.com/store/en-US/product/kingdom-new-lands/home)
-- Legend of Grimrock
-- Legend of Grimrock 2
+- Legend of Grimrock [(www)](http://www.grimrock.net/games/)
+- Legend of Grimrock 2 [(www)](http://www.grimrock.net/games/)
 - Master of Orion [(www)](http://masteroforion.com/intro)
 - Metro: 2033 Redux [(Epic)](https://www.epicgames.com/store/en-US/product/metro-2033-redux/home)
 - Minecraft
