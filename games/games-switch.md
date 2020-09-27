@@ -56,6 +56,8 @@
 
 ### Nintendo Switch - Games That I Want
 
+- Wartile [(switch)](https://www.nintendo.com/games/detail/wartile-switch/)
+- Game Dev Tycoon [(switch)](https://www.nintendo.com/games/detail/game-dev-tycoon-switch/)
 - The Legend of Zelda: Link’s Awakening [(switch)](https://www.nintendo.com/games/detail/the-legend-of-zelda-links-awakening-switch/)
 - Ashen [(switch)](https://www.nintendo.com/games/detail/ashen-switch/)
 - Regions of Ruin [(switch)](https://www.nintendo.com/games/detail/regions-of-ruin-switch/)
