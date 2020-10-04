@@ -16,12 +16,12 @@ A list of all of the games I currently have for the Amiga. Note: Most of these a
 
 ### Amiga - Last Six added to the Collection
 
+- Indiana Jones and the Fate of Atlantis (1993)
+- Indiana Jones and the Last Crusade (1989)
 - Hydra (1990)
 - Hunter Killer (1990)
 - Fantastic Voyage (1991)
 - Eye of the Beholder II - The Legend of Darkmoon (1992)
-- Elite (1987)
-- Dungeon Master (1988)
 
 ### Amiga - Games Collections
 
@@ -54,6 +54,7 @@ A list of games that I have on both my Amiga and my RetroPie box.
 - Heart of China (1991)
 - Hunter Killer (1990)
 - Hydra (1990)
+- Indiana Jones and the Fate of Atlantis (1993)
 - Indiana Jones and the Last Crusade (1989)
 - Overlord (1994)
 - Red Storm Rising (1990)
