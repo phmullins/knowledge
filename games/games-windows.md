@@ -39,6 +39,8 @@ the PC.
 
 - Cyberpunk 2077 [(gog)](https://www.gog.com/game/cyberpunk_2077)
 - Rebel Galaxy Outlaw [(www)](https://rebel-galaxy.com/)
+- Lands of Lore: The Throne of Chaos
+- Lands of Lore: Guardians of Destiny
 
 ### Windows/PC - Games I Have/Own
 
