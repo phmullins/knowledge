@@ -16,12 +16,12 @@ A list of all of the games I currently have for the Amiga. Note: Most of these a
 
 ### Amiga - Last Six added to the Collection
 
+- Lemmings (1991)
+- Lemmings 2 (1993)
 - Legend (1991)
 - Legend - Son of the Empire (1993)
 - Indiana Jones and the Fate of Atlantis (1993)
 - Indiana Jones and the Last Crusade (1989)
-- Hydra (1990)
-- Hunter Killer (1990)
 
 ### Amiga - Games Collections
 
@@ -58,6 +58,8 @@ A list of games that I have on both my Amiga and my RetroPie box.
 - Indiana Jones and the Last Crusade (1989)
 - Legend (1991)
 - Legend - Son of the Empire (1993)
+- Lemmings (1991)
+- Lemmings 2 (1993)
 - Overlord (1994)
 - Red Storm Rising (1990)
 - Rise of the Dragon (1991)
