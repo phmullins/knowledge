@@ -117,7 +117,7 @@ A list of games that I currently own or have access to.
 - Just Cause 4 [(www)](https://justcause.square-enix-games.com/en-us/) [(Epic)](https://www.epicgames.com/store/en-US/product/just-cause-4/home)
 - Kingdom: New Lands [(Epic)](https://www.epicgames.com/store/en-US/product/kingdom-new-lands/home)
 - Legend of Grimrock [(gog)](https://www.gog.com/game/legend_of_grimrock) [(www)](http://www.grimrock.net/games/)
-- Legend of Grimrock 2 [(www)](http://www.grimrock.net/games/)
+- Legend of Grimrock II [(gog)](https://www.gog.com/game/legend_of_grimrock_2) [(www)](http://www.grimrock.net/games/)
 - Master of Orion [(www)](http://masteroforion.com/intro)
 - Metro: 2033 Redux [(Epic)](https://www.epicgames.com/store/en-US/product/metro-2033-redux/home)
 - Minecraft
