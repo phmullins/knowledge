@@ -16,12 +16,12 @@ A list of all of the games I currently have for the Amiga. Note: Most of these a
 
 ### Amiga - Last Six added to the Collection
 
+- Liberation - Captive II (1994)
+- Lords of The Realm (AGA) (1994)
 - Lemmings (1991)
 - Lemmings 2 (1993)
 - Legend (1991)
 - Legend - Son of the Empire (1993)
-- Indiana Jones and the Fate of Atlantis (1993)
-- Indiana Jones and the Last Crusade (1989)
 
 ### Amiga - Games Collections
 
@@ -60,6 +60,8 @@ A list of games that I have on both my Amiga and my RetroPie box.
 - Legend - Son of the Empire (1993)
 - Lemmings (1991)
 - Lemmings 2 (1993)
+- Liberation - Captive II (1994)
+- Lords of The Realm (AGA) (1994)
 - Overlord (1994)
 - Red Storm Rising (1990)
 - Rise of the Dragon (1991)
