@@ -16,12 +16,12 @@ A list of all of the games I currently have for the Amiga. Note: Most of these a
 
 ### Amiga - Last Six added to the Collection
 
+- Overlord (1994)
 - Neuromancer (1989)
 - Microbes (1992)
 - Liberation - Captive II (1994)
 - Lords of The Realm (AGA) (1994)
 - Lemmings (1991)
-- Lemmings 2 (1993)
 
 ### Amiga - Games Collections
 
