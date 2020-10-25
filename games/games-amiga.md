@@ -16,12 +16,12 @@ A list of all of the games I currently have for the Amiga. Note: Most of these a
 
 ### Amiga - Last Six added to the Collection
 
+- Populous (1989)
+- Populous II (1992)
 - Overlord (1994)
 - Neuromancer (1989)
 - Microbes (1992)
 - Liberation - Captive II (1994)
-- Lords of The Realm (AGA) (1994)
-- Lemmings (1991)
 
 ### Amiga - Games Collections
 
@@ -65,6 +65,8 @@ A list of games that I have on both my Amiga and my RetroPie box.
 - Microbes (1992)
 - Neuromancer (1989)
 - Overlord (1994)
+- Populous (1989)
+- Populous II (1992)
 - Red Storm Rising (1990)
 - Rise of the Dragon (1991)
 - Silent Service
