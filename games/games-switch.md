@@ -27,12 +27,13 @@
 
 ### Nintendo Switch - Most Wanted Games
 
-- Graven - [(Trailer)](https://youtu.be/3TXvcsxay8s)
 - Rebel Galaxy Outlaw [(www)](https://rebel-galaxy.com/) 09-22-2020
+- Torchlight 3 [(www)](https://www.arcgames.com/en/games/Torchlight_3) [(switch)](https://www.nintendo.com/games/detail/torchlight-iii-switch/)
+- Ruined King - [(www)](https://ruinedking.com/) [(switch)]https://www.nintendo.com/games/detail/ruined-king-a-league-of-legends-story-switch/()
+- Graven - [(Trailer)](https://youtu.be/3TXvcsxay8s)
 - Observer [(www)](https://www.blooberteam.com/observer_)
 - Gamedec [(www)](https://www.gamedec.com/)
 - Atom RPG [(www)](https://atomrpg.com/) [(switch)](https://www.nintendo.com/games/detail/atom-rpg-switch/)
-- Torchlight 3 [(www)](https://www.arcgames.com/en/games/Torchlight_3) [(switch)](https://www.nintendo.com/games/detail/torchlight-iii-switch/)
 - Carrion [(www)](https://devolverdigital.com/games/carrion)
 - Mutant Year Zero: Road to Eden Deluxe [(switch)](https://www.nintendo.com/games/detail/mutant-year-zero-road-to-eden-deluxe-edition-switch/) [(www)](https://www.mutantyearzero.com/#1)
 - Achtung! Cthulhu Tactics [(switch)](https://www.nintendo.com/games/detail/achtung-cthulu-tactics-switch)
@@ -56,7 +57,21 @@
 
 ### Nintendo Switch - Games That I Want
 
+- Hades [(www)](https://www.supergiantgames.com/games/hades/) [(switch)](https://www.nintendo.com/games/detail/hades-switch/)
+- Brunswick Pro Billiards [(switch)](https://www.nintendo.com/games/detail/brunswick-pro-billiards-switch/) [(www)](http://brunswickprobilliards.com/)
+- Cloudpunk [(switch)](https://www.nintendo.com/games/detail/cloudpunk-switch/)
+- Foreclosed [(www)](https://www.mergegames.com/foreclosed)
+- Premium Pool Arena [(switch)](https://www.nintendo.com/games/detail/premium-pool-arena-switch/)
+- Cthulhu Saves Christmas [(switch)](https://www.nintendo.com/games/detail/cthulhu-saves-christmas-switch/)
+- Bear and Breakfast [(switch)](https://www.nintendo.com/games/detail/bear-and-breakfast-switch/)
+- Chess Minimal [(switch)](https://www.nintendo.com/games/detail/chess-minimal-switch/)
+- Endurance - Space Action [(switch)](https://www.nintendo.com/games/detail/endurance-space-action-switch/) [(www)](http://www.ivanpanasenko.com/games#/endurance/)
+- Mars Horizon [(switch)](https://www.nintendo.com/games/detail/mars-horizon-switch/)
+- Eldest Souls [(switch)](https://www.nintendo.com/games/detail/eldest-souls-switch/)
+- Oddworld: New 'n' Tasty [(switch)](https://www.nintendo.com/games/detail/oddworld-new-n-tasty-switch/)
+- Ori and the Will of the Wisps [(switch)](https://www.nintendo.com/games/detail/ori-and-the-will-of-the-wisps-switch/) [(www)](https://ori.iam8bit.com/)
 - Wartile [(switch)](https://www.nintendo.com/games/detail/wartile-switch/)
+- Surviving the Aftermath [(switch)](https://www.nintendo.com/games/detail/surviving-the-aftermath-switch/)
 - Game Dev Tycoon [(switch)](https://www.nintendo.com/games/detail/game-dev-tycoon-switch/)
 - The Legend of Zelda: Link’s Awakening [(switch)](https://www.nintendo.com/games/detail/the-legend-of-zelda-links-awakening-switch/)
 - Ashen [(switch)](https://www.nintendo.com/games/detail/ashen-switch/)
@@ -72,7 +87,6 @@
 - Doom 64 [(switch)](https://www.nintendo.com/games/detail/doom-64-switch/)
 - Warhammer 40,000: Mechanicus [(switch)](https://www.nintendo.com/games/detail/warhammer-40000-mechanicus-switch/)
 - The Last Campfire [(switch)](https://www.nintendo.com/games/detail/the-last-campfire-switch/)
-- Eldest Souls [(switch)](https://www.nintendo.com/games/detail/eldest-souls-switch/)
 - Pokemon: Mystery Dungeon [(switch)](https://mysterydungeon.pokemon.com/en-us/)
 - Regions of Ruin [(switch)](https://www.nintendo.com/games/detail/regions-of-ruin-switch/)
 - Oddmar [(switch)](https://www.nintendo.com/games/detail/oddmar-switch/)
