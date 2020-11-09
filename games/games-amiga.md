@@ -16,12 +16,12 @@ A list of all of the games I currently have for the Amiga. Note: Most of these a
 
 ### Amiga - Last Six added to the Collection
 
+- Red Storm Rising (1990)
 - Prince of Persia (1991)
 - Populous (1989)
 - Populous II (1992)
 - Overlord (1994)
 - Neuromancer (1989)
-- Microbes (1992)
 
 ### Amiga - Games Collections
 
