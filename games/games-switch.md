@@ -10,6 +10,7 @@
 
 ### Nintendo Switch - Recently Added to Collection
 
+- Borderlands 2: Commander Lilith & the Fight for Sanctuary
 - Dark Quest 2 [(switch)](https://www.nintendo.com/games/detail/dark-quest-2-switch/) 
 - Borderlands: The Handsome Collection [(switch)](https://www.nintendo.com/games/detail/borderlands-the-handsome-collection-switch/)
 - Dungeon Rushers [(www)](http://dungeon-rushers.com/en/index-en/) [(switch)](https://www.nintendo.com/games/detail/dungeon-rushers-switch)
