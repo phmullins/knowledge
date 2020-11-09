@@ -4,34 +4,35 @@ A list of all of the games I currently have for the Amiga. Note: Most of these a
 
 ### Amiga - All-time Favorite Games
 
-- Black Crypt (1992)
-- Dungeon Master (1988)
-- Eye of The Beholder (1991)
-- Eye of the Beholder II - The Legend of Darkmoon (1992)
-- Overlord (1994)
-- Gods (1991)
-- Rise of the Dragon (1991)
-- Full Metal Planet (1989)
-- Red Storm Rising (1990)
+- [Black Crypt](http://www.lemonamiga.com/?game_id=1323) (1992)
+- [Dungeon Master](http://www.lemonamiga.com/?game_id=1323) (1988)
+- [Dungeon Master II - The Legend of Skullkeep](http://www.lemonamiga.com/games/details.php?id=1395) (1995)
+- [Eye of The Beholder](http://www.lemonamiga.com/?game_id=1323) (1991)
+- [Eye of the Beholder II - The Legend of Darkmoon](http://www.lemonamiga.com/games/details.php?id=386) (1992)
+- [Supremacy](http://www.lemonamiga.com/?game_id=1323) (1994)
+- [Gods](http://www.lemonamiga.com/?game_id=1323) (1991)
+- [Rise of the Dragon](http://www.lemonamiga.com/?game_id=1323) (1991)
+- [Full Metal Planet](http://www.lemonamiga.com/?game_id=1323) (1989)
+- [Red Storm Rising](http://www.lemonamiga.com/?game_id=1323) (1990)
 
 ### Amiga - Last Six added to the Collection
 
-- Red Storm Rising (1990)
-- Prince of Persia (1991)
-- Populous (1989)
-- Populous II (1992)
-- Overlord (1994)
-- Neuromancer (1989)
+- [Rise of the Dragon](http://www.lemonamiga.com/?game_id=1323) (1991)
+- [Red Storm Rising](http://www.lemonamiga.com/?game_id=1323) (1990)
+- [Prince of Persia](http://www.lemonamiga.com/?game_id=1323) (1991)
+- [Populous](http://www.lemonamiga.com/?game_id=1323) (1989)
+- [Populous II](http://www.lemonamiga.com/games/details.php?id=854) (1992)
+- [Supremacy](http://www.lemonamiga.com/?game_id=1323) (1994)
 
 ### Amiga - Games Collections
 
 A list of games that I have on both my Amiga and my RetroPie box.
 
-- Akira (1988)
-- Another World (1991)
-- Atomino (1990)
-- Beneath A Steel Sky (1994)
-- Black Crypt (1992)
+- [Akira](http://www.lemonamiga.com/?game_id=1323) (1988)
+- [Another World](http://www.lemonamiga.com/?game_id=1323) (1991)
+- [Atomino](http://www.lemonamiga.com/games/details.php?id=100) (1990)
+- [Beneath A Steel Sky](http://www.lemonamiga.com/?game_id=1323) (1994)
+- [Black Crypt](http://www.lemonamiga.com/?game_id=1323) (1992)
 - Cannon Fodder (1994)
 - Cannon Fodder 2 (1995)
 - Chaos Engine (1993)
@@ -42,15 +43,15 @@ A list of games that I have on both my Amiga and my RetroPie box.
 - Civilization (1991)
 - Deluxe Galaga (1993)
 - Dragon Tiles (1992)
-- Dungeon Master (1988)
-- Dungeon Master II - The Legend of Skullkeep (1995)
+- [Dungeon Master](http://www.lemonamiga.com/?game_id=1323) (1988)
+- [Dungeon Master II - The Legend of Skullkeep](http://www.lemonamiga.com/games/details.php?id=1395) (1995)
 - Elite (1987)
-- Eye of The Beholder (1991)
-- Eye of the Beholder II - The Legend of Darkmoon (1992)
+- [Eye of The Beholder](http://www.lemonamiga.com/?game_id=1323) (1991)
+- [Eye of the Beholder II - The Legend of Darkmoon](http://www.lemonamiga.com/games/details.php?id=386) (1992)
 - Eye of The Beholder III
 - Fantastic Voyage (1991)
-- Full Metal Planet (1989)
-- Gods (1991)
+- [Full Metal Planet](http://www.lemonamiga.com/?game_id=1323) (1989)
+- [Gods](http://www.lemonamiga.com/?game_id=1323) (1991)
 - Heart of China (1991)
 - Hunter Killer (1990)
 - Hydra (1990)
@@ -64,17 +65,17 @@ A list of games that I have on both my Amiga and my RetroPie box.
 - Lords of The Realm (AGA) (1994)
 - Microbes (1992)
 - Neuromancer (1989)
-- Overlord (1994)
-- Populous (1989)
-- Populous II (1992)
-- Prince of Persia (1991)
-- Red Storm Rising (1990)
-- Rise of the Dragon (1991)
+- [Populous](http://www.lemonamiga.com/?game_id=1323) (1989)
+- [Populous II](http://www.lemonamiga.com/games/details.php?id=854) (1992)
+- [Prince of Persia](http://www.lemonamiga.com/?game_id=1323) (1991)
+- [Red Storm Rising](http://www.lemonamiga.com/?game_id=1323) (1990)
+- [Rise of the Dragon](http://www.lemonamiga.com/?game_id=1323) (1991)
 - Silent Service
 - Space Hulk
 - Speedball
 - Speedball 2
 - Syndicate
+- [Supremacy](http://www.lemonamiga.com/?game_id=1323) (1994)
 - The Hunt for Red October
 
 ### Amiga Links
