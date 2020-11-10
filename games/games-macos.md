@@ -19,6 +19,7 @@ and/or port them.
 
 ### macOS - Games Recently Added to Collection
 
+- Deep Sky Derelicts: Definitive Edition [(GoG)](https://www.gog.com/game/deep_sky_derelicts_definitive_edition)
 - Into The Breach [(www)](https://subsetgames.com/itb.html)
 - Barony [(www)](http://www.baronygame.com/)
 - Heretic: Shadow of the Serpent Riders [(Steam)](https://store.steampowered.com/app/2390/Heretic_Shadow_of_the_Serpent_Riders/)
@@ -85,6 +86,7 @@ A list of games that I currently own or have access to.
 - Crawl [(Steam)](https://store.steampowered.com/app/293780/Crawl/)
 - Creativerse
 - Darkest Dungeon [(GoG)](https://www.gog.com/game/darkest_dungeon)
+- Deep Sky Derelicts: Definitive Edition [(GoG)](https://www.gog.com/game/deep_sky_derelicts_definitive_edition)
 - Destiny 2
 - Diablo III
 - Doom
