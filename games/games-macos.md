@@ -19,6 +19,7 @@ and/or port them.
 
 ### macOS - Games Recently Added to Collection
 
+- The Textorcist
 - Deep Sky Derelicts: Definitive Edition [(GoG)](https://www.gog.com/game/deep_sky_derelicts_definitive_edition)
 - Into The Breach [(www)](https://subsetgames.com/itb.html)
 - Barony [(www)](http://www.baronygame.com/)
