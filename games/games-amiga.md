@@ -17,12 +17,12 @@ A list of all of the games I currently have for the Amiga. Note: Most of these a
 
 ### Amiga - Last Six added to the Collection
 
+- Sargon III (1988)
 - [Rise of the Dragon](http://www.lemonamiga.com/?game_id=1323) (1991)
 - [Red Storm Rising](http://www.lemonamiga.com/?game_id=1323) (1990)
 - [Prince of Persia](http://www.lemonamiga.com/?game_id=1323) (1991)
 - [Populous](http://www.lemonamiga.com/?game_id=1323) (1989)
 - [Populous II](http://www.lemonamiga.com/games/details.php?id=854) (1992)
-- [Supremacy](http://www.lemonamiga.com/?game_id=1323) (1994)
 
 ### Amiga - Games Collections
 
@@ -71,6 +71,7 @@ A list of games that I have on both my Amiga and my RetroPie box.
 - [Rise of the Dragon](http://www.lemonamiga.com/?game_id=1323) (1991)
 - [Silent Service](http://www.lemonamiga.com/?game_id=1323)
 - [Space Hulk](http://www.lemonamiga.com/?game_id=1323)
+- Sargon III (1988)
 - [Speedball](http://www.lemonamiga.com/?game_id=1323)
 - [Speedball 2](http://www.lemonamiga.com/games/details.php?id=984)
 - [Syndicate](http://www.lemonamiga.com/?game_id=1323)
