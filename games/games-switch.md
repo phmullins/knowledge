@@ -10,25 +10,14 @@
 
 ### Nintendo Switch - Recently Added to Collection
 
+- Rebel Galaxy: Outlaw [(www)](https://rebel-galaxy.com/)
 - Borderlands 2: Commander Lilith & the Fight for Sanctuary
 - Dark Quest 2 [(switch)](https://www.nintendo.com/games/detail/dark-quest-2-switch/) 
 - Borderlands: The Handsome Collection [(switch)](https://www.nintendo.com/games/detail/borderlands-the-handsome-collection-switch/)
 - Dungeon Rushers [(www)](http://dungeon-rushers.com/en/index-en/) [(switch)](https://www.nintendo.com/games/detail/dungeon-rushers-switch)
-- Uno [(switch)](https://www.nintendo.com/games/detail/uno-for-nintendo-switch-switch/)
-- Beach Buggy Racing [(switch)](https://www.nintendo.com/games/detail/beach-buggy-racing-switch/)
-- Mudrunner: American Wilds [(switch)](https://www.nintendo.com/games/detail/mudrunner-american-wilds-switch/)
-- The Keep [(switch)](https://www.nintendo.com/games/detail/the-keep-switch/)
-- Transistor [(switch)](https://www.nintendo.com/games/detail/transistor-switch)
-- The Flame In The Flood [(switch)](https://www.nintendo.com/games/detail/the-flame-in-the-flood-complete-edition-switch)
-- Asphalt 9: Legends [(switch)](https://www.nintendo.com/games/detail/asphalt-9-legends-switch/)
-- Torchlight II [(switch)](https://www.nintendo.com/games/detail/torchlight-2-switch/)
-- Doom [(switch)](https://www.nintendo.com/games/detail/doom-1993-switch/)
-- Doom II [(switch)](https://www.nintendo.com/games/detail/doom-2-classic-switch/)
-- Rogue Bit [(switch)](https://www.nintendo.com/games/detail/rogue-bit-switch/)
 
 ### Nintendo Switch - Most Wanted Games
 
-- Rebel Galaxy Outlaw [(www)](https://rebel-galaxy.com/) 09-22-2020
 - Torchlight 3 [(www)](https://www.arcgames.com/en/games/Torchlight_3) [(switch)](https://www.nintendo.com/games/detail/torchlight-iii-switch/)
 - Ruined King - [(www)](https://ruinedking.com/) [(switch)]https://www.nintendo.com/games/detail/ruined-king-a-league-of-legends-story-switch/()
 - Graven - [(Trailer)](https://youtu.be/3TXvcsxay8s)
@@ -42,7 +31,6 @@
 - Minecraft Dungeons [(www)](https://www.minecraft.net/en-us/dungeons)
 - Burnout Paradise: Remastered [(switch)](https://www.nintendo.com/games/detail/burnout-paradise-remastered-switch/)
 - Doom (2016) [(switch)](https://www.nintendo.com/games/detail/doom-switch)
-- Diablo IV [(www)](https://diablo.blizzard.com/en-us/) (Unreleased)
 - Space Land [(switch)](https://www.nintendo.com/games/detail/spaceland-switch/)
 - Carcassonne [(switch)](https://www.nintendo.com/games/detail/carcassonne-switch) [(www)](http://www.asmodee-digital.com/en/carcassonne/)
 - Catan Universe [(switch)](https://www.nintendo.com/games/detail/catan-switch/)
@@ -149,7 +137,6 @@
 - Bad North [(www)](https://www.badnorth.com) [(switch)](https://www.nintendo.com/games/detail/bad-north-switch)
 - Bullet Age [(switch)](https://www.nintendo.com/games/detail/bullet-age-switch)
 - Child of Light Ultimate Edition + Valiant Hearts: The Great War
-- Dark Quest 2 [(switch)](https://www.nintendo.com/games/detail/dark-quest-2-switch)
 - Degrees of Separation [(switch)](https://www.nintendo.com/games/detail/degrees-of-separation-switch)
 - Dragon Quest Builders [(www)](https://dragonquest.square-enix-games.com/builders/us/)
 - Dragon Quest Builders 2 [(switch)](https://www.nintendo.com/games/detail/dragon-quest-builders-2-switch)
@@ -207,6 +194,7 @@
 - Beach Buggy Racing [(switch)](https://www.nintendo.com/games/detail/beach-buggy-racing-switch/)
 - Diablo III: Eternal Collection [(www)](https://us.diablo3.com/en/switch)
 - Darkest Dungeon [(www)](https://www.darkestdungeon.com)
+- Dark Quest 2 [(switch)](https://www.nintendo.com/games/detail/dark-quest-2-switch/) 
 - Doom [(switch)](https://www.nintendo.com/games/detail/doom-1993-switch/)
 - Doom II [(switch)](https://www.nintendo.com/games/detail/doom-2-classic-switch/)
 - Dungeon Rushers [(www)](http://dungeon-rushers.com/en/index-en/) [(switch)](https://www.nintendo.com/games/detail/dungeon-rushers-switch)
@@ -216,6 +204,7 @@
 - The Elder Scrolls V: Skyrim [(www)](https://elderscrolls.bethesda.net/en/skyrim)
 - The Flame In The Flood [(switch)](https://www.nintendo.com/games/detail/the-flame-in-the-flood-complete-edition-switch)
 - The Keep [(switch)](https://www.nintendo.com/games/detail/the-keep-switch/)
+- Rebel Galaxy: Outlaw [(www)](https://rebel-galaxy.com/)
 - Transistor [(switch)](https://www.nintendo.com/games/detail/transistor-switch)
 - Uno [(switch)](https://www.nintendo.com/games/detail/uno-for-nintendo-switch-switch/)
 
