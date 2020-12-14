@@ -17,12 +17,12 @@ A list of all of the games I currently have for the Amiga. Note: Most of these a
 
 ### Amiga - Last Six added to the Collection
 
+- Scorched Tanks (1994)
 - Sargon III (1988)
 - [Rise of the Dragon](http://www.lemonamiga.com/?game_id=1323) (1991)
 - [Red Storm Rising](http://www.lemonamiga.com/?game_id=1323) (1990)
 - [Prince of Persia](http://www.lemonamiga.com/?game_id=1323) (1991)
 - [Populous](http://www.lemonamiga.com/?game_id=1323) (1989)
-- [Populous II](http://www.lemonamiga.com/games/details.php?id=854) (1992)
 
 ### Amiga - Games Collections
 
@@ -69,6 +69,7 @@ A list of games that I have on both my Amiga and my RetroPie box.
 - [Prince of Persia](http://www.lemonamiga.com/?game_id=1323) (1991)
 - [Red Storm Rising](http://www.lemonamiga.com/?game_id=1323) (1990)
 - [Rise of the Dragon](http://www.lemonamiga.com/?game_id=1323) (1991)
+- Scorched Tanks (1994)
 - [Silent Service](http://www.lemonamiga.com/?game_id=1323)
 - [Space Hulk](http://www.lemonamiga.com/?game_id=1323)
 - Sargon III (1988)
