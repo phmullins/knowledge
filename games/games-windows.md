@@ -21,16 +21,10 @@ the PC.
 
 ### Windows/PC - Recently Added to Collection
 
+- Alien: Isolation [(Epic)](https://www.epicgames.com/store/en-US/product/alien-isolation/home)
 - Pillars of Eternity - Definitive Edition [(Epic)](https://www.epicgames.com/store/en-US/product/pillars-of-eternity/home)
-- Tyranny - Gold Edition [(Epic)](https://www.epicgames.com/store/en-US/product/tyranny/home)
 - Elite Dangerous [(Epic)](https://www.epicgames.com/store/en-US/product/elite-dangerous/home)
 - Deep Sky Derelicts [(GoG)](https://www.gog.com/game/deep_sky_derelicts)
-- Teleglitch: Die More Edition [(GoG)](https://www.gog.com/game/teleglitch_die_more_edition)
-- Serious Sam: The First Encounter [(GoG)](https://www.gog.com/game/serious_sam_the_first_encounter)
-- Dungeons 3 [(Epic)](https://www.epicgames.com/store/en-US/product/dungeons-3/home)
-- The Alto Collection [(Epic)](https://www.epicgames.com/store/en-US/product/the-alto-collection/home)
-- Remnant: From the Ashes [(Epic)](https://www.epicgames.com/store/en-US/product/remnant-from-the-ashes/home)
-- Barony [(Epic)](https://www.epicgames.com/store/en-US/product/barony/home)
 - Superbrothers: Sword & Sworcery EP [(Epic)](https://www.epicgames.com/store/en-US/product/superbrothers-sword-and-sworcery-ep/home) [(Steam)](https://store.steampowered.com/app/204060/Superbrothers_Sword__Sworcery_EP/)
 - Borderlands 3 [(www)](https://borderlands.com)
 - The Division 2 [(www)](https://www.ubisoft.com/en-us/game/the-division/the-division-2)
@@ -55,7 +49,7 @@ the PC.
 
 ### Windows/PC - Games I Have/Own
 
-- The Alto Collection [(Epic)](https://www.epicgames.com/store/en-US/product/the-alto-collection/home)
+- Alien: Isolation [(Epic)](https://www.epicgames.com/store/en-US/product/alien-isolation/home)
 - Barony [(Epic)](https://www.epicgames.com/store/en-US/product/barony/home)
 - Batman: Arkham Asylum (Game of the Year Edition) [(epic)](https://www.epicgames.com/store/en-US/product/batman-arkham-asylum/home)
 - Borderlands 2 [(Steam)](https://store.steampowered.com/app/49520/Borderlands_2/)
@@ -91,6 +85,7 @@ the PC.
 - Superbrothers: Sword & Sworcery EP [(Epic)](https://www.epicgames.com/store/en-US/product/superbrothers-sword-and-sworcery-ep/home) [(Steam)](https://store.steampowered.com/app/204060/Superbrothers_Sword__Sworcery_EP/)
 - Torchlight [(Steam)](https://store.steampowered.com/app/41500/Torchlight/)
 - Torchlight II [(Steam)](https://store.steampowered.com/app/200710/Torchlight_II/?curator_clanid=38564401)
+- The Alto Collection [(Epic)](https://www.epicgames.com/store/en-US/product/the-alto-collection/home)
 - The Talos Principle [(epic)](https://www.epicgames.com/store/en-US/product/the-talos-principle/home)
 - The Ultimate DOOM [(www)](https://en.wikipedia.org/wiki/Doom_(franchise)) [(GoG)](https://www.gog.com/game/the_ultimate_doom)
 - Tower of Time [(GoG)](https://www.gog.com/game/tower_of_time)
