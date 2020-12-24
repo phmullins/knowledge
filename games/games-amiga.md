@@ -17,12 +17,12 @@ A list of all of the games I currently have for the Amiga. Note: Most of these a
 
 ### Amiga - Last Six added to the Collection
 
+- Shadow of the Beast (1989)
 - Secret of Monkey Island (1991)
 - Scorched Tanks (1994)
 - Sargon III (1988)
 - [Rise of the Dragon](http://www.lemonamiga.com/?game_id=1323) (1991)
 - [Red Storm Rising](http://www.lemonamiga.com/?game_id=1323) (1990)
-- [Prince of Persia](http://www.lemonamiga.com/?game_id=1323) (1991)
 
 ### Amiga - Games Collections
 
@@ -72,6 +72,7 @@ A list of games that I have on both my Amiga and my RetroPie box.
 - Sargon III (1988)
 - Scorched Tanks (1994)
 - Secret of Monkey Island (1991)
+- Shadow of the Beast (1989)
 - Silent Service
 - Space Hulk
 - Speedball
