@@ -21,12 +21,12 @@ A list of all of the games I currently have for the Amiga. Note: Most of these a
 
 ### Amiga - Last Six added to the Collection
 
+- Silent Service (1987)
 - Shanghai (1986)
 - Shadowlands (1992)
 - Shadow Sorcerer (1991)
 - Shadow of the Beast 3 (1992)
 - Shadow of the Beast 2 (1990)
-- Shadow of the Beast (1989)
 
 ### Amiga - Games Collections
 
@@ -82,7 +82,7 @@ A list of games that I have on both my Amiga and my RetroPie box.
 - Shadow Sorcerer (1991)
 - Shadowlands (1992)
 - Shanghai (1986)
-- Silent Service
+- Silent Service (1987)
 - Space Hulk
 - Speedball
 - Speedball 2
