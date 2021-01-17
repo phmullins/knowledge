@@ -21,12 +21,12 @@ A list of all of the games I currently have for the Amiga. Note: Most of these a
 
 ### Amiga - Last Six added to the Collection
 
+- Speedball (1988)
 - Space Hulk (1993)
 - Skrull (1988)
 - Silent Service (1987)
 - Shanghai (1986)
 - Shadowlands (1992)
-- Shadow Sorcerer (1991)
 
 ### Amiga - Games Collections
 
@@ -85,7 +85,7 @@ A list of games that I have on both my Amiga and my RetroPie box.
 - Silent Service (1987)
 - Skrull (1988)
 - Space Hulk (1993)
-- Speedball
+- Speedball (1988)
 - Speedball 2
 - Syndicate
 - Supremacy (1994)
