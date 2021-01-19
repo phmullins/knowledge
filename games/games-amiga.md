@@ -21,12 +21,12 @@ A list of all of the games I currently have for the Amiga. Note: Most of these a
 
 ### Amiga - Last Six added to the Collection
 
+- Star Command (1989)
 - Speedball 2 - Brutal Deluxe (1990)
 - Speedball (1988)
 - Space Hulk (1993)
 - Skrull (1988)
 - Silent Service (1987)
-- Shanghai (1986)
 
 ### Amiga - Games Collections
 
@@ -87,6 +87,7 @@ A list of games that I have on both my Amiga and my RetroPie box.
 - Space Hulk (1993)
 - Speedball (1988)
 - Speedball 2 - Brutal Deluxe (1990)
+- Star Command (1989)
 - Syndicate
 - Supremacy (1994)
 - The Hunt for Red October
