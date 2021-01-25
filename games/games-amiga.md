@@ -21,12 +21,12 @@ A list of all of the games I currently have for the Amiga. Note: Most of these a
 
 ### Amiga - Last Six added to the Collection
 
+- Storm Master (1991)
 - Stellar Crusade (1989)
 - Star Wars - The Empire Strikes Back (1988)
 - Star Wars - Return of The Jedi (1988)
 - Star Wars (1988)
 - Star Command (1989)
-- Speedball 2 - Brutal Deluxe (1990)
 
 ### Amiga - Games Collections
 
@@ -92,6 +92,7 @@ A list of games that I have on both my Amiga and my RetroPie box.
 - Star Wars - Return of The Jedi (1988)
 - Star Wars - The Empire Strikes Back (1988)
 - Stellar Crusade (1989)
+- Storm Master (1991)
 - Syndicate
 - Supremacy (1994)
 - The Hunt for Red October
