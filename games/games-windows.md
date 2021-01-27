@@ -21,6 +21,7 @@ the PC.
 
 ### Windows/PC - Recently Added to Collection
 
+- Galactic Civilizations III
 - Alien: Isolation [(Epic)](https://www.epicgames.com/store/en-US/product/alien-isolation/home)
 - Pillars of Eternity - Definitive Edition [(Epic)](https://www.epicgames.com/store/en-US/product/pillars-of-eternity/home)
 - Elite Dangerous [(Epic)](https://www.epicgames.com/store/en-US/product/elite-dangerous/home)
@@ -68,6 +69,7 @@ the PC.
 - Elder Sign: Omens [(Steam)](https://store.steampowered.com/app/257670/Elder_Sign_Omens/)
 - Final Doom [(www)](https://en.wikipedia.org/wiki/Doom_(franchise)) [(GoG)](https://www.gog.com/game/doom_ii_final_doom)
 - Frostpunk [(GoG)](https://www.gog.com/game/frostpunk)
+- Galactic Civilizations III
 - Grand Theft Auto V [(Epic)](https://www.epicgames.com/store/en-US/product/grand-theft-auto-v/home)
 - Half-Life [(www)](https://en.wikipedia.org/wiki/Half-Life_(series))
 - Half-Life 2 [(www)](https://en.wikipedia.org/wiki/Half-Life_(series))
