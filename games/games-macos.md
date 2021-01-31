@@ -19,6 +19,7 @@ and/or port them.
 
 ### macOS - Games Recently Added to Collection
 
+- Scythe: Digital Edition [(GoG)](https://www.gog.com/game/scythe_digital_edition)
 - The Textorcist
 - Deep Sky Derelicts: Definitive Edition [(GoG)](https://www.gog.com/game/deep_sky_derelicts_definitive_edition)
 - Into The Breach [(www)](https://subsetgames.com/itb.html)
@@ -43,7 +44,6 @@ and/or port them.
 
 - Diablo IV [(www)](https://diablo.blizzard.com/en-us/) (Unreleased)
 - Achtung! Cthulhu Tactics [(www)](https://store.steampowered.com/app/874460/Achtung_Cthulhu_Tactics/)
-- Master of Orion [(www)](https://masteroforion.com)
 - Phoenix Point [(www)](https://phoenixpoint.info/)
 - Rebel Galaxy Outlaw [(www)](https://rebel-galaxy.com/)
 - Nowhere Prophet [(www)](http://www.noprophet.com/)
@@ -131,6 +131,7 @@ A list of games that I currently own or have access to.
 - Portal
 - Portal 2
 - Satellite Reign
+- Scythe: Digital Edition [(GoG)](https://www.gog.com/game/scythe_digital_edition)
 - Shadowrun Returns [(GoG)](https://www.gog.com/game/shadowrun_returns)
 - Shadowrun: Dragonfall - Director's Cut [(GoG)](https://www.gog.com/game/shadowrun_dragonfall_directors_cut)
 - Shadowrun: Hong Kong - Extended Edition [(GoG)](https://www.gog.com/game/shadowrun_hong_kong_extended_edition)
@@ -140,6 +141,7 @@ A list of games that I currently own or have access to.
 - Space Hulk
 - Sundered: Eldritch Edition [(Epic)](https://www.epicgames.com/store/en-US/product/sundered-eldritch-edition/home)
 - Sword Coast: Legends
+- Space Haven [(GoG)](https://www.gog.com/game/space_haven)
 - Tales from Candlekeep: Tomb of Annihilation [(Steam)](https://store.steampowered.com/app/663380/Tales_from_Candlekeep_Tomb_of_Annihilation/)
 - Torchlight
 - Torchlight II
