@@ -20,6 +20,8 @@ and forest green. Who's to say?
 
 ### PlayStation 4 - Recently Added to Collection
 
+- Gods: Remastered [(www)](https://www.robotriotgames.com/gods_remastered.html)
+- Hungry Shark World [(www)](https://www.ubisoft.com/en-us/game/hungry-shark-world/)
 - Mooseman [(www)](http://www.mooseman.ru/mooseman.html)
 - Dishonored: Definitive Edition [(ps4)](https://www.playstation.com/en-us/games/dishonored-definitive-edition-ps4/)
 - 7th Sector [(ps4)](https://store.playstation.com/en-us/product/UP1675-CUSA15797_00-SYPS47THSECTOR00)
@@ -121,8 +123,10 @@ and forest green. Who's to say?
 - Generation Zero [(ps4)](https://www.playstation.com/en-us/games/generation-zero-ps4/) [(www)](https://generationzero.com/en/)
 - God of War [(ps4)](https://www.playstation.com/en-us/games/god-of-war-ps4/)
 - God of War III: Remastered [(ps4)](https://www.playstation.com/en-us/games/god-of-war-iii-remastered-ps4/)
+- Gods: Remastered [(www)](https://www.robotriotgames.com/gods_remastered.html)
 - Horizon Zero Dawn [(www)](http://HorizonZeroDawn.com)
 - Horizon Zero Dawn: The Frozen Wilds [(ps4)](https://www.playstation.com/en-us/games/horizon-zero-dawn-ps4/the-frozen-wilds-dlc/)
+- Hungry Shark World [(www)](https://www.ubisoft.com/en-us/game/hungry-shark-world/)
 - Inside [(www)](https://playdead.com/games/inside/)
 - Invisible, Inc.[(ps4)](https://www.playstation.com/en-us/games/invisible-inc-console-edition-ps4/)
 - Mooseman [(www)](http://www.mooseman.ru/mooseman.html)
