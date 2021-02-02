@@ -21,14 +21,12 @@ the PC.
 
 ### Windows/PC - Recently Added to Collection
 
+- Scythe: Digital Edition [(GoG)](https://www.gog.com/game/scythe_digital_edition)
+- Project Warlock [(GoG)](https://www.gog.com/game/project_warlock)
 - Galactic Civilizations III
 - Alien: Isolation [(Epic)](https://www.epicgames.com/store/en-US/product/alien-isolation/home)
-- Pillars of Eternity - Definitive Edition [(Epic)](https://www.epicgames.com/store/en-US/product/pillars-of-eternity/home)
-- Elite Dangerous [(Epic)](https://www.epicgames.com/store/en-US/product/elite-dangerous/home)
 - Deep Sky Derelicts [(GoG)](https://www.gog.com/game/deep_sky_derelicts)
-- Superbrothers: Sword & Sworcery EP [(Epic)](https://www.epicgames.com/store/en-US/product/superbrothers-sword-and-sworcery-ep/home) [(Steam)](https://store.steampowered.com/app/204060/Superbrothers_Sword__Sworcery_EP/)
 - Borderlands 3 [(www)](https://borderlands.com)
-- The Division 2 [(www)](https://www.ubisoft.com/en-us/game/the-division/the-division-2)
 - Frostpunk [(GoG)](https://www.gog.com/game/frostpunk)
 - Mutant Year Zero: Road to Eden [(GoG)](https://www.gog.com/game/mutant_year_zero_road_to_eden)
 
@@ -77,11 +75,13 @@ the PC.
 - Legend of Grimrock [(Steam)](https://store.steampowered.com/app/207170/Legend_of_Grimrock/)
 - Legend of Grimrock 2 [(GoG)](https://www.gog.com/game/legend_of_grimrock_2)
 - Master of Orion [(GoG)](https://www.gog.com/game/master_of_orion)
-- Minecraft
+- Minecraft 
 - Mutant Year Zero: Road to Eden [(GoG)](https://www.gog.com/game/mutant_year_zero_road_to_eden)
 - Prodeus [(Steam)](https://store.steampowered.com/app/964800/Prodeus/)
+- Project Warlock [(GoG)](https://www.gog.com/game/project_warlock)
 - Rebel Galaxy [(GoG)](https://www.gog.com/game/rebel_galaxy)
 - Remnant: From the Ashes [(Epic)](https://www.epicgames.com/store/en-US/product/remnant-from-the-ashes/home)
+- Scythe: Digital Edition [(GoG)](https://www.gog.com/game/scythe_digital_edition)
 - Shadow Tactics: Blades of the Shogun [(epic)](https://www.epicgames.com/store/en-US/product/shadow-tactics/home)
 - Sid Meier's Starships [(Steam)](https://store.steampowered.com/app/282210/Sid_Meiers_Starships/)
 - Superbrothers: Sword & Sworcery EP [(Epic)](https://www.epicgames.com/store/en-US/product/superbrothers-sword-and-sworcery-ep/home) [(Steam)](https://store.steampowered.com/app/204060/Superbrothers_Sword__Sworcery_EP/)
