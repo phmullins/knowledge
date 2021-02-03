@@ -21,12 +21,12 @@ A list of all of the games I currently have for the Amiga. Note: Most of these a
 
 ### Amiga - Last Six added to the Collection
 
+- Transarctica (1993)
 - The Hunt for Red October (1987)
 - Tanglewood (1988)
 - Syndicate (1993)
 - Storm Master (1991)
 - Stellar Crusade (1989)
-- Star Wars - The Empire Strikes Back (1988)
 
 ### Amiga - Games Collections
 
@@ -97,6 +97,7 @@ A list of games that I have on both my Amiga and my RetroPie box.
 - Supremacy (1994)
 - Tanglewood (1988)
 - The Hunt for Red October (1987)
+- Transarctica (1993)
 
 ### Amiga Links
 
