@@ -19,26 +19,13 @@ and/or port them.
 
 ### macOS - Games Recently Added to Collection
 
+- Rebel Galaxy [(gog)](https://www.gog.com/game/rebel_galaxy)
 - Scythe: Digital Edition [(GoG)](https://www.gog.com/game/scythe_digital_edition)
-- The Textorcist
 - Deep Sky Derelicts: Definitive Edition [(GoG)](https://www.gog.com/game/deep_sky_derelicts_definitive_edition)
 - Into The Breach [(www)](https://subsetgames.com/itb.html)
-- Barony [(www)](http://www.baronygame.com/)
-- Heretic: Shadow of the Serpent Riders [(Steam)](https://store.steampowered.com/app/2390/Heretic_Shadow_of_the_Serpent_Riders/)
-- HeXen: Deathkings of the Dark Citadel [(Steam)](https://store.steampowered.com/app/2370/HeXen_Deathkings_of_the_Dark_Citadel/)
-- HeXen II [(Steam)](https://store.steampowered.com/app/9060/HeXen_II/)
-- HeXen: Beyond Heretic [(Steam)](https://store.steampowered.com/app/2360/HeXen_Beyond_Heretic/)
-- Tales from Candlekeep: Tomb of Annihilation [(Steam)](https://store.steampowered.com/app/663380/Tales_from_Candlekeep_Tomb_of_Annihilation/)
-- Crawl [(Steam)](https://store.steampowered.com/app/293780/Crawl/)
 - Guild of Dungeoneering [(GoG)](http://www.guildofdungeoneering.com/)
 - Master of Orion [(www)](http://masteroforion.com/intro)
-- Borderlands 3 [(Dev)](https://boderlands.com) [(Epic)](https://www.epicgames.com/store/en-US/product/borderlands-3/home)
-- Frostpunk [(GoG)](https://www.gog.com/game/frostpunk)
-- Shadowrun Returns [(GoG)](https://www.gog.com/game/shadowrun_returns)
-- Shadowrun: Dragonfall - Director's Cut [(GoG)](https://www.gog.com/game/shadowrun_dragonfall_directors_cut)
-- Shadowrun: Hong Kong - Extended Edition [(GoG)](https://www.gog.com/game/shadowrun_hong_kong_extended_edition)
 - Darkest Dungeon [(GoG)](https://www.gog.com/game/darkest_dungeon)
-- Mutant Year Zero [(www)](https://www.mutantyearzero.com)
 
 ### macOS - Most Wanted Games
 
@@ -130,6 +117,7 @@ A list of games that I currently own or have access to.
 - Poly Bridge
 - Portal
 - Portal 2
+- Rebel Galaxy [(gog)](https://www.gog.com/game/rebel_galaxy)
 - Satellite Reign
 - Scythe: Digital Edition [(GoG)](https://www.gog.com/game/scythe_digital_edition)
 - Shadowrun Returns [(GoG)](https://www.gog.com/game/shadowrun_returns)
