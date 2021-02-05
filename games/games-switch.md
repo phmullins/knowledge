@@ -18,6 +18,7 @@
 
 ### Nintendo Switch - Most Wanted Games
 
+- The Long Dark [(switch)](https://www.nintendo.com/games/detail/the-long-dark-switch/)
 - Torchlight 3 [(www)](https://www.arcgames.com/en/games/Torchlight_3) [(switch)](https://www.nintendo.com/games/detail/torchlight-iii-switch/)
 - Ruined King - [(www)](https://ruinedking.com/) [(switch)]https://www.nintendo.com/games/detail/ruined-king-a-league-of-legends-story-switch/()
 - Graven - [(Trailer)](https://youtu.be/3TXvcsxay8s)
