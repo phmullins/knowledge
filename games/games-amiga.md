@@ -21,12 +21,12 @@ A list of all of the games I currently have for the Amiga. Note: Most of these a
 
 ### Amiga - Last Six added to the Collection
 
+- Virus (1988)
 - Utopia: The Creation of a Nation (1991)
 - Universe (1994)
 - Treasure Trap (1989)
 - Transarctica (1993)
 - The Hunt for Red October (1987)
-- Tanglewood (1988)
 
 ### Amiga - Games Collections
 
@@ -101,6 +101,7 @@ A list of games that I have on both my Amiga and my RetroPie box.
 - Treasure Trap (1989)
 - Universe (1994)
 - Utopia: The Creation of a Nation (1991)
+- Virus (1988)
 
 ### Amiga Links
 
