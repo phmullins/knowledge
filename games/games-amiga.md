@@ -21,12 +21,12 @@ A list of all of the games I currently have for the Amiga. Note: Most of these a
 
 ### Amiga - Last Six added to the Collection
 
+- Worms (1995)
 - Wizardry: Bane of the Cosmic Forge (1990)
 - Wing Commander (1992)
 - When Two Worlds War (1993)
 - Virus (1988)
 - Utopia: The Creation of a Nation (1991)
-- Universe (1994)
 
 ### Amiga - Games Collections
 
@@ -105,6 +105,7 @@ A list of games that I have on both my Amiga and my RetroPie box.
 - When Two Worlds War (1993)
 - Wing Commander (1992)
 - Wizardry: Bane of the Cosmic Forge (1990)
+- Worms (1995)
 
 ### Amiga Links
 
