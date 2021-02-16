@@ -21,12 +21,12 @@ A list of all of the games I currently have for the Amiga. Note: Most of these a
 
 ### Amiga - Last Six added to the Collection
 
+- Zaxxon (1995)
 - Xiphos (1990)
 - Xenomorph (1990)
 - Worms (1995)
 - Wizardry: Bane of the Cosmic Forge (1990)
 - Wing Commander (1992)
-- When Two Worlds War (1993)
 
 ### Amiga - Games Collections
 
@@ -108,6 +108,7 @@ A list of games that I have on both my Amiga and my RetroPie box.
 - Worms (1995)
 - Xenomorph (1990)
 - Xiphos (1990)
+- Zaxxon (1995)
 
 ### Amiga Links
 
