@@ -131,7 +131,7 @@ A list of games that I currently own or have access to.
 - Sword Coast: Legends
 - Space Haven [(GoG)](https://www.gog.com/game/space_haven)
 - Tales from Candlekeep: Tomb of Annihilation [(Steam)](https://store.steampowered.com/app/663380/Tales_from_Candlekeep_Tomb_of_Annihilation/)
-- Torchlight
+- Torchlight [(www)](https://www.torchlight1.com/en)
 - Torchlight II
 - Transistor 
 - We Are The Dwarves [(www)](http://wearethedwarves.com/press/#description)
