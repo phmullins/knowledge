@@ -13,7 +13,7 @@ and/or port them.
 
 - Borderlands 2
 - Borderlands 3 [(Dev)](https://boderlands.com)
-- Darkest Dungeon [(GoG)](https://www.gog.com/game/darkest_dungeon)
+- Darkest Dungeon - [(GoG)](https://www.gog.com/game/darkest_dungeon)
 - Diablo III 
 - Torchlight 
 
@@ -25,7 +25,7 @@ and/or port them.
 - Into The Breach [(www)](https://subsetgames.com/itb.html)
 - Guild of Dungeoneering [(GoG)](http://www.guildofdungeoneering.com/)
 - Master of Orion [(www)](http://masteroforion.com/intro)
-- Darkest Dungeon [(GoG)](https://www.gog.com/game/darkest_dungeon)
+- Darkest Dungeon - [(GoG)](https://www.gog.com/game/darkest_dungeon)
 
 ### macOS - Most Wanted Games
 
@@ -73,7 +73,7 @@ A list of games that I currently own or have access to.
 - Borderlands 3 [(www)](https://boderlands.com)
 - Crawl [(Steam)](https://store.steampowered.com/app/293780/Crawl/)
 - Creativerse
-- Darkest Dungeon [(GoG)](https://www.gog.com/game/darkest_dungeon)
+- Darkest Dungeon - [(GoG)](https://www.gog.com/game/darkest_dungeon)
 - Deep Sky Derelicts: Definitive Edition [(GoG)](https://www.gog.com/game/deep_sky_derelicts_definitive_edition)
 - Destiny 2
 - Diablo III
