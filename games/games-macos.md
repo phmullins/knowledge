@@ -19,6 +19,7 @@ and/or port them.
 
 ### macOS - Games Recently Added to Collection
 
+- Wasteland 2: Director's Cut [(GoG)](https://www.gog.com/game/wasteland_2_directors_cut_digital_classic_edition)
 - Rebel Galaxy [(gog)](https://www.gog.com/game/rebel_galaxy)
 - Scythe: Digital Edition [(GoG)](https://www.gog.com/game/scythe_digital_edition)
 - Deep Sky Derelicts: Definitive Edition [(GoG)](https://www.gog.com/game/deep_sky_derelicts_definitive_edition)
@@ -38,8 +39,6 @@ and/or port them.
 - Deep Sky Derelicts [(www)](https://www.snowhoundgames.com/deep-sky-derelicts/)
 - Dungeon of the Endless [(www)](https://store.steampowered.com/app/249050/Dungeon_of_the_Endless/)
 - Pathfinder: Kingmaker [(www)](https://owlcatgames.com)
-- Shadow Tactics: Blades of the Shogun [(www)](http://www.mimimi-productions.de/shadow_tactics_micro/)
-- Warhammer 40,000: Dawn of War III [(www)](https://www.dawnofwar.com)
 
 ### macOS - Wanted Games List
 
@@ -134,6 +133,7 @@ A list of games that I currently own or have access to.
 - Torchlight [(www)](https://www.torchlight1.com/en)
 - Torchlight II
 - Transistor 
+- Wasteland 2: Director's Cut [(GoG)](https://www.gog.com/game/wasteland_2_directors_cut_digital_classic_edition)
 - We Are The Dwarves [(www)](http://wearethedwarves.com/press/#description)
 - Warhammer 40,000: Mechanicus [(GoG)](https://www.gog.com/game/warhammer_40000_mechanicus)
 - Warhammer Quest
