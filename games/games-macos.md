@@ -19,14 +19,12 @@ and/or port them.
 
 ### macOS - Games Recently Added to Collection
 
+- Wing Commander I [(GoG)](https://www.gog.com/game/wing_commander_1_2)
 - Wasteland 2: Director's Cut [(GoG)](https://www.gog.com/game/wasteland_2_directors_cut_digital_classic_edition)
 - Rebel Galaxy [(gog)](https://www.gog.com/game/rebel_galaxy)
 - Scythe: Digital Edition [(GoG)](https://www.gog.com/game/scythe_digital_edition)
 - Deep Sky Derelicts: Definitive Edition [(GoG)](https://www.gog.com/game/deep_sky_derelicts_definitive_edition)
 - Into The Breach [(www)](https://subsetgames.com/itb.html)
-- Guild of Dungeoneering [(GoG)](http://www.guildofdungeoneering.com/)
-- Master of Orion [(www)](http://masteroforion.com/intro)
-- Darkest Dungeon - [(GoG)](https://www.gog.com/game/darkest_dungeon)
 
 ### macOS - Most Wanted Games
 
@@ -34,9 +32,7 @@ and/or port them.
 - Achtung! Cthulhu Tactics [(www)](https://store.steampowered.com/app/874460/Achtung_Cthulhu_Tactics/)
 - Phoenix Point [(www)](https://phoenixpoint.info/)
 - Rebel Galaxy Outlaw [(www)](https://rebel-galaxy.com/)
-- Nowhere Prophet [(www)](http://www.noprophet.com/)
 - Artifact [(www)](https://store.steampowered.com/app/583950/Artifact/)
-- Deep Sky Derelicts [(www)](https://www.snowhoundgames.com/deep-sky-derelicts/)
 - Dungeon of the Endless [(www)](https://store.steampowered.com/app/249050/Dungeon_of_the_Endless/)
 - Pathfinder: Kingmaker [(www)](https://owlcatgames.com)
 
@@ -54,7 +50,6 @@ and/or port them.
 - Feudal Alloy [(GoG)](https://www.gog.com/game/feudal_alloy)
 - Bad North: Jotunn Edition [(GoG)](https://www.gog.com/game/bad_north)
 - Hacknet Ultimate Edition [(GoG)](https://www.gog.com/game/hacknet_ultimate_edition)
-- Space Haven [(GoG)](https://www.gog.com/game/space_haven)
 
 ### macOS - Games Collections
 
@@ -137,6 +132,7 @@ A list of games that I currently own or have access to.
 - We Are The Dwarves [(www)](http://wearethedwarves.com/press/#description)
 - Warhammer 40,000: Mechanicus [(GoG)](https://www.gog.com/game/warhammer_40000_mechanicus)
 - Warhammer Quest
+- Wing Commander I [(GoG)](https://www.gog.com/game/wing_commander_1_2)
 - World of Goo [(Epic)](https://www.epicgames.com/store/en-US/product/world-of-goo/home)
 - XCOM: Enemy Unknown
 
