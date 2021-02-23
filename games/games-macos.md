@@ -19,12 +19,12 @@ and/or port them.
 
 ### macOS - Games Recently Added to Collection
 
+- Wing Commander II [(GoG)](https://www.gog.com/game/wing_commander_1_2)
 - Wing Commander I [(GoG)](https://www.gog.com/game/wing_commander_1_2)
 - Wasteland 2: Director's Cut [(GoG)](https://www.gog.com/game/wasteland_2_directors_cut_digital_classic_edition)
 - Rebel Galaxy [(gog)](https://www.gog.com/game/rebel_galaxy)
 - Scythe: Digital Edition [(GoG)](https://www.gog.com/game/scythe_digital_edition)
 - Deep Sky Derelicts: Definitive Edition [(GoG)](https://www.gog.com/game/deep_sky_derelicts_definitive_edition)
-- Into The Breach [(www)](https://subsetgames.com/itb.html)
 
 ### macOS - Most Wanted Games
 
@@ -133,6 +133,7 @@ A list of games that I currently own or have access to.
 - Warhammer 40,000: Mechanicus [(GoG)](https://www.gog.com/game/warhammer_40000_mechanicus)
 - Warhammer Quest
 - Wing Commander I [(GoG)](https://www.gog.com/game/wing_commander_1_2)
+- Wing Commander II [(GoG)](https://www.gog.com/game/wing_commander_1_2)
 - World of Goo [(Epic)](https://www.epicgames.com/store/en-US/product/world-of-goo/home)
 - XCOM: Enemy Unknown
 
