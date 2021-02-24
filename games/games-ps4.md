@@ -20,6 +20,7 @@ and forest green. Who's to say?
 
 ### PlayStation 4 - Recently Added to Collection
 
+- Doom 64 [(www)](https://www.polygon.com/2020/3/19/21183597/doom-64-eternal-impressions-history-reboot-port-nintendo-64)
 - Gods: Remastered [(www)](https://www.robotriotgames.com/gods_remastered.html)
 - Hungry Shark World [(www)](https://www.ubisoft.com/en-us/game/hungry-shark-world/)
 - Mooseman [(www)](http://www.mooseman.ru/mooseman.html)
@@ -61,7 +62,6 @@ and forest green. Who's to say?
 - In Other Waters [(switch)](https://www.nintendo.com/games/detail/in-other-waters-switch/)
 - Alienation [(YouTube)](https://youtu.be/AaJ1YoSHATE)
 - SnowRunner [(www)](https://snowrunner-thegame.com/)
-- Destiny 1: The Collection [(ps4)](https://www.playstation.com/en-us/games/destiny-ps4/)
 - Helldivers: A New Hell Edition [(YouTube)](https://youtu.be/qKrSiKSNwNg)
 - Helldivers [(www)](http://arrowheadgamestudios.com/games/helldivers/)
 - The Savage Planet [(ps4)](https://savageplanetgame.com/)
@@ -111,6 +111,7 @@ and forest green. Who's to say?
 - Diablo III: Eternal Collection [(www)](https://us.diablo3.com/en/)
 - Dishonored: Definitive Edition [(ps4)](https://www.playstation.com/en-us/games/dishonored-definitive-edition-ps4/)
 - Doom [(ps4)](https://www.playstation.com/en-us/games/doom-1993-ps4/)
+- Doom 64 [(www)](https://www.polygon.com/2020/3/19/21183597/doom-64-eternal-impressions-history-reboot-port-nintendo-64)
 - Doom II [(ps4)](https://www.playstation.com/en-us/games/doom-ii-classic-ps4/)
 - Doom (2016) [(www)](https://bethesda.net/en/game/doom)
 - EVE: Valkyrie – Warzone [(www)](https://www.evevalkyrie.com/)
