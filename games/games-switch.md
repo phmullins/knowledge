@@ -10,6 +10,7 @@
 
 ### Nintendo Switch - Recently Added to Collection
 
+- Among Us [(switch)](https://www.nintendo.com/games/detail/among-us-switch/)
 - Rebel Galaxy: Outlaw [(www)](https://rebel-galaxy.com/)
 - Borderlands 2: Commander Lilith & the Fight for Sanctuary
 - Dark Quest 2 [(switch)](https://www.nintendo.com/games/detail/dark-quest-2-switch/) 
@@ -18,8 +19,9 @@
 
 ### Nintendo Switch - Most Wanted Games
 
-- The Long Dark [(switch)](https://www.nintendo.com/games/detail/the-long-dark-switch/)
+- Diablo II: Resurrected [(Switch)](https://www.nintendo.com/games/detail/diablo-ii-resurrected-switch/)
 - Torchlight 3 [(www)](https://www.arcgames.com/en/games/Torchlight_3) [(switch)](https://www.nintendo.com/games/detail/torchlight-iii-switch/)
+- The Long Dark [(switch)](https://www.nintendo.com/games/detail/the-long-dark-switch/)
 - Ruined King - [(www)](https://ruinedking.com/) [(switch)]https://www.nintendo.com/games/detail/ruined-king-a-league-of-legends-story-switch/()
 - Graven - [(Trailer)](https://youtu.be/3TXvcsxay8s)
 - Observer [(www)](https://www.blooberteam.com/observer_)
@@ -188,6 +190,7 @@
 
 ### Nintendo Switch - Games that I Have/Own
 
+- Among Us [(switch)](https://www.nintendo.com/games/detail/among-us-switch/)
 - Asphalt 9: Legends [(switch)](https://www.nintendo.com/games/detail/asphalt-9-legends-switch/)
 - Borderlands: The Handsome Collection [(switch)](https://www.nintendo.com/games/detail/borderlands-the-handsome-collection-switch/)
 - Cat Quest [(switch)](https://www.nintendo.com/games/detail/cat-quest-switch/)
