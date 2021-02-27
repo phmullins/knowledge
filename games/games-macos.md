@@ -19,6 +19,7 @@ and/or port them.
 
 ### macOS - Games Recently Added to Collection
 
+- Everspace [(GoG)](https://www.gog.com/game/everspace)
 - Wing Commander II [(GoG)](https://www.gog.com/game/wing_commander_1_2)
 - Wing Commander I [(GoG)](https://www.gog.com/game/wing_commander_1_2)
 - Wasteland 2: Director's Cut [(GoG)](https://www.gog.com/game/wasteland_2_directors_cut_digital_classic_edition)
@@ -78,6 +79,7 @@ A list of games that I currently own or have access to.
 - Endless Space [(www)](https://www.endless-space.com)
 - Endless Space 2 [(www)](https://www.endless-space.com)
 - Elder Sign: Omens [(www)](https://www.fantasyflightgames.com/en/products/elder-sign-omens/)
+- Everspace [(GoG)](https://www.gog.com/game/everspace)
 - Exapunks
 - Eye of The Beholder [(www)](https://en.wikipedia.org/wiki/Eye_of_the_Beholder_(video_game))
 - Eye of The Beholder II [(www)](https://en.wikipedia.org/wiki/Eye_of_the_Beholder_II:_The_Legend_of_Darkmoon)
