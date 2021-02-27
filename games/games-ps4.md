@@ -20,6 +20,8 @@ and forest green. Who's to say?
 
 ### PlayStation 4 - Recently Added to Collection
 
+- Subnautica
+- Brunswick Pro Billiards
 - Doom 64 [(www)](https://www.polygon.com/2020/3/19/21183597/doom-64-eternal-impressions-history-reboot-port-nintendo-64)
 - Gods: Remastered [(www)](https://www.robotriotgames.com/gods_remastered.html)
 - Hungry Shark World [(www)](https://www.ubisoft.com/en-us/game/hungry-shark-world/)
