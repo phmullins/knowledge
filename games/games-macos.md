@@ -19,10 +19,10 @@ and/or port them.
 
 ### macOS - Games Recently Added to Collection
 
+- Sunless Sea [(Epic)](https://www.epicgames.com/store/en-US/product/sunless-sea/home)
 - Everspace [(GoG)](https://www.gog.com/game/everspace)
 - Wing Commander II [(GoG)](https://www.gog.com/game/wing_commander_1_2)
 - Wing Commander I [(GoG)](https://www.gog.com/game/wing_commander_1_2)
-- Wasteland 2: Director's Cut [(GoG)](https://www.gog.com/game/wasteland_2_directors_cut_digital_classic_edition)
 - Rebel Galaxy [(gog)](https://www.gog.com/game/rebel_galaxy)
 - Scythe: Digital Edition [(GoG)](https://www.gog.com/game/scythe_digital_edition)
 - Deep Sky Derelicts: Definitive Edition [(GoG)](https://www.gog.com/game/deep_sky_derelicts_definitive_edition)
@@ -126,6 +126,7 @@ A list of games that I currently own or have access to.
 - Sundered: Eldritch Edition [(Epic)](https://www.epicgames.com/store/en-US/product/sundered-eldritch-edition/home)
 - Sword Coast: Legends
 - Space Haven [(GoG)](https://www.gog.com/game/space_haven)
+- Sunless Sea [(Epic)](https://www.epicgames.com/store/en-US/product/sunless-sea/home)
 - Tales from Candlekeep: Tomb of Annihilation [(Steam)](https://store.steampowered.com/app/663380/Tales_from_Candlekeep_Tomb_of_Annihilation/)
 - Torchlight [(www)](https://www.torchlight1.com/en)
 - Torchlight II
