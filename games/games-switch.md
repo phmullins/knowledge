@@ -10,12 +10,12 @@
 
 ### Nintendo Switch - Recently Added to Collection
 
+- Burnout: Paradise (Remastered) [(Switch)](https://www.nintendo.com/games/detail/burnout-paradise-remastered-switch/)
 - Among Us [(switch)](https://www.nintendo.com/games/detail/among-us-switch/)
 - Rebel Galaxy: Outlaw [(www)](https://rebel-galaxy.com/)
 - Borderlands 2: Commander Lilith & the Fight for Sanctuary
 - Dark Quest 2 [(switch)](https://www.nintendo.com/games/detail/dark-quest-2-switch/) 
 - Borderlands: The Handsome Collection [(switch)](https://www.nintendo.com/games/detail/borderlands-the-handsome-collection-switch/)
-- Dungeon Rushers [(www)](http://dungeon-rushers.com/en/index-en/) [(switch)](https://www.nintendo.com/games/detail/dungeon-rushers-switch)
 
 ### Nintendo Switch - Most Wanted Games
 
@@ -193,6 +193,7 @@
 - Among Us [(switch)](https://www.nintendo.com/games/detail/among-us-switch/)
 - Asphalt 9: Legends [(switch)](https://www.nintendo.com/games/detail/asphalt-9-legends-switch/)
 - Borderlands: The Handsome Collection [(switch)](https://www.nintendo.com/games/detail/borderlands-the-handsome-collection-switch/)
+- Burnout: Paradise (Remastered) [(Switch)](https://www.nintendo.com/games/detail/burnout-paradise-remastered-switch/)
 - Cat Quest [(switch)](https://www.nintendo.com/games/detail/cat-quest-switch/)
 - Battle Chasers: Nightwar [(www)](https://www.battlechasers.com)
 - Beach Buggy Racing [(switch)](https://www.nintendo.com/games/detail/beach-buggy-racing-switch/)
