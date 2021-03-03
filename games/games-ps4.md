@@ -20,20 +20,14 @@ and forest green. Who's to say?
 
 ### PlayStation 4 - Recently Added to Collection
 
+- Chess Ultra [(ps4)](https://store.playstation.com/en-us/product/UP2070-CUSA06580_00-PURECHESSULTRAAA)
 - Subnautica
 - Brunswick Pro Billiards
-- Doom 64 [(www)](https://www.polygon.com/2020/3/19/21183597/doom-64-eternal-impressions-history-reboot-port-nintendo-64)
 - Gods: Remastered [(www)](https://www.robotriotgames.com/gods_remastered.html)
-- Hungry Shark World [(www)](https://www.ubisoft.com/en-us/game/hungry-shark-world/)
-- Mooseman [(www)](http://www.mooseman.ru/mooseman.html)
 - Dishonored: Definitive Edition [(ps4)](https://www.playstation.com/en-us/games/dishonored-definitive-edition-ps4/)
-- 7th Sector [(ps4)](https://store.playstation.com/en-us/product/UP1675-CUSA15797_00-SYPS47THSECTOR00)
 - Call of Duty: Warzone [(www)](https://www.callofduty.com/warzone)
-- Tom Clancy's The Division 2 [(ps4)](https://www.playstation.com/en-us/games/tom-clancys-the-division-2-ps4/) - [(www)](https://tomclancy-thedivision.ubisoft.com/game/en-us/home)
 - Mutant Year Zero: Road to Eden [(ps4)](https://www.playstation.com/en-us/games/mutant-year-zero-road-to-eden-ps4/) [(www)](https://www.mutantyearzero.com)
-- Anthem [(www)](https://www.ea.com/games/anthem)
 - Battlefield V [(www)](https://www.ea.com/games/battlefield/battlefield-5)
-- Death Stranding [(ps4)](https://www.playstation.com/en-us/games/death-stranding-ps4/)
 - Battlefield 1 [(ps4)](https://www.playstation.com/en-us/games/battlefield-1-ps4/)
 - Call of Duty: WWII [(ps4)](https://www.playstation.com/en-us/games/call-of-duty-wwii-ps4/)
 
@@ -105,6 +99,7 @@ and forest green. Who's to say?
 - Call of Duty: Ghosts [(www)](https://www.callofduty.com/ghosts/)
 - Call of Duty: Infinite Warfare [(www)](https://www.callofduty.com/infinitewarfare)
 - Call of Duty: WWII [(ps4)](https://www.playstation.com/en-us/games/call-of-duty-wwii-ps4/)
+- Chess Ultra [(ps4)](https://store.playstation.com/en-us/product/UP2070-CUSA06580_00-PURECHESSULTRAAA)
 - Child of Light [(www)](https://www.ubisoft.com/en-us/game/child-of-light/)
 - Death Stranding [(ps4)](https://www.playstation.com/en-us/games/death-stranding-ps4/)
 - Destiny 2: Forsaken [(ps4)](https://www.playstation.com/en-us/games/destiny-2-ps4/) 
