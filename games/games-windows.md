@@ -53,7 +53,7 @@ the PC.
 - Batman: Arkham Asylum (Game of the Year Edition) [(epic)](https://www.epicgames.com/store/en-US/product/batman-arkham-asylum/home)
 - Borderlands 2 [(Steam)](https://store.steampowered.com/app/49520/Borderlands_2/)
 - Borderlands 3 [(www)](https://borderlands.com)
-- Darkest Dungeon [(Epic)](https://www.epicgames.com/store/en-US/product/darkest-dungeon/home)
+- Darkest Dungeon - [(GoG)](https://www.gog.com/game/darkest_dungeon)
 - Deep Sky Derelicts [(GoG)](https://www.gog.com/game/deep_sky_derelicts)
 - Destiny 2
 - Diablo III [(www)](https://en.wikipedia.org/wiki/Diablo_(series))
