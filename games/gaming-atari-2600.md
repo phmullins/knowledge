@@ -7,6 +7,7 @@ my collection at 20 games and then play everything else via an UNO cart and SDHC
 - Galaxian
 - Missile Command
 - Phoenix
+- River Raid
 - Worm War One
 
 ## Atari 2600 Games - Top 20 Games that I Want
@@ -25,12 +26,11 @@ The games that I want more than any other. These will probably end up in the phy
 - Moonsweeper
 - Pitfall II: Lost Caverns
 - Q-bert
-- River Raid
 - Solaris
-- Tunnel Runner
 - Space Invaders
-- Stargate
 - Star Wars: The Arcade Game
+- Stargate
+- Tunnel Runner
 
 ## Atari 2600 Games - Games that I want to add to the collection
 
