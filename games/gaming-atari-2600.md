@@ -3,6 +3,7 @@
 These are actual, physical game cartridges that I own. Some, like Fantastic Voyage, have seen better days. I'll probably cap 
 my collection at 20 games and then play everything else via an UNO cart and SDHC card.
 
+- Buck Rogers: Planet of Zoom
 - Fantastic Voyage
 - Galaxian
 - Missile Command
