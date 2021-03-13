@@ -3,6 +3,7 @@
 These are actual, physical game cartridges that I own. Some, like Fantastic Voyage, have seen better days. I'll probably cap 
 my collection at 20 games and then play everything else via an UNO cart and SDHC card.
 
+- Asteroids
 - Buck Rogers: Planet of Zoom
 - Fantastic Voyage
 - Galaxian
@@ -16,7 +17,6 @@ my collection at 20 games and then play everything else via an UNO cart and SDHC
 
 The games that I want more than any other. These will probably end up in the physical cartridge collection at some point.
 
-- Asteroids
 - Atlantis
 - Centipede 
 - Defender II
