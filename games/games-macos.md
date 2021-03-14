@@ -19,6 +19,7 @@ and/or port them.
 
 ### macOS - Games Recently Added to Collection
 
+- Surviving Mars [(Epic)](https://www.epicgames.com/store/en-US/p/surviving-mars)
 - Deep Sky Derelicts: Definitive Edition [(GoG)](https://www.gog.com/game/deep_sky_derelicts_definitive_edition)
 - Everspace [(GoG)](https://www.gog.com/game/everspace)
 - Rebel Galaxy [(GoG)](https://www.gog.com/game/rebel_galaxy)
@@ -126,6 +127,7 @@ A list of games that I currently own or have access to.
 - Space Hulk
 - Sundered: Eldritch Edition [(Epic)](https://www.epicgames.com/store/en-US/product/sundered-eldritch-edition/home)
 - Sunless Sea [(Epic)](https://www.epicgames.com/store/en-US/product/sunless-sea/home)
+- Surviving Mars [(Epic)](https://www.epicgames.com/store/en-US/p/surviving-mars)
 - Sword Coast: Legends
 - Tales from Candlekeep: Tomb of Annihilation [(Steam)](https://store.steampowered.com/app/663380/Tales_from_Candlekeep_Tomb_of_Annihilation/)
 - Torchlight II
