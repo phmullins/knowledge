@@ -1,8 +1,9 @@
 ## Atari 2600 Games - Personal Library
 
 These are actual, physical game cartridges that I own. Some, like Fantastic Voyage, have seen better days. I'll probably cap 
-my collection at 20 games and then play everything else via an UNO cart and SDHC card.
+my collection at 75-100 games and then play everything else via an UNO cart and SDHC card.
 
+- 3-D Tic-Tac-Toe
 - Asteroids
 - Atlantis
 - Buck Rogers: Planet of Zoom
