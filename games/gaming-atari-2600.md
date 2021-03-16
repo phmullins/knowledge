@@ -5,6 +5,7 @@ my collection at 75-100 games and then play everything else via an UNO cart and 
 
 - 3-D Tic-Tac-Toe
 - Asteroids
+- Astroblast
 - Atlantis
 - Buck Rogers: Planet of Zoom
 - Fantastic Voyage
