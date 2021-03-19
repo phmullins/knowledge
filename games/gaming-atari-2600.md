@@ -10,6 +10,7 @@ my collection at 75-100 games and then play everything else via an UNO cart and 
 - Barnstorming
 - Battlezone
 - Buck Rogers: Planet of Zoom
+- California Games
 - Fantastic Voyage
 - Galaxian
 - Missile Command
