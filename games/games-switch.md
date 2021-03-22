@@ -21,10 +21,14 @@
 
 - Diablo II: Resurrected [(Switch)](https://www.nintendo.com/games/detail/diablo-ii-resurrected-switch/)
 - Achtung! Cthulhu Tactics [(switch)](https://www.nintendo.com/games/detail/achtung-cthulhu-tactics-switch/)
+- Burnout Paradise: Remastered [(switch)](https://www.nintendo.com/games/detail/burnout-paradise-remastered-switch/)
+- Deep Sky Derelicts: Definitive Edition [(switch)](https://www.nintendo.com/games/detail/deep-sky-derelicts-definitive-edition-switch/)
 - Doom (2016) [(switch)](https://www.nintendo.com/games/detail/doom-switch)
-- Mutant Year Zero: Road to Eden Deluxe [(switch)](https://www.nintendo.com/games/detail/mutant-year-zero-road-to-eden-deluxe-edition-switch/) [(www)](https://www.mutantyearzero.com/#1)
 - Hades [(www)](https://www.supergiantgames.com/games/hades/) [(switch)](https://www.nintendo.com/games/detail/hades-switch/)
-- Ruined King - [(www)](https://ruinedking.com/) [(switch)]https://www.nintendo.com/games/detail/ruined-king-a-league-of-legends-story-switch/()
+- In Other Waters [(switch)](https://www.nintendo.com/games/detail/in-other-waters-switch/)
+- Mutant Year Zero: Road to Eden Deluxe [(switch)](https://www.nintendo.com/games/detail/mutant-year-zero-road-to-eden-deluxe-edition-switch/) [(www)](https://www.mutantyearzero.com/#1)
+- Ori and the Will of the Wisps [(switch)](https://www.nintendo.com/games/detail/ori-and-the-will-of-the-wisps-switch/) [(www)](https://ori.iam8bit.com/)
+- Ruined King - [(www)](https://ruinedking.com/) [(switch)](https://www.nintendo.com/games/detail/ruined-king-a-league-of-legends-story-switch/)
 - Shanghai III [(Switch)](https://www.nintendo.com/games/detail/arcade-archives-shanghai-iii-switch/)
 - The Legend of Zelda: Breath of the Wild [(switch)](https://www.nintendo.com/games/detail/the-legend-of-zelda-breath-of-the-wild-switch)
 - The Long Dark [(switch)](https://www.nintendo.com/games/detail/the-long-dark-switch/)
@@ -52,7 +56,6 @@
 - Brunswick Pro Billiards [(switch)](https://www.nintendo.com/games/detail/brunswick-pro-billiards-switch/) [(www)](http://brunswickprobilliards.com/)
 - Bullet Age [(switch)](https://www.nintendo.com/games/detail/bullet-age-switch)
 - Bulletstorm: Duke of Switch Edition [(switch)](https://www.nintendo.com/games/detail/bulletstorm-duke-of-switch-edition/)
-- Burnout Paradise: Remastered [(switch)](https://www.nintendo.com/games/detail/burnout-paradise-remastered-switch/)
 - Captain Toad: Treasure Tracker [(switch)](https://www.nintendo.com/games/detail/captain-toad-treasure-tracker-switch)
 - Carcassonne [(switch)](https://www.nintendo.com/games/detail/carcassonne-switch) [(www)](http://www.asmodee-digital.com/en/carcassonne/)
 - Carrion [(www)](https://devolverdigital.com/games/carrion)
@@ -68,7 +71,6 @@
 - Dawn of Survivors [(switch)](https://www.nintendo.com/games/detail/dawn-of-survivors-switch/)
 - Dead Cells [(switch)](https://www.nintendo.com/games/detail/dead-cells-switch)
 - Dead in Vinland - True Viking Edition [(switch)](https://www.nintendo.com/games/detail/dead-in-vinland-true-viking-edition-switch/)
-- Deep Sky Derelicts: Definitive Edition [(switch)](https://www.nintendo.com/games/detail/deep-sky-derelicts-definitive-edition-switch/)
 - Degrees of Separation [(switch)](https://www.nintendo.com/games/detail/degrees-of-separation-switch)
 - Distrust [(switch)](https://www.nintendo.com/games/detail/distrust-switch/)
 - Donkey Kong Country: Tropical Freeze
@@ -98,7 +100,6 @@
 - History 2048
 - Homo Machina [(switch)](https://www.nintendo.com/games/detail/homo-machina-switch/)
 - Immortal Planet [(switch)](https://www.nintendo.com/games/detail/immortal-planet-switch/)
-- In Other Waters [(switch)](https://www.nintendo.com/games/detail/in-other-waters-switch/)
 - Into the Breach [(www)](https://subsetgames.com/itb.html) [(switch)](https://www.nintendo.com/games/detail/into-the-breach-switch)
 - Jungle Z [(switch)](https://www.nintendo.com/games/detail/jungle-z-switch/)
 - Kentucky Route Zero: TV Edition
@@ -125,7 +126,6 @@
 - Oddworld: New 'n' Tasty [(switch)](https://www.nintendo.com/games/detail/oddworld-new-n-tasty-switch/)
 - Old Man's Journey [(www)](http://oldmansjourney.com) [(switch)](https://www.nintendo.com/games/detail/old-mans-journey-switch)
 - One More Dungeon [(www)](http://statelysnail.com/onemoredungeon) [(switch)](https://www.nintendo.com/games/detail/one-more-dungeon-switch)
-- Ori and the Will of the Wisps [(switch)](https://www.nintendo.com/games/detail/ori-and-the-will-of-the-wisps-switch/) [(www)](https://ori.iam8bit.com/)
 - Out There: Ω The Alliance [(switch)](https://www.nintendo.com/games/detail/out-there-omega-the-alliance-switch/)
 - Overland [(switch)](https://www.nintendo.com/games/detail/overland-switch)
 - Planescape Torment + Icewind Dale [(www)](https://store.skybound.com/products/planescape-torment-icewind-dale-enhanced-edition)
