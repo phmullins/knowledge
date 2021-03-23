@@ -14,6 +14,7 @@ my collection at 75-100 games and then play everything else via an UNO cart and 
 - Carnival
 - Checkers
 - Chopper Command
+- Cobra
 - Fantastic Voyage
 - Galaxian
 - Missile Command
