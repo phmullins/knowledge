@@ -16,6 +16,7 @@ my collection at 75-100 games and then play everything else via an UNO cart and 
 - Chopper Command
 - Cobra
 - Cosmic Ark (x2)
+- Crackpots
 - Fantastic Voyage
 - Galaxian
 - Missile Command
