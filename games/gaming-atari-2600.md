@@ -18,6 +18,7 @@ my collection at 75-100 games and then play everything else via an UNO cart and 
 - Cosmic Ark (x2)
 - Crackpots
 - Defender
+- Demon Attack (x2)
 - Fantastic Voyage
 - Galaxian
 - Missile Command
