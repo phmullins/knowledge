@@ -8,6 +8,7 @@
 
 ### iOS - Recently Added to Collection
 
+- Knighthood [(www)](https://www.king.com/game/knighthood)
 - Minecraft: Earth
 - Asphalt 9: Legends
 - Oddworld: New 'n' Tasty
@@ -53,6 +54,7 @@
 - Infinity Blade
 - Infinity Blade II
 - Jack Lumber
+- Knighthood [(www)](https://www.king.com/game/knighthood)
 - Legend of Grimrock
 - Lifeline
 - Minecraft
