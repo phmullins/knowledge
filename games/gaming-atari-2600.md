@@ -25,6 +25,7 @@ my collection at 75-100 games and then play everything else via an UNO cart and 
 - Frostbite
 - Fantastic Voyage
 - Galaxian
+- Kaboom!
 - Missile Command
 - Phoenix
 - Q-bert
