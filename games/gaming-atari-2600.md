@@ -26,6 +26,8 @@ my collection at 75-100 games and then play everything else via an UNO cart and 
 - Fantastic Voyage
 - Galaxian
 - Kaboom!
+- Keystone Kapers
+- Laser Blast
 - Missile Command
 - Phoenix
 - Q-bert
