@@ -29,6 +29,7 @@ my collection at 75-100 games and then play everything else via an UNO cart and 
 - Keystone Kapers
 - Laser Blast
 - Megamania (x2)
+- Miner 2049er
 - Missile Command
 - Phoenix
 - Q-bert
