@@ -31,6 +31,7 @@ my collection at 75-100 games and then play everything else via an UNO cart and 
 - Megamania (x2)
 - Miner 2049er
 - Missle Command (x3)
+- Moon Patrol
 - Phoenix
 - Q-bert
 - River Raid
@@ -62,36 +63,36 @@ and play them via a VCS emulator. Eventually all of these ROMs will find a new h
 
 - Adventure
 - Alien
-- Atlantis
+- Atlantis ***
 - Basic Programming
-- Battlezone
+- Battlezone ***
 - Beamrider
 - Bermuda Triangle
-- Berzerk
+- Berzerk ***
 - Breakout
-- Buck Rogers
+- Buck Rogers ***
 - Bugs
 - Checkers
 - Combat
 - Commando Raid
-- Cosmic Ark
+- Cosmic Ark ***
 - Crypts of Chaos
 - Dark Chambers
-- Demon Attack
+- Demon Attack ***
 - Defender
 - Defender II
-- Dig Dug
+- Dig Dug ***
 - Dragon Fire
 - Dungeon
 - Enduro
 - Flash Gordon
-- Frogger
+- Frogger ***
 - Gorf
 - Joust
 - Jungle Hunt
 - Krull
 - Laser Blast
-- Moon Patrol
+- Moon Patrol ***
 - Moonsweeper
 - Ms. Pac-Mac
 - Othello
