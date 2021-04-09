@@ -32,6 +32,7 @@ my collection at 75-100 games and then play everything else via an UNO cart and 
 - Miner 2049er
 - Missle Command (x3)
 - Moon Patrol
+- Moonsweeper
 - Phoenix
 - Q-bert
 - River Raid
@@ -93,7 +94,8 @@ and play them via a VCS emulator. Eventually all of these ROMs will find a new h
 - Krull
 - Laser Blast
 - Moon Patrol ***
-- Moonsweeper
+- Moonsweeper ***
+- Mountain King
 - Ms. Pac-Mac
 - Othello
 - Pac-Mac
