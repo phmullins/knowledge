@@ -97,6 +97,7 @@ and play them via a VCS emulator. Eventually all of these ROMs will find a new h
 - Moonsweeper ***
 - Mountain King
 - Ms. Pac-Mac
+- Omega Race
 - Othello
 - Pac-Mac
 - Pitfall II: Lost Caverns
