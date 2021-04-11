@@ -1,16 +1,25 @@
 ## Nintendo Switch
 
-### Nintendo Switch - Top 6 All-time Favorite Switch Games
+My top 10 all-time favorite Switch games, games recently added to my collection, my most wanted games, a long list of games that I
+want for the Switch, all the Switch games (digital and physical) that I own, and finally some links that you might find interesting.
 
-- Borderlands: The Handsome Collection [(switch)](https://www.nintendo.com/games/detail/borderlands-the-handsome-collection-switch/)
-- Burnout: Paradise (Remastered) [(Switch)](https://www.nintendo.com/games/detail/burnout-paradise-remastered-switch/)
-- Darkest Dungeon [(www)](https://www.darkestdungeon.com)
+### Nintendo Switch - Top 10 All-time Favorite Switch Games
+
 - Diablo III: The Eternal Collection [(www)](https://us.diablo3.com/en/switch)
+- Borderlands: The Handsome Collection [(switch)](https://www.nintendo.com/games/detail/borderlands-the-handsome-collection-switch/)
+- Rebel Galaxy: Outlaw [(www)](https://rebel-galaxy.com/)
+- Darkest Dungeon [(www)](https://www.darkestdungeon.com)
 - The Elder Scrolls V: Skyrim [(www)](https://elderscrolls.bethesda.net/en/skyrim)
+- Burnout: Paradise (Remastered) [(Switch)](https://www.nintendo.com/games/detail/burnout-paradise-remastered-switch/)
+- Transistor [(switch)](https://www.nintendo.com/games/detail/transistor-switch)
+- Uno [(switch)](https://www.nintendo.com/games/detail/uno-for-nintendo-switch-switch/)
+- Cat Quest [(switch)](https://www.nintendo.com/games/detail/cat-quest-switch/)
 - Rebel Galaxy: Outlaw [(www)](https://rebel-galaxy.com/)
 
 ### Nintendo Switch - Recently Added to Collection
 
+- Chess Royal [(switch)](https://www.nintendo.com/games/detail/chess-royal-switch/)
+- Control Ultimate Edition (Cloud Version) [(switch)](https://www.nintendo.com/games/detail/control-ultimate-edition-cloud-version-switch/)
 - Among Us [(switch)](https://www.nintendo.com/games/detail/among-us-switch/)
 - Borderlands 2: Commander Lilith & the Fight for Sanctuary
 - Borderlands: The Handsome Collection [(switch)](https://www.nintendo.com/games/detail/borderlands-the-handsome-collection-switch/)
@@ -20,20 +29,23 @@
 ### Nintendo Switch - Most Wanted Games
 
 - Diablo II: Resurrected [(Switch)](https://www.nintendo.com/games/detail/diablo-ii-resurrected-switch/)
+- Breathedge [(switch)](https://www.nintendo.com/games/detail/breathedge-switch/)
+- Curse of the Dead Gods [(switch)](https://www.nintendo.com/games/detail/curse-of-the-dead-gods-switch/)
 - In Other Waters [(Switch)](https://www.nintendo.com/games/detail/in-other-waters-switch/)
 - Achtung! Cthulhu Tactics [(switch)](https://www.nintendo.com/games/detail/achtung-cthulhu-tactics-switch/)
-- Burnout Paradise: Remastered [(switch)](https://www.nintendo.com/games/detail/burnout-paradise-remastered-switch/)
-- Deep Sky Derelicts: Definitive Edition [(switch)](https://www.nintendo.com/games/detail/deep-sky-derelicts-definitive-edition-switch/)
-- Doom (2016) [(switch)](https://www.nintendo.com/games/detail/doom-switch)
-- Hades [(www)](https://www.supergiantgames.com/games/hades/) [(switch)](https://www.nintendo.com/games/detail/hades-switch/)
-- In Other Waters [(switch)](https://www.nintendo.com/games/detail/in-other-waters-switch/)
 - Mutant Year Zero: Road to Eden Deluxe [(switch)](https://www.nintendo.com/games/detail/mutant-year-zero-road-to-eden-deluxe-edition-switch/) [(www)](https://www.mutantyearzero.com/#1)
-- Ori and the Will of the Wisps [(switch)](https://www.nintendo.com/games/detail/ori-and-the-will-of-the-wisps-switch/) [(www)](https://ori.iam8bit.com/)
-- Ruined King - [(www)](https://ruinedking.com/) [(switch)](https://www.nintendo.com/games/detail/ruined-king-a-league-of-legends-story-switch/)
-- Shanghai III [(Switch)](https://www.nintendo.com/games/detail/arcade-archives-shanghai-iii-switch/)
-- The Legend of Zelda: Breath of the Wild [(switch)](https://www.nintendo.com/games/detail/the-legend-of-zelda-breath-of-the-wild-switch)
 - The Long Dark [(switch)](https://www.nintendo.com/games/detail/the-long-dark-switch/)
 - Torchlight 3 [(www)](https://www.arcgames.com/en/games/Torchlight_3) [(switch)](https://www.nintendo.com/games/detail/torchlight-iii-switch/)
+- Ruined King - [(www)](https://ruinedking.com/) [(switch)](https://www.nintendo.com/games/detail/ruined-king-a-league-of-legends-story-switch/)
+- Hades [(www)](https://www.supergiantgames.com/games/hades/) [(switch)](https://www.nintendo.com/games/detail/hades-switch/)
+- Deep Sky Derelicts: Definitive Edition [(switch)](https://www.nintendo.com/games/detail/deep-sky-derelicts-definitive-edition-switch/)
+- Doom (2016) [(switch)](https://www.nintendo.com/games/detail/doom-switch)
+- Ori and the Will of the Wisps [(switch)](https://www.nintendo.com/games/detail/ori-and-the-will-of-the-wisps-switch/) [(www)](https://ori.iam8bit.com/)
+- Shanghai III [(Switch)](https://www.nintendo.com/games/detail/arcade-archives-shanghai-iii-switch/)
+- The Legend of Zelda: Breath of the Wild [(switch)](https://www.nintendo.com/games/detail/the-legend-of-zelda-breath-of-the-wild-switch)
+- Subnautica [(switch)](https://www.nintendo.com/games/detail/subnautica-switch/)
+- Subnautica: Below Zero [(switch)](https://www.nintendo.com/games/detail/subnautica-below-zero-switch/)
+- Little Nightmares II [(switch)](https://www.nintendo.com/games/detail/little-nightmares-ii-switch/)
 
 ### Nintendo Switch - Games That I Want
 

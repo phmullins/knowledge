@@ -33,6 +33,7 @@ my collection at 75-100 games and then play everything else via an UNO cart and 
 - Missle Command (x3)
 - Moon Patrol
 - Moonsweeper
+- Othello
 - Phoenix
 - Q-bert
 - River Raid
