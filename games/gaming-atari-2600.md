@@ -34,6 +34,7 @@ my collection at 75-100 games and then play everything else via an UNO cart and 
 - Moon Patrol
 - Moonsweeper
 - Othello
+- Pac-Man
 - Phoenix
 - Q-bert
 - River Raid
