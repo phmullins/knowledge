@@ -36,6 +36,7 @@ my collection at 75-100 games and then play everything else via an UNO cart and 
 - Othello
 - Pac-Man
 - Phoenix
+- Pooyah
 - Q-bert
 - River Raid
 - Worm War One
