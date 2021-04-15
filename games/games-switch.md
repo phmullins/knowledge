@@ -5,6 +5,10 @@ want for the Switch, all the Switch games (digital and physical) that I own, and
 
 ### Nintendo Switch - Top 10 All-time Favorite Switch Games
 
+My top 10 all-time favorite Nintendo Switch games. Diablo III has been number one for as long as I can remember and I don't see that
+changing any time soon. Likewise, Borderlands: The Handsome Collection, and Rebel Galaxy: Outlaw will probably be high on this list 
+for quite some time.
+
 - Diablo III: The Eternal Collection [(www)](https://us.diablo3.com/en/switch)
 - Borderlands: The Handsome Collection [(switch)](https://www.nintendo.com/games/detail/borderlands-the-handsome-collection-switch/)
 - Rebel Galaxy: Outlaw [(www)](https://rebel-galaxy.com/)
@@ -17,6 +21,8 @@ want for the Switch, all the Switch games (digital and physical) that I own, and
 - Rebel Galaxy: Outlaw [(www)](https://rebel-galaxy.com/)
 
 ### Nintendo Switch - Recently Added to Collection
+
+Games that I've either recently bought/downloaded from the Nintendo Switch Store or physical carts.
 
 - Chess Royal [(switch)](https://www.nintendo.com/games/detail/chess-royal-switch/)
 - Control Ultimate Edition (Cloud Version) [(switch)](https://www.nintendo.com/games/detail/control-ultimate-edition-cloud-version-switch/)
@@ -74,8 +80,8 @@ want for the Switch, all the Switch games (digital and physical) that I own, and
 - Carrion [(www)](https://devolverdigital.com/games/carrion)
 - Catan Universe [(switch)](https://www.nintendo.com/games/detail/catan-switch/)
 - Chess Minimal [(switch)](https://www.nintendo.com/games/detail/chess-minimal-switch/)
-- Child of Light Ultimate Edition + Valiant Hearts: The Great War
 - Children of Morta [(switch)](https://www.nintendo.com/games/detail/children-of-morta-switch/)
+- Chronos: Before the Ashes [(www)](https://www.thqnordic.com/games/chronos-ashes) [(Switch](https://www.nintendo.com/games/detail/chronos-before-the-ashes-switch/)
 - Cloudpunk [(switch)](https://www.nintendo.com/games/detail/cloudpunk-switch/)
 - Creature in the Well [(switch)](https://www.nintendo.com/games/detail/creature-in-the-well-switch) [(www)](http://creatureinthewell.com)
 - Crimson Keep [(www)](https://www.mergegames.com/crimson-keep)
