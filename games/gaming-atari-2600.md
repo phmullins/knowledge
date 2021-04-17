@@ -39,6 +39,7 @@ my collection at 75-100 games and then play everything else via an UNO cart and 
 - Pooyah
 - Private Eye
 - Q-bert
+- Raiders of the Lost Ark
 - River Raid
 - Worm War One
 
