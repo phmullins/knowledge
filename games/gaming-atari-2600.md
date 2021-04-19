@@ -41,6 +41,7 @@ my collection at 75-100 games and then play everything else via an UNO cart and 
 - Q-bert
 - Raiders of the Lost Ark
 - Realsports Volleyball
+- Riddle of The Sphinx
 - River Raid
 - Worm War One
 
