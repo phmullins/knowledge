@@ -44,6 +44,7 @@ my collection at 75-100 games and then play everything else via an UNO cart and 
 - Riddle of The Sphinx
 - River Raid
 - Robot Tank
+- Seaquest
 - Worm War One
 
 ## Atari 2600 Games - Top 20 Games that I Want
