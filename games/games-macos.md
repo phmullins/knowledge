@@ -38,7 +38,7 @@ and/or port them.
 - Phoenix Point [(www)](https://phoenixpoint.info/)
 - Rebel Galaxy Outlaw [(www)](https://rebel-galaxy.com/)
 
-### macOS - Wanted Games List
+### macOS - Games That I Want
 
 - Bad North: Jotunn Edition [(GoG)](https://www.gog.com/game/bad_north)
 - Feudal Alloy [(GoG)](https://www.gog.com/game/feudal_alloy)
@@ -50,6 +50,7 @@ and/or port them.
 - Observer [(www)](https://www.blooberteam.com/observer_)
 - Rezrog [(GoG)](https://www.gog.com/game/rezrog)
 - Satellite Reign [(GoG)](https://www.gog.com/game/satellite_reign)
+- Subnautica Below Zero [(Epic)](https://www.epicgames.com/store/en-US/p/subnautica-below-zero)
 - The Outer Worlds [(Epic)](https://www.epicgames.com/store/en-US/product/the-outer-worlds/home)
 - Tyranny - Gold Edition [(GoG)](https://www.gog.com/game/tyranny_gold_edition)
 

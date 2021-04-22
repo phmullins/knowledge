@@ -21,6 +21,8 @@ the PC.
 
 ### Windows/PC - Recently Added to Collection
 
+- The Pillars of the Earth [(Epic)](https://www.epicgames.com/store/en-US/p/ken-follets-the-pillars-of-the-earth)
+- The First Tree [(Epic)](https://www.epicgames.com/store/en-US/p/the-first-tree)
 - Mainframe Defenders [(Steam)](https://store.steampowered.com/app/1184810/Mainframe_Defenders/)
 - Alien: Isolation [(Epic)](https://www.epicgames.com/store/en-US/product/alien-isolation/home)
 - Borderlands 3 [(www)](https://borderlands.com)
@@ -43,16 +45,20 @@ the PC.
 
 ### Windows/PC - Games That I Want
 
+- Breathedge [(Epic)](https://www.epicgames.com/store/en-US/p/breathedge)
+- Curse of the Dead Gods [(Epic)](https://www.epicgames.com/store/en-US/p/curse-of-the-dead-gods)
 - Cyberpunk 2077 [(GoG)](https://www.gog.com/game/cyberpunk_2077)
 - Lands of Lore: Guardians of Destiny [(GoG)](https://www.gog.com/game/lands_of_lore_1_2)
 - Lands of Lore: The Throne of Chaos [(GoG)](https://www.gog.com/game/lands_of_lore_1_2)
+- Project Wingman [(GoG)](https://www.gog.com/game/project_wingman)
 - Rebel Galaxy Outlaw [(www)](https://rebel-galaxy.com/)
+- Subnautica Below Zero [(Epic)](https://www.epicgames.com/store/en-US/p/subnautica-below-zero)
 
 ### Windows/PC - Games I Have/Own
 
 - Alien: Isolation [(Epic)](https://www.epicgames.com/store/en-US/product/alien-isolation/home)
 - Barony [(Epic)](https://www.epicgames.com/store/en-US/product/barony/home)
-- Batman: Arkham Asylum (Game of the Year Edition) [(epic)](https://www.epicgames.com/store/en-US/product/batman-arkham-asylum/home)
+- Batman: Arkham Asylum (Game of the Year Edition) [(Epic)](https://www.epicgames.com/store/en-US/product/batman-arkham-asylum/home)
 - Borderlands 2 [(Steam)](https://store.steampowered.com/app/49520/Borderlands_2/)
 - Borderlands 3 [(www)](https://borderlands.com)
 - Darkest Dungeon - [(GoG)](https://www.gog.com/game/darkest_dungeon)
@@ -85,12 +91,14 @@ the PC.
 - Rebel Galaxy [(GoG)](https://www.gog.com/game/rebel_galaxy)
 - Remnant: From the Ashes [(Epic)](https://www.epicgames.com/store/en-US/product/remnant-from-the-ashes/home)
 - Scythe: Digital Edition [(GoG)](https://www.gog.com/game/scythe_digital_edition)
-- Shadow Tactics: Blades of the Shogun [(epic)](https://www.epicgames.com/store/en-US/product/shadow-tactics/home)
+- Shadow Tactics: Blades of the Shogun [(Epic)](https://www.epicgames.com/store/en-US/product/shadow-tactics/home)
 - Sid Meier's Starships [(Steam)](https://store.steampowered.com/app/282210/Sid_Meiers_Starships/)
 - Superbrothers: Sword & Sworcery EP [(Epic)](https://www.epicgames.com/store/en-US/product/superbrothers-sword-and-sworcery-ep/home) [(Steam)](https://store.steampowered.com/app/204060/Superbrothers_Sword__Sworcery_EP/)
 - The Alto Collection [(Epic)](https://www.epicgames.com/store/en-US/product/the-alto-collection/home)
+- The First Tree [(Epic)](https://www.epicgames.com/store/en-US/p/the-first-tree)
 - The Division 2 [(www)](https://www.ubisoft.com/en-us/game/the-division/the-division-2)
-- The Talos Principle [(epic)](https://www.epicgames.com/store/en-US/product/the-talos-principle/home)
+- The Pillars of the Earth [(Epic)](https://www.epicgames.com/store/en-US/p/ken-follets-the-pillars-of-the-earth)
+- The Talos Principle [(Epic)](https://www.epicgames.com/store/en-US/product/the-talos-principle/home)
 - The Ultimate DOOM [(www)](https://en.wikipedia.org/wiki/Doom_(franchise)) [(GoG)](https://www.gog.com/game/the_ultimate_doom)
 - Torchlight II [(Steam)](https://store.steampowered.com/app/200710/Torchlight_II/?curator_clanid=38564401)
 - Torchlight [(Steam)](https://store.steampowered.com/app/41500/Torchlight/)
