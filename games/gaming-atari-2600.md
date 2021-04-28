@@ -51,6 +51,7 @@ my collection at 75-100 games and then play everything else via an UNO cart and 
 - Space Jockey
 - Space War
 - Spider Fighter
+- Star Voyager
 - Worm War One
 
 ## Atari 2600 Games - Top 20 Games that I Want
