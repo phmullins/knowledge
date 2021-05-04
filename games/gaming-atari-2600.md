@@ -73,6 +73,7 @@ The games that I want more than any other. These will probably end up in the phy
 - Pitfall II: Lost Caverns
 - Solaris
 - Space Invaders
+- Stargate
 - Star Wars: The Arcade Game
 - Stargate
 - Tunnel Runner
