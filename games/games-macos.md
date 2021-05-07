@@ -19,12 +19,14 @@ and/or port them.
 
 ### macOS - Games Recently Added to Collection
 
-- Surviving Mars [(Epic)](https://www.epicgames.com/store/en-US/p/surviving-mars)
+- Baldur's Gate: Enhanced Edition [(GoG)](https://www.gog.com/game/baldurs_gate_enhanced_edition)
+- Baldur's Gate: Siege of Dragonspear [(GoG)](https://www.gog.com/game/baldurs_gate_siege_of_dragonspear)
+- Baldur's Gate II: Enhanced Edition [(GoG)](https://www.gog.com/game/baldurs_gate_2_enhanced_edition)	
+- Icewind Dale: Enhanced Edition [(GoG)](https://www.gog.com/game/icewind_dale_enhanced_edition)
+- Frostpunk: Season Pass [(GoG)](https://www.gog.com/game/frostpunk_season_pass)
 - Deep Sky Derelicts: Definitive Edition [(GoG)](https://www.gog.com/game/deep_sky_derelicts_definitive_edition)
-- Everspace [(GoG)](https://www.gog.com/game/everspace)
 - Rebel Galaxy [(GoG)](https://www.gog.com/game/rebel_galaxy)
 - Scythe: Digital Edition [(GoG)](https://www.gog.com/game/scythe_digital_edition)
-- Sunless Sea [(Epic)](https://www.epicgames.com/store/en-US/product/sunless-sea/home)
 - Wing Commander I [(GoG)](https://www.gog.com/game/wing_commander_1_2)
 - Wing Commander II [(GoG)](https://www.gog.com/game/wing_commander_1_2)
 
@@ -60,6 +62,9 @@ A list of games that I currently own or have access to.
 
 - A Short Hike [(Epic)](https://www.epicgames.com/store/en-US/product/a-short-hike/home)
 - ARK: Survival Evolved [(Epic)](https://www.epicgames.com/store/en-US/product/ark/home)
+- Baldur's Gate: Enhanced Edition [(GoG)](https://www.gog.com/game/baldurs_gate_enhanced_edition)
+- Baldur's Gate: Siege of Dragonspear [(GoG)](https://www.gog.com/game/baldurs_gate_siege_of_dragonspear)
+- Baldur's Gate II: Enhanced Edition [(GoG)](https://www.gog.com/game/baldurs_gate_2_enhanced_edition)	
 - Barony [(www)](http://www.baronygame.com/)
 - Bastion
 - Batman: Arkham Asylum (GOTY) [(Epic)](https://www.epicgames.com/store/en-US/product/batman-arkham-asylum/home)
@@ -90,6 +95,7 @@ A list of games that I currently own or have access to.
 - FTL: Advanced Edition [(www)](https://subsetgames.com/ftl.html)
 - Fight the Dragon
 - Frostpunk [(GoG)](https://www.gog.com/game/frostpunk)
+- Frostpunk: Season Pass [(GoG)](https://www.gog.com/game/frostpunk_season_pass)
 - GoNNER (Epic)[(www)](https://www.gonnergame.com/) [(Epic)](https://www.epicgames.com/store/en-US/product/gonner/home)
 - Guild of Dungeoneering [(GoG)](http://www.guildofdungeoneering.com/)
 - Hacknet
@@ -99,6 +105,7 @@ A list of games that I currently own or have access to.
 - HeXen: Beyond Heretic [(Steam)](https://store.steampowered.com/app/2360/HeXen_Beyond_Heretic/)
 - HeXen: Deathkings of the Dark Citadel [(Steam)](https://store.steampowered.com/app/2370/HeXen_Deathkings_of_the_Dark_Citadel/)
 - Heretic: Shadow of the Serpent Riders [(Steam)](https://store.steampowered.com/app/2390/Heretic_Shadow_of_the_Serpent_Riders/)
+- Icewind Dale: Enhanced Edition [(GoG)](https://www.gog.com/game/icewind_dale_enhanced_edition)
 - Hyper Light Drifter [(www)](https://heartmachine.com/hyper-light)
 - Into The Breach [(www)](https://subsetgames.com/itb.html)
 - Invisible, Inc.
