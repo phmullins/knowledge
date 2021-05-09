@@ -26,6 +26,7 @@ and/or port them.
 - Frostpunk: Season Pass [(GoG)](https://www.gog.com/game/frostpunk_season_pass)
 - Deep Sky Derelicts: Definitive Edition [(GoG)](https://www.gog.com/game/deep_sky_derelicts_definitive_edition)
 - Rebel Galaxy [(GoG)](https://www.gog.com/game/rebel_galaxy)
+- Space Haven [(GoG)](https://www.gog.com/game/space_haven)
 - Scythe: Digital Edition [(GoG)](https://www.gog.com/game/scythe_digital_edition)
 - Wing Commander I [(GoG)](https://www.gog.com/game/wing_commander_1_2)
 - Wing Commander II [(GoG)](https://www.gog.com/game/wing_commander_1_2)
