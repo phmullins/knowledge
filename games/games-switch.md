@@ -3,6 +3,39 @@
 My top 10 all-time favorite Switch games, games recently added to my collection, my most wanted games, a long list of games that I
 want for the Switch, all the Switch games (digital and physical) that I own, and finally some links that you might find interesting.
 
+### Nintendo Switch - Top Amiga Games I Want Ported To The Switch
+
+- Atomino
+- Battle Chess
+- Black Crypt
+- Cadaver
+- Cannon Fodder
+- Cannon Fodder 2
+- Dungeon Master
+- Dungeon Master II - The Legend of Skullkeep
+- Eye Of The Beholder
+- Eye of the Beholder II - The Legend of Darkmoon
+- Full Metal Planet
+- Hunt for Red October
+- Hunter Killer
+- Microbes
+- North & South
+- Overlord
+- Populous
+- Populous II
+- Red Storm Rising
+- Rise of The Dragon
+- Shanghai
+- Speedball
+- Speedball 2: Brutal Deluxe
+- Star Command
+- Stellar Crusade
+- Syndicate
+- The Chaos Engine
+- The Chaos Engine 2
+- Virus
+- When Two Worlds War
+
 ### Nintendo Switch - Top 10 All-time Favorite Switch Games
 
 My top 10 all-time favorite Nintendo Switch games. Diablo III has been number one for as long as I can remember and I don't see that
@@ -24,6 +57,10 @@ for quite some time.
 
 Games that I've either recently bought/downloaded from the Nintendo Switch Store or physical carts.
 
+- Old Man's Journey [(switch)](https://www.nintendo.com/games/detail/old-mans-journey-switch/)
+- Gods: Remastered [(switch)](https://www.nintendo.com/games/detail/gods-remastered-switch/)
+- F-117A Stealth Fighter [(switch)](https://www.nintendo.com/games/detail/f-117a-stealth-fighter-switch/)
+- Chess Minimal [(switch)](https://www.nintendo.com/games/detail/chess-minimal-switch/)
 - Chess Royal [(switch)](https://www.nintendo.com/games/detail/chess-royal-switch/)
 - Control Ultimate Edition (Cloud Version) [(switch)](https://www.nintendo.com/games/detail/control-ultimate-edition-cloud-version-switch/)
 - Among Us [(switch)](https://www.nintendo.com/games/detail/among-us-switch/)
