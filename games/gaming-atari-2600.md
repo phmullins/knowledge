@@ -70,7 +70,7 @@ The games that I want more than any other. These will probably end up in the phy
 - Jungle Hunt
 - Millipede
 - Moonsweeper
-- Pitfall
+- Pitfall I
 - Pitfall II: Lost Caverns
 - Solaris
 - Space Invaders
