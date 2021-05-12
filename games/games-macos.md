@@ -139,6 +139,7 @@ A list of games that I currently own or have access to.
 - Surviving Mars [(Epic)](https://www.epicgames.com/store/en-US/p/surviving-mars)
 - Sword Coast: Legends
 - Tales from Candlekeep: Tomb of Annihilation [(Steam)](https://store.steampowered.com/app/663380/Tales_from_Candlekeep_Tomb_of_Annihilation/)
+- The Fall [(Epic)](https://www.epicgames.com/store/en-US/p/the-fall)
 - Torchlight II
 - Torchlight [(www)](https://www.torchlight1.com/en)
 - Transistor 
