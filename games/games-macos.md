@@ -74,6 +74,7 @@ A list of games that I currently own or have access to.
 - Blackguards
 - Borderlands 2
 - Borderlands 3 [(www)](https://boderlands.com)
+- Brigador: Up-Armored Edition [(GoG)](https://www.gog.com/game/brigador)
 - Crawl [(Steam)](https://store.steampowered.com/app/293780/Crawl/)
 - Creativerse
 - Darkest Dungeon - [(GoG)](https://www.gog.com/game/darkest_dungeon)
