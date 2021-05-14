@@ -20,17 +20,13 @@ and forest green. Who's to say?
 
 ### PlayStation 4 - Recently Added to Collection
 
+- Star Wars: Squadrens [(ps4)](https://www.playstation.com/en-us/games/star-wars-squadrons/)
 - Battlefield 1 [(ps4)](https://www.playstation.com/en-us/games/battlefield-1-ps4/)
 - Battlefield V [(www)](https://www.ea.com/games/battlefield/battlefield-5)
-- Brunswick Pro Billiards
 - Call of Duty: WWII [(ps4)](https://www.playstation.com/en-us/games/call-of-duty-wwii-ps4/)
 - Call of Duty: Warzone [(www)](https://www.callofduty.com/warzone)
-- Chess Ultra [(ps4)](https://store.playstation.com/en-us/product/UP2070-CUSA06580_00-PURECHESSULTRAAA)
-- Concrete Genie [(ps4)](https://www.playstation.com/en-us/games/concrete-genie/)
 - Dishonored: Definitive Edition [(ps4)](https://www.playstation.com/en-us/games/dishonored-definitive-edition-ps4/)
 - Gods: Remastered [(www)](https://www.robotriotgames.com/gods_remastered.html)
-- Mutant Year Zero: Road to Eden [(ps4)](https://www.playstation.com/en-us/games/mutant-year-zero-road-to-eden-ps4/) [(www)](https://www.mutantyearzero.com)
-- Subnautica
 
 ### PlayStation 4 - Most Wanted Games
 
@@ -138,6 +134,7 @@ and forest green. Who's to say?
 - Space Hulk: Tactics [(www)](http://spacehulk-tactics.com/)
 - Star Wars: Battlefront I [(www)](https://www.ea.com/games/star-wars/star-wars-battlefront)
 - Star Wars: Battlefront II [(www)](https://www.ea.com/games/starwars/battlefront/battlefront-2)
+- Star Wars: Squadrens [(ps4)](https://www.playstation.com/en-us/games/star-wars-squadrons/)
 - The Crew [(www)](https://www.ubisoft.com/en-us/game/the-crew/)
 - The Elder Scrolls V: Skyrim [(www)](https://elderscrolls.bethesda.net/en/skyrim)
 - The Last Of Us: Remastered [(ps4)](https://www.playstation.com/en-us/games/the-last-of-us-remastered-ps4/)
