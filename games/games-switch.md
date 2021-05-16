@@ -72,9 +72,11 @@ Games that I've either recently bought/downloaded from the Nintendo Switch Store
 ### Nintendo Switch - Most Wanted Games
 
 - Diablo II: Resurrected [(Switch)](https://www.nintendo.com/games/detail/diablo-ii-resurrected-switch/)
+- Game Builder Garage [(Switch)](https://www.nintendo.com/games/detail/game-builder-garage-switch/)
 - Breathedge [(switch)](https://www.nintendo.com/games/detail/breathedge-switch/)
 - Curse of the Dead Gods [(switch)](https://www.nintendo.com/games/detail/curse-of-the-dead-gods-switch/)
 - In Other Waters [(Switch)](https://www.nintendo.com/games/detail/in-other-waters-switch/)
+- Beautiful Desolation [(Switch)](https://www.nintendo.com/games/detail/beautiful-desolation-switch/)
 - Achtung! Cthulhu Tactics [(switch)](https://www.nintendo.com/games/detail/achtung-cthulhu-tactics-switch/)
 - Mutant Year Zero: Road to Eden Deluxe [(switch)](https://www.nintendo.com/games/detail/mutant-year-zero-road-to-eden-deluxe-edition-switch/) [(www)](https://www.mutantyearzero.com/#1)
 - The Long Dark [(switch)](https://www.nintendo.com/games/detail/the-long-dark-switch/)
@@ -89,6 +91,14 @@ Games that I've either recently bought/downloaded from the Nintendo Switch Store
 - Subnautica [(switch)](https://www.nintendo.com/games/detail/subnautica-switch/)
 - Subnautica: Below Zero [(switch)](https://www.nintendo.com/games/detail/subnautica-below-zero-switch/)
 - Little Nightmares II [(switch)](https://www.nintendo.com/games/detail/little-nightmares-ii-switch/)
+- Pathway [(Switch)](https://www.nintendo.com/games/detail/pathway-switch/)
+- King of Seas [(Switch)](https://www.nintendo.com/games/detail/king-of-seas-switch/)
+- Fantasy Checkers [(Switch)](https://www.nintendo.com/games/detail/fantasy-checkers-switch/)
+- Road 96 [(Switch)](https://www.nintendo.com/games/detail/road-96-switch/)
+- Maneater [(Switch)](https://www.nintendo.com/games/detail/maneater-switch/)
+- Rise of the Slime [(Switch)](https://www.nintendo.com/games/detail/rise-of-the-slime-switch/)
+- Driving World: Aspen [(Switch)](https://www.nintendo.com/games/detail/driving-world-aspen-switch/)
+- SnowRunner [(Switch)](https://www.nintendo.com/games/detail/snowrunner-switch/)
 
 ### Nintendo Switch - Games That I Want
 
