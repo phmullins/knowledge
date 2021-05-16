@@ -8,29 +8,26 @@ the PC.
 
 ### Windows/PC - All-time Favorite Games
 
-- Darkest Dungeon [(GoG)](https://www.gog.com/game/darkest_dungeon)
 - Diablo, Diablo II, & Diablo III [(www)](https://en.wikipedia.org/wiki/Diablo_(series))
+- Darkest Dungeon [(GoG)](https://www.gog.com/game/darkest_dungeon)
+- Unreal Tournament [(www)](https://en.wikipedia.org/wiki/Unreal_Tournament)
+- Unreal [(www)](https://en.wikipedia.org/wiki/Unreal_(video_game_series))
 - Doom II [(www)](https://en.wikipedia.org/wiki/Doom_(franchise)) [(GoG)](https://www.gog.com/game/doom_ii_final_doom)
 - Doom [(www)](https://en.wikipedia.org/wiki/Doom_(franchise))
 - Final Doom [(www)](https://en.wikipedia.org/wiki/Doom_(franchise)) [(GoG)](https://www.gog.com/game/doom_ii_final_doom)
 - Half-Life [(www)](https://en.wikipedia.org/wiki/Half-Life_(series))
 - Hexen & Hexen II [(www)](https://en.wikipedia.org/wiki/Hexen:_Beyond_Heretic)
 - Quake 2 [(www)](https://en.wikipedia.org/wiki/Quake_(series))
-- Unreal Tournament [(www)](https://en.wikipedia.org/wiki/Unreal_Tournament)
-- Unreal [(www)](https://en.wikipedia.org/wiki/Unreal_(video_game_series))
 
 ### Windows/PC - Recently Added to Collection
 
+- The Lion's Song [(Epic)](https://www.epicgames.com/store/en-US/p/the-lions-song)
 - The Pillars of the Earth [(Epic)](https://www.epicgames.com/store/en-US/p/ken-follets-the-pillars-of-the-earth)
 - The First Tree [(Epic)](https://www.epicgames.com/store/en-US/p/the-first-tree)
 - Mainframe Defenders [(Steam)](https://store.steampowered.com/app/1184810/Mainframe_Defenders/)
-- Alien: Isolation [(Epic)](https://www.epicgames.com/store/en-US/product/alien-isolation/home)
 - Borderlands 3 [(www)](https://borderlands.com)
 - Deep Sky Derelicts [(GoG)](https://www.gog.com/game/deep_sky_derelicts)
 - Frostpunk [(GoG)](https://www.gog.com/game/frostpunk)
-- Galactic Civilizations III
-- Mutant Year Zero: Road to Eden [(GoG)](https://www.gog.com/game/mutant_year_zero_road_to_eden)
-- Project Warlock [(GoG)](https://www.gog.com/game/project_warlock)
 - Rage 2 [(Epic)](https://www.epicgames.com/store/en-US/product/rage-2/home)
 - Scythe: Digital Edition [(GoG)](https://www.gog.com/game/scythe_digital_edition)
 
@@ -97,6 +94,7 @@ the PC.
 - The Alto Collection [(Epic)](https://www.epicgames.com/store/en-US/product/the-alto-collection/home)
 - The First Tree [(Epic)](https://www.epicgames.com/store/en-US/p/the-first-tree)
 - The Division 2 [(www)](https://www.ubisoft.com/en-us/game/the-division/the-division-2)
+- The Lion's Song [(Epic)](https://www.epicgames.com/store/en-US/p/the-lions-song)
 - The Pillars of the Earth [(Epic)](https://www.epicgames.com/store/en-US/p/ken-follets-the-pillars-of-the-earth)
 - The Talos Principle [(Epic)](https://www.epicgames.com/store/en-US/product/the-talos-principle/home)
 - The Ultimate DOOM [(www)](https://en.wikipedia.org/wiki/Doom_(franchise)) [(GoG)](https://www.gog.com/game/the_ultimate_doom)
