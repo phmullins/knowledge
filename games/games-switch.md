@@ -42,39 +42,54 @@ My top 10 all-time favorite Nintendo Switch games. Diablo III has been number on
 changing any time soon. Likewise, Borderlands: The Handsome Collection, and Rebel Galaxy: Outlaw will probably be high on this list 
 for quite some time.
 
-- Diablo III: The Eternal Collection [(www)](https://us.diablo3.com/en/switch)
+- Diablo III: The Eternal Collection [(www)](https://us.diablo3.com/en/switch) (Cart)
 - Borderlands: The Handsome Collection [(switch)](https://www.nintendo.com/games/detail/borderlands-the-handsome-collection-switch/)
 - Rebel Galaxy: Outlaw [(www)](https://rebel-galaxy.com/)
 - Darkest Dungeon [(www)](https://www.darkestdungeon.com)
-- The Elder Scrolls V: Skyrim [(www)](https://elderscrolls.bethesda.net/en/skyrim)
+- The Elder Scrolls V: Skyrim [(www)](https://elderscrolls.bethesda.net/en/skyrim) (Cart)
 - Burnout: Paradise (Remastered) [(Switch)](https://www.nintendo.com/games/detail/burnout-paradise-remastered-switch/)
 - Transistor [(switch)](https://www.nintendo.com/games/detail/transistor-switch)
 - Uno [(switch)](https://www.nintendo.com/games/detail/uno-for-nintendo-switch-switch/)
 - Cat Quest [(switch)](https://www.nintendo.com/games/detail/cat-quest-switch/)
-- Rebel Galaxy: Outlaw [(www)](https://rebel-galaxy.com/)
 
 ### Nintendo Switch - Recently Added to Collection
 
 Games that I've either recently bought/downloaded from the Nintendo Switch Store or physical carts.
 
-- Old Man's Journey [(switch)](https://www.nintendo.com/games/detail/old-mans-journey-switch/)
+- Subnautica [(switch)](https://www.nintendo.com/games/detail/subnautica-switch/) (Cart)
+- Subnautica: Below Zero [(switch)](https://www.nintendo.com/games/detail/subnautica-below-zero-switch/) (Cart)
+- Rebel Galaxy: Outlaw [(www)](https://rebel-galaxy.com/)
 - Gods: Remastered [(switch)](https://www.nintendo.com/games/detail/gods-remastered-switch/)
 - F-117A Stealth Fighter [(switch)](https://www.nintendo.com/games/detail/f-117a-stealth-fighter-switch/)
+- Among Us [(switch)](https://www.nintendo.com/games/detail/among-us-switch/)
+- Old Man's Journey [(switch)](https://www.nintendo.com/games/detail/old-mans-journey-switch/)
 - Chess Minimal [(switch)](https://www.nintendo.com/games/detail/chess-minimal-switch/)
 - Chess Royal [(switch)](https://www.nintendo.com/games/detail/chess-royal-switch/)
 - Control Ultimate Edition (Cloud Version) [(switch)](https://www.nintendo.com/games/detail/control-ultimate-edition-cloud-version-switch/)
-- Among Us [(switch)](https://www.nintendo.com/games/detail/among-us-switch/)
 - Borderlands 2: Commander Lilith & the Fight for Sanctuary
 - Borderlands: The Handsome Collection [(switch)](https://www.nintendo.com/games/detail/borderlands-the-handsome-collection-switch/)
 - Dark Quest 2 [(switch)](https://www.nintendo.com/games/detail/dark-quest-2-switch/) 
-- Rebel Galaxy: Outlaw [(www)](https://rebel-galaxy.com/)
 
 ### Nintendo Switch - Most Wanted Games
 
 - Diablo II: Resurrected [(Switch)](https://www.nintendo.com/games/detail/diablo-ii-resurrected-switch/)
 - Game Builder Garage [(Switch)](https://www.nintendo.com/games/detail/game-builder-garage-switch/)
+- Pillars of Eternity II: Deadfire
 - Breathedge [(switch)](https://www.nintendo.com/games/detail/breathedge-switch/)
 - Curse of the Dead Gods [(switch)](https://www.nintendo.com/games/detail/curse-of-the-dead-gods-switch/)
+- Borderlands Legendary Collection
+- Dead Cells - Action Game of The Year
+- Risk of Rain 2
+- Darkest Dungeon: Collector's Edition
+- Journey to the Savage Planet
+- Sid Meier's Civilization VI
+- Dungeon of The Endless
+- The Outer Worlds
+- Ancestors Legacy
+- Minecraft Dungeons Hero Edition
+- Darksiders Genesis
+- XCOM 2 Collection
+- The Dungeon of Naheulbeuk: The Amulet of Chaos - Chicken Edition 
 - In Other Waters [(Switch)](https://www.nintendo.com/games/detail/in-other-waters-switch/)
 - Beautiful Desolation [(Switch)](https://www.nintendo.com/games/detail/beautiful-desolation-switch/)
 - Achtung! Cthulhu Tactics [(switch)](https://www.nintendo.com/games/detail/achtung-cthulhu-tactics-switch/)
@@ -85,11 +100,10 @@ Games that I've either recently bought/downloaded from the Nintendo Switch Store
 - Hades [(www)](https://www.supergiantgames.com/games/hades/) [(switch)](https://www.nintendo.com/games/detail/hades-switch/)
 - Deep Sky Derelicts: Definitive Edition [(switch)](https://www.nintendo.com/games/detail/deep-sky-derelicts-definitive-edition-switch/)
 - Doom (2016) [(switch)](https://www.nintendo.com/games/detail/doom-switch)
+- Ori and the Blind Forest
 - Ori and the Will of the Wisps [(switch)](https://www.nintendo.com/games/detail/ori-and-the-will-of-the-wisps-switch/) [(www)](https://ori.iam8bit.com/)
 - Shanghai III [(Switch)](https://www.nintendo.com/games/detail/arcade-archives-shanghai-iii-switch/)
 - The Legend of Zelda: Breath of the Wild [(switch)](https://www.nintendo.com/games/detail/the-legend-of-zelda-breath-of-the-wild-switch)
-- Subnautica [(switch)](https://www.nintendo.com/games/detail/subnautica-switch/)
-- Subnautica: Below Zero [(switch)](https://www.nintendo.com/games/detail/subnautica-below-zero-switch/)
 - Little Nightmares II [(switch)](https://www.nintendo.com/games/detail/little-nightmares-ii-switch/)
 - Pathway [(Switch)](https://www.nintendo.com/games/detail/pathway-switch/)
 - King of Seas [(Switch)](https://www.nintendo.com/games/detail/king-of-seas-switch/)
@@ -108,10 +122,8 @@ Games that I've either recently bought/downloaded from the Nintendo Switch Store
 - Another World [(switch)](https://www.nintendo.com/games/detail/another-world-switch)
 - Armello [(www)](https://armello.com) [(switch)](https://www.nintendo.com/games/detail/armello-switch)
 - Ashen [(switch)](https://www.nintendo.com/games/detail/ashen-switch/)
-- Assassin's Creed III Remastered [(switch)](https://www.nintendo.com/games/detail/assassins-creed-3-remastered-switch)
 - Atom RPG [(www)](https://atomrpg.com/) [(switch)](https://www.nintendo.com/games/detail/atom-rpg-switch/)
 - Bad North [(www)](https://www.badnorth.com) [(switch)](https://www.nintendo.com/games/detail/bad-north-switch)
-- Baldurs Gate I/II [(www)](https://store.skybound.com/products/baldurs-gate-enhanced-edition?variant=28055151280203)
 - Bastion [(www)](https://www.supergiantgames.com/games/bastion/) [(switch)](https://www.nintendo.com/games/detail/bastion-switch)
 - Battleship [(switch)](https://www.nintendo.com/games/detail/battleship-switch/)
 - Bear and Breakfast [(switch)](https://www.nintendo.com/games/detail/bear-and-breakfast-switch/)
@@ -120,13 +132,10 @@ Games that I've either recently bought/downloaded from the Nintendo Switch Store
 - Blazing Beaks [(switch)](https://www.nintendo.com/games/detail/blazing-beaks-switch/)
 - Bridge Constructor Portal [(switch)](https://www.nintendo.com/games/detail/bridge-constructor-portal-switch)
 - Brunswick Pro Billiards [(switch)](https://www.nintendo.com/games/detail/brunswick-pro-billiards-switch/) [(www)](http://brunswickprobilliards.com/)
-- Bullet Age [(switch)](https://www.nintendo.com/games/detail/bullet-age-switch)
-- Bulletstorm: Duke of Switch Edition [(switch)](https://www.nintendo.com/games/detail/bulletstorm-duke-of-switch-edition/)
 - Captain Toad: Treasure Tracker [(switch)](https://www.nintendo.com/games/detail/captain-toad-treasure-tracker-switch)
 - Carcassonne [(switch)](https://www.nintendo.com/games/detail/carcassonne-switch) [(www)](http://www.asmodee-digital.com/en/carcassonne/)
 - Carrion [(www)](https://devolverdigital.com/games/carrion)
 - Catan Universe [(switch)](https://www.nintendo.com/games/detail/catan-switch/)
-- Chess Minimal [(switch)](https://www.nintendo.com/games/detail/chess-minimal-switch/)
 - Children of Morta [(switch)](https://www.nintendo.com/games/detail/children-of-morta-switch/)
 - Chronos: Before the Ashes [(www)](https://www.thqnordic.com/games/chronos-ashes) [(Switch](https://www.nintendo.com/games/detail/chronos-before-the-ashes-switch/)
 - Cloudpunk [(switch)](https://www.nintendo.com/games/detail/cloudpunk-switch/)
@@ -142,33 +151,26 @@ Games that I've either recently bought/downloaded from the Nintendo Switch Store
 - Donkey Kong Country: Tropical Freeze
 - Doodle God: Evolution [(switch)](https://www.nintendo.com/games/detail/doodle-god-evolution-switch)
 - Doom 64 [(switch)](https://www.nintendo.com/games/detail/doom-64-switch/)
-- Dragon Quest Builders 2 [(switch)](https://www.nintendo.com/games/detail/dragon-quest-builders-2-switch)
-- Dragon Quest Builders [(www)](https://dragonquest.square-enix-games.com/builders/us/)
 - Dungeon Defenders: Awakened [(switch)](https://www.nintendo.com/games/detail/dungeon-defenders-awakened-switch/)
 - Dungeon of the Endless [(switch)](https://www.nintendo.com/games/detail/dungeon-of-the-endless-switch/)
 - Dungeon Stars [(switch)](https://www.nintendo.com/games/detail/dungeon-stars-switch)
 - Eldest Souls [(switch)](https://www.nintendo.com/games/detail/eldest-souls-switch/)
-- Elli [(NS)](https://www.nintendo.com/games/detail/elli-switch)
 - Endurance - Space Action [(switch)](https://www.nintendo.com/games/detail/endurance-space-action-switch/) [(www)](http://www.ivanpanasenko.com/games#/endurance/)
 - Everspace [(switch)](https://www.nintendo.com/games/detail/everspace-stellar-edition-switch)
 - Farm Together
 - Flood of Light
 - For The King [(switch)](https://www.nintendo.com/games/detail/for-the-king-switch/) [(www)](https://www.ironoakgames.com)
-- Foreclosed [(www)](https://www.mergegames.com/foreclosed)
 - Feudal Alloy [(www)](http://feudalalloy.com/#) [(switch)](https://www.nintendo.com/games/detail/feudal-alloy-switch)
 - Gamedec [(www)](https://www.gamedec.com/)
 - Game Dev Tycoon [(switch)](https://www.nintendo.com/games/detail/game-dev-tycoon-switch/)
 - Goat Simulator: The GOATY [(switch)](https://www.nintendo.com/games/detail/goat-simulator-the-goaty-switch)
-- Gods [(www)](https://www.robotriotgames.com/gods_remastered.html) [(switch)](https://www.nintendo.com/games/detail/gods-remastered-switch)
 - Graven - [(Trailer)](https://youtu.be/3TXvcsxay8s)
 - Halcyon 6: Starbase Commander [(switch)](https://www.nintendo.com/games/detail/halcyon-6-starbase-commander-switch)
 - Has Been Heroes
 - History 2048
-- Homo Machina [(switch)](https://www.nintendo.com/games/detail/homo-machina-switch/)
 - Immortal Planet [(switch)](https://www.nintendo.com/games/detail/immortal-planet-switch/)
 - Into the Breach [(www)](https://subsetgames.com/itb.html) [(switch)](https://www.nintendo.com/games/detail/into-the-breach-switch)
 - Jungle Z [(switch)](https://www.nintendo.com/games/detail/jungle-z-switch/)
-- Kentucky Route Zero: TV Edition
 - Klondike Solitaire [(switch)](https://www.nintendo.com/games/detail/klondike-solitaire-switch)
 - Light Fingers
 - Lost Sea
@@ -184,28 +186,19 @@ Games that I've either recently bought/downloaded from the Nintendo Switch Store
 - Munchkin: Quacked Quest [(switch)](https://www.nintendo.com/games/detail/munchkin-switch/)
 - Mushroom Wars 2 [(www)](https://mushroomwars2.com) [(switch)](https://www.nintendo.com/games/detail/mushroom-wars-2-switch)
 - Mutant Football League: Dynasty Edition [(switch)](https://www.nintendo.com/games/detail/mutant-football-league-dynasty-edition-switch)
-- My Brother Rabbit [(www)](https://mybrotherrabbit.com) [(switch)](https://www.nintendo.com/games/detail/my-brother-rabbit-switch)
-- My Memory of Us [(switch)](https://www.nintendo.com/games/detail/my-memory-of-us-switch)
 - Northgard [(www)](http://northgard.net/)
 - Observer [(www)](https://www.blooberteam.com/observer_)
 - Oddmar [(switch)](https://www.nintendo.com/games/detail/oddmar-switch/)
 - Oddworld: New 'n' Tasty [(switch)](https://www.nintendo.com/games/detail/oddworld-new-n-tasty-switch/)
-- Old Man's Journey [(www)](http://oldmansjourney.com) [(switch)](https://www.nintendo.com/games/detail/old-mans-journey-switch)
 - One More Dungeon [(www)](http://statelysnail.com/onemoredungeon) [(switch)](https://www.nintendo.com/games/detail/one-more-dungeon-switch)
-- Out There: Ω The Alliance [(switch)](https://www.nintendo.com/games/detail/out-there-omega-the-alliance-switch/)
 - Overland [(switch)](https://www.nintendo.com/games/detail/overland-switch)
-- Planescape Torment + Icewind Dale [(www)](https://store.skybound.com/products/planescape-torment-icewind-dale-enhanced-edition)
 - Pokemon: Let's Go, Eevee! [(switch)](https://www.nintendo.com/games/detail/pokemon-lets-go-eevee-switch)
 - Pokemon: Mystery Dungeon [(switch)](https://mysterydungeon.pokemon.com/en-us/)
 - Portal Knights [(switch)](https://www.nintendo.com/games/detail/portal-knights-switch)
 - Premium Pool Arena [(switch)](https://www.nintendo.com/games/detail/premium-pool-arena-switch/)
 - Quest Hunter [(switch)](https://www.nintendo.com/games/detail/quest-hunter-switch/)
-- RAD [(switch)](https://www.nintendo.com/games/detail/rad-switch)
-- Rad Rodgers Radical Edition [(switch)](https://www.nintendo.com/games/detail/rad-rodgers-radical-edition-switch)
 - Raiders of the North Sea [(switch)](https://www.nintendo.com/games/detail/raiders-of-the-north-sea-switch/)
-- Realm Royale [(switch)](https://www.nintendo.com/games/detail/realm-royale-switch/) [(www)](https://www.realmroyale.com)
 - Red's Kingdom [(switch)](https://www.nintendo.com/games/detail/reds-kingdom-switch)
-- Regions of Ruin [(switch)](https://www.nintendo.com/games/detail/regions-of-ruin-switch/)
 - Regions of Ruin [(switch)](https://www.nintendo.com/games/detail/regions-of-ruin-switch/)
 - Reigns: Kings & Queens [(switch)](https://www.nintendo.com/games/detail/reigns-kings-and-queens-switch)
 - RemiLore [(switch)](https://www.nintendo.com/games/detail/remilore-switch)
@@ -224,7 +217,6 @@ Games that I've either recently bought/downloaded from the Nintendo Switch Store
 - SteamWorld Quest: Hand of Gilgamech [(switch)](https://www.nintendo.com/games/detail/steamworld-quest-hand-of-gilgamech-switch)
 - Stranded Sails Explorers of the Cursed Islands [(www)](https://www.mergegames.com/stranded-sails)
 - Subdivision Infinity DX [(www)](https://www.blowfishstudios.com/game/si-dx)
-- Subdivision Infinity DX [(www)](https://www.blowfishstudios.com/game/si-dx) 
 - Super Dungeon Tactics [(www)](https://www.superdungeontactics.com) [(switch)](https://www.nintendo.com/games/detail/super-dungeon-tactics-switch)
 - Super Mario Maker 2 [(switch)](https://www.nintendo.com/games/detail/super-mario-maker-2-switch)
 - Superbrothers: Sword & Sworcery EP [(switch)](https://www.nintendo.com/games/detail/superbrothers-sword-and-sworcery-ep-switch)
@@ -234,9 +226,6 @@ Games that I've either recently bought/downloaded from the Nintendo Switch Store
 - Tactics V: "Obsidian Brigade" [(switch)](https://www.nintendo.com/games/detail/tactics-v-obsidian-brigade-switch/)
 - The Elder Scrolls: Blades [(switch)](https://www.nintendo.com/games/detail/the-elder-scrolls-blades-switch/) [(www)](https://elderscrolls.bethesda.net/en/blades)
 - The Last Campfire [(switch)](https://www.nintendo.com/games/detail/the-last-campfire-switch/)
-- The Legend of Zelda: Link's Awakening
-- The Legend of Zelda: Link's Awakening [(switch)](https://www.nintendo.com/games/detail/the-legend-of-zelda-links-awakening-switch/)
-- The Legend of Zelda: Link's Awakening [(switch)](https://www.nintendo.com/games/detail/the-legend-of-zelda-links-awakening-switch/)
 - The Legend of Zelda: Link’s Awakening [(switch)](https://www.nintendo.com/games/detail/the-legend-of-zelda-links-awakening-switch/)
 - Tiny Metal: Full Metal Rumble [(switch)](https://www.nintendo.com/games/detail/tiny-metal-full-metal-rumble-switch/)
 - Trine: Ultimate Collection [(www)](https://www.trine4.com)
@@ -247,11 +236,8 @@ Games that I've either recently bought/downloaded from the Nintendo Switch Store
 - Warhammer 40,000: Mechanicus [(switch)](https://www.nintendo.com/games/detail/warhammer-40000-mechanicus-switch/)
 - Warhammer Quest [(switch)](https://www.nintendo.com/games/detail/warhammer-quest-switch)
 - Wartile [(switch)](https://www.nintendo.com/games/detail/wartile-switch/)
-- Wolfenstein II: The New Colossus [(switch)](https://www.nintendo.com/games/detail/wolfenstein-ii-the-new-colossus-switch)
 - Wulverblade [(www)](http://wulverblade.com) [(switch)](https://www.nintendo.com/games/detail/wulverblade-switch)
 - Yaga [(www)](https://yaga-game.com/)
-- Yonder The Cloud Catcher Chronicles [(switch)](https://www.nintendo.com/games/detail/yonder-the-cloud-catcher-chronicles-switch)
-- Yono and the Celestial Elephants [(switch)](https://www.nintendo.com/games/detail/yono-and-the-celestial-elephants-switch)
 - Zen Chess [(switch)](https://www.nintendo.com/games/detail/zen-chess-collection-switch/)
 - Ziggurat [(switch)](https://www.nintendo.com/games/detail/ziggurat-switch/) [(www)](http://www.milkstonestudios.com/games/ziggurat/)
 
@@ -259,21 +245,24 @@ Games that I've either recently bought/downloaded from the Nintendo Switch Store
 
 - Among Us [(switch)](https://www.nintendo.com/games/detail/among-us-switch/)
 - Asphalt 9: Legends [(switch)](https://www.nintendo.com/games/detail/asphalt-9-legends-switch/)
-- Battle Chasers: Nightwar [(www)](https://www.battlechasers.com)
+- Battle Chasers: Nightwar [(www)](https://www.battlechasers.com) (Cart)
 - Beach Buggy Racing [(switch)](https://www.nintendo.com/games/detail/beach-buggy-racing-switch/)
 - Borderlands: The Handsome Collection [(switch)](https://www.nintendo.com/games/detail/borderlands-the-handsome-collection-switch/)
 - Burnout: Paradise (Remastered) [(Switch)](https://www.nintendo.com/games/detail/burnout-paradise-remastered-switch/)
 - Cat Quest [(switch)](https://www.nintendo.com/games/detail/cat-quest-switch/)
 - Dark Quest 2 [(switch)](https://www.nintendo.com/games/detail/dark-quest-2-switch/) 
 - Darkest Dungeon [(www)](https://www.darkestdungeon.com)
-- Diablo III: Eternal Collection [(www)](https://us.diablo3.com/en/switch)
+- Diablo III: Eternal Collection [(www)](https://us.diablo3.com/en/switch) (Cart)
 - Doom II [(switch)](https://www.nintendo.com/games/detail/doom-2-classic-switch/)
 - Doom [(switch)](https://www.nintendo.com/games/detail/doom-1993-switch/)
 - Dungeon Rushers [(www)](http://dungeon-rushers.com/en/index-en/) [(switch)](https://www.nintendo.com/games/detail/dungeon-rushers-switch)
+- Mario + Rabbids Kingdom Battle (Cart)
 - Mudrunner: American Wilds [(switch)](https://www.nintendo.com/games/detail/mudrunner-american-wilds-switch/)
 - Rebel Galaxy: Outlaw [(www)](https://rebel-galaxy.com/)
 - Rogue Bit [(switch)](https://www.nintendo.com/games/detail/rogue-bit-switch/)
-- The Elder Scrolls V: Skyrim [(www)](https://elderscrolls.bethesda.net/en/skyrim)
+- Subnautica [(switch)](https://www.nintendo.com/games/detail/subnautica-switch/) (Cart)
+- Subnautica: Below Zero [(switch)](https://www.nintendo.com/games/detail/subnautica-below-zero-switch/) (Cart)
+- The Elder Scrolls V: Skyrim [(www)](https://elderscrolls.bethesda.net/en/skyrim) (Cart)
 - The Flame In The Flood [(switch)](https://www.nintendo.com/games/detail/the-flame-in-the-flood-complete-edition-switch)
 - The Keep [(switch)](https://www.nintendo.com/games/detail/the-keep-switch/)
 - Torchlight II [(switch)](https://www.nintendo.com/games/detail/torchlight-2-switch/)
