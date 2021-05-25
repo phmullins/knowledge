@@ -19,6 +19,7 @@ and/or port them.
 
 ### macOS - Games Recently Added to Collection
 
+- Caves of Qud [(GoG)](https://www.gog.com/game/caves_of_qud)
 - Baldur's Gate: Enhanced Edition [(GoG)](https://www.gog.com/game/baldurs_gate_enhanced_edition)
 - Baldur's Gate: Siege of Dragonspear [(GoG)](https://www.gog.com/game/baldurs_gate_siege_of_dragonspear)
 - Baldur's Gate II: Enhanced Edition [(GoG)](https://www.gog.com/game/baldurs_gate_2_enhanced_edition)	
