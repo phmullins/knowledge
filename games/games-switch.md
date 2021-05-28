@@ -56,6 +56,7 @@ for quite some time.
 
 Games that I've either recently bought/downloaded from the Nintendo Switch Store or physical carts.
 
+- Borderlands: Legendary Edition
 - Subnautica [(switch)](https://www.nintendo.com/games/detail/subnautica-switch/) (Cart)
 - Subnautica: Below Zero [(switch)](https://www.nintendo.com/games/detail/subnautica-below-zero-switch/) (Cart)
 - Rebel Galaxy: Outlaw [(www)](https://rebel-galaxy.com/)
