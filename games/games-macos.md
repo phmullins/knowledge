@@ -19,6 +19,8 @@ and/or port them.
 
 ### macOS - Games Recently Added to Collection
 
+- Populous [(GoG)](https://www.gog.com/game/populous)
+- Populous 2: Trials of the Olympian Gods [(GoG)](https://www.gog.com/game/populous_2)
 - Caves of Qud [(GoG)](https://www.gog.com/game/caves_of_qud)
 - Baldur's Gate: Enhanced Edition [(GoG)](https://www.gog.com/game/baldurs_gate_enhanced_edition)
 - Baldur's Gate: Siege of Dragonspear [(GoG)](https://www.gog.com/game/baldurs_gate_siege_of_dragonspear)
