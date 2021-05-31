@@ -42,24 +42,25 @@ My top 10 all-time favorite Nintendo Switch games. Diablo III has been number on
 changing any time soon. Likewise, Borderlands: The Handsome Collection, and Rebel Galaxy: Outlaw will probably be high on this list 
 for quite some time.
 
-- Diablo III: The Eternal Collection [(www)](https://us.diablo3.com/en/switch) (Cart)
+- Diablo III: The Eternal Collection [(www)](https://us.diablo3.com/en/switch)
 - Borderlands: The Handsome Collection [(switch)](https://www.nintendo.com/games/detail/borderlands-the-handsome-collection-switch/)
+- Animal Crossing: New Horizons [(switch)](https://www.nintendo.com/games/detail/animal-crossing-new-horizons-switch/)
 - Rebel Galaxy: Outlaw [(www)](https://rebel-galaxy.com/)
 - Darkest Dungeon [(www)](https://www.darkestdungeon.com)
-- The Elder Scrolls V: Skyrim [(www)](https://elderscrolls.bethesda.net/en/skyrim) (Cart)
+- Subnautica: Below Zero [(switch)](https://www.nintendo.com/games/detail/subnautica-below-zero-switch/)
+- The Elder Scrolls V: Skyrim [(www)](https://elderscrolls.bethesda.net/en/skyrim)
 - Burnout: Paradise (Remastered) [(Switch)](https://www.nintendo.com/games/detail/burnout-paradise-remastered-switch/)
 - Transistor [(switch)](https://www.nintendo.com/games/detail/transistor-switch)
-- Uno [(switch)](https://www.nintendo.com/games/detail/uno-for-nintendo-switch-switch/)
 - Cat Quest [(switch)](https://www.nintendo.com/games/detail/cat-quest-switch/)
 
 ### Nintendo Switch - Recently Added to Collection
 
 Games that I've either recently bought/downloaded from the Nintendo Switch Store or physical carts.
 
-- Animal Crossing: New Horizons [(switch)](https://www.nintendo.com/games/detail/animal-crossing-new-horizons-switch/)
-- Borderlands: Legendary Edition [(switch)](https://www.nintendo.com/games/detail/borderlands-legendary-collection-switch/)
-- Subnautica [(switch)](https://www.nintendo.com/games/detail/subnautica-switch/) (Cart)
-- Subnautica: Below Zero [(switch)](https://www.nintendo.com/games/detail/subnautica-below-zero-switch/) (Cart)
+- Animal Crossing: New Horizons [(switch)](https://www.nintendo.com/games/detail/animal-crossing-new-horizons-switch/) (Cartridge)
+- Borderlands: Legendary Edition [(switch)](https://www.nintendo.com/games/detail/borderlands-legendary-collection-switch/) (Cartridge)
+- Subnautica [(switch)](https://www.nintendo.com/games/detail/subnautica-switch/) (Cartridge)
+- Subnautica: Below Zero [(switch)](https://www.nintendo.com/games/detail/subnautica-below-zero-switch/) (Cartridge)
 - Rebel Galaxy: Outlaw [(www)](https://rebel-galaxy.com/)
 - Gods: Remastered [(switch)](https://www.nintendo.com/games/detail/gods-remastered-switch/)
 - F-117A Stealth Fighter [(switch)](https://www.nintendo.com/games/detail/f-117a-stealth-fighter-switch/)
@@ -79,14 +80,13 @@ Games that I've either recently bought/downloaded from the Nintendo Switch Store
 - Pillars of Eternity II: Deadfire
 - Breathedge [(switch)](https://www.nintendo.com/games/detail/breathedge-switch/)
 - Curse of the Dead Gods [(switch)](https://www.nintendo.com/games/detail/curse-of-the-dead-gods-switch/)
-- Borderlands Legendary Collection
 - Dead Cells - Action Game of The Year
 - Risk of Rain 2
-- Darkest Dungeon: Collector's Edition
-- Journey to the Savage Planet
+- Darkest Dungeon: Collector's Edition [(www)](https://www.darkestdungeon.com/) [(switch)](https://www.nintendo.com/games/detail/darkest-dungeon-switch/)
+- Journey to the Savage Planet [(switch)](https://www.nintendo.com/games/detail/journey-to-the-savage-planet-switch/)
 - Sid Meier's Civilization VI
 - Dungeon of The Endless
-- The Outer Worlds
+- The Outer Worlds [(switch)](https://www.nintendo.com/games/detail/the-outer-worlds-switch/)
 - Ancestors Legacy
 - Minecraft Dungeons Hero Edition
 - Darksiders Genesis
@@ -247,24 +247,24 @@ Games that I've either recently bought/downloaded from the Nintendo Switch Store
 
 - Among Us [(switch)](https://www.nintendo.com/games/detail/among-us-switch/)
 - Asphalt 9: Legends [(switch)](https://www.nintendo.com/games/detail/asphalt-9-legends-switch/)
-- Battle Chasers: Nightwar [(www)](https://www.battlechasers.com) (Cart)
+- Battle Chasers: Nightwar [(www)](https://www.battlechasers.com) (Cartridge)
 - Beach Buggy Racing [(switch)](https://www.nintendo.com/games/detail/beach-buggy-racing-switch/)
 - Borderlands: The Handsome Collection [(switch)](https://www.nintendo.com/games/detail/borderlands-the-handsome-collection-switch/)
 - Burnout: Paradise (Remastered) [(Switch)](https://www.nintendo.com/games/detail/burnout-paradise-remastered-switch/)
 - Cat Quest [(switch)](https://www.nintendo.com/games/detail/cat-quest-switch/)
 - Dark Quest 2 [(switch)](https://www.nintendo.com/games/detail/dark-quest-2-switch/) 
 - Darkest Dungeon [(www)](https://www.darkestdungeon.com)
-- Diablo III: Eternal Collection [(www)](https://us.diablo3.com/en/switch) (Cart)
+- Diablo III: Eternal Collection [(www)](https://us.diablo3.com/en/switch) (Cartridge)
 - Doom II [(switch)](https://www.nintendo.com/games/detail/doom-2-classic-switch/)
 - Doom [(switch)](https://www.nintendo.com/games/detail/doom-1993-switch/)
 - Dungeon Rushers [(www)](http://dungeon-rushers.com/en/index-en/) [(switch)](https://www.nintendo.com/games/detail/dungeon-rushers-switch)
-- Mario + Rabbids Kingdom Battle (Cart)
+- Mario + Rabbids Kingdom Battle (Cartridge)
 - Mudrunner: American Wilds [(switch)](https://www.nintendo.com/games/detail/mudrunner-american-wilds-switch/)
 - Rebel Galaxy: Outlaw [(www)](https://rebel-galaxy.com/)
 - Rogue Bit [(switch)](https://www.nintendo.com/games/detail/rogue-bit-switch/)
-- Subnautica [(switch)](https://www.nintendo.com/games/detail/subnautica-switch/) (Cart)
-- Subnautica: Below Zero [(switch)](https://www.nintendo.com/games/detail/subnautica-below-zero-switch/) (Cart)
-- The Elder Scrolls V: Skyrim [(www)](https://elderscrolls.bethesda.net/en/skyrim) (Cart)
+- Subnautica [(switch)](https://www.nintendo.com/games/detail/subnautica-switch/) (Cartridge)
+- Subnautica: Below Zero [(switch)](https://www.nintendo.com/games/detail/subnautica-below-zero-switch/) (Cartridge)
+- The Elder Scrolls V: Skyrim [(www)](https://elderscrolls.bethesda.net/en/skyrim) (Cartridge)
 - The Flame In The Flood [(switch)](https://www.nintendo.com/games/detail/the-flame-in-the-flood-complete-edition-switch)
 - The Keep [(switch)](https://www.nintendo.com/games/detail/the-keep-switch/)
 - Torchlight II [(switch)](https://www.nintendo.com/games/detail/torchlight-2-switch/)
