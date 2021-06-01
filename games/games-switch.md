@@ -57,35 +57,44 @@ for quite some time.
 
 Games that I've either recently bought/downloaded from the Nintendo Switch Store or physical carts.
 
+- Yoku's Island Express [(switch)](https://www.nintendo.com/games/detail/yokus-island-express-switch/) (Digital)
+- Toby: The Secret Mine [(switch)](https://www.nintendo.com/games/detail/toby-the-secret-mine-switch/) (Digital)
+- Unravel Two [(switch)](https://www.nintendo.com/games/detail/unravel-two-switch/) (Digital)
+- Agent A: A Puzzle in Disguise [(switch)](https://www.nintendo.com/games/detail/agent-a-a-puzzle-in-disguise-switch/) (Digital)
+- Feudal Alloy [(www)](http://feudalalloy.com/#) [(switch)](https://www.nintendo.com/games/detail/feudal-alloy-switch) (Digital)
 - Animal Crossing: New Horizons [(switch)](https://www.nintendo.com/games/detail/animal-crossing-new-horizons-switch/) (Cartridge)
 - Borderlands: Legendary Edition [(switch)](https://www.nintendo.com/games/detail/borderlands-legendary-collection-switch/) (Cartridge)
 - Subnautica [(switch)](https://www.nintendo.com/games/detail/subnautica-switch/) (Cartridge)
 - Subnautica: Below Zero [(switch)](https://www.nintendo.com/games/detail/subnautica-below-zero-switch/) (Cartridge)
-- Rebel Galaxy: Outlaw [(www)](https://rebel-galaxy.com/)
-- Gods: Remastered [(switch)](https://www.nintendo.com/games/detail/gods-remastered-switch/)
-- F-117A Stealth Fighter [(switch)](https://www.nintendo.com/games/detail/f-117a-stealth-fighter-switch/)
-- Among Us [(switch)](https://www.nintendo.com/games/detail/among-us-switch/)
-- Old Man's Journey [(switch)](https://www.nintendo.com/games/detail/old-mans-journey-switch/)
-- Chess Minimal [(switch)](https://www.nintendo.com/games/detail/chess-minimal-switch/)
-- Chess Royal [(switch)](https://www.nintendo.com/games/detail/chess-royal-switch/)
-- Control Ultimate Edition (Cloud Version) [(switch)](https://www.nintendo.com/games/detail/control-ultimate-edition-cloud-version-switch/)
-- Borderlands 2: Commander Lilith & the Fight for Sanctuary
-- Borderlands: The Handsome Collection [(switch)](https://www.nintendo.com/games/detail/borderlands-the-handsome-collection-switch/)
-- Dark Quest 2 [(switch)](https://www.nintendo.com/games/detail/dark-quest-2-switch/) 
+- Rebel Galaxy: Outlaw [(www)](https://rebel-galaxy.com/) (Digital)
+- Gods: Remastered [(switch)](https://www.nintendo.com/games/detail/gods-remastered-switch/) (Digital)
+- F-117A Stealth Fighter [(switch)](https://www.nintendo.com/games/detail/f-117a-stealth-fighter-switch/) (Digital)
+- Among Us [(switch)](https://www.nintendo.com/games/detail/among-us-switch/) (Digital)
+- Old Man's Journey [(switch)](https://www.nintendo.com/games/detail/old-mans-journey-switch/) (Digital)
+- Chess Minimal [(switch)](https://www.nintendo.com/games/detail/chess-minimal-switch/) (Digital)
+- Chess Royal [(switch)](https://www.nintendo.com/games/detail/chess-royal-switch/) (Digital)
+- Control Ultimate Edition (Cloud Version) [(switch)](https://www.nintendo.com/games/detail/control-ultimate-edition-cloud-version-switch/) (Digital)
+- Borderlands 2: Commander Lilith & the Fight for Sanctuary (Digital)
+- Borderlands: The Handsome Collection [(switch)](https://www.nintendo.com/games/detail/borderlands-the-handsome-collection-switch/) (Digital)
+- Dark Quest 2 [(switch)](https://www.nintendo.com/games/detail/dark-quest-2-switch/) (Digital)
 
 ### Nintendo Switch - Most Wanted Games
 
 - Diablo II: Resurrected [(Switch)](https://www.nintendo.com/games/detail/diablo-ii-resurrected-switch/)
-- Game Builder Garage [(Switch)](https://www.nintendo.com/games/detail/game-builder-garage-switch/)
-- Pillars of Eternity II: Deadfire
-- Breathedge [(switch)](https://www.nintendo.com/games/detail/breathedge-switch/)
 - Curse of the Dead Gods [(switch)](https://www.nintendo.com/games/detail/curse-of-the-dead-gods-switch/)
-- Dead Cells - Action Game of The Year
-- Risk of Rain 2
+- Breathedge [(switch)](https://www.nintendo.com/games/detail/breathedge-switch/)
 - Darkest Dungeon: Collector's Edition [(www)](https://www.darkestdungeon.com/) [(switch)](https://www.nintendo.com/games/detail/darkest-dungeon-switch/)
 - Journey to the Savage Planet [(switch)](https://www.nintendo.com/games/detail/journey-to-the-savage-planet-switch/)
+- Game Builder Garage [(Switch)](https://www.nintendo.com/games/detail/game-builder-garage-switch/)
+- Pillars of Eternity II: Deadfire
+- Worms W.M.D [(switch)](https://www.nintendo.com/games/detail/worms-wmd-switch/) (Digital)
+- Black The Fall [(switch)](https://www.nintendo.com/games/detail/black-the-fall-switch/) (Digital)
+- 1001 Ultimate Mahjong 2 [(switch)](https://www.nintendo.com/games/detail/1001-ultimate-mahjong-2-switch/) (Digital)
+- Dead Cells - Action Game of The Year
+- Risk of Rain 2
 - Sid Meier's Civilization VI
-- Dungeon of The Endless
+- Dungeon of The Endless [(switch)](https://www.nintendo.com/games/detail/dungeon-of-the-endless-switch/) (Digital)
+- Hob: The Definitive Edition [(switch)](https://www.nintendo.com/games/detail/hob-the-definitive-edition-switch/)
 - The Outer Worlds [(switch)](https://www.nintendo.com/games/detail/the-outer-worlds-switch/)
 - Ancestors Legacy
 - Minecraft Dungeons Hero Edition
@@ -162,7 +171,6 @@ Games that I've either recently bought/downloaded from the Nintendo Switch Store
 - Farm Together
 - Flood of Light
 - For The King [(switch)](https://www.nintendo.com/games/detail/for-the-king-switch/) [(www)](https://www.ironoakgames.com)
-- Feudal Alloy [(www)](http://feudalalloy.com/#) [(switch)](https://www.nintendo.com/games/detail/feudal-alloy-switch)
 - Gamedec [(www)](https://www.gamedec.com/)
 - Game Dev Tycoon [(switch)](https://www.nintendo.com/games/detail/game-dev-tycoon-switch/)
 - Goat Simulator: The GOATY [(switch)](https://www.nintendo.com/games/detail/goat-simulator-the-goaty-switch)
@@ -245,31 +253,36 @@ Games that I've either recently bought/downloaded from the Nintendo Switch Store
 
 ### Nintendo Switch - Games that I Have/Own
 
-- Among Us [(switch)](https://www.nintendo.com/games/detail/among-us-switch/)
-- Asphalt 9: Legends [(switch)](https://www.nintendo.com/games/detail/asphalt-9-legends-switch/)
+- Agent A: A Puzzle in Disguise [(switch)](https://www.nintendo.com/games/detail/agent-a-a-puzzle-in-disguise-switch/) (Digital)
+- Among Us [(switch)](https://www.nintendo.com/games/detail/among-us-switch/) (Digital)
+- Asphalt 9: Legends [(switch)](https://www.nintendo.com/games/detail/asphalt-9-legends-switch/) (Digital)
 - Battle Chasers: Nightwar [(www)](https://www.battlechasers.com) (Cartridge)
-- Beach Buggy Racing [(switch)](https://www.nintendo.com/games/detail/beach-buggy-racing-switch/)
-- Borderlands: The Handsome Collection [(switch)](https://www.nintendo.com/games/detail/borderlands-the-handsome-collection-switch/)
-- Burnout: Paradise (Remastered) [(Switch)](https://www.nintendo.com/games/detail/burnout-paradise-remastered-switch/)
-- Cat Quest [(switch)](https://www.nintendo.com/games/detail/cat-quest-switch/)
-- Dark Quest 2 [(switch)](https://www.nintendo.com/games/detail/dark-quest-2-switch/) 
-- Darkest Dungeon [(www)](https://www.darkestdungeon.com)
+- Beach Buggy Racing [(switch)](https://www.nintendo.com/games/detail/beach-buggy-racing-switch/) (Digital)
+- Borderlands: The Handsome Collection [(switch)](https://www.nintendo.com/games/detail/borderlands-the-handsome-collection-switch/) (Digital)
+- Burnout: Paradise (Remastered) [(Switch)](https://www.nintendo.com/games/detail/burnout-paradise-remastered-switch/) (Digital)
+- Cat Quest [(switch)](https://www.nintendo.com/games/detail/cat-quest-switch/) (Digital)
+- Dark Quest 2 [(switch)](https://www.nintendo.com/games/detail/dark-quest-2-switch/) (Digital) 
+- Darkest Dungeon [(www)](https://www.darkestdungeon.com) (Digital)
 - Diablo III: Eternal Collection [(www)](https://us.diablo3.com/en/switch) (Cartridge)
-- Doom II [(switch)](https://www.nintendo.com/games/detail/doom-2-classic-switch/)
-- Doom [(switch)](https://www.nintendo.com/games/detail/doom-1993-switch/)
-- Dungeon Rushers [(www)](http://dungeon-rushers.com/en/index-en/) [(switch)](https://www.nintendo.com/games/detail/dungeon-rushers-switch)
-- Mario + Rabbids Kingdom Battle (Cartridge)
-- Mudrunner: American Wilds [(switch)](https://www.nintendo.com/games/detail/mudrunner-american-wilds-switch/)
-- Rebel Galaxy: Outlaw [(www)](https://rebel-galaxy.com/)
-- Rogue Bit [(switch)](https://www.nintendo.com/games/detail/rogue-bit-switch/)
+- Doom II [(switch)](https://www.nintendo.com/games/detail/doom-2-classic-switch/) (Digital)
+- Doom [(switch)](https://www.nintendo.com/games/detail/doom-1993-switch/) (Digital)
+- Dungeon Rushers [(www)](http://dungeon-rushers.com/en/index-en/) [(switch)](https://www.nintendo.com/games/detail/dungeon-rushers-switch) (Digital)
+- Feudal Alloy [(www)](http://feudalalloy.com/#) [(switch)](https://www.nintendo.com/games/detail/feudal-alloy-switch) (Digital)
+- Mario + Rabbids Kingdom Battle [(switch)](https://www.nintendo.com/games/detail/mario-plus-rabbids-kingdom-battle-switch/) (Cartridge)
+- Mudrunner: American Wilds [(switch)](https://www.nintendo.com/games/detail/mudrunner-american-wilds-switch/) (Digital)
+- Rebel Galaxy: Outlaw [(www)](https://rebel-galaxy.com/) (Digital)
+- Rogue Bit [(switch)](https://www.nintendo.com/games/detail/rogue-bit-switch/) (Digital)
 - Subnautica [(switch)](https://www.nintendo.com/games/detail/subnautica-switch/) (Cartridge)
 - Subnautica: Below Zero [(switch)](https://www.nintendo.com/games/detail/subnautica-below-zero-switch/) (Cartridge)
 - The Elder Scrolls V: Skyrim [(www)](https://elderscrolls.bethesda.net/en/skyrim) (Cartridge)
-- The Flame In The Flood [(switch)](https://www.nintendo.com/games/detail/the-flame-in-the-flood-complete-edition-switch)
-- The Keep [(switch)](https://www.nintendo.com/games/detail/the-keep-switch/)
-- Torchlight II [(switch)](https://www.nintendo.com/games/detail/torchlight-2-switch/)
-- Transistor [(switch)](https://www.nintendo.com/games/detail/transistor-switch)
-- Uno [(switch)](https://www.nintendo.com/games/detail/uno-for-nintendo-switch-switch/)
+- The Flame In The Flood [(switch)](https://www.nintendo.com/games/detail/the-flame-in-the-flood-complete-edition-switch) (Digital)
+- The Keep [(switch)](https://www.nintendo.com/games/detail/the-keep-switch/) (Digital)
+- Toby: The Secret Mine [(switch)](https://www.nintendo.com/games/detail/toby-the-secret-mine-switch/) (Digital)
+- Torchlight II [(switch)](https://www.nintendo.com/games/detail/torchlight-2-switch/) (Digital)
+- Transistor [(switch)](https://www.nintendo.com/games/detail/transistor-switch) (Digital)
+- Uno [(switch)](https://www.nintendo.com/games/detail/uno-for-nintendo-switch-switch/) (Digital)
+- Unravel Two [(switch)](https://www.nintendo.com/games/detail/unravel-two-switch/) (Digital)
+- Yoku's Island Express [(switch)](https://www.nintendo.com/games/detail/yokus-island-express-switch/) (Digital)
 
 ### Nintendo Switch - Links
 
