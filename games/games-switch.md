@@ -81,7 +81,7 @@ Games that I've either recently bought/downloaded from the Nintendo Switch Store
 ### Nintendo Switch - Most Wanted Games
 
 - Diablo II: Resurrected [(Switch)](https://www.nintendo.com/games/detail/diablo-ii-resurrected-Switch/)
-- Cozy Grove [(Switch)](https://www.nintendo.com/games/detail/cozy-grove-Switch/)
+- Cozy Grove [(Switch)](https://www.nintendo.com/games/detail/cozy-grove-Switch/) [(www)](https://www.qag.io/cozy-grove.html)
 - Curse of the Dead Gods [(Switch)](https://www.nintendo.com/games/detail/curse-of-the-dead-gods-Switch/)
 - Breathedge [(Switch)](https://www.nintendo.com/games/detail/breathedge-Switch/)
 - Darkest Dungeon: Collector's Edition [(www)](https://www.darkestdungeon.com/) [(Switch)](https://www.nintendo.com/games/detail/darkest-dungeon-Switch/)
