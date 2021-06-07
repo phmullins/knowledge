@@ -57,6 +57,7 @@ for quite some time.
 
 Games that I've either recently bought/downloaded from the Nintendo Switch Store or physical carts.
 
+- Cozy Grove [(Switch)](https://www.nintendo.com/games/detail/cozy-grove-Switch/) [(www)](https://www.qag.io/cozy-grove.html)
 - Yoku's Island Express [(Switch)](https://www.nintendo.com/games/detail/yokus-island-express-Switch/) (Digital)
 - Toby: The Secret Mine [(Switch)](https://www.nintendo.com/games/detail/toby-the-secret-mine-Switch/) (Digital)
 - Unravel Two [(Switch)](https://www.nintendo.com/games/detail/unravel-two-Switch/) (Digital)
@@ -81,7 +82,6 @@ Games that I've either recently bought/downloaded from the Nintendo Switch Store
 ### Nintendo Switch - Most Wanted Games
 
 - Diablo II: Resurrected [(Switch)](https://www.nintendo.com/games/detail/diablo-ii-resurrected-Switch/)
-- Cozy Grove [(Switch)](https://www.nintendo.com/games/detail/cozy-grove-Switch/) [(www)](https://www.qag.io/cozy-grove.html)
 - Curse of the Dead Gods [(Switch)](https://www.nintendo.com/games/detail/curse-of-the-dead-gods-Switch/)
 - Breathedge [(Switch)](https://www.nintendo.com/games/detail/breathedge-Switch/)
 - Darkest Dungeon: Collector's Edition [(www)](https://www.darkestdungeon.com/) [(Switch)](https://www.nintendo.com/games/detail/darkest-dungeon-Switch/)
@@ -262,6 +262,7 @@ Games that I've either recently bought/downloaded from the Nintendo Switch Store
 - Borderlands: The Handsome Collection [(Switch)](https://www.nintendo.com/games/detail/borderlands-the-handsome-collection-Switch/) (Digital)
 - Burnout: Paradise (Remastered) [(Switch)](https://www.nintendo.com/games/detail/burnout-paradise-remastered-Switch/) (Digital)
 - Cat Quest [(Switch)](https://www.nintendo.com/games/detail/cat-quest-Switch/) (Digital)
+- Cozy Grove [(Switch)](https://www.nintendo.com/games/detail/cozy-grove-Switch/) [(www)](https://www.qag.io/cozy-grove.html)
 - Dark Quest 2 [(Switch)](https://www.nintendo.com/games/detail/dark-quest-2-Switch/) (Digital) 
 - Darkest Dungeon [(www)](https://www.darkestdungeon.com) (Digital)
 - Diablo III: Eternal Collection [(www)](https://us.diablo3.com/en/Switch) (Cartridge)
