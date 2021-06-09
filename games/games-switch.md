@@ -196,7 +196,6 @@ Games that I've either recently bought/downloaded from the Nintendo Switch Store
 - Monster Slayers [(Switch)](https://www.nintendo.com/games/detail/monster-slayers-Switch)
 - Munchkin: Quacked Quest [(Switch)](https://www.nintendo.com/games/detail/munchkin-Switch/)
 - Mushroom Wars 2 [(www)](https://mushroomwars2.com) [(Switch)](https://www.nintendo.com/games/detail/mushroom-wars-2-Switch)
-- Mutant Football League: Dynasty Edition [(Switch)](https://www.nintendo.com/games/detail/mutant-football-league-dynasty-edition-Switch)
 - Northgard [(www)](http://northgard.net/)
 - Observer [(www)](https://www.blooberteam.com/observer_)
 - Oddmar [(Switch)](https://www.nintendo.com/games/detail/oddmar-Switch/)
