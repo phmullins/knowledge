@@ -49,20 +49,20 @@ for quite some time.
 - Rebel Galaxy: Outlaw [(www)](https://rebel-galaxy.com/)
 - Darkest Dungeon [(www)](https://www.darkestdungeon.com)
 - Subnautica: Below Zero [(switch)](https://www.nintendo.com/games/detail/subnautica-below-zero-switch/)
-- Curse of The Dead Gods [switch](https://www.nintendo.com/games/detail/curse-of-the-dead-gods-Switch/) [www](https://www.focus-home.com/en-us/games/curse-of-the-dead-gods)
-- Cozy Grove [(switch)](https://www.nintendo.com/games/detail/cozy-grove-switch/) [(www)](https://www.qag.io/cozy-grove.html)
+- Curse of The Dead Gods [switch](https://www.nintendo.com/games/detail/curse-of-the-dead-gods-Switch/), [www](https://www.focus-home.com/en-us/games/curse-of-the-dead-gods)
+- Cozy Grove [(switch)](https://www.nintendo.com/games/detail/cozy-grove-switch/), [(www)](https://www.qag.io/cozy-grove.html)
 - Cat Quest [(switch)](https://www.nintendo.com/games/detail/cat-quest-switch/)
 
 ### Nintendo Switch - Recently Added to Collection
 
 Games that I've either recently bought/downloaded from the Nintendo Switch Store or physical carts.
 
-- Minecraft Dungeons [switch](https://www.nintendo.com/games/detail/minecraft-dungeons-switch/) [www](https://www.minecraft.net/en-us/about-dungeons)
-- Curse of The Dead Gods [switch](https://www.nintendo.com/games/detail/curse-of-the-dead-gods-Switch/) [www](https://www.focus-home.com/en-us/games/curse-of-the-dead-gods)
-- Moonlighter [switch](https://www.nintendo.com/games/detail/moonlighter-switch) [www](https://moonlighterthegame.com/)
-- Beautiful Desolation [switch](https://www.nintendo.com/games/detail/beautiful-desolation-switch/) [www](https://ut-bdgame.com/)
-- Cozy Grove [(switch)](https://www.nintendo.com/games/detail/cozy-grove-switch/) [(www)](https://www.qag.io/cozy-grove.html)
-- Feudal Alloy [(www)](http://feudalalloy.com/#) [(switch)](https://www.nintendo.com/games/detail/feudal-alloy-switch) (Digital)
+- Minecraft Dungeons [(switch)](https://www.nintendo.com/games/detail/minecraft-dungeons-switch/), [(www)](https://www.minecraft.net/en-us/about-dungeons)
+- Curse of The Dead Gods [(switch)](https://www.nintendo.com/games/detail/curse-of-the-dead-gods-Switch/), [(www)](https://www.focus-home.com/en-us/games/curse-of-the-dead-gods)
+- Moonlighter [(switch)](https://www.nintendo.com/games/detail/moonlighter-switch), [(www)](https://moonlighterthegame.com/)
+- Beautiful Desolation [(switch)](https://www.nintendo.com/games/detail/beautiful-desolation-switch/), [(www)](https://ut-bdgame.com/)
+- Cozy Grove [(switch)](https://www.nintendo.com/games/detail/cozy-grove-switch/), [(www)](https://www.qag.io/cozy-grove.html)
+- Feudal Alloy [(www)](http://feudalalloy.com/#), [(switch)](https://www.nintendo.com/games/detail/feudal-alloy-switch) (Digital)
 - Animal Crossing: New Horizons [(switch)](https://www.nintendo.com/games/detail/animal-crossing-new-horizons-switch/) (Cartridge)
 - Borderlands: Legendary Edition [(switch)](https://www.nintendo.com/games/detail/borderlands-legendary-collection-switch/) (Cartridge)
 - Subnautica [(switch)](https://www.nintendo.com/games/detail/subnautica-switch/) (Cartridge)
@@ -76,7 +76,7 @@ Games that I've either recently bought/downloaded from the Nintendo Switch Store
 ### Nintendo Switch - Most Wanted Games
 
 - Diablo II: Resurrected [(switch)](https://www.nintendo.com/games/detail/diablo-ii-resurrected-switch/) [(www)](https://diablo2.blizzard.com/en-us/)
-- Overland [switch](https://www.nintendo.com/games/detail/overland-switch/) [www](https://overland-game.com/)
+- Overland [(switch)](https://www.nintendo.com/games/detail/overland-switch/) [(www)](https://overland-game.com/)
 - Breathedge [(switch)](https://www.nintendo.com/games/detail/breathedge-switch/) [(www)](https://hypetraindigital.com/breathedge/)
 - Darkest Dungeon: Collector's Edition [(switch)](https://www.nintendo.com/games/detail/darkest-dungeon-switch/) [(www)](https://www.darkestdungeon.com/)
 - Journey to the Savage Planet [(switch)](https://www.nintendo.com/games/detail/journey-to-the-savage-planet-switch/) [(www)](https://savageplanetgame.com/)
