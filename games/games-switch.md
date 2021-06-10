@@ -49,7 +49,7 @@ for quite some time.
 - Rebel Galaxy: Outlaw [(www)](https://rebel-galaxy.com/)
 - Darkest Dungeon [(www)](https://www.darkestdungeon.com)
 - Subnautica: Below Zero [(switch)](https://www.nintendo.com/games/detail/subnautica-below-zero-switch/)
-- Curse of The Dead Gods [switch](https://www.nintendo.com/games/detail/curse-of-the-dead-gods-Switch/), [www](https://www.focus-home.com/en-us/games/curse-of-the-dead-gods)
+- Curse of The Dead Gods [(switch)](https://www.nintendo.com/games/detail/curse-of-the-dead-gods-Switch/), [(www)](https://www.focus-home.com/en-us/games/curse-of-the-dead-gods)
 - Cozy Grove [(switch)](https://www.nintendo.com/games/detail/cozy-grove-switch/), [(www)](https://www.qag.io/cozy-grove.html)
 - Cat Quest [(switch)](https://www.nintendo.com/games/detail/cat-quest-switch/)
 
