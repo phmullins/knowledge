@@ -57,6 +57,7 @@ for quite some time.
 
 Games that I've either recently bought/downloaded from the Nintendo Switch Store or physical carts.
 
+- Game Builder Garage [(switch)](https://www.nintendo.com/games/detail/game-builder-garage-switch/)
 - Minecraft Dungeons [(switch)](https://www.nintendo.com/games/detail/minecraft-dungeons-switch/), [(www)](https://www.minecraft.net/en-us/about-dungeons)
 - Curse of The Dead Gods [(switch)](https://www.nintendo.com/games/detail/curse-of-the-dead-gods-Switch/), [(www)](https://www.focus-home.com/en-us/games/curse-of-the-dead-gods)
 - Moonlighter [(switch)](https://www.nintendo.com/games/detail/moonlighter-switch), [(www)](https://moonlighterthegame.com/)
@@ -73,6 +74,14 @@ Games that I've either recently bought/downloaded from the Nintendo Switch Store
 - Chess Minimal [(switch)](https://www.nintendo.com/games/detail/chess-minimal-switch/) (Digital)
 - Chess Royal [(switch)](https://www.nintendo.com/games/detail/chess-royal-switch/) (Digital)
 
+### Nintendo Switch - Wanted on Cartridge
+
+- The Legend of Zelda: Breath of the Wild [(switch)](https://www.nintendo.com/games/detail/the-legend-of-zelda-breath-of-the-wild-switch) [(www)](https://www.zelda.com/breath-of-the-wild/)
+- The Legend of Zelda: Link’s Awakening [(switch)](https://www.nintendo.com/games/detail/the-legend-of-zelda-links-awakening-switch/) [(www)](https://www.zelda.com/links-awakening/)
+- Luigi’s Mansion 3 [(switch)](https://www.nintendo.com/games/detail/luigis-mansion-3-switch/) [(www)](https://luigismansion.nintendo.com/)
+- Pokemon: Let's Go, Eevee! [(switch)](https://www.nintendo.com/games/detail/pokemon-lets-go-eevee-switch) [(www)](https://pokemonletsgo.pokemon.com/en-us/)
+- Pokémon Mystery Dungeon: Rescue Team DX [(switch)](https://www.nintendo.com/games/detail/pokemon-mystery-dungeon-rescue-team-dx-switch/) [(www)](https://mysterydungeon.pokemon.com/en-us/)
+
 ### Nintendo Switch - Most Wanted Games
 
 - Diablo II: Resurrected [(switch)](https://www.nintendo.com/games/detail/diablo-ii-resurrected-switch/) [(www)](https://diablo2.blizzard.com/en-us/)
@@ -85,7 +94,6 @@ Games that I've either recently bought/downloaded from the Nintendo Switch Store
 - Luigi’s Mansion 3 [(switch)](https://www.nintendo.com/games/detail/luigis-mansion-3-switch/) [(www)](https://luigismansion.nintendo.com/)
 - Pokemon: Let's Go, Eevee! [(switch)](https://www.nintendo.com/games/detail/pokemon-lets-go-eevee-switch) [(www)](https://pokemonletsgo.pokemon.com/en-us/)
 - Pokémon Mystery Dungeon: Rescue Team DX [(switch)](https://www.nintendo.com/games/detail/pokemon-mystery-dungeon-rescue-team-dx-switch/) [(www)](https://mysterydungeon.pokemon.com/en-us/)
-- Game Builder Garage [(switch)](https://www.nintendo.com/games/detail/game-builder-garage-switch/)
 - Pillars of Eternity II: Deadfire [(www)](https://eternity.obsidian.net/)
 - In Other Waters [(switch)](https://www.nintendo.com/games/detail/in-other-waters-switch/) [(www)](https://jumpovertheage.com/)
 - Achtung! Cthulhu Tactics [(switch)](https://www.nintendo.com/games/detail/achtung-cthulhu-tactics-switch/)
@@ -244,6 +252,7 @@ Games that I've either recently bought/downloaded from the Nintendo Switch Store
 - Dungeon Rushers [(www)](http://dungeon-rushers.com/en/index-en/) [(switch)](https://www.nintendo.com/games/detail/dungeon-rushers-switch) (Digital)
 - F-117A Stealth Fighter [(switch)](https://www.nintendo.com/games/detail/f-117a-stealth-fighter-switch/) (Digital)
 - Feudal Alloy [(www)](http://feudalalloy.com/#) [(switch)](https://www.nintendo.com/games/detail/feudal-alloy-switch) (Digital)
+- Game Builder Garage [(switch)](https://www.nintendo.com/games/detail/game-builder-garage-switch/)
 - Goat Simulator: The GOATY [(switch)](https://www.nintendo.com/games/detail/goat-simulator-the-goaty-switch)
 - Gods: Remastered [(switch)](https://www.nintendo.com/games/detail/gods-remastered-switch/) (Digital)
 - Mario + Rabbids Kingdom Battle [(switch)](https://www.nintendo.com/games/detail/mario-plus-rabbids-kingdom-battle-switch/) (Cartridge)
