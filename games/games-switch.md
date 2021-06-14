@@ -57,6 +57,7 @@ for quite some time.
 
 Games that I've either recently bought/downloaded from the Nintendo Switch Store or physical carts.
 
+- The Legend of Zelda: Breath of the Wild [(switch)](https://www.nintendo.com/games/detail/the-legend-of-zelda-breath-of-the-wild-switch) [(www)](https://www.zelda.com/breath-of-the-wild/) (Cartridge)
 - Game Builder Garage [(switch)](https://www.nintendo.com/games/detail/game-builder-garage-switch/) (Digital)
 - Minecraft Dungeons [(switch)](https://www.nintendo.com/games/detail/minecraft-dungeons-switch/), [(www)](https://www.minecraft.net/en-us/about-dungeons) (Digital)
 - Curse of The Dead Gods [(switch)](https://www.nintendo.com/games/detail/curse-of-the-dead-gods-Switch/), [(www)](https://www.focus-home.com/en-us/games/curse-of-the-dead-gods) (Digital)
@@ -69,18 +70,13 @@ Games that I've either recently bought/downloaded from the Nintendo Switch Store
 - Subnautica [(switch)](https://www.nintendo.com/games/detail/subnautica-switch/) (Cartridge)
 - Subnautica: Below Zero [(switch)](https://www.nintendo.com/games/detail/subnautica-below-zero-switch/) (Cartridge)
 - Rebel Galaxy: Outlaw [(www)](https://rebel-galaxy.com/) (Digital)
-- F-117A Stealth Fighter [(switch)](https://www.nintendo.com/games/detail/f-117a-stealth-fighter-switch/) (Digital)
-- Among Us [(switch)](https://www.nintendo.com/games/detail/among-us-switch/) (Digital)
-- Chess Minimal [(switch)](https://www.nintendo.com/games/detail/chess-minimal-switch/) (Digital)
-- Chess Royal [(switch)](https://www.nintendo.com/games/detail/chess-royal-switch/) (Digital)
 
 ### Nintendo Switch - Wanted on Cartridge
 
-- The Legend of Zelda: Breath of the Wild [(switch)](https://www.nintendo.com/games/detail/the-legend-of-zelda-breath-of-the-wild-switch) [(www)](https://www.zelda.com/breath-of-the-wild/)
-- The Legend of Zelda: Link’s Awakening [(switch)](https://www.nintendo.com/games/detail/the-legend-of-zelda-links-awakening-switch/) [(www)](https://www.zelda.com/links-awakening/)
-- Luigi’s Mansion 3 [(switch)](https://www.nintendo.com/games/detail/luigis-mansion-3-switch/) [(www)](https://luigismansion.nintendo.com/)
-- Pokemon: Let's Go, Eevee! [(switch)](https://www.nintendo.com/games/detail/pokemon-lets-go-eevee-switch) [(www)](https://pokemonletsgo.pokemon.com/en-us/)
-- Pokémon Mystery Dungeon: Rescue Team DX [(switch)](https://www.nintendo.com/games/detail/pokemon-mystery-dungeon-rescue-team-dx-switch/) [(www)](https://mysterydungeon.pokemon.com/en-us/)
+- The Legend of Zelda: Link’s Awakening [(switch)](https://www.nintendo.com/games/detail/the-legend-of-zelda-links-awakening-switch/) [(www)](https://www.zelda.com/links-awakening/) (Cartridge)
+- Luigi’s Mansion 3 [(switch)](https://www.nintendo.com/games/detail/luigis-mansion-3-switch/) [(www)](https://luigismansion.nintendo.com/) (Cartridge)
+- Pokemon: Let's Go, Eevee! [(switch)](https://www.nintendo.com/games/detail/pokemon-lets-go-eevee-switch) [(www)](https://pokemonletsgo.pokemon.com/en-us/) (Cartridge)
+- Pokémon Mystery Dungeon: Rescue Team DX [(switch)](https://www.nintendo.com/games/detail/pokemon-mystery-dungeon-rescue-team-dx-switch/) [(www)](https://mysterydungeon.pokemon.com/en-us/) (Cartridge)
 
 ### Nintendo Switch - Most Wanted Games
 
@@ -267,6 +263,7 @@ Games that I've either recently bought/downloaded from the Nintendo Switch Store
 - The Elder Scrolls V: Skyrim [(www)](https://elderscrolls.bethesda.net/en/skyrim) (Cartridge)
 - The Flame In The Flood [(switch)](https://www.nintendo.com/games/detail/the-flame-in-the-flood-complete-edition-switch) (Digital)
 - The Keep [(switch)](https://www.nintendo.com/games/detail/the-keep-switch/) (Digital)
+- The Legend of Zelda: Breath of the Wild [(switch)](https://www.nintendo.com/games/detail/the-legend-of-zelda-breath-of-the-wild-switch) [(www)](https://www.zelda.com/breath-of-the-wild/) (Cartridge)
 - Toby: The Secret Mine [(switch)](https://www.nintendo.com/games/detail/toby-the-secret-mine-switch/) (Digital)
 - Torchlight II [(switch)](https://www.nintendo.com/games/detail/torchlight-2-switch/) (Digital)
 - Transistor [(switch)](https://www.nintendo.com/games/detail/transistor-switch) (Digital)
