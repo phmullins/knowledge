@@ -57,7 +57,9 @@ for quite some time.
 
 Games that I've either recently bought/downloaded from the Nintendo Switch Store or physical carts.
 
+- Knights of Pen & Paper 2: Deluxiest Edition [(switch)](https://www.nintendo.com/games/detail/knights-of-pen-and-paper-2-deluxiest-edition-switch/) (Digital)
 - The Legend of Zelda: Breath of the Wild [(switch)](https://www.nintendo.com/games/detail/the-legend-of-zelda-breath-of-the-wild-switch) [(www)](https://www.zelda.com/breath-of-the-wild/) (Cartridge)
+- Torchlight III [(switch)](https://www.nintendo.com/games/detail/torchlight-iii-switch/) [(www)](https://www.arcgames.com/en/games/Torchlight_3)
 - Game Builder Garage [(switch)](https://www.nintendo.com/games/detail/game-builder-garage-switch/) (Digital)
 - Minecraft Dungeons [(switch)](https://www.nintendo.com/games/detail/minecraft-dungeons-switch/), [(www)](https://www.minecraft.net/en-us/about-dungeons) (Digital)
 - Curse of The Dead Gods [(switch)](https://www.nintendo.com/games/detail/curse-of-the-dead-gods-Switch/), [(www)](https://www.focus-home.com/en-us/games/curse-of-the-dead-gods) (Digital)
@@ -73,7 +75,6 @@ Games that I've either recently bought/downloaded from the Nintendo Switch Store
 
 ### Nintendo Switch - Wanted on Cartridge
 
-- The Legend of Zelda: Link’s Awakening [(switch)](https://www.nintendo.com/games/detail/the-legend-of-zelda-links-awakening-switch/) [(www)](https://www.zelda.com/links-awakening/) (Cartridge)
 - Luigi’s Mansion 3 [(switch)](https://www.nintendo.com/games/detail/luigis-mansion-3-switch/) [(www)](https://luigismansion.nintendo.com/) (Cartridge)
 - Pokemon: Let's Go, Eevee! [(switch)](https://www.nintendo.com/games/detail/pokemon-lets-go-eevee-switch) [(www)](https://pokemonletsgo.pokemon.com/en-us/) (Cartridge)
 - Pokémon Mystery Dungeon: Rescue Team DX [(switch)](https://www.nintendo.com/games/detail/pokemon-mystery-dungeon-rescue-team-dx-switch/) [(www)](https://mysterydungeon.pokemon.com/en-us/) (Cartridge)
@@ -81,11 +82,12 @@ Games that I've either recently bought/downloaded from the Nintendo Switch Store
 ### Nintendo Switch - Most Wanted Games
 
 - Diablo II: Resurrected [(switch)](https://www.nintendo.com/games/detail/diablo-ii-resurrected-switch/) [(www)](https://diablo2.blizzard.com/en-us/)
+- Endless Dungeon
+- Paper Mario: The Origami King [(switch)](https://www.nintendo.com/games/detail/paper-mario-the-origami-king-switch/) [(www)](https://papermario.nintendo.com/)
 - Overland [(switch)](https://www.nintendo.com/games/detail/overland-switch/) [(www)](https://overland-game.com/)
 - Breathedge [(switch)](https://www.nintendo.com/games/detail/breathedge-switch/) [(www)](https://hypetraindigital.com/breathedge/)
 - Darkest Dungeon: Collector's Edition [(switch)](https://www.nintendo.com/games/detail/darkest-dungeon-switch/) [(www)](https://www.darkestdungeon.com/)
 - Journey to the Savage Planet [(switch)](https://www.nintendo.com/games/detail/journey-to-the-savage-planet-switch/) [(www)](https://savageplanetgame.com/)
-- The Legend of Zelda: Breath of the Wild [(switch)](https://www.nintendo.com/games/detail/the-legend-of-zelda-breath-of-the-wild-switch) [(www)](https://www.zelda.com/breath-of-the-wild/)
 - The Legend of Zelda: Link’s Awakening [(switch)](https://www.nintendo.com/games/detail/the-legend-of-zelda-links-awakening-switch/) [(www)](https://www.zelda.com/links-awakening/)
 - Luigi’s Mansion 3 [(switch)](https://www.nintendo.com/games/detail/luigis-mansion-3-switch/) [(www)](https://luigismansion.nintendo.com/)
 - Pokemon: Let's Go, Eevee! [(switch)](https://www.nintendo.com/games/detail/pokemon-lets-go-eevee-switch) [(www)](https://pokemonletsgo.pokemon.com/en-us/)
@@ -95,7 +97,6 @@ Games that I've either recently bought/downloaded from the Nintendo Switch Store
 - Achtung! Cthulhu Tactics [(switch)](https://www.nintendo.com/games/detail/achtung-cthulhu-tactics-switch/)
 - Mutant Year Zero: Road to Eden Deluxe [(switch)](https://www.nintendo.com/games/detail/mutant-year-zero-road-to-eden-deluxe-edition-switch/) [(www)](https://www.mutantyearzero.com/#1)
 - The Long Dark [(switch)](https://www.nintendo.com/games/detail/the-long-dark-switch/) [(www)](https://www.thelongdark.com/switch/)
-- Torchlight 3 [(switch)](https://www.nintendo.com/games/detail/torchlight-iii-switch/) [(www)](https://www.arcgames.com/en/games/Torchlight_3)
 - The Outer Worlds [(switch)](https://www.nintendo.com/games/detail/the-outer-worlds-switch/) [(www)](https://outerworlds.obsidian.net/en/enter)
 - Pathway [(switch)](https://www.nintendo.com/games/detail/pathway-switch/) [(www)](http://pathway-game.com/?ref=Games&title=Pathway)
 - Ruined King - [(switch)](https://www.nintendo.com/games/detail/ruined-king-a-league-of-legends-story-switch/) [(www)](https://ruinedking.com/)
@@ -251,6 +252,7 @@ Games that I've either recently bought/downloaded from the Nintendo Switch Store
 - Game Builder Garage [(switch)](https://www.nintendo.com/games/detail/game-builder-garage-switch/) (Digital)
 - Goat Simulator: The GOATY [(switch)](https://www.nintendo.com/games/detail/goat-simulator-the-goaty-switch) (Digital)
 - Gods: Remastered [(switch)](https://www.nintendo.com/games/detail/gods-remastered-switch/) (Digital)
+- Knights of Pen & Paper 2: Deluxiest Edition [(switch)](https://www.nintendo.com/games/detail/knights-of-pen-and-paper-2-deluxiest-edition-switch/) (Digital)
 - Mario + Rabbids Kingdom Battle [(switch)](https://www.nintendo.com/games/detail/mario-plus-rabbids-kingdom-battle-switch/) (Cartridge)
 - Minecraft Dungeons [switch](https://www.nintendo.com/games/detail/minecraft-dungeons-switch/) [www](https://www.minecraft.net/en-us/about-dungeons) (Digital)
 - Moonlighter [switch](https://www.nintendo.com/games/detail/moonlighter-switch) [www](https://moonlighterthegame.com/) (Digital)
@@ -266,6 +268,7 @@ Games that I've either recently bought/downloaded from the Nintendo Switch Store
 - The Legend of Zelda: Breath of the Wild [(switch)](https://www.nintendo.com/games/detail/the-legend-of-zelda-breath-of-the-wild-switch) [(www)](https://www.zelda.com/breath-of-the-wild/) (Cartridge)
 - Toby: The Secret Mine [(switch)](https://www.nintendo.com/games/detail/toby-the-secret-mine-switch/) (Digital)
 - Torchlight II [(switch)](https://www.nintendo.com/games/detail/torchlight-2-switch/) (Digital)
+- Torchlight III [(switch)](https://www.nintendo.com/games/detail/torchlight-iii-switch/) [(www)](https://www.arcgames.com/en/games/Torchlight_3)
 - Transistor [(switch)](https://www.nintendo.com/games/detail/transistor-switch) (Digital)
 - Uno [(switch)](https://www.nintendo.com/games/detail/uno-for-nintendo-switch-switch/) (Digital)
 - Unravel Two [(switch)](https://www.nintendo.com/games/detail/unravel-two-switch/) (Digital)
