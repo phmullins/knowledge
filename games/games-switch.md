@@ -76,6 +76,7 @@ Games that I've either recently bought/downloaded from the Nintendo Switch Store
 - Subnautica [(switch)](https://www.nintendo.com/games/detail/subnautica-switch/) (Cartridge)
 - Subnautica: Below Zero [(switch)](https://www.nintendo.com/games/detail/subnautica-below-zero-switch/) (Cartridge)
 - Rebel Galaxy: Outlaw [(www)](https://rebel-galaxy.com/) (Digital)
+- Bastion [(www)](https://www.supergiantgames.com/games/bastion/) [(switch)](https://www.nintendo.com/games/detail/bastion-switch)
 
 ### Nintendo Switch - Wanted on Cartridge
 
@@ -85,6 +86,7 @@ Games that I've either recently bought/downloaded from the Nintendo Switch Store
 
 ### Nintendo Switch - Most Wanted Games
 
+- Bear and Breakfast [(switch)](https://www.nintendo.com/games/detail/bear-and-breakfast-switch/)
 - Diablo II: Resurrected [(switch)](https://www.nintendo.com/games/detail/diablo-ii-resurrected-switch/) [(www)](https://diablo2.blizzard.com/en-us/)
 - Endless Dungeon
 - Paper Mario: The Origami King [(switch)](https://www.nintendo.com/games/detail/paper-mario-the-origami-king-switch/) [(www)](https://papermario.nintendo.com/)
@@ -127,30 +129,19 @@ Games that I've either recently bought/downloaded from the Nintendo Switch Store
 - Ashen [(switch)](https://www.nintendo.com/games/detail/ashen-switch/)
 - Atom RPG [(www)](https://atomrpg.com/) [(switch)](https://www.nintendo.com/games/detail/atom-rpg-switch/)
 - Bad North [(www)](https://www.badnorth.com) [(switch)](https://www.nintendo.com/games/detail/bad-north-switch)
-- Bastion [(www)](https://www.supergiantgames.com/games/bastion/) [(switch)](https://www.nintendo.com/games/detail/bastion-switch)
 - Battleship [(switch)](https://www.nintendo.com/games/detail/battleship-switch/)
-- Bear and Breakfast [(switch)](https://www.nintendo.com/games/detail/bear-and-breakfast-switch/)
-- BioShock 2 Remastered [(switch)](https://www.nintendo.com/games/detail/bioshock-2-remastered-switch/)
-- BioShock: The Collection [(switch)](https://www.nintendo.com/games/detail/bioshock-the-collection-switch/)
 - Black The Fall [(switch)](https://www.nintendo.com/games/detail/black-the-fall-switch/) (Digital)
 - Blazing Beaks [(switch)](https://www.nintendo.com/games/detail/blazing-beaks-switch/)
 - Bridge Constructor Portal [(switch)](https://www.nintendo.com/games/detail/bridge-constructor-portal-switch)
 - Brunswick Pro Billiards [(switch)](https://www.nintendo.com/games/detail/brunswick-pro-billiards-switch/) [(www)](http://brunswickprobilliards.com/)
-- Captain Toad: Treasure Tracker [(switch)](https://www.nintendo.com/games/detail/captain-toad-treasure-tracker-switch)
-- Carrion [(www)](https://devolverdigital.com/games/carrion)
-- Children of Morta [(switch)](https://www.nintendo.com/games/detail/children-of-morta-switch/)
-- Chronos: Before the Ashes [(www)](https://www.thqnordic.com/games/chronos-ashes) [(switch](https://www.nintendo.com/games/detail/chronos-before-the-ashes-switch/)
+- Carrion [(switch)](https://www.nintendo.com/games/detail/carrion-switch/) [(www)](https://devolverdigital.com/games/carrion)
 - Cloudpunk [(switch)](https://www.nintendo.com/games/detail/cloudpunk-switch/)
 - Creature in the Well [(switch)](https://www.nintendo.com/games/detail/creature-in-the-well-switch) [(www)](http://creatureinthewell.com)
 - Crimson Keep [(www)](https://www.mergegames.com/crimson-keep)
 - Cthulhu Saves Christmas [(switch)](https://www.nintendo.com/games/detail/cthulhu-saves-christmas-switch/)
 - Darksiders Genesis [(switch)](https://www.nintendo.com/games/detail/darksiders-genesis-switch/)
-- Dawn of Survivors [(switch)](https://www.nintendo.com/games/detail/dawn-of-survivors-switch/)
-- Dead in Vinland - True Viking Edition [(switch)](https://www.nintendo.com/games/detail/dead-in-vinland-true-viking-edition-switch/)
 - Degrees of Separation [(switch)](https://www.nintendo.com/games/detail/degrees-of-separation-switch)
-- Distrust [(switch)](https://www.nintendo.com/games/detail/distrust-switch/)
 - Donkey Kong Country: Tropical Freeze
-- Doodle God: Evolution [(switch)](https://www.nintendo.com/games/detail/doodle-god-evolution-switch)
 - Doom 64 [(switch)](https://www.nintendo.com/games/detail/doom-64-switch/)
 - Dungeon Defenders: Awakened [(switch)](https://www.nintendo.com/games/detail/dungeon-defenders-awakened-switch/)
 - Dungeon of the Endless [(switch)](https://www.nintendo.com/games/detail/dungeon-of-the-endless-switch/)
@@ -233,6 +224,7 @@ Games that I've either recently bought/downloaded from the Nintendo Switch Store
 - Agent A: A Puzzle in Disguise [(switch)](https://www.nintendo.com/games/detail/agent-a-a-puzzle-in-disguise-switch/) (Digital)
 - Among Us [(switch)](https://www.nintendo.com/games/detail/among-us-switch/) (Digital)
 - Asphalt 9: Legends [(switch)](https://www.nintendo.com/games/detail/asphalt-9-legends-switch/) (Digital)
+- Bastion [(www)](https://www.supergiantgames.com/games/bastion/) [(switch)](https://www.nintendo.com/games/detail/bastion-switch)
 - Battle Chasers: Nightwar [(www)](https://www.battlechasers.com) (Cartridge)
 - Beach Buggy Racing [(switch)](https://www.nintendo.com/games/detail/beach-buggy-racing-switch/) (Digital)
 - Beautiful Desolation [switch](https://www.nintendo.com/games/detail/beautiful-desolation-switch/) [www](https://ut-bdgame.com/) (Digital)
