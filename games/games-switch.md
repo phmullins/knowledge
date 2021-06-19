@@ -45,37 +45,37 @@ for quite some time.
 - [Diablo III: The Eternal Collection](https://us.diablo3.com/en/switch)
 - [Animal Crossing: New Horizons](https://www.nintendo.com/games/detail/animal-crossing-new-horizons-switch/)
 - [Borderlands: The Handsome Collection](https://www.nintendo.com/games/detail/borderlands-the-handsome-collection-switch/)
+- [Cozy Grove](https://www.nintendo.com/games/detail/cozy-grove-switch/)
 - [The Elder Scrolls V: Skyrim](https://elderscrolls.bethesda.net/en/skyrim)
 - [Rebel Galaxy: Outlaw](https://rebel-galaxy.com/)
 - [Darkest Dungeon](https://www.darkestdungeon.com)
 - [Subnautica: Below Zero](https://www.nintendo.com/games/detail/subnautica-below-zero-switch/)
 - [Curse of The Dead Gods](https://www.nintendo.com/games/detail/curse-of-the-dead-gods-Switch/)
-- [Cozy Grove](https://www.nintendo.com/games/detail/cozy-grove-switch/)
 - [Cat Quest](https://www.nintendo.com/games/detail/cat-quest-switch/)
 
 ### Nintendo Switch - Recently Added to Collection
 
-Games that I've either recently bought/downloaded from the Nintendo Switch Store or physical carts.
+Games that I've either recently bought/downloaded from the Nintendo Switch Store or physical carts. Legend: Digital = (D). Cartridge = (C).
 
-- [1971 Project Helios](https://www.nintendo.com/games/detail/1971-project-helios-switch/)
-- [Achtung! Cthulhu Tactics](https://www.nintendo.com/games/detail/achtung-cthulhu-tactics-switch/)
-- [Animal Crossing: New Horizons](https://www.nintendo.com/games/detail/animal-crossing-new-horizons-switch/) (Cartridge)
-- [Beautiful Desolation](https://www.nintendo.com/games/detail/beautiful-desolation-switch/) (Digital)
-- [Breathedge](https://www.nintendo.com/games/detail/breathedge-switch/) 
-- [Cozy Grove](https://www.nintendo.com/games/detail/cozy-grove-switch/) (Digital)
-- [Curse of The Dead Gods](https://www.nintendo.com/games/detail/curse-of-the-dead-gods-Switch/) (Digital)
-- [Darksiders Genesis](https://www.nintendo.com/games/detail/darksiders-genesis-switch/)
-- [Hades](https://www.nintendo.com/games/detail/hades-switch/) 
-- [In Other Waters](https://www.nintendo.com/games/detail/in-other-waters-switch/) 
-- [Journey to the Savage Planet](https://www.nintendo.com/games/detail/journey-to-the-savage-planet-switch/) (Digital)
-- [Knights of Pen & Paper 2: Deluxiest Edition](https://www.nintendo.com/games/detail/knights-of-pen-and-paper-2-deluxiest-edition-switch/) (Digital)
-- [Minecraft Dungeons](https://www.nintendo.com/games/detail/minecraft-dungeons-switch/) (Digital)
-- [Moonlighter](https://www.nintendo.com/games/detail/moonlighter-switch) (Digital)
-- [Rebel Galaxy: Outlaw](https://rebel-galaxy.com/) (Digital)
-- [Subnautica](https://www.nintendo.com/games/detail/subnautica-switch/) (Cartridge)
-- [Subnautica: Below Zero](https://www.nintendo.com/games/detail/subnautica-below-zero-switch/) (Cartridge)
-- [The Legend of Zelda: Breath of the Wild](https://www.nintendo.com/games/detail/the-legend-of-zelda-breath-of-the-wild-switch) (Cartridge)
-- [Torchlight III](https://www.nintendo.com/games/detail/torchlight-iii-switch/) 
+- [1971 Project Helios](https://www.nintendo.com/games/detail/1971-project-helios-switch/) (D)
+- [Achtung! Cthulhu Tactics](https://www.nintendo.com/games/detail/achtung-cthulhu-tactics-switch/) (D)
+- [Animal Crossing: New Horizons](https://www.nintendo.com/games/detail/animal-crossing-new-horizons-switch/) (C)
+- [Beautiful Desolation](https://www.nintendo.com/games/detail/beautiful-desolation-switch/)(D)
+- [Breathedge](https://www.nintendo.com/games/detail/breathedge-switch/) (D)
+- [Cozy Grove](https://www.nintendo.com/games/detail/cozy-grove-switch/) (D)
+- [Curse of The Dead Gods](https://www.nintendo.com/games/detail/curse-of-the-dead-gods-Switch/) (D)
+- [Darksiders Genesis](https://www.nintendo.com/games/detail/darksiders-genesis-switch/)(D)
+- [Hades](https://www.nintendo.com/games/detail/hades-switch/) (D) 
+- [In Other Waters](https://www.nintendo.com/games/detail/in-other-waters-switch/) (D)
+- [Journey to the Savage Planet](https://www.nintendo.com/games/detail/journey-to-the-savage-planet-switch/) (D)
+- [Knights of Pen & Paper 2: Deluxiest Edition](https://www.nintendo.com/games/detail/knights-of-pen-and-paper-2-deluxiest-edition-switch/) (D)
+- [Minecraft Dungeons](https://www.nintendo.com/games/detail/minecraft-dungeons-switch/) (D)
+- [Moonlighter](https://www.nintendo.com/games/detail/moonlighter-switch) (D)
+- [Rebel Galaxy: Outlaw](https://rebel-galaxy.com/) (D)
+- [Subnautica](https://www.nintendo.com/games/detail/subnautica-switch/) (C)
+- [Subnautica: Below Zero](https://www.nintendo.com/games/detail/subnautica-below-zero-switch/) (C)
+- [The Legend of Zelda: Breath of the Wild](https://www.nintendo.com/games/detail/the-legend-of-zelda-breath-of-the-wild-switch) (C)
+- [Torchlight III](https://www.nintendo.com/games/detail/torchlight-iii-switch/) (D)
 
 ### Nintendo Switch - Wanted on Cartridge
 
@@ -85,7 +85,7 @@ Games that I've either recently bought/downloaded from the Nintendo Switch Store
 
 ### Nintendo Switch - Most Wanted Games
 
-Legend: (P1) to (P3) = Priority ranked in order from most important (P1) to least important (P4)
+Legend: (P1) to (P3) = Priority ranked in order from most important (P1) to least important (P4).
 
 - [Bear and Breakfast](https://www.nintendo.com/games/detail/bear-and-breakfast-switch/) (P2)
 - [Carcassonne](https://www.nintendo.com/games/detail/carcassonne-switch) (P2) 
