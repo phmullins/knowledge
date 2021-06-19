@@ -55,7 +55,7 @@ for quite some time.
 
 ### Nintendo Switch - Recently Added to Collection
 
-Games that I've either recently bought/downloaded from the Nintendo Switch Store or physical carts. Legend: Digital = (D). Cartridge = (C).
+Games that I've recently bought digitally from the Nintendo Switch Store or physical carts. Legend: Digital = (D). Cartridge = (C).
 
 - [1971 Project Helios](https://www.nintendo.com/games/detail/1971-project-helios-switch/) (D)
 - [Achtung! Cthulhu Tactics](https://www.nintendo.com/games/detail/achtung-cthulhu-tactics-switch/) (D)
@@ -87,35 +87,35 @@ Games that I've either recently bought/downloaded from the Nintendo Switch Store
 
 Legend: (P1) to (P3) = Priority ranked in order from most important (P1) to least important (P4).
 
-- [Bear and Breakfast](https://www.nintendo.com/games/detail/bear-and-breakfast-switch/) (P2)
-- [Carcassonne](https://www.nintendo.com/games/detail/carcassonne-switch) (P2) 
-- [Cat Quest II](https://www.nintendo.com/games/detail/cat-quest-ii-switch/) (P2)
-- [Catan Universe](https://www.nintendo.com/games/detail/catan-switch/) (P2) 
-- [Darkest Dungeon: Collector's Edition](https://www.nintendo.com/games/detail/darkest-dungeon-switch/) (P1) 
-- [Deep Sky Derelicts: Definitive Edition](https://www.nintendo.com/games/detail/deep-sky-derelicts-definitive-edition-switch/) (P1)
 - [Diablo II: Resurrected](https://www.nintendo.com/games/detail/diablo-ii-resurrected-switch/) (P1) 
+- [The Outer Worlds](https://www.nintendo.com/games/detail/the-outer-worlds-switch/) (P1)
+- [Paper Mario: The Origami](https://www.nintendo.com/games/detail/paper-mario-the-origami-king-switch/) (P1) 
+- [LEGO Builder's Journey](https://www.nintendo.com/games/detail/lego-builders-journey-switch/) (P1)
+- [Mutant Year Zero: Road to Eden Deluxe](https://www.nintendo.com/games/detail/mutant-year-zero-road-to-eden-deluxe-edition-switch/) (P1) 
+- [Overland](https://www.nintendo.com/games/detail/overland-switch/) (P1) 
+- [Pathway](https://www.nintendo.com/games/detail/pathway-switch/) (P1) 
+- [Ruined King](https://www.nintendo.com/games/detail/ruined-king-a-league-of-legends-story-switch/) (P1) 
 - [Doom](https://www.nintendo.com/games/detail/doom-switch) (P1) 
 - [Doom Eternal](https://www.nintendo.com/games/detail/doom-eternal-switch/) (P1) 
-- [Endless Dungeon](https://endlessdungeon.game/) (P3)
-- [Invisible, Inc.](https://www.nintendo.com/games/detail/invisible-inc-nintendo-switch-edition-switch/) (P2)
-- [LEGO Builder's Journey](https://www.nintendo.com/games/detail/lego-builders-journey-switch/) (P1)
-- [Little Nightmares II](https://www.nintendo.com/games/detail/little-nightmares-ii-switch/) (P3)
-- [Munchkin: Quacked Quest](https://www.nintendo.com/games/detail/munchkin-switch/) (P2)
-- [Mutant Year Zero: Road to Eden Deluxe](https://www.nintendo.com/games/detail/mutant-year-zero-road-to-eden-deluxe-edition-switch/) (P1) 
-- [Ori and the Blind Forest](https://www.nintendo.com/games/detail/ori-and-the-blind-forest-definitive-edition-switch/) (P2)
-- [Ori and the Will of the Wisps](https://www.nintendo.com/games/detail/ori-and-the-will-of-the-wisps-switch/) (P2) 
-- [Overland](https://www.nintendo.com/games/detail/overland-switch/) (P1) 
-- [Paper Mario: The Origami](https://www.nintendo.com/games/detail/paper-mario-the-origami-king-switch/) (P1) 
-- [Pathway](https://www.nintendo.com/games/detail/pathway-switch/) (P1) 
-- [Pillars of Eternity II: Deadfire](https://eternity.obsidian.net/) (P3)
-- [Risk of Rain 2](https://www.nintendo.com/games/detail/risk-of-rain-2-switch/) (P3) 
-- [Ruined King](https://www.nintendo.com/games/detail/ruined-king-a-league-of-legends-story-switch/) (P1) 
-- [SnowRunner](https://www.nintendo.com/games/detail/snowrunner-switch/) (P3) 
-- [Superbrothers: Sword & Sworcery EP](https://www.nintendo.com/games/detail/superbrothers-sword-and-sworcery-ep-switch) (P3)
+- [Deep Sky Derelicts: Definitive Edition](https://www.nintendo.com/games/detail/deep-sky-derelicts-definitive-edition-switch/) (P1)
+- [Darkest Dungeon: Collector's Edition](https://www.nintendo.com/games/detail/darkest-dungeon-switch/) (P1) 
+- [Bear and Breakfast](https://www.nintendo.com/games/detail/bear-and-breakfast-switch/) (P2)
 - [The Legend of Zelda: Link’s Awakening](https://www.nintendo.com/games/detail/the-legend-of-zelda-links-awakening-switch/) (P2) 
 - [The Long Dark](https://www.nintendo.com/games/detail/the-long-dark-switch/) (P2) 
-- [The Outer Worlds](https://www.nintendo.com/games/detail/the-outer-worlds-switch/) (P1)
+- [Cat Quest II](https://www.nintendo.com/games/detail/cat-quest-ii-switch/) (P2)
+- [Munchkin: Quacked Quest](https://www.nintendo.com/games/detail/munchkin-switch/) (P2)
+- [Invisible, Inc.](https://www.nintendo.com/games/detail/invisible-inc-nintendo-switch-edition-switch/) (P2)
+- [Carcassonne](https://www.nintendo.com/games/detail/carcassonne-switch) (P2) 
+- [Catan Universe](https://www.nintendo.com/games/detail/catan-switch/) (P2) 
+- [Ori and the Blind Forest](https://www.nintendo.com/games/detail/ori-and-the-blind-forest-definitive-edition-switch/) (P2)
+- [Ori and the Will of the Wisps](https://www.nintendo.com/games/detail/ori-and-the-will-of-the-wisps-switch/) (P2) 
+- [Little Nightmares II](https://www.nintendo.com/games/detail/little-nightmares-ii-switch/) (P3)
+- [SnowRunner](https://www.nintendo.com/games/detail/snowrunner-switch/) (P3) 
 - [Yaga](https://www.nintendo.com/games/detail/yaga-switch/) (P3) 
+- [Superbrothers: Sword & Sworcery EP](https://www.nintendo.com/games/detail/superbrothers-sword-and-sworcery-ep-switch) (P3)
+- [Endless Dungeon](https://endlessdungeon.game/) (P3)
+- [Risk of Rain 2](https://www.nintendo.com/games/detail/risk-of-rain-2-switch/) (P3) 
+- [Pillars of Eternity II: Deadfire](https://eternity.obsidian.net/) (P3)
 
 ### Nintendo Switch - Games That I Want
 
