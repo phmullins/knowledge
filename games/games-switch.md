@@ -127,7 +127,6 @@ Legend: (P1) to (P3) = Priority ranked in order from most important (P1) to leas
 - [Bad North](https://www.nintendo.com/games/detail/bad-north-switch)
 - [Battleship](https://www.nintendo.com/games/detail/battleship-switch/)
 - [Black The Fall](https://www.nintendo.com/games/detail/black-the-fall-switch/) (Digital)
-- [Blazing Beaks](https://www.nintendo.com/games/detail/blazing-beaks-switch/)
 - [Bridge Constructor Portal](https://www.nintendo.com/games/detail/bridge-constructor-portal-switch)
 - [Brunswick Pro Billiards](https://www.nintendo.com/games/detail/brunswick-pro-billiards-switch/) 
 - [Carrion](https://www.nintendo.com/games/detail/carrion-switch/) 
