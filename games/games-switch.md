@@ -202,7 +202,7 @@ Legend: (P1) to (P3) = Priority ranked in order from most important (P1) to leas
 - [Diablo III: Eternal Collection](https://us.diablo3.com/en/switch) (C)
 - [Doom II](https://www.nintendo.com/games/detail/doom-2-classic-switch/) (D)
 - [Doom](https://www.nintendo.com/games/detail/doom-1993-switch/) (D)
-- [Doom Eternal](https://www.nintendo.com/games/detail/doom-eternal-switch/) (D)
+- [Doom Eternal](https://www.nintendo.com/games/detail/doom-eternal-switch/) (D) 
 - [Dungeon Rushers](https://www.nintendo.com/games/detail/dungeon-rushers-switch) (D)
 - [F-117A Stealth Fighter](https://www.nintendo.com/games/detail/f-117a-stealth-fighter-switch/) (D)
 - [Feudal Alloy](https://www.nintendo.com/games/detail/feudal-alloy-switch) (D)
