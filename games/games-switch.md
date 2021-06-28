@@ -91,7 +91,7 @@ Legend: (P1) to (P3) = Priority ranked in order from most important (P1) to leas
 
 - [Diablo II: Resurrected](https://www.nintendo.com/games/detail/diablo-ii-resurrected-switch/) (P1) 
 - [Paper Mario: The Origami](https://www.nintendo.com/games/detail/paper-mario-the-origami-king-switch/) (P1) 
-- [Mario Golf: Super Rush](https://www.nintendo.com/games/detail/mario-golf-super-rush-switch/) (P1)
+- [Mario Golf: Super Rush](https://www.nintendo.com/games/detail/mario-golf-super-rush-switch/) (P2)
 - [LEGO Builder's Journey](https://www.nintendo.com/games/detail/lego-builders-journey-switch/) (P1)
 - [Mutant Year Zero: Road to Eden Deluxe](https://www.nintendo.com/games/detail/mutant-year-zero-road-to-eden-deluxe-edition-switch/) (P1) 
 - [Overland](https://www.nintendo.com/games/detail/overland-switch/) (P1) 
