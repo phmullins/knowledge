@@ -57,6 +57,9 @@ for quite some time.
 
 Games that I've recently bought digitally from the Nintendo Switch Store or physical carts. Legend: Digital = (D). Cartridge = (C).
 
+- [Oceanhorn: Monster of Uncharted Seas](https://www.nintendo.com/games/detail/oceanhorn-monster-of-uncharted-seas-switch/) (D)
+- [Lumo](https://www.nintendo.com/games/detail/lumo-switch/) (D)
+- [Felix The Reaper](https://www.nintendo.com/games/detail/felix-the-reaper-switch/) (D)
 - [The Outer Worlds](https://www.nintendo.com/games/detail/the-outer-worlds-switch/) (D)
 - [Doom Eternal](https://www.nintendo.com/games/detail/doom-eternal-switch/) (D) 
 - [1971 Project Helios](https://www.nintendo.com/games/detail/1971-project-helios-switch/) (D)
