@@ -134,6 +134,7 @@ Legend: (P1) to (P3) = Priority ranked in order from most important (P1) to leas
 - [Bridge Constructor Portal](https://www.nintendo.com/games/detail/bridge-constructor-portal-switch)
 - [Brunswick Pro Billiards](https://www.nintendo.com/games/detail/brunswick-pro-billiards-switch/) 
 - [Carrion](https://www.nintendo.com/games/detail/carrion-switch/) 
+- [Car Mechanic Simulator](https://www.nintendo.com/games/detail/cms-switch/)
 - [Cloudpunk](https://www.nintendo.com/games/detail/cloudpunk-switch/)
 - [Cthulhu Saves Christmas](https://www.nintendo.com/games/detail/cthulhu-saves-christmas-switch/)
 - [Degrees of Separation](https://www.nintendo.com/games/detail/degrees-of-separation-switch)
