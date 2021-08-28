@@ -42,8 +42,8 @@ My top 10 all-time favorite Nintendo Switch games. Diablo III has been number on
 changing any time soon. Likewise, Borderlands: The Handsome Collection, and Rebel Galaxy: Outlaw will probably be high on this list 
 for quite some time.
 
-- [Diablo III: The Eternal Collection](https://us.diablo3.com/en/switch)
 - [Animal Crossing: New Horizons](https://www.nintendo.com/games/detail/animal-crossing-new-horizons-switch/)
+- [Diablo III: The Eternal Collection](https://us.diablo3.com/en/switch)
 - [Borderlands: The Handsome Collection](https://www.nintendo.com/games/detail/borderlands-the-handsome-collection-switch/)
 - [Cozy Grove](https://www.nintendo.com/games/detail/cozy-grove-switch/)
 - [The Elder Scrolls V: Skyrim](https://elderscrolls.bethesda.net/en/skyrim)
@@ -57,6 +57,9 @@ for quite some time.
 
 Games that I've recently bought digitally from the Nintendo Switch Store or physical carts. Legend: Digital = (D). Cartridge = (C).
 
+- [Wind Peaks](https://www.nintendo.com/games/detail/wind-peaks-switch/) (D)
+- [Black The Fall](https://www.nintendo.com/games/detail/black-the-fall-switch/) (D)
+- [The Legend of Zelda: Breath of the Wild](https://www.nintendo.com/games/detail/the-legend-of-zelda-breath-of-the-wild-switch/) (C)
 - [Oceanhorn: Monster of Uncharted Seas](https://www.nintendo.com/games/detail/oceanhorn-monster-of-uncharted-seas-switch/) (D)
 - [Lumo](https://www.nintendo.com/games/detail/lumo-switch/) (D)
 - [Felix The Reaper](https://www.nintendo.com/games/detail/felix-the-reaper-switch/) (D)
@@ -74,8 +77,10 @@ Games that I've recently bought digitally from the Nintendo Switch Store or phys
 - [In Other Waters](https://www.nintendo.com/games/detail/in-other-waters-switch/) (D)
 - [Journey to the Savage Planet](https://www.nintendo.com/games/detail/journey-to-the-savage-planet-switch/) (D)
 - [Knights of Pen & Paper 2: Deluxiest Edition](https://www.nintendo.com/games/detail/knights-of-pen-and-paper-2-deluxiest-edition-switch/) (D)
+- [Mario + Rabbids: Kingdom Battle](https://www.nintendo.com/games/detail/mario-plus-rabbids-kingdom-battle-switch/) (D)
 - [Minecraft Dungeons](https://www.nintendo.com/games/detail/minecraft-dungeons-switch/) (D)
 - [Moonlighter](https://www.nintendo.com/games/detail/moonlighter-switch) (D)
+- [Munchkin: Quacked Quest](https://www.nintendo.com/games/detail/munchkin-switch/) (D)
 - [Rebel Galaxy: Outlaw](https://rebel-galaxy.com/) (D)
 - [Subnautica](https://www.nintendo.com/games/detail/subnautica-switch/) (C)
 - [Subnautica: Below Zero](https://www.nintendo.com/games/detail/subnautica-below-zero-switch/) (C)
@@ -107,7 +112,6 @@ Legend: (P1) to (P3) = Priority ranked in order from most important (P1) to leas
 - [The Legend of Zelda: Link’s Awakening](https://www.nintendo.com/games/detail/the-legend-of-zelda-links-awakening-switch/) (P2) 
 - [The Long Dark](https://www.nintendo.com/games/detail/the-long-dark-switch/) (P2) 
 - [Cat Quest II](https://www.nintendo.com/games/detail/cat-quest-ii-switch/) (P2)
-- [Munchkin: Quacked Quest](https://www.nintendo.com/games/detail/munchkin-switch/) (P2)
 - [Invisible, Inc.](https://www.nintendo.com/games/detail/invisible-inc-nintendo-switch-edition-switch/) (P2)
 - [Carcassonne](https://www.nintendo.com/games/detail/carcassonne-switch) (P2) 
 - [Catan Universe](https://www.nintendo.com/games/detail/catan-switch/) (P2) 
@@ -130,7 +134,6 @@ Legend: (P1) to (P3) = Priority ranked in order from most important (P1) to leas
 - [Ashen](https://www.nintendo.com/games/detail/ashen-switch/)
 - [Bad North](https://www.nintendo.com/games/detail/bad-north-switch)
 - [Battleship](https://www.nintendo.com/games/detail/battleship-switch/)
-- [Black The Fall](https://www.nintendo.com/games/detail/black-the-fall-switch/) (D)
 - [Bridge Constructor Portal](https://www.nintendo.com/games/detail/bridge-constructor-portal-switch)
 - [Brunswick Pro Billiards](https://www.nintendo.com/games/detail/brunswick-pro-billiards-switch/) 
 - [Carrion](https://www.nintendo.com/games/detail/carrion-switch/) 
@@ -150,7 +153,6 @@ Legend: (P1) to (P3) = Priority ranked in order from most important (P1) to leas
 - [Lost Sea](https://www.nintendo.com/games/detail/lost-sea-switch/)
 - [Mahjong Deluxe 3](https://www.nintendo.com/games/detail/mahjong-deluxe-3-switch)
 - [Mario Golf: Super Rush](https://www.nintendo.com/games/detail/mario-golf-super-rush-switch/)
-- [Mario + Rabbids: Kingdom Battle](https://www.nintendo.com/games/detail/mario-plus-rabbids-kingdom-battle-switch/)
 - [Mario + Rabbids: Sparks Of Hope](https://www.nintendo.com/games/detail/mario-plus-rabbids-sparks-of-hope-switch/)
 - [Mars Horizon](https://www.nintendo.com/games/detail/mars-horizon-switch/)
 - [Marvel's Guardians of the Galaxy: Cloud Version](https://www.nintendo.com/games/detail/marvels-guardians-of-the-galaxy-cloud-version-switch/)
