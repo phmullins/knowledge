@@ -132,6 +132,11 @@ Legend: (P1) to (P3) = Priority ranked in order from most important (P1) to leas
 
 ### Nintendo Switch - Games That I Want
 
+- [Centipede: Recharged](https://www.nintendo.com/games/detail/centipede-recharged-switch/)
+- [Tails Of Iron](https://www.nintendo.com/games/detail/tails-of-iron-switch/) (D)
+- [TOEM](https://www.nintendo.com/games/detail/toem-switch/) (D)
+- [Project Winter](https://www.nintendo.com/games/detail/project-winter-switch/) (D)
+- [Titan Chaser](https://www.nintendo.com/games/detail/titan-chaser-switch/) (D)
 - [1001 Ultimate Mahjong 2](https://www.nintendo.com/games/detail/1001-ultimate-mahjong-2-switch/) (D)
 - [Alien Escape](https://www.nintendo.com/games/detail/alien-escape-switch/)
 - [Alien Isolation](https://www.nintendo.com/games/detail/alien-isolation-switch/)
