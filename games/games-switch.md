@@ -57,6 +57,7 @@ for quite some time.
 
 Games that I've recently bought digitally from the Nintendo Switch Store or physical carts. Legend: Digital = (D). Cartridge = (C).
 
+- [Dungeon of the Endless](https://www.nintendo.com/games/detail/dungeon-of-the-endless-switch/) (D)
 - [1971 Project Helios](https://www.nintendo.com/games/detail/1971-project-helios-switch/) (D)
 - [Achtung! Cthulhu Tactics](https://www.nintendo.com/games/detail/achtung-cthulhu-tactics-switch/) (D)
 - [Animal Crossing: New Horizons](https://www.nintendo.com/games/detail/animal-crossing-new-horizons-switch/) (C)
@@ -156,7 +157,6 @@ Legend: (P1) to (P3) = Priority ranked in order from most important (P1) to leas
 - [Cthulhu Saves Christmas](https://www.nintendo.com/games/detail/cthulhu-saves-christmas-switch/)
 - [Degrees of Separation](https://www.nintendo.com/games/detail/degrees-of-separation-switch)
 - [Doom 64](https://www.nintendo.com/games/detail/doom-64-switch/)
-- [Dungeon of the Endless](https://www.nintendo.com/games/detail/dungeon-of-the-endless-switch/)
 - [Everspace](https://www.nintendo.com/games/detail/everspace-stellar-edition-switch)
 - [Flood of Light](https://www.nintendo.com/games/detail/flood-of-light-switch/)
 - [Game Dev Tycoon](https://www.nintendo.com/games/detail/game-dev-tycoon-switch/)
@@ -227,6 +227,7 @@ Legend: (P1) to (P3) = Priority ranked in order from most important (P1) to leas
 - [Doom II](https://www.nintendo.com/games/detail/doom-2-classic-switch/) (D)
 - [Doom](https://www.nintendo.com/games/detail/doom-1993-switch/) (D)
 - [Doom Eternal](https://www.nintendo.com/games/detail/doom-eternal-switch/) (D) 
+- [Dungeon of the Endless](https://www.nintendo.com/games/detail/dungeon-of-the-endless-switch/) (D)
 - [Dungeon Rushers](https://www.nintendo.com/games/detail/dungeon-rushers-switch) (D)
 - [Elder Scrolls: Blades](https://www.nintendo.com/games/detail/the-elder-scrolls-blades-switch/) (D)
 - [Elder Scrolls V: Skyrim](https://elderscrolls.bethesda.net/en/skyrim) (C)
