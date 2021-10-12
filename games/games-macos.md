@@ -19,6 +19,7 @@ and/or port them.
 
 ### macOS - Games Recently Added to Collection
 
+- [Europa Universalis IV](https://www.epicgames.com/store/en-US/p/europa-universalis-iv)
 - Syndicate Wars [GoG](https://www.gog.com/game/syndicate_wars)
 - Populous [(GoG)](https://www.gog.com/game/populous)
 - Populous 2: Trials of the Olympian Gods [(GoG)](https://www.gog.com/game/populous_2)
