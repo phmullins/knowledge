@@ -21,6 +21,7 @@ the PC.
 
 ### Windows/PC - Recently Added to Collection
 
+- [PC Building Simulator](https://www.epicgames.com/store/en-US/p/pc-building-simulator)
 - The Lion's Song [(Epic)](https://www.epicgames.com/store/en-US/p/the-lions-song)
 - The Pillars of the Earth [(Epic)](https://www.epicgames.com/store/en-US/p/ken-follets-the-pillars-of-the-earth)
 - The First Tree [(Epic)](https://www.epicgames.com/store/en-US/p/the-first-tree)
