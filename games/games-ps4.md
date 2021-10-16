@@ -1,4 +1,4 @@
-## PlayStation 4
+### PlayStation 4
 
 Up until recently I had considered myself just an ordinary gamer and wasn't particularly loyal to any platform or system in 
 general. After all, a game is a game, right? Who cares what console and/or system it's being played on? At least that's what 
@@ -20,12 +20,12 @@ and forest green. Who's to say?
 
 ### PlayStation 4 - Recently Added to Collection
 
+- Hell Let Loose [(www)](https://www.hellletloose.com/)
 - Star Wars: Squadrens [(ps4)](https://www.playstation.com/en-us/games/star-wars-squadrons/)
 - Battlefield 1 [(ps4)](https://www.playstation.com/en-us/games/battlefield-1-ps4/)
 - Battlefield V [(www)](https://www.ea.com/games/battlefield/battlefield-5)
 - Call of Duty: WWII [(ps4)](https://www.playstation.com/en-us/games/call-of-duty-wwii-ps4/)
 - Call of Duty: Warzone [(www)](https://www.callofduty.com/warzone)
-- Dishonored: Definitive Edition [(ps4)](https://www.playstation.com/en-us/games/dishonored-definitive-edition-ps4/)
 - Gods: Remastered [(www)](https://www.robotriotgames.com/gods_remastered.html)
 
 ### PlayStation 4 - Most Wanted Games
@@ -50,7 +50,7 @@ and forest green. Who's to say?
 - [PlayStation VR](https://www.playstation.com/en-us/explore/playstation-vr) 
 - [SCUF Vantage Controller](https://www.playstation.com/en-us/explore/accessories/vantage/) 
 
-## PlayStation 4 - Games that I want
+### PlayStation 4 - Games that I want
 
 - Alienation [(YouTube)](https://youtu.be/AaJ1YoSHATE)
 - BioShock: The Collection [(ps4)](https://www.playstation.com/en-us/games/bioshock-the-collection-ps4/)
@@ -78,7 +78,7 @@ and forest green. Who's to say?
 - Wolfenstein: The New Order [(ps4)](https://www.playstation.com/en-us/games/wolfenstein-the-new-order-ps4/)
 - Yaga [(www)](https://yaga-game.com/)
 
-## PlayStation 4 - Games that I Have/Own
+### PlayStation 4 - Games that I Have/Own
 
 - 7th Sector [(ps4)](https://store.playstation.com/en-us/product/UP1675-CUSA15797_00-SYPS47THSECTOR00)
 - A Plague Tale: Innocence [(www)](http://aplaguetale.com/)
