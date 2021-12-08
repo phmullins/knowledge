@@ -39,6 +39,7 @@ and/or port them.
 
 ### macOS - Most Wanted Games
 
+- Outriders [Epic](https://www.epicgames.com/store/en-US/p/outriders)
 - Achtung! Cthulhu Tactics [(www)](https://store.steampowered.com/app/874460/Achtung_Cthulhu_Tactics/)
 - Artifact [(www)](https://store.steampowered.com/app/583950/Artifact/)
 - Diablo IV [(www)](https://diablo.blizzard.com/en-us/) (Unreleased)
