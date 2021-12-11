@@ -43,6 +43,7 @@ the PC.
 
 ### Windows/PC - Games That I Want
 
+- Thunder Tier One [Steam](https://store.steampowered.com/app/377300/Thunder_Tier_One/)
 - Breathedge [(Epic)](https://www.epicgames.com/store/en-US/p/breathedge)
 - Curse of the Dead Gods [(Epic)](https://www.epicgames.com/store/en-US/p/curse-of-the-dead-gods)
 - Cyberpunk 2077 [(GoG)](https://www.gog.com/game/cyberpunk_2077)
