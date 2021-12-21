@@ -57,6 +57,7 @@ for quite some time.
 
 Games that I've recently bought digitally from the Nintendo Switch Store or physical carts. Legend: Digital = (D). Cartridge = (C).
 
+- [Battlestar Galactica Deadlock](https://www.nintendo.com/games/detail/battlestar-galactica-deadlock-switch/) (D)
 - [Dungeon of the Endless](https://www.nintendo.com/games/detail/dungeon-of-the-endless-switch/) (D)
 - [1971 Project Helios](https://www.nintendo.com/games/detail/1971-project-helios-switch/) (D)
 - [Achtung! Cthulhu Tactics](https://www.nintendo.com/games/detail/achtung-cthulhu-tactics-switch/) (D)
@@ -209,6 +210,7 @@ Legend: (P1) to (P3) = Priority ranked in order from most important (P1) to leas
 - [Asphalt 9: Legends](https://www.nintendo.com/games/detail/asphalt-9-legends-switch/) (D)
 - [Bastion](https://www.nintendo.com/games/detail/bastion-switch) (D)
 - [Battle Chasers: Nightwar](https://www.battlechasers.com) (C)
+- [Battlestar Galactica Deadlock](https://www.nintendo.com/games/detail/battlestar-galactica-deadlock-switch/) (D)
 - [Beach Buggy Racing](https://www.nintendo.com/games/detail/beach-buggy-racing-switch/) (D)
 - [Beautiful Desolation](https://www.nintendo.com/games/detail/beautiful-desolation-switch/) (D)
 - [Black The Fall](https://www.nintendo.com/games/detail/black-the-fall-switch/) (D)
