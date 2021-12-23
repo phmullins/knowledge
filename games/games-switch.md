@@ -57,6 +57,7 @@ for quite some time.
 
 Games that I've recently bought digitally from the Nintendo Switch Store or physical carts. Legend: Digital = (D). Cartridge = (C).
 
+- [Sid Meier's Civilization VI](https://www.nintendo.com/games/detail/sid-meiers-civilization-vi-switch) (D)
 - [Battlestar Galactica Deadlock](https://www.nintendo.com/games/detail/battlestar-galactica-deadlock-switch/) (D)
 - [Dungeon of the Endless](https://www.nintendo.com/games/detail/dungeon-of-the-endless-switch/) (D)
 - [1971 Project Helios](https://www.nintendo.com/games/detail/1971-project-helios-switch/) (D)
@@ -186,7 +187,6 @@ Legend: (P1) to (P3) = Priority ranked in order from most important (P1) to leas
 - [RemiLore](https://www.nintendo.com/games/detail/remilore-switch)
 - [Shanghai III](https://www.nintendo.com/games/detail/arcade-archives-shanghai-iii-switch/)
 - [Shrouded Isle](https://www.nintendo.com/games/detail/the-shrouded-isle-switch)
-- [Sid Meier's Civilization VI](https://www.nintendo.com/games/detail/sid-meiers-civilization-vi-switch)
 - [Snack World: The Dungeon Crawl](https://www.nintendo.com/games/detail/snack-world-the-dungeon-crawl-gold-switch/)
 - [Space Land](https://www.nintendo.com/games/detail/spaceland-switch/)
 - [Sparklite](https://www.nintendo.com/games/detail/sparklite-switch/) 
@@ -256,6 +256,7 @@ Legend: (P1) to (P3) = Priority ranked in order from most important (P1) to leas
 - [The Outer Worlds](https://www.nintendo.com/games/detail/the-outer-worlds-switch/) (D)
 - [Rebel Galaxy: Outlaw](https://rebel-galaxy.com/) (D)
 - [Rogue Bit](https://www.nintendo.com/games/detail/rogue-bit-switch/) (D)
+- [Sid Meier's Civilization VI](https://www.nintendo.com/games/detail/sid-meiers-civilization-vi-switch) (D)
 - [Subnautica](https://www.nintendo.com/games/detail/subnautica-switch/) (C)
 - [Subnautica: Below Zero](https://www.nintendo.com/games/detail/subnautica-below-zero-switch/) (C)
 - [Superbrothers: Sword & Sworcery EP](https://www.nintendo.com/games/detail/superbrothers-sword-and-sworcery-ep-switch) (P3)
