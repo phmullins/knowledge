@@ -19,6 +19,7 @@ and/or port them.
 
 ### macOS - Games Recently Added to Collection
 
+- Barotrauma [(www)](https://barotraumagame.com) [(Steam)](https://store.steampowered.com/app/602960/Barotrauma/)
 - while True: learn() [Epic](https://www.epicgames.com/store/en-US/p/while-true-learn)
 - [Europa Universalis IV](https://www.epicgames.com/store/en-US/p/europa-universalis-iv)
 - Syndicate Wars [GoG](https://www.gog.com/game/syndicate_wars)
@@ -74,6 +75,7 @@ A list of games that I currently own or have access to.
 - Baldur's Gate: Siege of Dragonspear [(GoG)](https://www.gog.com/game/baldurs_gate_siege_of_dragonspear)
 - Baldur's Gate II: Enhanced Edition [(GoG)](https://www.gog.com/game/baldurs_gate_2_enhanced_edition)	
 - Barony [(www)](http://www.baronygame.com/)
+- Barotrauma [(www)](https://barotraumagame.com) [(Steam)](https://store.steampowered.com/app/602960/Barotrauma/)
 - Bastion
 - Batman: Arkham Asylum (GOTY) [(Epic)](https://www.epicgames.com/store/en-US/product/batman-arkham-asylum/home)
 - Batman: Arkham City (GOTY) [(Epic)](https://www.epicgames.com/store/en-US/product/batman-arkham-city/home)
