@@ -21,6 +21,7 @@ the PC.
 
 ### Windows/PC - Recently Added to Collection
 
+- Barotrauma [(www)](https://barotraumagame.com) [(Steam)](https://store.steampowered.com/app/602960/Barotrauma/)
 - [PC Building Simulator](https://www.epicgames.com/store/en-US/p/pc-building-simulator)
 - The Lion's Song [(Epic)](https://www.epicgames.com/store/en-US/p/the-lions-song)
 - The Pillars of the Earth [(Epic)](https://www.epicgames.com/store/en-US/p/ken-follets-the-pillars-of-the-earth)
@@ -57,6 +58,7 @@ the PC.
 
 - Alien: Isolation [(Epic)](https://www.epicgames.com/store/en-US/product/alien-isolation/home)
 - Barony [(Epic)](https://www.epicgames.com/store/en-US/product/barony/home)
+- Barotrauma [(www)](https://barotraumagame.com) [(Steam)](https://store.steampowered.com/app/602960/Barotrauma/)
 - Batman: Arkham Asylum (Game of the Year Edition) [(Epic)](https://www.epicgames.com/store/en-US/product/batman-arkham-asylum/home)
 - Borderlands 2 [(Steam)](https://store.steampowered.com/app/49520/Borderlands_2/)
 - Borderlands 3 [(www)](https://borderlands.com)
