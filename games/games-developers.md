@@ -2,6 +2,7 @@
 
 - [Activision](https://www.activision.com/)
 - [Arkane Studios](https://www.arkane-studios.com/en)
+- [Atari](https://www.atari.com/)
 - [Bethesda](https://bethesda.net)
 - [BioWare](http://www.bioware.com/)
 - [Blizzard](https://www.blizzard.com/en-us/)
@@ -19,6 +20,7 @@
 - [Quantic Dream](http://quanticdream.com/en/)
 - [Raven Software](http://www.ravensoftware.com/)
 - [Respawn Entertainment](https://www.respawn.com/)
+- [Riot Games](https://www.riotgames.com/en)
 - [Santa Monica Studio](http://sms.playstation.com/)
 - [Square Enix](https://square-enix-games.com/en_US)
 - [Supergiant Games](https://www.supergiantgames.com/)
