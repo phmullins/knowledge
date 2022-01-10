@@ -57,6 +57,7 @@ for quite some time.
 
 Games that I've recently bought digitally from the Nintendo Switch Store or physical carts. Legend: Digital = (D). Cartridge = (C).
 
+- [Disco Elysium - The Final Cut](https://www.nintendo.com/games/detail/disco-elysium-the-final-cut-switch/) (D)
 - [Sid Meier's Civilization VI](https://www.nintendo.com/games/detail/sid-meiers-civilization-vi-switch) (D)
 - [Battlestar Galactica Deadlock](https://www.nintendo.com/games/detail/battlestar-galactica-deadlock-switch/) (D)
 - [Dungeon of the Endless](https://www.nintendo.com/games/detail/dungeon-of-the-endless-switch/) (D)
@@ -112,7 +113,6 @@ Legend: (P1) to (P3) = Priority ranked in order from most important (P1) to leas
 - [Shadowrun Returns](https://www.nintendo.com/games/detail/shadowrun-returns-switch/) (P1)
 - [Shadowrun: Dragonfall - Director's Cut](https://www.nintendo.com/games/detail/shadowrun-dragonfall-directors-cut-switch/) (P1)
 - [Shadowrun: Hong Kong - Extended Edition](https://www.nintendo.com/games/detail/shadowrun-hong-kong-extended-edition-switch/) (P1)
-- [Disco Elysium - The Final Cut](https://www.nintendo.com/games/detail/disco-elysium-the-final-cut-switch/) (P1)
 - [Paper Mario: The Origami](https://www.nintendo.com/games/detail/paper-mario-the-origami-king-switch/) (P1) 
 - [Mutant Year Zero: Road to Eden Deluxe](https://www.nintendo.com/games/detail/mutant-year-zero-road-to-eden-deluxe-edition-switch/) (P1) 
 - [Darkest Dungeon: Collector's Edition](https://www.nintendo.com/games/detail/darkest-dungeon-switch/) (P1) 
@@ -124,7 +124,6 @@ Legend: (P1) to (P3) = Priority ranked in order from most important (P1) to leas
 - [Catan Universe](https://www.nintendo.com/games/detail/catan-switch/) (P2) 
 - [Mario Golf: Super Rush](https://www.nintendo.com/games/detail/mario-golf-super-rush-switch/) (P2)
 - [LEGO Builder's Journey](https://www.nintendo.com/games/detail/lego-builders-journey-switch/) (P1)
-- [Ruined King](https://www.nintendo.com/games/detail/ruined-king-a-league-of-legends-story-switch/) (P1) 
 - [Bear and Breakfast](https://www.nintendo.com/games/detail/bear-and-breakfast-switch/) (P2)
 - [The Legend of Zelda: Link’s Awakening](https://www.nintendo.com/games/detail/the-legend-of-zelda-links-awakening-switch/) (P2) 
 - [Cat Quest II](https://www.nintendo.com/games/detail/cat-quest-ii-switch/) (P2)
@@ -226,7 +225,8 @@ Legend: (P1) to (P3) = Priority ranked in order from most important (P1) to leas
 - [Deep Sky Derelicts: Definitive Edition](https://www.nintendo.com/games/detail/deep-sky-derelicts-definitive-edition-switch/) (D)
 - [Diablo Prime Evil Collection](https://www.nintendo.com/games/detail/diablo-prime-evil-collection-switch/) (D)
 - [Diablo II: Resurrected](https://www.nintendo.com/games/detail/diablo-ii-resurrected-switch/) (D)
-- [Diablo III: Eternal Collection](https://us.diablo3.com/en/switch) (C)
+- [Diablo III: Eternal Collection](https://us.diablo3.com/en/switch) (C)(D)
+- [Disco Elysium - The Final Cut](https://www.nintendo.com/games/detail/disco-elysium-the-final-cut-switch/) (D)
 - [Doom II](https://www.nintendo.com/games/detail/doom-2-classic-switch/) (D)
 - [Doom](https://www.nintendo.com/games/detail/doom-1993-switch/) (D)
 - [Doom Eternal](https://www.nintendo.com/games/detail/doom-eternal-switch/) (D) 
