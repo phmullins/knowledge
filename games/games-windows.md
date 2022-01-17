@@ -21,7 +21,8 @@ the PC.
 
 ### Windows/PC - Recently Added to Collection
 
-- Pathfinder: Kingmaker - Enhanced Plus Edition [(Epic)](https://www.epicgames.com/store/en-US/p/pathfinder-kingmaker)
+- [Galactic Civilizations III](https://www.epicgames.com/store/en-US/p/galactic-civilizations-iii)
+- [Pathfinder: Kingmaker](https://www.epicgames.com/store/en-US/p/pathfinder-kingmaker) - Enhanced Plus Edition
 - Barotrauma [(www)](https://barotraumagame.com) [(Steam)](https://store.steampowered.com/app/602960/Barotrauma/)
 - [PC Building Simulator](https://www.epicgames.com/store/en-US/p/pc-building-simulator)
 - The Lion's Song [(Epic)](https://www.epicgames.com/store/en-US/p/the-lions-song)
