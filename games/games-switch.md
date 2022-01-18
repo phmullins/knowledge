@@ -123,7 +123,6 @@ Legend: (P1) to (P3) = Priority ranked in order from most important (P1) to leas
 - [Doom](https://www.nintendo.com/games/detail/doom-switch) (P1) 
 - [Overland](https://www.nintendo.com/games/detail/overland-switch/) (P1) 
 - [Invisible, Inc.](https://www.nintendo.com/games/detail/invisible-inc-nintendo-switch-edition-switch/) (P2)
-- [Carcassonne](https://www.nintendo.com/games/detail/carcassonne-switch) (P2) 
 - [Catan Universe](https://www.nintendo.com/games/detail/catan-switch/) (P2) 
 - [Mario Golf: Super Rush](https://www.nintendo.com/games/detail/mario-golf-super-rush-switch/) (P2)
 - [LEGO Builder's Journey](https://www.nintendo.com/games/detail/lego-builders-journey-switch/) (P1)
