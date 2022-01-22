@@ -57,6 +57,7 @@ for quite some time.
 
 Games that I've recently bought digitally from the Nintendo Switch Store or physical carts. Legend: Digital = (D). Cartridge = (C).
 
+- [The Wild at Heart](https://www.nintendo.com/games/detail/the-wild-at-heart-switch/) (D)
 - [Carcassonne](https://www.nintendo.com/games/detail/carcassonne-switch/) (D)
 - [Into the Breach](https://www.nintendo.com/games/detail/into-the-breach-switch) (D)
 - [The Long Dark](https://www.nintendo.com/games/detail/the-long-dark-switch/) (D) 
@@ -267,6 +268,7 @@ Legend: (P1) to (P3) = Priority ranked in order from most important (P1) to leas
 - [Transistor](https://www.nintendo.com/games/detail/transistor-switch) (D)
 - [Uno](https://www.nintendo.com/games/detail/uno-for-nintendo-switch-switch/) (D)
 - [Unravel Two](https://www.nintendo.com/games/detail/unravel-two-switch/) (D)
+- [The Wild at Heart](https://www.nintendo.com/games/detail/the-wild-at-heart-switch/) (D)
 - [Wind Peaks](https://www.nintendo.com/games/detail/wind-peaks-switch/) (D)
 - [Worms W.M.D](https://www.nintendo.com/games/detail/worms-wmd-switch/) (D)
 - [Yoku's Island Express](https://www.nintendo.com/games/detail/yokus-island-express-switch/) (D)
