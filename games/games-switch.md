@@ -54,6 +54,7 @@ for quite some time.
 
 Games that I've recently bought digitally from the Nintendo Switch Store or physical carts. Legend: Digital = (D). Cartridge = (C).
 
+- [Brawl Chess](https://www.nintendo.com/games/detail/brawl-chess-switch/) (D)
 - [Dead Cells](https://www.nintendo.com/games/detail/dead-cells-switch/) (D)
 - [The Wild at Heart](https://www.nintendo.com/games/detail/the-wild-at-heart-switch/) (D)
 - [Carcassonne](https://www.nintendo.com/games/detail/carcassonne-switch/) (D)
@@ -173,6 +174,7 @@ Legend: (P1) to (P3) = Priority ranked in order from most important (P1) to leas
 - [Asphalt 9: Legends](https://www.nintendo.com/games/detail/asphalt-9-legends-switch/) (D)
 - [Bastion](https://www.nintendo.com/games/detail/bastion-switch) (D)
 - [Battle Chasers: Nightwar](https://www.battlechasers.com) (C)
+- [Brawl Chess](https://www.nintendo.com/games/detail/brawl-chess-switch/) (D)
 - [Battlestar Galactica Deadlock](https://www.nintendo.com/games/detail/battlestar-galactica-deadlock-switch/) (D)
 - [Beach Buggy Racing](https://www.nintendo.com/games/detail/beach-buggy-racing-switch/) (D)
 - [Beautiful Desolation](https://www.nintendo.com/games/detail/beautiful-desolation-switch/) (D)
