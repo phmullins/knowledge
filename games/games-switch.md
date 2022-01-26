@@ -59,6 +59,8 @@ Games that I've recently bought digitally from the Nintendo Switch Store or phys
 - [The Wild at Heart](https://www.nintendo.com/games/detail/the-wild-at-heart-switch/) (D)
 - [Carcassonne](https://www.nintendo.com/games/detail/carcassonne-switch/) (D)
 - [Into the Breach](https://www.nintendo.com/games/detail/into-the-breach-switch) (D)
+- [Mutant Year Zero: Road to Eden Deluxe](https://www.nintendo.com/games/detail/mutant-year-zero-road-to-eden-deluxe-edition-switch/) (D) 
+- [Among Us](https://www.nintendo.com/games/detail/among-us-switch/) (D)
 - [The Long Dark](https://www.nintendo.com/games/detail/the-long-dark-switch/) (D) 
 - [Alien Isolation](https://www.nintendo.com/games/detail/alien-isolation-switch/) (D)
 - [Disco Elysium - The Final Cut](https://www.nintendo.com/games/detail/disco-elysium-the-final-cut-switch/) (D)
