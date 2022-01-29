@@ -20,6 +20,8 @@ and forest green. Who's to say?
 
 ### PlayStation 4 - Recently Added to Collection
 
+- DIRT 5 [(www)](https://dirtgame.com/dirt5)
+- Deep Rock Galactic [(www)](https://www.deeprockgalactic.com/)
 - Hell Let Loose [(www)](https://www.hellletloose.com/)
 - Star Wars: Squadrens [(ps4)](https://www.playstation.com/en-us/games/star-wars-squadrons/)
 - Battlefield 1 [(ps4)](https://www.playstation.com/en-us/games/battlefield-1-ps4/)
