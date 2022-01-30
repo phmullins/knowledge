@@ -54,6 +54,7 @@ for quite some time.
 
 Games that I've recently bought digitally from the Nintendo Switch Store or physical carts. Legend: Digital = (D). Cartridge = (C).
 
+- [Immortals Fenyx Rising: Gold Edition](https://www.nintendo.com/games/detail/immortals-fenyx-rising-switch/) (D)
 - [Brawl Chess](https://www.nintendo.com/games/detail/brawl-chess-switch/) (D)
 - [Dead Cells](https://www.nintendo.com/games/detail/dead-cells-switch/) (D)
 - [The Wild at Heart](https://www.nintendo.com/games/detail/the-wild-at-heart-switch/) (D)
@@ -86,6 +87,7 @@ Games that I've recently bought digitally from the Nintendo Switch Store or phys
 
 Legend: (P1) to (P3) = Priority ranked in order from most important (P1) to least important (P4).
 
+- [Bear and Breakfast](https://www.nintendo.com/games/detail/bear-and-breakfast-switch/) (P2)
 - [Shadowrun Returns](https://www.nintendo.com/games/detail/shadowrun-returns-switch/) (P1)
 - [Shadowrun: Dragonfall - Director's Cut](https://www.nintendo.com/games/detail/shadowrun-dragonfall-directors-cut-switch/) (P1)
 - [Shadowrun: Hong Kong - Extended Edition](https://www.nintendo.com/games/detail/shadowrun-hong-kong-extended-edition-switch/) (P1)
@@ -97,12 +99,10 @@ Legend: (P1) to (P3) = Priority ranked in order from most important (P1) to leas
 - [Catan Universe](https://www.nintendo.com/games/detail/catan-switch/) (P2) 
 - [Mario Golf: Super Rush](https://www.nintendo.com/games/detail/mario-golf-super-rush-switch/) (P2)
 - [LEGO Builder's Journey](https://www.nintendo.com/games/detail/lego-builders-journey-switch/) (P1)
-- [Bear and Breakfast](https://www.nintendo.com/games/detail/bear-and-breakfast-switch/) (P2)
 - [The Legend of Zelda: Link’s Awakening](https://www.nintendo.com/games/detail/the-legend-of-zelda-links-awakening-switch/) (P2) 
 - [Cat Quest II](https://www.nintendo.com/games/detail/cat-quest-ii-switch/) (P2)
 - [Ori and the Blind Forest](https://www.nintendo.com/games/detail/ori-and-the-blind-forest-definitive-edition-switch/) (P2)
 - [Ori and the Will of the Wisps](https://www.nintendo.com/games/detail/ori-and-the-will-of-the-wisps-switch/) (P2) 
-- [Little Nightmares II](https://www.nintendo.com/games/detail/little-nightmares-ii-switch/) (P3)
 - [SnowRunner](https://www.nintendo.com/games/detail/snowrunner-switch/) (P3) 
 - [Yaga](https://www.nintendo.com/games/detail/yaga-switch/) (P3) 
 - [Risk of Rain 2](https://www.nintendo.com/games/detail/risk-of-rain-2-switch/) (P3) 
@@ -213,6 +213,7 @@ Legend: (P1) to (P3) = Priority ranked in order from most important (P1) to leas
 - [Gods: Remastered](https://www.nintendo.com/games/detail/gods-remastered-switch/) (D)
 - [Hades](https://www.nintendo.com/games/detail/hades-switch/) (D)
 - [Haven Park](https://www.nintendo.com/games/detail/haven-park-switch/) (D)
+- [Immortals Fenyx Rising: Gold Edition](https://www.nintendo.com/games/detail/immortals-fenyx-rising-switch/) (D)
 - [In Other Waters](https://www.nintendo.com/games/detail/in-other-waters-switch/) (D)
 - [Into the Breach](https://www.nintendo.com/games/detail/into-the-breach-switch) (D)
 - [Journey to the Savage Planet](https://www.nintendo.com/games/detail/journey-to-the-savage-planet-switch/) (D)
