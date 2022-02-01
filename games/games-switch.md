@@ -91,6 +91,7 @@ Legend: (P1) to (P3) = Priority ranked in order from most important (P1) to leas
 - [Shadowrun Returns](https://www.nintendo.com/games/detail/shadowrun-returns-switch/) (P1)
 - [Shadowrun: Dragonfall - Director's Cut](https://www.nintendo.com/games/detail/shadowrun-dragonfall-directors-cut-switch/) (P1)
 - [Shadowrun: Hong Kong - Extended Edition](https://www.nintendo.com/games/detail/shadowrun-hong-kong-extended-edition-switch/) (P1)
+- [Subnautica + Subnautica: Below Zero](https://www.nintendo.com/games/detail/subnautica-plus-subnautica-below-zero-switch/) (P1)
 - [Paper Mario: The Origami](https://www.nintendo.com/games/detail/paper-mario-the-origami-king-switch/) (P1) 
 - [Darkest Dungeon: Collector's Edition](https://www.nintendo.com/games/detail/darkest-dungeon-switch/) (P1) 
 - [Doom](https://www.nintendo.com/games/detail/doom-switch) (P1) 
