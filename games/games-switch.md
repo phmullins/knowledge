@@ -110,6 +110,10 @@ Legend: (P1) to (P3) = Priority ranked in order from most important (P1) to leas
 
 ### Nintendo Switch - Games That I Want
 
+- [Clue: The Classic Mystery Game](https://www.nintendo.com/games/detail/clue-the-classic-mystery-game-switch/) (D)
+- [Battleship](https://www.nintendo.com/games/detail/battleship-switch/) (D)
+- [Wingspan](https://www.nintendo.com/games/detail/wingspan-switch/) (D)
+- [Golf Club Wasteland](https://www.nintendo.com/games/detail/golf-club-wasteland-switch/) (D)
 - [Centipede: Recharged](https://www.nintendo.com/games/detail/centipede-recharged-switch/) (D)
 - [Tails Of Iron](https://www.nintendo.com/games/detail/tails-of-iron-switch/) (D)
 - [TOEM](https://www.nintendo.com/games/detail/toem-switch/) (D)
