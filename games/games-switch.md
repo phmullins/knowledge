@@ -91,6 +91,7 @@ Legend: (P1) to (P3) = Priority ranked in order from most important (P1) to leas
 - [Shadowrun Returns](https://www.nintendo.com/games/detail/shadowrun-returns-switch/) (P1)
 - [Shadowrun: Dragonfall - Director's Cut](https://www.nintendo.com/games/detail/shadowrun-dragonfall-directors-cut-switch/) (P1)
 - [Shadowrun: Hong Kong - Extended Edition](https://www.nintendo.com/games/detail/shadowrun-hong-kong-extended-edition-switch/) (P1)
+- [Metroid Dread](https://www.nintendo.com/games/detail/metroid-dread-switch/) (D)
 - [Subnautica + Subnautica: Below Zero](https://www.nintendo.com/games/detail/subnautica-plus-subnautica-below-zero-switch/) (P1)
 - [Paper Mario: The Origami](https://www.nintendo.com/games/detail/paper-mario-the-origami-king-switch/) (P1) 
 - [Darkest Dungeon: Collector's Edition](https://www.nintendo.com/games/detail/darkest-dungeon-switch/) (P1) 
@@ -99,7 +100,6 @@ Legend: (P1) to (P3) = Priority ranked in order from most important (P1) to leas
 - [Invisible, Inc.](https://www.nintendo.com/games/detail/invisible-inc-nintendo-switch-edition-switch/) (P2)
 - [Catan Universe](https://www.nintendo.com/games/detail/catan-switch/) (P2) 
 - [Mario Golf: Super Rush](https://www.nintendo.com/games/detail/mario-golf-super-rush-switch/) (P2)
-- [LEGO Builder's Journey](https://www.nintendo.com/games/detail/lego-builders-journey-switch/) (P1)
 - [The Legend of Zelda: Link’s Awakening](https://www.nintendo.com/games/detail/the-legend-of-zelda-links-awakening-switch/) (P2) 
 - [Cat Quest II](https://www.nintendo.com/games/detail/cat-quest-ii-switch/) (P2)
 - [Ori and the Blind Forest](https://www.nintendo.com/games/detail/ori-and-the-blind-forest-definitive-edition-switch/) (P2)
@@ -111,7 +111,6 @@ Legend: (P1) to (P3) = Priority ranked in order from most important (P1) to leas
 
 ### Nintendo Switch - Games That I Want
 
-- [Metroid Dread](https://www.nintendo.com/games/detail/metroid-dread-switch/) (D)
 - [Clue: The Classic Mystery Game](https://www.nintendo.com/games/detail/clue-the-classic-mystery-game-switch/) (D)
 - [Battleship](https://www.nintendo.com/games/detail/battleship-switch/) (D)
 - [Wingspan](https://www.nintendo.com/games/detail/wingspan-switch/) (D)
