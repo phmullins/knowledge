@@ -41,22 +41,22 @@ A pretty extensive list of applications that I have installed and use either on 
 
 ### Graphics
 
-- [Blener](https://www.blender.org/) - Blender is the free and open source 3D creation suite.
+- [Blender](https://www.blender.org/) - Blender is the free and open source 3D creation suite.
 - [Couleurs](https://couleursapp.com) - Simple color grabber.
 - [ColorSlurp](http://colorslurp.com) - The best Mac color picker in the universe!
 - [Pastel](https://t.co/Na5lYqGm55) - Capture and collect color palettes with Pastel!
-- [Pixelmator Pro](https://www.pixelmator.com/pro/) - Professional image editing tool.
+- [Pixelmator Pro](https://www.pixelmator.com/pro/) - Professional image editing tool. ![Favorite][fave]
 - [Spect](https://stevenf.com/spect/) - Fast image browser and organizer for macOS
 
 ### Messaging & Social Media
 
 - [Messenger](https://apps.apple.com/us/app/messenger/id1480068668?mt=12) - Connect with your favorite people.
-- [Telegram](https://telegram.org/) - Messaging with a focus on security and speed. 
+- [Telegram](https://telegram.org/) - Messaging with a focus on security and speed. ![Favorite][fave] 
 - [Tweetbot](https://tapbots.com/tweetbot/) - Twitter client.
 
 ### Miscellaneous 
 
-- [PMenu](https://itunes.apple.com/app/id1241716354?ls=1&mt=12&at=1001l9Aj) - App launcher for the macOS menubar.
+- [PMenu](https://itunes.apple.com/app/id1241716354?ls=1&mt=12&at=1001l9Aj) - App launcher for the macOS menubar. ![Favorite][fave]
 
 ### Network
 
@@ -64,7 +64,7 @@ A pretty extensive list of applications that I have installed and use either on 
 
 ## Office Tools
 
-- [DEVONthink 3](https://www.devontechnologies.com/products/devonthink) - Knowledge Database.
+- [DEVONthink 3](https://www.devontechnologies.com/products/devonthink) - Knowledge Database. ![Favorite][fave] 
 - [Fantastical](https://flexibits.com/fantastical) - Calendar and tasks app.
 - [Keynote](https://www.apple.com/keynote/) - Presentations.
 - [Numbers](https://www.apple.com/numbers/) - Spreadsheet.
@@ -94,7 +94,7 @@ A pretty extensive list of applications that I have installed and use either on 
 
 ### Text Editors
 
-- [BBEdit](https://www.barebones.com/products/bbedit/) - The leading professional HTML and text editor for macOS. It doesn't suck.
+- [BBEdit](https://www.barebones.com/products/bbedit/) - The leading professional HTML and text editor for macOS. It doesn't suck. ![Favorite][fave]
 - [Visual Studio Code](https://code.visualstudio.com/) - Code editing. Redefined.
 
 ### Utilities
@@ -106,7 +106,7 @@ A pretty extensive list of applications that I have installed and use either on 
 - [Caffeine 2](http://lightheadsw.com/caffeine/)
 - [CustomShortcuts](https://www.houdah.com/customShortcuts) - Customize macOS Menu Keyboard Shortcuts.
 - [DaisyDisk](https://daisydiskapp.com/) - Disk space analyzer for macOS.
-- [ForkLift](https://binarynights.com)
+- [ForkLift](https://binarynights.com) ![Favorite][fave]
 - [ImageOptim](https://imageoptim.com/mac)
 - [iTerm](https://iterm2.com)
 - [Karabiner-Elements](https://karabiner-elements.pqrs.org/) - A powerful and stable keyboard customizer for macOS.
@@ -122,30 +122,30 @@ A pretty extensive list of applications that I have installed and use either on 
 ### Video
 
 - [HandBrake](https://handbrake.fr/) - Transcoder for digital video files.
-- [Infuse](https://firecore.com/infuse) - An elegant video player.
+- [Infuse](https://firecore.com/infuse) - An elegant video player. ![Favorite][fave]
 - [MakeMKV](https://www.makemkv.com/)
 
 ### Web Browsers
 
-- [Firefox](https://www.mozilla.org/en-US/firefox)
-- [Lagrange](https://gmi.skyjake.fi/lagrange/) - A beautiful Gemini and HTML client.
+- [Firefox](https://www.mozilla.org/en-US/firefox) ![Favorite][fave]
+- [Lagrange](https://gmi.skyjake.fi/lagrange/) - A beautiful Gemini and HTML client. ![Favorite][fave]
 - [Orion](https://browser.kagi.com/) - Orion is the new WebKit-based browser for Mac.
 
 ### Writing
 
 - [Byword](https://www.bywordapp.com)
 - [Day One](http://dayoneapp.com)
-- [Drafts](https://getdrafts.com/) - Quickly capture text and send it almost anywhere!
-- [IA Writer](https://ia.net/writer) - The Focused Writing App.
+- [Drafts](https://getdrafts.com/) - Quickly capture text and send it almost anywhere! ![Favorite][fave]
+- [IA Writer](https://ia.net/writer) - The Focused Writing App. ![Favorite][fave]
 - [Marked 2](http://marked2app.com)
 - [Scrivener](https://www.literatureandlatte.com/scrivener/overview)
 
 ### Virtualization
 
 - [Multipass](https://multipass.run) - Orchestrates virtual Ubuntu instances.
-- [Parallels Desktop](https://www.parallels.com/products/desktop/) - Hardware emulation virtualization software.
+- [Parallels Desktop](https://www.parallels.com/products/desktop/) - Hardware emulation virtualization software. ![Favorite][fave]
 - [Parallels Toolbox](https://www.parallels.com/products/toolbox/) - All-in-one solution with over 30 tools for macOS and Windows 10. 
 
-
+[fave]: favorite_star.jpg
 
 
