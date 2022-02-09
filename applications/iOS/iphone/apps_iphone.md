@@ -1,3 +1,13 @@
+### iPhone Applications
+
+- Last Updated on Wednesday, February 09th, 2022 @ 07:32 AM EST
+
+### Audio - Headphones
+- [Beyerdynamic MIY: Headphones](https://apps.apple.com/us/app/miy/id1288555674)
+- [Bowers & Wilkins: Headphones](https://apps.apple.com/us/app/bowers-wilkins-headphones/id1446031493)
+- [Master & Dynamic: Headphones](https://apps.apple.com/us/app/m-d-connect/id1539364929)
+- [Sennheiser: Headphones](https://apps.apple.com/us/app/sennheiser-smart-control/id1408526071)
+
 ### Authenticators
 - [Battle.net Authenticator](https://apps.apple.com/us/app/battle-net-authenticator/id306862897)
 - [Google Authenticator](https://apps.apple.com/us/app/google-authenticator/id388497605)
@@ -20,14 +30,28 @@
 - [Fantastical](https://flexibits.com/fantastical-iphone) - Plan your day perfectly.
 
 ### Chess
-- [lichess](https://apps.apple.com/us/app/lichess-online-chess/id968371784#?platform=iphone)
+- [Chess+](https://apps.apple.com/us/app/chess/id1217007613#?platform=iphone)
+- [Chess.com](https://apps.apple.com/us/app/chess-play-learn/id329218549#?platform=iphone)
+- [Chessable](https://apps.apple.com/us/app/chessable/id1523279049#?platform=iphone)
+- [Kasparov Chess](https://apps.apple.com/us/app/kasparovchess/id1533398101)
+- [Learn Chess with Dr. Wolf](https://apps.apple.com/us/app/learn-chess-with-dr-wolf/id1353041020#?platform=iphone)
+- [Lichess](https://apps.apple.com/us/app/lichess-online-chess/id968371784#?platform=iphone)
+- [Magnus Trainer](https://apps.apple.com/us/app/magnus-trainer-train-chess/id1097863089) - Train Chess
+- [Play Magnus](https://apps.apple.com/us/app/play-magnus-play-chess/id808138395)
+- [Pocket Chess](https://apps.apple.com/us/app/pocket-chess/id1580054076#?platform=iphone)
+- [Small Fish](https://apps.apple.com/us/app/smallfish-chess-for-stockfish/id675049147#?platform=iphone)
+- [Stockfish Chess](https://apps.apple.com/us/app/stockfish-chess/id305558605)
 
 ### Cloud Storage 
 - Apple Files
 - [Documents](https://apps.apple.com/us/app/documents-file-reader-browser/id364901807) - Download Manager and Media Player.
 
-### Code
+### Coding
 - [CodeHub](http://codehub-app.com/)
+
+### Color Managers
+- [ColorSlurp](https://apps.apple.com/us/app/colorslurp/id1287239339#?platform=iphone)
+- [Pastel](https://apps.apple.com/us/app/pastel/id413897608#?platform=iphone)
 
 ### Education
 - [Codecademy Go](https://apps.apple.com/us/app/codecademy-go/id1376029326)
@@ -60,16 +84,23 @@
 - [Xbox](https://apps.apple.com/us/app/xbox/id736179781)
 - Xbox [Game Pass](https://apps.apple.com/us/app/xbox-game-pass/id1374542474)
 
+### Graphics
+- [Pixelmator](https://apps.apple.com/us/app/pixelmator/id924695435)
+- [Pixelmator Photo](https://apps.apple.com/us/app/pixelmator-photo/id1444636541)
+
 ### Home Automation
-- Amazon Alexa
-- Wemo
-- Wyze
+- [Amazon Alexa](https://apps.apple.com/us/app/amazon-alexa/id944011620)
+- Apple Homekit
+- [myQ Garage & Access Control](https://apps.apple.com/us/app/myq-garage-access-control/id456282559)
+- [Philips Hue](https://apps.apple.com/us/app/philips-hue/id1055281310)
+- [Sensi](https://apps.apple.com/us/app/sensi/id792612452#?platform=iphone)
+- [Wyze](https://apps.apple.com/us/app/wyze-make-your-home-smarter/id1288415553#?platform=iphone)
 
 ### Messaging
-- Discord
-- Facebook Messenger
-- Messages
-- Telegram
+- [Discord](https://apps.apple.com/us/app/discord-chat-talk-hangout/id985746746)
+- [Facebook Messenger](https://apps.apple.com/us/app/messenger/id454638411)
+- [Apple Messages](https://apps.apple.com/us/app/messages/id1146560473)
+- [Telegram](https://apps.apple.com/us/app/telegram-messenger/id686449807)
 
 ### Movies & TV
 - [Amazon Prime Video](https://apps.apple.com/us/app/amazon-prime-video/id545519333)
@@ -78,32 +109,28 @@
 - [HBO Max](https://apps.apple.com/us/app/hbo-max-stream-tv-movies/id971265422)
 - [Infuse](https://apps.apple.com/us/app/infuse-7/id1136220934#?platform=iphone)
 - [Movies Anywhere](https://apps.apple.com/us/app/movies-anywhere/id1245330908)
-- Netflix
+- [Netflix](https://apps.apple.com/us/app/netflix/id363590051)
 - [Paramount+](https://apps.apple.com/us/app/paramount/id530168168)
 - [Plex](https://apps.apple.com/us/app/plex-movies-tv-music-more/id383457673#?platform=iphone)
-- Roku
+- [Roku](https://apps.apple.com/us/app/roku-official-remote-control/id482066631)
 - [YouTube](https://apps.apple.com/us/app/youtube-watch-listen-stream/id544007664)
 
 ### Music
 - Apple Music
 - [Bandcamp](https://apps.apple.com/us/app/bandcamp/id706408639)
-- [Beyerdynamic MIY: Headphones](https://apps.apple.com/us/app/miy/id1288555674)
 - [Brain.fm](https://apps.apple.com/us/app/brain-fm-focus-music/id1110684238)
-- [Bowers & Wilkins: Music](https://apps.apple.com/us/app/music-bowers-wilkins/id1551992219)
-- [Bowers & Wilkins: Headphones](https://apps.apple.com/us/app/bowers-wilkins-headphones/id1446031493)
+- [Discogs](https://apps.apple.com/us/app/discogs/id1036449551)
 - [Idagio](https://apps.apple.com/us/app/idagio-classical-music/id1014917700)
 - [Last.fm](https://apps.apple.com/us/app/last-fm/id1188681944)
-- [Master & Dynamic: Headphones](https://apps.apple.com/us/app/m-d-connect/id1539364929)
 - [Plexamp](https://apps.apple.com/us/app/plexamp/id1500797510)
 - [Qobuz](https://apps.apple.com/us/app/qobuz/id946429340)
 - [Roon](https://apps.apple.com/us/app/roon-remote/id1014764083)
-- [Sennheiser: Headphones](https://apps.apple.com/us/app/sennheiser-smart-control/id1408526071)
-- Sonos
+- [Sonos](https://apps.apple.com/us/app/sonos/id1488977981)
 - [Vox](https://apps.apple.com/us/app/vox-mp3-flac-music-player/id916215494)
 
 ### Navigation 
 - Apple Maps
-- Google Maps
+- [Organic Maps](https://apps.apple.com/us/app/organic-maps-offline-hike-bike/id1567437057#?platform=iphone)
 
 ### Networking
 - [1.1.1.1: Faster Internet](https://apps.apple.com/us/app/1-1-1-1-faster-internet/id1423538627)
@@ -155,8 +182,9 @@
 
 ### Shopping
 - [Amazon Shopping](https://apps.apple.com/us/app/amazon-shopping/id297606951)
-- Best Buy
-- eBay
+- [Best Buy](https://apps.apple.com/us/app/best-buy/id314855255)
+- [eBay](https://apps.apple.com/bt/app/ebay-marketplace-buy-sell/id282614216#?platform=iphone)
+- [Etsy](https://apps.apple.com/us/app/etsy-custom-creative-goods/id477128284)
 
 ### Social Media
 - [Facebook](https://apps.apple.com/us/app/facebook/id284882215)
@@ -167,16 +195,16 @@
 
 ### Utilities 
 - [Amazon Key](https://apps.apple.com/us/app/amazon-key/id1291586307) - 
-- Bose Connect
 - [Cardhop](https://apps.apple.com/us/app/cardhop/id1448744070)
 - [Luna Display](https://apps.apple.com/us/app/luna-display/id1250259715)
 - [My Verizon](https://apps.apple.com/us/app/my-verizon/id416023011)
 - [PDF Expert](https://apps.apple.com/us/app/pdf-expert-pdf-editor-reader/id743974925) - Combine & Annotate Documents.
 - Scanner Pro
-- Shortcuts
+- [Scriptable](https://apps.apple.com/us/app/scriptable/id1405459188)
+- [Shortcuts](https://apps.apple.com/app/id915249334)
 
 ### Weather
-- Hello Weather
+- [Hello Weather](https://apps.apple.com/us/app/hello-weather/id978393692#?platform=iphone)
 
 ### Web Browsers
 - [DuckDuckGo Privacy Browser](https://apps.apple.com/us/app/duckduckgo-privacy-browser/id663592361)
@@ -186,7 +214,7 @@
 ### Writing
 - Apple Notes
 - [Byword](https://apps.apple.com/us/app/byword/id482063361#?platform=iphone)
-- Day One
+- [Day One](https://apps.apple.com/us/app/day-one-journal-private-diary/id1044867788)
 - [Drafts](https://apps.apple.com/us/app/drafts/id1236254471) - Where text starts.
 - [IA Writer](https://apps.apple.com/us/app/ia-writer/id775737172)
 - [Scrivener](https://apps.apple.com/us/app/scrivener/id972387337)
