@@ -87,10 +87,11 @@ Games that I've recently bought digitally from the Nintendo Switch Store or phys
 
 Legend: (P1) to (P3) = Priority ranked in order from most important (P1) to least important (P4).
 
-- [Bear and Breakfast](https://www.nintendo.com/games/detail/bear-and-breakfast-switch/) (P2)
+- [Bear and Breakfast](https://www.nintendo.com/games/detail/bear-and-breakfast-switch/) (P1)
 - [Shadowrun Returns](https://www.nintendo.com/games/detail/shadowrun-returns-switch/) (P1)
 - [Shadowrun: Dragonfall - Director's Cut](https://www.nintendo.com/games/detail/shadowrun-dragonfall-directors-cut-switch/) (P1)
 - [Shadowrun: Hong Kong - Extended Edition](https://www.nintendo.com/games/detail/shadowrun-hong-kong-extended-edition-switch/) (P1)
+- [Mandragora](https://mandragoragame.com/#home) (P1)
 - [RemiLore](https://www.nintendo.com/games/detail/remilore-switch) (P2)
 - [Metroid Dread](https://www.nintendo.com/games/detail/metroid-dread-switch/) (P1)
 - [Subnautica + Subnautica: Below Zero](https://www.nintendo.com/games/detail/subnautica-plus-subnautica-below-zero-switch/) (P1)
