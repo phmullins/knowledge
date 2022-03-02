@@ -54,6 +54,9 @@ for quite some time.
 
 Games that I've recently bought digitally from the Nintendo Switch Store or physical carts. Legend: Digital = (D). Cartridge = (C).
 
+- [Doom (2016)](https://www.nintendo.com/store/products/doom-switch/) (D)
+- [Doom 3](https://www.nintendo.com/store/products/doom-3-switch/) (D)
+- [Doom 64](https://www.nintendo.com/store/products/doom-64-switch/) (D)
 - [Immortals Fenyx Rising: Gold Edition](https://www.nintendo.com/games/detail/immortals-fenyx-rising-switch/) (D)
 - [Brawl Chess](https://www.nintendo.com/games/detail/brawl-chess-switch/) (D)
 - [Dead Cells](https://www.nintendo.com/games/detail/dead-cells-switch/) (D)
