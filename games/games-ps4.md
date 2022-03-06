@@ -20,6 +20,7 @@ and forest green. Who's to say?
 
 ### PlayStation 4 - Recently Added to Collection
 
+- Tom Clancy’s Rainbow Six Extraction Deluxe Edition (PS4 & PS5) [(www)](https://www.ubisoft.com/en-gb/game/rainbow-six/extraction)
 - DIRT 5 [(www)](https://dirtgame.com/dirt5)
 - Deep Rock Galactic [(www)](https://www.deeprockgalactic.com/)
 - Hell Let Loose [(www)](https://www.hellletloose.com/)
