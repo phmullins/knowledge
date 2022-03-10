@@ -21,6 +21,8 @@ the PC.
 
 ### Windows/PC - Recently Added to Collection
 
+- [Black Widow: Recharged](https://www.epicgames.com/store/en-US/p/black-widow-recharged)
+- [Centipede: Recharged](https://www.epicgames.com/store/en-US/p/centipede-recharged)
 - [Galactic Civilizations III](https://www.epicgames.com/store/en-US/p/galactic-civilizations-iii)
 - [Pathfinder: Kingmaker](https://www.epicgames.com/store/en-US/p/pathfinder-kingmaker) - Enhanced Plus Edition
 - Barotrauma [(www)](https://barotraumagame.com) [(Steam)](https://store.steampowered.com/app/602960/Barotrauma/)
