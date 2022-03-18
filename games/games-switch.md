@@ -54,6 +54,7 @@ for quite some time.
 
 Games that I've recently bought digitally from the Nintendo Switch Store or physical carts. Legend: Digital = (D). Cartridge = (C).
 
+- [Invisible, Inc.](https://www.nintendo.com/store/products/invisible-inc-nintendo-switch-edition-switch/) (D)
 - [Call of Cthulhu](https://www.nintendo.com/store/products/call-of-cthulhu-switch/) (D)
 - [Doom (2016)](https://www.nintendo.com/store/products/doom-switch/) (D)
 - [Doom 3](https://www.nintendo.com/store/products/doom-3-switch/) (D)
