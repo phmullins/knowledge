@@ -227,6 +227,7 @@ Legend: (P1) to (P3) = Priority ranked in order from most important (P1) to leas
 - [Immortals Fenyx Rising: Gold Edition](https://www.nintendo.com/games/detail/immortals-fenyx-rising-switch/) (D)
 - [In Other Waters](https://www.nintendo.com/games/detail/in-other-waters-switch/) (D)
 - [Into the Breach](https://www.nintendo.com/games/detail/into-the-breach-switch) (D)
+- [Invisible, Inc.](https://www.nintendo.com/store/products/invisible-inc-nintendo-switch-edition-switch/) (D)
 - [Journey to the Savage Planet](https://www.nintendo.com/games/detail/journey-to-the-savage-planet-switch/) (D)
 - [The Keep](https://www.nintendo.com/games/detail/the-keep-switch/) (D)
 - [Klondike Solitaire](https://www.nintendo.com/games/detail/klondike-solitaire-switch) (D)
