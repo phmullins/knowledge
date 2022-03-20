@@ -104,7 +104,6 @@ Legend: (P1) to (P3) = Priority ranked in order from most important (P1) to leas
 - [Darkest Dungeon: Collector's Edition](https://www.nintendo.com/games/detail/darkest-dungeon-switch/) (P1) 
 - [Doom](https://www.nintendo.com/games/detail/doom-switch) (P1) 
 - [Overland](https://www.nintendo.com/games/detail/overland-switch/) (P1) 
-- [Invisible, Inc.](https://www.nintendo.com/games/detail/invisible-inc-nintendo-switch-edition-switch/) (P2)
 - [Catan Universe](https://www.nintendo.com/games/detail/catan-switch/) (P2) 
 - [Mario Golf: Super Rush](https://www.nintendo.com/games/detail/mario-golf-super-rush-switch/) (P2)
 - [The Legend of Zelda: Link’s Awakening](https://www.nintendo.com/games/detail/the-legend-of-zelda-links-awakening-switch/) (P2) 
