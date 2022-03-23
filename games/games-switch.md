@@ -154,7 +154,6 @@ Legend: (P1) to (P3) = Priority ranked in order from most important (P1) to leas
 - [Oddworld: New 'n' Tasty](https://www.nintendo.com/games/detail/oddworld-new-n-tasty-switch/) (D)
 - [One More Dungeon](https://www.nintendo.com/games/detail/one-more-dungeon-switch) (D)
 - [Overland](https://www.nintendo.com/games/detail/overland-switch) (D)
-- [Premium Pool Arena](https://www.nintendo.com/games/detail/premium-pool-arena-switch/) (D)
 - [Raiders of the North Sea](https://www.nintendo.com/games/detail/raiders-of-the-north-sea-switch/) (D)
 - [Red's Kingdom](https://www.nintendo.com/games/detail/reds-kingdom-switch) (D)
 - [Shanghai III](https://www.nintendo.com/games/detail/arcade-archives-shanghai-iii-switch/) (D)
