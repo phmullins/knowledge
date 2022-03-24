@@ -145,7 +145,6 @@ Legend: (P1) to (P3) = Priority ranked in order from most important (P1) to leas
 - [Mario Golf: Super Rush](https://www.nintendo.com/games/detail/mario-golf-super-rush-switch/) (D)
 - [Mario + Rabbids: Sparks Of Hope](https://www.nintendo.com/games/detail/mario-plus-rabbids-sparks-of-hope-switch/) (D)
 - [Mars Horizon](https://www.nintendo.com/games/detail/mars-horizon-switch/) (D)
-- [Marvel's Guardians of the Galaxy: Cloud Version](https://www.nintendo.com/games/detail/marvels-guardians-of-the-galaxy-cloud-version-switch/) (D)
 - [Meow Motors](https://www.nintendo.com/games/detail/meow-motors-switch/) (D)
 - [Mushroom Wars 2](https://www.nintendo.com/games/detail/mushroom-wars-2-switch) (D)
 - [Northgard](https://www.nintendo.com/games/detail/northgard-switch/) (D)
