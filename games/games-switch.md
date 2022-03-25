@@ -135,7 +135,6 @@ Legend: (P1) to (P3) = Priority ranked in order from most important (P1) to leas
 - [Carrion](https://www.nintendo.com/games/detail/carrion-switch/) (D) 
 - [Cloudpunk](https://www.nintendo.com/games/detail/cloudpunk-switch/) (D)
 - [Cthulhu Saves Christmas](https://www.nintendo.com/games/detail/cthulhu-saves-christmas-switch/) (D)
-- [Degrees of Separation](https://www.nintendo.com/games/detail/degrees-of-separation-switch) (D)
 - [Everspace](https://www.nintendo.com/games/detail/everspace-stellar-edition-switch) (D)
 - [Flood of Light](https://www.nintendo.com/games/detail/flood-of-light-switch/) (D)
 - [Game Dev Tycoon](https://www.nintendo.com/games/detail/game-dev-tycoon-switch/) (D)
