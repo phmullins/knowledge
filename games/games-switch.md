@@ -133,7 +133,6 @@ Legend: (P1) to (P3) = Priority ranked in order from most important (P1) to leas
 - [Bridge Constructor Portal](https://www.nintendo.com/games/detail/bridge-constructor-portal-switch) (D)
 - [Brunswick Pro Billiards](https://www.nintendo.com/games/detail/brunswick-pro-billiards-switch/) (D) 
 - [Carrion](https://www.nintendo.com/games/detail/carrion-switch/) (D) 
-- [Cloudpunk](https://www.nintendo.com/games/detail/cloudpunk-switch/) (D)
 - [Cthulhu Saves Christmas](https://www.nintendo.com/games/detail/cthulhu-saves-christmas-switch/) (D)
 - [Everspace](https://www.nintendo.com/games/detail/everspace-stellar-edition-switch) (D)
 - [Flood of Light](https://www.nintendo.com/games/detail/flood-of-light-switch/) (D)
