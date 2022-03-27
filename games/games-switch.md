@@ -144,7 +144,6 @@ Legend: (P1) to (P3) = Priority ranked in order from most important (P1) to leas
 - [Mario + Rabbids: Sparks Of Hope](https://www.nintendo.com/games/detail/mario-plus-rabbids-sparks-of-hope-switch/) (D)
 - [Mars Horizon](https://www.nintendo.com/games/detail/mars-horizon-switch/) (D)
 - [Meow Motors](https://www.nintendo.com/games/detail/meow-motors-switch/) (D)
-- [Mushroom Wars 2](https://www.nintendo.com/games/detail/mushroom-wars-2-switch) (D)
 - [Northgard](https://www.nintendo.com/games/detail/northgard-switch/) (D)
 - [Observer](https://www.nintendo.com/games/detail/observer-switch/) (D)
 - [Oddmar](https://www.nintendo.com/games/detail/oddmar-switch/) (D)
