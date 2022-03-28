@@ -137,7 +137,6 @@ Legend: (P1) to (P3) = Priority ranked in order from most important (P1) to leas
 - [Everspace](https://www.nintendo.com/games/detail/everspace-stellar-edition-switch) (D)
 - [Flood of Light](https://www.nintendo.com/games/detail/flood-of-light-switch/) (D)
 - [Game Dev Tycoon](https://www.nintendo.com/games/detail/game-dev-tycoon-switch/) (D)
-- [King of Seas](https://www.nintendo.com/games/detail/king-of-seas-switch/) (D)
 - [Lost Sea](https://www.nintendo.com/games/detail/lost-sea-switch/) (D)
 - [Mahjong Deluxe 3](https://www.nintendo.com/games/detail/mahjong-deluxe-3-switch) (D)
 - [Mario Golf: Super Rush](https://www.nintendo.com/games/detail/mario-golf-super-rush-switch/) (D)
