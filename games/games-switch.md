@@ -154,7 +154,6 @@ Legend: (P1) to (P3) = Priority ranked in order from most important (P1) to leas
 - [Super Dungeon Tactics](https://www.nintendo.com/games/detail/super-dungeon-tactics-switch) (D)
 - [Super Mario Maker 2](https://www.nintendo.com/games/detail/super-mario-maker-2-switch) (D)
 - [Surviving the Aftermath](https://www.nintendo.com/games/detail/surviving-the-aftermath-switch/) (D)
-- [Swords & Soldiers 2 - Shawarmageddon](https://www.nintendo.com/games/detail/swords-and-soldiers-2-shawarmageddon-switch) (D)
 - [The Last Campfire](https://www.nintendo.com/games/detail/the-last-campfire-switch/) (D)
 - [Tiny Metal: Full Metal Rumble](https://www.nintendo.com/games/detail/tiny-metal-full-metal-rumble-switch/) (D)
 - [Warhammer 40,000: Mechanicus](https://www.nintendo.com/games/detail/warhammer-40000-mechanicus-switch/) (D)
