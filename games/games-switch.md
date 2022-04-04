@@ -128,8 +128,6 @@ Legend: (P1) to (P3) = Priority ranked in order from most important (P1) to leas
 - [Battleship](https://www.nintendo.com/games/detail/battleship-switch/) (D)
 - [Bridge Constructor Portal](https://www.nintendo.com/games/detail/bridge-constructor-portal-switch) (D)
 - [Carrion](https://www.nintendo.com/games/detail/carrion-switch/) (D) 
-- [Cthulhu Saves Christmas](https://www.nintendo.com/games/detail/cthulhu-saves-christmas-switch/) (D)
-- [Everspace](https://www.nintendo.com/games/detail/everspace-stellar-edition-switch) (D)
 - [Game Dev Tycoon](https://www.nintendo.com/games/detail/game-dev-tycoon-switch/) (D)
 - [Lost Sea](https://www.nintendo.com/games/detail/lost-sea-switch/) (D)
 - [Mahjong Deluxe 3](https://www.nintendo.com/games/detail/mahjong-deluxe-3-switch) (D)
