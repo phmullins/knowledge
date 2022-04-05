@@ -92,16 +92,15 @@ Games that I've recently bought digitally from the Nintendo Switch Store or phys
 
 Legend: (P1) to (P3) = Priority ranked in order from most important (P1) to least important (P4).
 
+- [Star Wars: The Skywalker Saga](https://www.starwars.com/games-apps/lego-star-wars-the-skywalker-saga) (P1)
 - [Bear and Breakfast](https://www.nintendo.com/games/detail/bear-and-breakfast-switch/) (P1)
 - [Shadowrun Returns](https://www.nintendo.com/games/detail/shadowrun-returns-switch/) (P1)
 - [Shadowrun: Dragonfall - Director's Cut](https://www.nintendo.com/games/detail/shadowrun-dragonfall-directors-cut-switch/) (P1)
 - [Shadowrun: Hong Kong - Extended Edition](https://www.nintendo.com/games/detail/shadowrun-hong-kong-extended-edition-switch/) (P1)
 - [Mandragora](https://mandragoragame.com/#home) (P1)
-- [RemiLore](https://www.nintendo.com/games/detail/remilore-switch) (P2)
 - [Metroid Dread](https://www.nintendo.com/games/detail/metroid-dread-switch/) (P1)
 - [Subnautica + Subnautica: Below Zero](https://www.nintendo.com/games/detail/subnautica-plus-subnautica-below-zero-switch/) (P1)
 - [Paper Mario: The Origami](https://www.nintendo.com/games/detail/paper-mario-the-origami-king-switch/) (P1) 
-- [Darkest Dungeon: Collector's Edition](https://www.nintendo.com/games/detail/darkest-dungeon-switch/) (P1) 
 - [Overland](https://www.nintendo.com/games/detail/overland-switch/) (P1) 
 - [Catan Universe](https://www.nintendo.com/games/detail/catan-switch/) (P2) 
 - [Mario Golf: Super Rush](https://www.nintendo.com/games/detail/mario-golf-super-rush-switch/) (P2)
@@ -134,7 +133,6 @@ Legend: (P1) to (P3) = Priority ranked in order from most important (P1) to leas
 - [Mario Golf: Super Rush](https://www.nintendo.com/games/detail/mario-golf-super-rush-switch/) (D)
 - [Mario + Rabbids: Sparks Of Hope](https://www.nintendo.com/games/detail/mario-plus-rabbids-sparks-of-hope-switch/) (D)
 - [Mars Horizon](https://www.nintendo.com/games/detail/mars-horizon-switch/) (D)
-- [Meow Motors](https://www.nintendo.com/games/detail/meow-motors-switch/) (D)
 - [Northgard](https://www.nintendo.com/games/detail/northgard-switch/) (D)
 - [Observer](https://www.nintendo.com/games/detail/observer-switch/) (D)
 - [Oddmar](https://www.nintendo.com/games/detail/oddmar-switch/) (D)
@@ -142,7 +140,6 @@ Legend: (P1) to (P3) = Priority ranked in order from most important (P1) to leas
 - [One More Dungeon](https://www.nintendo.com/games/detail/one-more-dungeon-switch) (D)
 - [Overland](https://www.nintendo.com/games/detail/overland-switch) (D)
 - [Raiders of the North Sea](https://www.nintendo.com/games/detail/raiders-of-the-north-sea-switch/) (D)
-- [Red's Kingdom](https://www.nintendo.com/games/detail/reds-kingdom-switch) (D)
 - [Shanghai III](https://www.nintendo.com/games/detail/arcade-archives-shanghai-iii-switch/) (D)
 - [Shrouded Isle](https://www.nintendo.com/games/detail/the-shrouded-isle-switch) (D)
 - [Snack World: The Dungeon Crawl](https://www.nintendo.com/games/detail/snack-world-the-dungeon-crawl-gold-switch/) (D)
