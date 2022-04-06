@@ -129,7 +129,6 @@ Legend: (P1) to (P3) = Priority ranked in order from most important (P1) to leas
 - [Carrion](https://www.nintendo.com/games/detail/carrion-switch/) (D) 
 - [Game Dev Tycoon](https://www.nintendo.com/games/detail/game-dev-tycoon-switch/) (D)
 - [Lost Sea](https://www.nintendo.com/games/detail/lost-sea-switch/) (D)
-- [Mahjong Deluxe 3](https://www.nintendo.com/games/detail/mahjong-deluxe-3-switch) (D)
 - [Mario Golf: Super Rush](https://www.nintendo.com/games/detail/mario-golf-super-rush-switch/) (D)
 - [Mario + Rabbids: Sparks Of Hope](https://www.nintendo.com/games/detail/mario-plus-rabbids-sparks-of-hope-switch/) (D)
 - [Mars Horizon](https://www.nintendo.com/games/detail/mars-horizon-switch/) (D)
