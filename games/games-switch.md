@@ -138,7 +138,6 @@ Legend: (P1) to (P3) = Priority ranked in order from most important (P1) to leas
 - [One More Dungeon](https://www.nintendo.com/games/detail/one-more-dungeon-switch) (D)
 - [Overland](https://www.nintendo.com/games/detail/overland-switch) (D)
 - [Raiders of the North Sea](https://www.nintendo.com/games/detail/raiders-of-the-north-sea-switch/) (D)
-- [Shanghai III](https://www.nintendo.com/games/detail/arcade-archives-shanghai-iii-switch/) (D)
 - [Shrouded Isle](https://www.nintendo.com/games/detail/the-shrouded-isle-switch) (D)
 - [Snack World: The Dungeon Crawl](https://www.nintendo.com/games/detail/snack-world-the-dungeon-crawl-gold-switch/) (D)
 - [Space Land](https://www.nintendo.com/games/detail/spaceland-switch/) (D)
