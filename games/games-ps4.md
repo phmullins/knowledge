@@ -20,11 +20,14 @@ and forest green. Who's to say?
 
 ### PlayStation 4 - Recently Added to Collection
 
+- Hood: Outlaws & Legends [(PS4)](https://www.playstation.com/en-us/games/hood-outlaws-and-legends/)
+- Slay the Spire [(PS4)](https://www.playstation.com/en-us/games/slay-the-spire/)
+- SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated [(PS4)](https://www.playstation.com/en-us/games/spongebob-squarepants-battle-for-bikini-bottom-rehydrated/)
 - Tom Clancy’s Rainbow Six Extraction Deluxe Edition (PS4 & PS5) [(www)](https://www.ubisoft.com/en-gb/game/rainbow-six/extraction)
 - DIRT 5 [(www)](https://dirtgame.com/dirt5)
 - Deep Rock Galactic [(www)](https://www.deeprockgalactic.com/)
 - Hell Let Loose [(www)](https://www.hellletloose.com/)
-- Star Wars: Squadrens [(ps4)](https://www.playstation.com/en-us/games/star-wars-squadrons/)
+- Star Wars: Squadrons [(ps4)](https://www.playstation.com/en-us/games/star-wars-squadrons/)
 - Battlefield 1 [(ps4)](https://www.playstation.com/en-us/games/battlefield-1-ps4/)
 - Battlefield V [(www)](https://www.ea.com/games/battlefield/battlefield-5)
 - Call of Duty: WWII [(ps4)](https://www.playstation.com/en-us/games/call-of-duty-wwii-ps4/)
