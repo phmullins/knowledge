@@ -139,7 +139,6 @@ Legend: (P1) to (P3) = Priority ranked in order from most important (P1) to leas
 - [Overland](https://www.nintendo.com/games/detail/overland-switch) (D)
 - [Raiders of the North Sea](https://www.nintendo.com/games/detail/raiders-of-the-north-sea-switch/) (D)
 - [Shrouded Isle](https://www.nintendo.com/games/detail/the-shrouded-isle-switch) (D)
-- [Snack World: The Dungeon Crawl](https://www.nintendo.com/games/detail/snack-world-the-dungeon-crawl-gold-switch/) (D)
 - [Space Land](https://www.nintendo.com/games/detail/spaceland-switch/) (D)
 - [Sparklite](https://www.nintendo.com/games/detail/sparklite-switch/)  (D)
 - [SteamWorld Quest: Hand of Gilgamech](https://www.nintendo.com/games/detail/steamworld-quest-hand-of-gilgamech-switch) (D)
