@@ -140,7 +140,6 @@ Legend: (P1) to (P3) = Priority ranked in order from most important (P1) to leas
 - [Raiders of the North Sea](https://www.nintendo.com/games/detail/raiders-of-the-north-sea-switch/) (D)
 - [Shrouded Isle](https://www.nintendo.com/games/detail/the-shrouded-isle-switch) (D)
 - [Space Land](https://www.nintendo.com/games/detail/spaceland-switch/) (D)
-- [Sparklite](https://www.nintendo.com/games/detail/sparklite-switch/)  (D)
 - [SteamWorld Quest: Hand of Gilgamech](https://www.nintendo.com/games/detail/steamworld-quest-hand-of-gilgamech-switch) (D)
 - [Super Dungeon Tactics](https://www.nintendo.com/games/detail/super-dungeon-tactics-switch) (D)
 - [Super Mario Maker 2](https://www.nintendo.com/games/detail/super-mario-maker-2-switch) (D)
