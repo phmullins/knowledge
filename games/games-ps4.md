@@ -58,6 +58,7 @@ and forest green. Who's to say?
 
 ### PlayStation 4 - Games that I want
 
+- Horizon Forbidden West [(ps4)](https://www.playstation.com/en-us/games/horizon-forbidden-west/)
 - Alienation [(YouTube)](https://youtu.be/AaJ1YoSHATE)
 - BioShock: The Collection [(ps4)](https://www.playstation.com/en-us/games/bioshock-the-collection-ps4/)
 - Call of Duty: Advanced Warfare [(ps4)](https://www.playstation.com/en-us/games/call-of-duty-advanced-warfare-ps4/)
