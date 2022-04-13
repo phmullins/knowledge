@@ -133,7 +133,6 @@ Legend: (P1) to (P3) = Priority ranked in order from most important (P1) to leas
 - [Mars Horizon](https://www.nintendo.com/games/detail/mars-horizon-switch/) (D)
 - [Northgard](https://www.nintendo.com/games/detail/northgard-switch/) (D)
 - [Observer](https://www.nintendo.com/games/detail/observer-switch/) (D)
-- [Oddmar](https://www.nintendo.com/games/detail/oddmar-switch/) (D)
 - [Oddworld: New 'n' Tasty](https://www.nintendo.com/games/detail/oddworld-new-n-tasty-switch/) (D)
 - [One More Dungeon](https://www.nintendo.com/games/detail/one-more-dungeon-switch) (D)
 - [Overland](https://www.nintendo.com/games/detail/overland-switch) (D)
