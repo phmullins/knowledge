@@ -145,7 +145,6 @@ Legend: (P1) to (P3) = Priority ranked in order from most important (P1) to leas
 - [The Last Campfire](https://www.nintendo.com/games/detail/the-last-campfire-switch/) (D)
 - [Tiny Metal: Full Metal Rumble](https://www.nintendo.com/games/detail/tiny-metal-full-metal-rumble-switch/) (D)
 - [Warhammer 40,000: Mechanicus](https://www.nintendo.com/games/detail/warhammer-40000-mechanicus-switch/) (D)
-- [Zen Chess](https://www.nintendo.com/games/detail/zen-chess-collection-switch/) (D)
 - [Ziggurat](https://www.nintendo.com/games/detail/ziggurat-switch/) (D)
 
 ### Nintendo Switch - Games that I Have/Own
