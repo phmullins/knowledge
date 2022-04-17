@@ -144,7 +144,6 @@ Legend: (P1) to (P3) = Priority ranked in order from most important (P1) to leas
 - [Surviving the Aftermath](https://www.nintendo.com/games/detail/surviving-the-aftermath-switch/) (D)
 - [The Last Campfire](https://www.nintendo.com/games/detail/the-last-campfire-switch/) (D)
 - [Tiny Metal: Full Metal Rumble](https://www.nintendo.com/games/detail/tiny-metal-full-metal-rumble-switch/) (D)
-- [Ziggurat](https://www.nintendo.com/games/detail/ziggurat-switch/) (D)
 
 ### Nintendo Switch - Games that I Have/Own
 
