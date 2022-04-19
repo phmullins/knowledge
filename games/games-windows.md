@@ -21,6 +21,8 @@ the PC.
 
 ### Windows/PC - Recently Added to Collection
 
+- [XCOM 2](https://store.epicgames.com/en-US/p/xcom-2)
+- [Insurmountable](https://store.epicgames.com/en-US/p/insurmountable-b02c31)
 - [Black Widow: Recharged](https://www.epicgames.com/store/en-US/p/black-widow-recharged)
 - [Centipede: Recharged](https://www.epicgames.com/store/en-US/p/centipede-recharged)
 - [Galactic Civilizations III](https://www.epicgames.com/store/en-US/p/galactic-civilizations-iii)
