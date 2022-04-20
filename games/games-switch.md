@@ -123,7 +123,6 @@ Legend: (P1) to (P3) = Priority ranked in order from most important (P1) to leas
 - [Tails Of Iron](https://www.nintendo.com/games/detail/tails-of-iron-switch/) (D)
 - [Alien Escape](https://www.nintendo.com/games/detail/alien-escape-switch/) (D)
 - [Another World](https://www.nintendo.com/games/detail/another-world-switch) (D)
-- [Bad North](https://www.nintendo.com/games/detail/bad-north-switch) (D)
 - [Battleship](https://www.nintendo.com/games/detail/battleship-switch/) (D)
 - [Game Dev Tycoon](https://www.nintendo.com/games/detail/game-dev-tycoon-switch/) (D)
 - [Mario Golf: Super Rush](https://www.nintendo.com/games/detail/mario-golf-super-rush-switch/) (D)
