@@ -9,56 +9,55 @@ the PC.
 ### Windows/PC - All-time Favorite Games
 
 - Diablo, Diablo II, & Diablo III [(www)](https://en.wikipedia.org/wiki/Diablo_(series))
-- Darkest Dungeon [(GoG)](https://www.gog.com/game/darkest_dungeon)
-- Unreal Tournament [(www)](https://en.wikipedia.org/wiki/Unreal_Tournament)
-- Unreal [(www)](https://en.wikipedia.org/wiki/Unreal_(video_game_series))
-- Doom II [(www)](https://en.wikipedia.org/wiki/Doom_(franchise)) [(GoG)](https://www.gog.com/game/doom_ii_final_doom)
-- Doom [(www)](https://en.wikipedia.org/wiki/Doom_(franchise))
-- Final Doom [(www)](https://en.wikipedia.org/wiki/Doom_(franchise)) [(GoG)](https://www.gog.com/game/doom_ii_final_doom)
-- Half-Life [(www)](https://en.wikipedia.org/wiki/Half-Life_(series))
-- Hexen & Hexen II [(www)](https://en.wikipedia.org/wiki/Hexen:_Beyond_Heretic)
-- Quake 2 [(www)](https://en.wikipedia.org/wiki/Quake_(series))
+- [Darkest Dungeon](https://www.gog.com/game/darkest_dungeon)
+- [Unreal Tournament](https://en.wikipedia.org/wiki/Unreal_Tournament)
+- [Unreal](https://en.wikipedia.org/wiki/Unreal_(video_game_series))
+- [Doom II](https://en.wikipedia.org/wiki/Doom_(franchise)) [(GoG)](https://www.gog.com/game/doom_ii_final_doom)
+- [Doom](https://en.wikipedia.org/wiki/Doom_(franchise))
+- [Final Doom](https://en.wikipedia.org/wiki/Doom_(franchise)) [(GoG)](https://www.gog.com/game/doom_ii_final_doom)
+- [Half-Life](https://en.wikipedia.org/wiki/Half-Life_(series))
+- [Hexen](https://en.wikipedia.org/wiki/Hexen:_Beyond_Heretic) & Hexen II
+- [Quake 2](https://en.wikipedia.org/wiki/Quake_(series))
 
 ### Windows/PC - Recently Added to Collection
 
+- Riverbond
 - [XCOM 2](https://store.epicgames.com/en-US/p/xcom-2)
 - [Insurmountable](https://store.epicgames.com/en-US/p/insurmountable-b02c31)
 - [Black Widow: Recharged](https://www.epicgames.com/store/en-US/p/black-widow-recharged)
 - [Centipede: Recharged](https://www.epicgames.com/store/en-US/p/centipede-recharged)
 - [Galactic Civilizations III](https://www.epicgames.com/store/en-US/p/galactic-civilizations-iii)
 - [Pathfinder: Kingmaker](https://www.epicgames.com/store/en-US/p/pathfinder-kingmaker) - Enhanced Plus Edition
-- Barotrauma [(www)](https://barotraumagame.com) [(Steam)](https://store.steampowered.com/app/602960/Barotrauma/)
+- [Barotrauma](https://barotraumagame.com)
 - [PC Building Simulator](https://www.epicgames.com/store/en-US/p/pc-building-simulator)
-- The Lion's Song [(Epic)](https://www.epicgames.com/store/en-US/p/the-lions-song)
-- The Pillars of the Earth [(Epic)](https://www.epicgames.com/store/en-US/p/ken-follets-the-pillars-of-the-earth)
-- The First Tree [(Epic)](https://www.epicgames.com/store/en-US/p/the-first-tree)
-- Mainframe Defenders [(Steam)](https://store.steampowered.com/app/1184810/Mainframe_Defenders/)
-- Borderlands 3 [(www)](https://borderlands.com)
-- Deep Sky Derelicts [(GoG)](https://www.gog.com/game/deep_sky_derelicts)
-- Frostpunk [(GoG)](https://www.gog.com/game/frostpunk)
-- Rage 2 [(Epic)](https://www.epicgames.com/store/en-US/product/rage-2/home)
-- Scythe: Digital Edition [(GoG)](https://www.gog.com/game/scythe_digital_edition)
+- [The Lion's Song](https://www.epicgames.com/store/en-US/p/the-lions-song)
+- [The Pillars of the Earth](https://www.epicgames.com/store/en-US/p/ken-follets-the-pillars-of-the-earth)
+- [The First Tree](https://www.epicgames.com/store/en-US/p/the-first-tree)
+- [Mainframe Defenders](https://store.steampowered.com/app/1184810/Mainframe_Defenders/)
+- [Borderlands 3](https://borderlands.com)
+- [Deep Sky Derelicts](https://www.gog.com/game/deep_sky_derelicts)
+- [Frostpunk](https://www.gog.com/game/frostpunk)
+- [Rage 2](https://www.epicgames.com/store/en-US/product/rage-2/home)
+- [Scythe: Digital Edition](https://www.gog.com/game/scythe_digital_edition)
 
 ### Windows/PC - Most Wanted Games
 
-- Baldur’s Gate 3 [(www)](https://baldursgate3.game/)
-- Cyberpunk 2077 [(GoG)](https://www.gog.com/game/cyberpunk_2077)
-- Gamedec [(www)](https://www.gamedec.com/)
-- Observer [(www)](https://www.blooberteam.com/observer_)
-- Rebel Galaxy Outlaw [(www)](https://rebel-galaxy.com/)
-- Torchlight III [(Steam)](https://store.steampowered.com/app/1030210/Torchlight_III)
+- [Baldur’s Gate 3](https://baldursgate3.game/)
+- [Cyberpunk 2077](https://www.gog.com/game/cyberpunk_2077)
+- [Gamedec](https://www.gamedec.com/)
+- [Observer](https://www.blooberteam.com/observer_)
+- [Rebel Galaxy Outlaw](https://rebel-galaxy.com/)
+- [Torchlight III](https://store.steampowered.com/app/1030210/Torchlight_III)
 
 ### Windows/PC - Games That I Want
 
-- Thunder Tier One [Steam](https://store.steampowered.com/app/377300/Thunder_Tier_One/)
-- Breathedge [(Epic)](https://www.epicgames.com/store/en-US/p/breathedge)
-- Curse of the Dead Gods [(Epic)](https://www.epicgames.com/store/en-US/p/curse-of-the-dead-gods)
-- Cyberpunk 2077 [(GoG)](https://www.gog.com/game/cyberpunk_2077)
-- Lands of Lore: Guardians of Destiny [(GoG)](https://www.gog.com/game/lands_of_lore_1_2)
-- Lands of Lore: The Throne of Chaos [(GoG)](https://www.gog.com/game/lands_of_lore_1_2)
-- Project Wingman [(GoG)](https://www.gog.com/game/project_wingman)
-- Rebel Galaxy Outlaw [(www)](https://rebel-galaxy.com/)
-- Subnautica Below Zero [(Epic)](https://www.epicgames.com/store/en-US/p/subnautica-below-zero)
+- [Thunder Tier One](https://store.steampowered.com/app/377300/Thunder_Tier_One/)
+- [Breathedge](https://www.epicgames.com/store/en-US/p/breathedge)
+- [Curse of the Dead Gods](https://www.epicgames.com/store/en-US/p/curse-of-the-dead-gods)
+- [Cyberpunk 2077](https://www.gog.com/game/cyberpunk_2077)
+- [Project Wingman](https://www.gog.com/game/project_wingman)
+- [Rebel Galaxy Outlaw](https://rebel-galaxy.com/)
+- [Subnautica Below Zero](https://www.epicgames.com/store/en-US/p/subnautica-below-zero)
 
 ### Windows/PC - Games I Have/Own
 
