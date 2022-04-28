@@ -1,8 +1,8 @@
-## Amiga
+#### Amiga
 
 A list of all of the games I currently have for the Amiga. Note: Most of these are in .adf format.
 
-### Amiga - All-time Favorite Games
+#### Amiga - All-time Favorite Games
 
 - Another World (1991)
 - Black Crypt (1992)
@@ -19,7 +19,7 @@ A list of all of the games I currently have for the Amiga. Note: Most of these a
 - Speedball 2
 - Supremacy (1994)
 
-### Amiga - Last Six added to the Collection
+#### Amiga - Last Six added to the Collection
 
 - Zombie Apocalypse (1992)
 - Zombi (1989)
@@ -28,7 +28,7 @@ A list of all of the games I currently have for the Amiga. Note: Most of these a
 - Xenomorph (1990)
 - Worms (1995)
 
-### Amiga - Games Collections
+#### Amiga - Games Collections
 
 A list of games that I have on both my Amiga and my RetroPie box.
 
@@ -112,7 +112,7 @@ A list of games that I have on both my Amiga and my RetroPie box.
 - Zombi (1989)
 - Zombie Apocalypse (1992)
 
-### Amiga Links
+#### Amiga Links
 
 - [Amiga](https://en.wikipedia.org/wiki/Amiga)
 - [AmigaDOS](https://en.wikipedia.org/wiki/AmigaDOS)
