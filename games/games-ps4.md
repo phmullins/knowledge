@@ -1,4 +1,4 @@
-### PlayStation 4
+#### PlayStation 4
 
 Up until recently I had considered myself just an ordinary gamer and wasn't particularly loyal to any platform or system in 
 general. After all, a game is a game, right? Who cares what console and/or system it's being played on? At least that's what 
@@ -11,14 +11,14 @@ Xbox One. Why, you might ask? I can't say for sure. It just feels right to me. W
 the company behind it have always felt somewhat forced. Then again, maybe I only prefer black and dark blue versus black 
 and forest green. Who's to say?
 
-### PlayStation 4 - All-time Favorite Games
+#### PlayStation 4 - All-time Favorite Games
 
 - Batman: Arkham Asylum
 - Borderlands 2
 - Diablo III: Eternal Collection
 - The Elder Scrolls V: Skyrim
 
-### PlayStation 4 - Recently Added to Collection
+#### PlayStation 4 - Recently Added to Collection
 
 - [Cyberpunk 2077](https://www.cyberpunk.net/en/)
 - [Hood: Outlaws & Legends](https://www.playstation.com/en-us/games/hood-outlaws-and-legends/)
@@ -35,7 +35,7 @@ and forest green. Who's to say?
 - [Call of Duty: Warzone](https://www.callofduty.com/warzone)
 - [Gods: Remastered](https://www.robotriotgames.com/gods_remastered.html)
 
-### PlayStation 4 - Most Wanted Games
+#### PlayStation 4 - Most Wanted Games
 
 - [Achtung! Cthulhu Tactics](https://www.playstation.com/en-us/games/achtung-cthulhu-tactics-ps4/)
 - [Beyond Good and Evil 2](https://beyondgoodandevil.ubisoft.com/en-us/)
@@ -47,7 +47,7 @@ and forest green. Who's to say?
 - [Rage 2](https://www.playstation.com/en-us/games/rage-2-ps4/) [(www)](https://bethesda.net/en/game/rage2)
 - [Skull & Bones](https://skullandbones.ubisoft.com/game/en-us/home/index.aspx)
 
-### PlayStation 4 - Hardware that I want
+#### PlayStation 4 - Hardware that I want
 
 - [PlayStation 4 Pro](https://www.playstation.com/en-us/explore/ps4-pro)
 - [PlayStation Aim Controller](https://www.playstation.com/en-us/explore/accessories/playstation-vr-aim-controller/)
@@ -56,7 +56,7 @@ and forest green. Who's to say?
 - [PlayStation VR](https://www.playstation.com/en-us/explore/playstation-vr) 
 - [SCUF Vantage Controller](https://www.playstation.com/en-us/explore/accessories/vantage/) 
 
-### PlayStation 4 - Games that I want
+#### PlayStation 4 - Games that I want
 
 - [Horizon Forbidden West](https://www.playstation.com/en-us/games/horizon-forbidden-west/)
 - [Alienation](https://youtu.be/AaJ1YoSHATE)
@@ -82,7 +82,7 @@ and forest green. Who's to say?
 - [Watch Dogs 2](https://www.playstation.com/en-us/games/watch-dogs-2-ps4/)
 - [Yaga](https://yaga-game.com/)
 
-### PlayStation 4 - Games that I Have/Own
+#### PlayStation 4 - Games that I Have/Own
 
 - [7th Sector](https://store.playstation.com/en-us/product/UP1675-CUSA15797_00-SYPS47THSECTOR00)
 - [A Plague Tale: Innocence](http://aplaguetale.com/)
@@ -151,7 +151,7 @@ and forest green. Who's to say?
 - [We Are The Dwarves](http://wearethedwarves.com/press/#description)
 - [WipEout Omega Collection](https://www.playstation.com/en-us/games/wipeout-omega-collection-ps4/)
 
-### PlayStation 4 - Links
+#### PlayStation 4 - Links
 
 - [PlayStation](https://www.playstation.com/en-us/)
 - [PlayStation 4 Games](https://www.playstation.com/en-us/explore/games/ps4-games/?console=ps4)
