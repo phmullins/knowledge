@@ -115,6 +115,7 @@ Legend: (P1) to (P3) = Priority ranked in order from most important (P1) to leas
 
 ### Nintendo Switch - Games That I Want
 
+- [Nintendo Switch Sports](https://www.nintendo.com/store/products/nintendo-switch-sports-switch/) (D)
 - [Clue: The Classic Mystery Game](https://www.nintendo.com/games/detail/clue-the-classic-mystery-game-switch/) (D)
 - [Battleship](https://www.nintendo.com/games/detail/battleship-switch/) (D)
 - [Wingspan](https://www.nintendo.com/games/detail/wingspan-switch/) (D)
