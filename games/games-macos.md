@@ -19,6 +19,7 @@ and/or port them.
 
 ### macOS - Games Recently Added to Collection
 
+- [Starcraft 2](https://starcraft2.com/en-us/)
 - Barotrauma [(www)](https://barotraumagame.com) [(Steam)](https://store.steampowered.com/app/602960/Barotrauma/)
 - while True: learn() [Epic](https://www.epicgames.com/store/en-US/p/while-true-learn)
 - [Europa Universalis IV](https://www.epicgames.com/store/en-US/p/europa-universalis-iv)
