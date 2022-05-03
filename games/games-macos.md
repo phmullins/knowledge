@@ -12,21 +12,21 @@ and/or port them.
 ### macOS - All-time Favorite Games
 
 - Borderlands 2
-- Borderlands 3 [(Dev)](https://boderlands.com)
-- Darkest Dungeon - [(GoG)](https://www.gog.com/game/darkest_dungeon)
+- [Borderlands 3](https://boderlands.com)
+- [Darkest Dungeon](https://www.gog.com/game/darkest_dungeon)
 - Diablo III 
 - Torchlight 
 
 ### macOS - Games Recently Added to Collection
 
 - [Starcraft 2](https://starcraft2.com/en-us/)
-- Barotrauma [(www)](https://barotraumagame.com) [(Steam)](https://store.steampowered.com/app/602960/Barotrauma/)
-- while True: learn() [Epic](https://www.epicgames.com/store/en-US/p/while-true-learn)
+- [Barotrauma](https://barotraumagame.com)
+- [while True: learn()](https://www.epicgames.com/store/en-US/p/while-true-learn)
 - [Europa Universalis IV](https://www.epicgames.com/store/en-US/p/europa-universalis-iv)
-- Syndicate Wars [GoG](https://www.gog.com/game/syndicate_wars)
-- Populous [(GoG)](https://www.gog.com/game/populous)
-- Populous 2: Trials of the Olympian Gods [(GoG)](https://www.gog.com/game/populous_2)
-- Caves of Qud [(GoG)](https://www.gog.com/game/caves_of_qud)
+- [Syndicate Wars](https://www.gog.com/game/syndicate_wars)
+- [Populous](https://www.gog.com/game/populous)
+- [Populous 2: Trials of the Olympian Gods](https://www.gog.com/game/populous_2)
+- [Caves of Qud](https://www.gog.com/game/caves_of_qud)
 - Baldur's Gate: Enhanced Edition [(GoG)](https://www.gog.com/game/baldurs_gate_enhanced_edition)
 - Baldur's Gate: Siege of Dragonspear [(GoG)](https://www.gog.com/game/baldurs_gate_siege_of_dragonspear)
 - Baldur's Gate II: Enhanced Edition [(GoG)](https://www.gog.com/game/baldurs_gate_2_enhanced_edition)	
