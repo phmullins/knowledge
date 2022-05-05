@@ -59,6 +59,7 @@ and forest green. Who's to say?
 #### PlayStation 4 - Games that I want
 
 - [Horizon Forbidden West](https://www.playstation.com/en-us/games/horizon-forbidden-west/)
+- [The Savage Planet](https://savageplanetgame.com/)
 - [Alienation](https://youtu.be/AaJ1YoSHATE)
 - [BioShock: The Collection](https://www.playstation.com/en-us/games/bioshock-the-collection-ps4/)
 - [Call of Duty: Advanced Warfare](https://www.playstation.com/en-us/games/call-of-duty-advanced-warfare-ps4/)
@@ -77,7 +78,6 @@ and forest green. Who's to say?
 - [Stellaris](https://www.playstation.com/en-us/games/stellaris-console-edition-ps4/) [(www)](https://www.paradoxplaza.com/stellaris)
 - [Tempest 4000](https://www.playstation.com/en-us/games/tempest-4000-ps4/)
 - [The Mage's Tale](https://www.playstation.com/en-us/games/the-mages-tale-ps4/) - [(www)](https://www.inxile-entertainment.com/magestale) (PSVR)
-- [The Savage Planet](https://savageplanetgame.com/)
 - [Tom Clancy's The Division](https://www.playstation.com/en-us/games/tom-clancys-the-division-ps4/)
 - [Watch Dogs 2](https://www.playstation.com/en-us/games/watch-dogs-2-ps4/)
 - [Yaga](https://yaga-game.com/)
