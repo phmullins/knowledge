@@ -19,6 +19,7 @@ and/or port them.
 
 ### macOS - Games Recently Added to Collection
 
+- [Terraforming Mars](https://www.fryxgames.se/games/terraforming-mars/)
 - [Starcraft 2](https://starcraft2.com/en-us/)
 - [Barotrauma](https://barotraumagame.com)
 - [while True: learn()](https://www.epicgames.com/store/en-US/p/while-true-learn)
