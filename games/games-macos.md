@@ -19,6 +19,7 @@ and/or port them.
 
 ### macOS - Games Recently Added to Collection
 
+- [Age of Wonders: Planetfall - Deluxe Edition](https://www.gog.com/en/game/age_of_wonders_planetfall_deluxe_edition)
 - [Terraforming Mars](https://www.fryxgames.se/games/terraforming-mars/)
 - [Starcraft 2](https://starcraft2.com/en-us/)
 - [Barotrauma](https://barotraumagame.com)
