@@ -135,7 +135,6 @@ Legend: (P1) to (P3) = Priority ranked in order from most important (P1) to leas
 - [Wingspan](https://www.nintendo.com/games/detail/wingspan-switch/) (D)
 - [Golf Club Wasteland](https://www.nintendo.com/games/detail/golf-club-wasteland-switch/) (D)
 - [Centipede: Recharged](https://www.nintendo.com/games/detail/centipede-recharged-switch/) (D)
-- [Tails Of Iron](https://www.nintendo.com/games/detail/tails-of-iron-switch/) (D)
 - [Alien Escape](https://www.nintendo.com/games/detail/alien-escape-switch/) (D)
 - [Another World](https://www.nintendo.com/games/detail/another-world-switch) (D)
 - [Battleship](https://www.nintendo.com/games/detail/battleship-switch/) (D)
