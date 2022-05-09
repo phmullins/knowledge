@@ -97,6 +97,7 @@ Legend: (P1) to (P3) = Priority ranked in order from most important (P1) to leas
 - [Shadowrun Returns](https://www.nintendo.com/games/detail/shadowrun-returns-switch/) (P1)
 - [Shadowrun: Dragonfall - Director's Cut](https://www.nintendo.com/games/detail/shadowrun-dragonfall-directors-cut-switch/) (P1)
 - [Shadowrun: Hong Kong - Extended Edition](https://www.nintendo.com/games/detail/shadowrun-hong-kong-extended-edition-switch/) (P1)
+- [Citizen Sleeper](https://www.nintendo.com/store/products/citizen-sleeper-switch/) (P1)
 - [Mandragora](https://mandragoragame.com/#home) (P1)
 - [Metroid Dread](https://www.nintendo.com/games/detail/metroid-dread-switch/) (P1)
 - [Subnautica + Subnautica: Below Zero](https://www.nintendo.com/games/detail/subnautica-plus-subnautica-below-zero-switch/) (P1)
