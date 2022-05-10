@@ -21,7 +21,8 @@ the PC.
 
 ### Windows/PC - Recently Added to Collection
 
-- Riverbond
+- [Gamedec](https://gamedec.com/)
+- [Riverbond](https://cococucumber.co/home/riverbond/)
 - [XCOM 2](https://store.epicgames.com/en-US/p/xcom-2)
 - [Insurmountable](https://store.epicgames.com/en-US/p/insurmountable-b02c31)
 - [Black Widow: Recharged](https://www.epicgames.com/store/en-US/p/black-widow-recharged)
