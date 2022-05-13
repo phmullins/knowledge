@@ -21,6 +21,9 @@ the PC.
 
 ### Windows/PC - Recently Added to Collection
 
+- [Redout: Enhanced Edition](https://store.epicgames.com/en-US/p/redout-enhanced-edition)
+- [Prey](https://store.epicgames.com/en-US/p/prey)
+- [Jotun: Valhalla Edition](https://store.epicgames.com/en-US/p/jotun)
 - [Gamedec](https://gamedec.com/)
 - [Riverbond](https://cococucumber.co/home/riverbond/)
 - [XCOM 2](https://store.epicgames.com/en-US/p/xcom-2)
