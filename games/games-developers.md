@@ -38,8 +38,10 @@
 - [Capybara Games](http://www.capybaragames.com/)
 - [Cloud Imperium Games](https://cloudimperiumgames.com/)
 - [Coffee Stain Studios](https://www.coffeestainstudios.com/)
+- [Finji](https://finji.co//)
 - [Hello Games](http://hellogames.org/)
 - [Klei Entertainment](https://klei.com/)
+- [Paradox Interactive](https://www.paradoxinteractive.com/)
 - [Playdead](https://playdead.com/)
 
 ## Game Engines
