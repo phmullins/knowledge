@@ -44,6 +44,7 @@ and/or port them.
 
 ### macOS - Most Wanted Games
 
+- [Tiny Tina's Wonderlands](https://store.epicgames.com/en-US/p/tiny-tinas-wonderlands)
 - [Outriders](https://www.epicgames.com/store/en-US/p/outriders)
 - [Achtung! Cthulhu Tactics](https://store.steampowered.com/app/874460/Achtung_Cthulhu_Tactics/)
 - [Artifact](https://store.steampowered.com/app/583950/Artifact/)
