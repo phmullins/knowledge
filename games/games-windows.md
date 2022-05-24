@@ -21,7 +21,8 @@ the PC.
 
 ### Windows/PC - Recently Added to Collection
 
-- Rebel Galaxy Outlaw
+- [Heretic: Shadow of the Serpent Riders](https://www.gog.com/en/game/heretic_shadow_of_the_serpent_riders)
+- [Rebel Galaxy Outlaw](https://rebel-galaxy.com/)
 - [Redout: Enhanced Edition](https://store.epicgames.com/en-US/p/redout-enhanced-edition)
 - [Prey](https://store.epicgames.com/en-US/p/prey)
 - [Jotun: Valhalla Edition](https://store.epicgames.com/en-US/p/jotun)
