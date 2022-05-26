@@ -21,6 +21,7 @@ the PC.
 
 ### Windows/PC - Recently Added to Collection
 
+- [HeXen: Deathkings of the Dark Citadel](https://www.gog.com/en/game/hexen_deathkings_of_the_dark_citadel)
 - [HeXen: Beyond Heretic](https://www.gog.com/en/game/hexen_beyond_heretic)
 - [Heretic: Shadow of the Serpent Riders](https://www.gog.com/en/game/heretic_shadow_of_the_serpent_riders)
 - [Rebel Galaxy Outlaw](https://rebel-galaxy.com/)
