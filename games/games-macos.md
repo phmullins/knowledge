@@ -19,6 +19,7 @@ and/or port them.
 
 ### macOS - Games Recently Added to Collection
 
+- [Loop Hero](https://www.gog.com/en/game/loop_hero)
 - [Jotun: Valhalla Edition](https://store.epicgames.com/en-US/p/jotun) (Epic)
 - [Age of Wonders: Planetfall - Deluxe Edition](https://www.gog.com/en/game/age_of_wonders_planetfall_deluxe_edition) (GoG)
 - [Terraforming Mars](https://www.fryxgames.se/games/terraforming-mars/) (www)
