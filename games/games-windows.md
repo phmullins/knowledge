@@ -21,6 +21,8 @@ the PC.
 
 ### Windows/PC - Recently Added to Collection
 
+- [BioShock Remastered](https://store.epicgames.com/en-US/p/bioshock-remastered)
+- [Loop Hero](https://www.gog.com/en/game/loop_hero)
 - [HeXen II](https://www.gog.com/en/game/hexen_ii)
 - [HeXen: Deathkings of the Dark Citadel](https://www.gog.com/en/game/hexen_deathkings_of_the_dark_citadel)
 - [HeXen: Beyond Heretic](https://www.gog.com/en/game/hexen_beyond_heretic)
