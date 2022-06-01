@@ -21,6 +21,8 @@ the PC.
 
 ### Windows/PC - Recently Added to Collection
 
+- [BioShock Infinite: Complete Edition](https://store.epicgames.com/en-US/p/bioshock-infinite-complete-edition)
+- [BioShock 2 Remastered](https://store.epicgames.com/en-US/p/bioshock-2-remastered)
 - [BioShock Remastered](https://store.epicgames.com/en-US/p/bioshock-remastered)
 - [Loop Hero](https://www.gog.com/en/game/loop_hero)
 - [HeXen II](https://www.gog.com/en/game/hexen_ii)
