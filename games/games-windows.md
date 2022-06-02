@@ -21,6 +21,7 @@ the PC.
 
 ### Windows/PC - Recently Added to Collection
 
+- [Star Trek: Bridge Commander](https://www.gog.com/game/star_trek_bridge_commander)
 - [BioShock Infinite: Complete Edition](https://store.epicgames.com/en-US/p/bioshock-infinite-complete-edition)
 - [BioShock 2 Remastered](https://store.epicgames.com/en-US/p/bioshock-2-remastered)
 - [BioShock Remastered](https://store.epicgames.com/en-US/p/bioshock-remastered)
