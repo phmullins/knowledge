@@ -54,6 +54,7 @@ for quite some time.
 
 Games that I've recently bought digitally from the Nintendo Switch Store or physical carts. Legend: Digital = (D). Cartridge = (C).
 
+- [Warhammer 40,000: Mechanicus](https://www.nintendo.com/store/products/warhammer-40000-mechanicus-switch/)
 - [Borderlands: Game of The Year Edition](https://www.nintendo.com/store/products/borderlands-game-of-the-year-edition-switch/) (D)
 - [Call of Cthulhu](https://www.nintendo.com/store/products/call-of-cthulhu-switch/) (D)
 - [Invisible, Inc.](https://www.nintendo.com/store/products/invisible-inc-nintendo-switch-edition-switch/) (D)
