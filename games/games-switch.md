@@ -54,7 +54,8 @@ for quite some time.
 
 Games that I've recently bought digitally from the Nintendo Switch Store or physical carts. Legend: Digital = (D). Cartridge = (C).
 
-- [Warhammer 40,000: Mechanicus](https://www.nintendo.com/store/products/warhammer-40000-mechanicus-switch/)
+- [Shadowrun Returns](https://www.nintendo.com/store/products/shadowrun-returns-switch/) (D)
+- [Warhammer 40,000: Mechanicus](https://www.nintendo.com/store/products/warhammer-40000-mechanicus-switch/) (D)
 - [Borderlands: Game of The Year Edition](https://www.nintendo.com/store/products/borderlands-game-of-the-year-edition-switch/) (D)
 - [Call of Cthulhu](https://www.nintendo.com/store/products/call-of-cthulhu-switch/) (D)
 - [Invisible, Inc.](https://www.nintendo.com/store/products/invisible-inc-nintendo-switch-edition-switch/) (D)
@@ -94,6 +95,7 @@ Games that I've recently bought digitally from the Nintendo Switch Store or phys
 
 Legend: (P1) to (P3) = Priority ranked in order from most important (P1) to least important (P4).
 
+- [Gamedec](https://youtu.be/x8u42vNBiXU) (P0)
 - [Bear and Breakfast](https://www.nintendo.com/games/detail/bear-and-breakfast-switch/) (P1)
 - [LEGO Star Wars: The Skywalker Saga](https://www.starwars.com/games-apps/lego-star-wars-the-skywalker-saga) (P1)
 - [Shadowrun Returns](https://www.nintendo.com/games/detail/shadowrun-returns-switch/) (P1)
@@ -176,8 +178,10 @@ Legend: (P1) to (P3) = Priority ranked in order from most important (P1) to leas
 - [Beautiful Desolation](https://www.nintendo.com/games/detail/beautiful-desolation-switch/) (D)
 - [Black The Fall](https://www.nintendo.com/games/detail/black-the-fall-switch/) (D)
 - [Borderlands: The Handsome Collection](https://www.nintendo.com/games/detail/borderlands-the-handsome-collection-switch/) (D)
+- [Borderlands: Game of The Year Edition](https://www.nintendo.com/store/products/borderlands-game-of-the-year-edition-switch/) (D)
 - [Breathedge](https://www.nintendo.com/games/detail/breathedge-switch/) (D)
 - [Burnout: Paradise (Remastered)](https://www.nintendo.com/games/detail/burnout-paradise-remastered-switch/) (D)
+- [Call of Cthulhu](https://www.nintendo.com/store/products/call-of-cthulhu-switch/) (D)
 - [Carcassonne](https://www.nintendo.com/games/detail/carcassonne-switch/) (D)
 - [Cat Quest](https://www.nintendo.com/games/detail/cat-quest-switch/) (D)
 - [Cozy Grove](https://www.nintendo.com/games/detail/cozy-grove-switch/) (D)
@@ -228,6 +232,7 @@ Legend: (P1) to (P3) = Priority ranked in order from most important (P1) to leas
 - [The Outer Worlds](https://www.nintendo.com/games/detail/the-outer-worlds-switch/) (D)
 - [Rebel Galaxy: Outlaw](https://rebel-galaxy.com/) (D)
 - [Rogue Bit](https://www.nintendo.com/games/detail/rogue-bit-switch/) (D)
+- [Shadowrun Returns](https://www.nintendo.com/store/products/shadowrun-returns-switch/)
 - [Sid Meier's Civilization VI](https://www.nintendo.com/games/detail/sid-meiers-civilization-vi-switch) (D)
 - [Subnautica](https://www.nintendo.com/games/detail/subnautica-switch/) (C)
 - [Subnautica: Below Zero](https://www.nintendo.com/games/detail/subnautica-below-zero-switch/) (C)
@@ -239,6 +244,7 @@ Legend: (P1) to (P3) = Priority ranked in order from most important (P1) to leas
 - [Uno](https://www.nintendo.com/games/detail/uno-for-nintendo-switch-switch/) (D)
 - [Unravel Two](https://www.nintendo.com/games/detail/unravel-two-switch/) (D)
 - [The Wild at Heart](https://www.nintendo.com/games/detail/the-wild-at-heart-switch/) (D)
+- [Warhammer 40,000: Mechanicus](https://www.nintendo.com/store/products/warhammer-40000-mechanicus-switch/) (D)
 - [Wind Peaks](https://www.nintendo.com/games/detail/wind-peaks-switch/) (D)
 - [Worms W.M.D](https://www.nintendo.com/games/detail/worms-wmd-switch/) (D)
 - [Yoku's Island Express](https://www.nintendo.com/games/detail/yokus-island-express-switch/) (D)
