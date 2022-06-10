@@ -98,7 +98,6 @@ Legend: (P1) to (P3) = Priority ranked in order from most important (P1) to leas
 - [Gamedec](https://youtu.be/x8u42vNBiXU) (P1)
 - [Bear and Breakfast](https://www.nintendo.com/games/detail/bear-and-breakfast-switch/) (P1)
 - [LEGO Star Wars: The Skywalker Saga](https://www.starwars.com/games-apps/lego-star-wars-the-skywalker-saga) (P1)
-- [Shadowrun Returns](https://www.nintendo.com/games/detail/shadowrun-returns-switch/) (P1)
 - [Shadowrun: Dragonfall - Director's Cut](https://www.nintendo.com/games/detail/shadowrun-dragonfall-directors-cut-switch/) (P1)
 - [Shadowrun: Hong Kong - Extended Edition](https://www.nintendo.com/games/detail/shadowrun-hong-kong-extended-edition-switch/) (P1)
 - [Citizen Sleeper](https://www.nintendo.com/store/products/citizen-sleeper-switch/) (P1)
@@ -223,30 +222,39 @@ Legend: (P1) to (P3) = Priority ranked in order from most important (P1) to leas
 - [Knights of Pen & Paper 2: Deluxiest Edition](https://www.nintendo.com/games/detail/knights-of-pen-and-paper-2-deluxiest-edition-switch/) (D)
 - [The Legend of Zelda: Breath of the Wild](https://www.nintendo.com/games/detail/the-legend-of-zelda-breath-of-the-wild-switch) (C)
 - [The Long Dark](https://www.nintendo.com/games/detail/the-long-dark-switch/) (D) 
+#### [M]
 - [Mario + Rabbids Kingdom Battle](https://www.nintendo.com/games/detail/mario-plus-rabbids-kingdom-battle-switch/) (C)(D)
 - [Minecraft Dungeons](https://www.nintendo.com/games/detail/minecraft-dungeons-switch/) (D)
 - [Moonlighter](https://www.nintendo.com/games/detail/moonlighter-switch) (D)
 - [Mudrunner: American Wilds](https://www.nintendo.com/games/detail/mudrunner-american-wilds-switch/) (D)
 - [Mutant Year Zero: Road to Eden Deluxe](https://www.nintendo.com/games/detail/mutant-year-zero-road-to-eden-deluxe-edition-switch/) (D) 
-- [Pathway](https://www.nintendo.com/games/detail/pathway-switch/) (D)
+#### [O]
 - [The Outer Worlds](https://www.nintendo.com/games/detail/the-outer-worlds-switch/) (D)
+#### [P]
+- [Pathway](https://www.nintendo.com/games/detail/pathway-switch/) (D)
+#### [R]
 - [Rebel Galaxy: Outlaw](https://rebel-galaxy.com/) (D)
 - [Rogue Bit](https://www.nintendo.com/games/detail/rogue-bit-switch/) (D)
-- [Shadowrun Returns](https://www.nintendo.com/store/products/shadowrun-returns-switch/)
+#### [S]
+- [Shadowrun Returns](https://www.nintendo.com/store/products/shadowrun-returns-switch/) (D)
 - [Sid Meier's Civilization VI](https://www.nintendo.com/games/detail/sid-meiers-civilization-vi-switch) (D)
 - [Subnautica](https://www.nintendo.com/games/detail/subnautica-switch/) (C)
 - [Subnautica: Below Zero](https://www.nintendo.com/games/detail/subnautica-below-zero-switch/) (C)
 - [Superbrothers: Sword & Sworcery EP](https://www.nintendo.com/games/detail/superbrothers-sword-and-sworcery-ep-switch) (P3)
+#### [T]
 - [Toby: The Secret Mine](https://www.nintendo.com/games/detail/toby-the-secret-mine-switch/) (D)
 - [Torchlight II](https://www.nintendo.com/games/detail/torchlight-2-switch/) (D)
 - [Torchlight III](https://www.nintendo.com/games/detail/torchlight-iii-switch/) (D)
 - [Transistor](https://www.nintendo.com/games/detail/transistor-switch) (D)
+#### [U]
 - [Uno](https://www.nintendo.com/games/detail/uno-for-nintendo-switch-switch/) (D)
 - [Unravel Two](https://www.nintendo.com/games/detail/unravel-two-switch/) (D)
-- [The Wild at Heart](https://www.nintendo.com/games/detail/the-wild-at-heart-switch/) (D)
+#### [W]
 - [Warhammer 40,000: Mechanicus](https://www.nintendo.com/store/products/warhammer-40000-mechanicus-switch/) (D)
+- [The Wild at Heart](https://www.nintendo.com/games/detail/the-wild-at-heart-switch/) (D)
 - [Wind Peaks](https://www.nintendo.com/games/detail/wind-peaks-switch/) (D)
 - [Worms W.M.D](https://www.nintendo.com/games/detail/worms-wmd-switch/) (D)
+#### [Y]
 - [Yoku's Island Express](https://www.nintendo.com/games/detail/yokus-island-express-switch/) (D)
 
 ### Nintendo Switch - Links
