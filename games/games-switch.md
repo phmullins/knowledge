@@ -54,6 +54,7 @@ for quite some time.
 
 Games that I've recently bought digitally from the Nintendo Switch Store or physical carts. Legend: Digital = (D). Cartridge = (C).
 
+- [Shadowrun: Hong Kong - Extended Edition](https://www.nintendo.com/store/products/shadowrun-hong-kong-extended-edition-switch/) (D)
 - [Shadowrun Returns](https://www.nintendo.com/store/products/shadowrun-returns-switch/) (D)
 - [Warhammer 40,000: Mechanicus](https://www.nintendo.com/store/products/warhammer-40000-mechanicus-switch/) (D)
 - [Borderlands: Game of The Year Edition](https://www.nintendo.com/store/products/borderlands-game-of-the-year-edition-switch/) (D)
@@ -250,6 +251,7 @@ Legend: (P1) to (P3) = Priority ranked in order from most important (P1) to leas
 - [Rogue Bit](https://www.nintendo.com/games/detail/rogue-bit-switch/) (D)
 #### [S]
 - [Shadowrun Returns](https://www.nintendo.com/store/products/shadowrun-returns-switch/) (D)
+- [Shadowrun: Hong Kong - Extended Edition](https://www.nintendo.com/store/products/shadowrun-hong-kong-extended-edition-switch/) (D)
 - [Sid Meier's Civilization VI](https://www.nintendo.com/games/detail/sid-meiers-civilization-vi-switch) (D)
 - [Subnautica](https://www.nintendo.com/games/detail/subnautica-switch/) (C)
 - [Subnautica: Below Zero](https://www.nintendo.com/games/detail/subnautica-below-zero-switch/) (C)
