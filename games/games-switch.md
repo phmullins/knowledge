@@ -121,6 +121,7 @@ Legend: (P1) to (P3) = Priority ranked in order from most important (P1) to leas
 
 ### Nintendo Switch - Games That I Want
 
+- [No Man's Sky](https://www.nintendo.com/store/products/no-mans-sky-switch/)
 - [Stardew Valley](https://www.nintendo.com/store/products/stardew-valley-switch/) (D)
 - [Cozy Grove: New Neighbears](https://www.nintendo.com/store/products/cozy-grove-new-neighbears-switch/) (D)
 - [LEGO Star Wars: The Skywalker Saga](https://www.nintendo.com/store/products/lego-star-wars-the-skywalker-saga-switch/) (D)
