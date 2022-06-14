@@ -20,6 +20,7 @@ and forest green. Who's to say?
 
 #### PlayStation 4 - Recently Added to Collection
 
+- Nickelodeon All-Star Brawl
 - [Curse of the Dead Gods](https://www.focus-entmt.com/en/games/curse-of-the-dead-gods)
 - [EA SPORTS FIFA 22](https://www.ea.com/games/fifa/fifa-22)
 - [Tribes of Midgard](https://www.tribesofmidgard.com/)
