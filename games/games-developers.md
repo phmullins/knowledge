@@ -2,6 +2,7 @@
 
 - [Activision](https://www.activision.com/)
 - [Arkane Studios](https://www.arkane-studios.com/en)
+- [Asobo Studio](https://www.asobostudio.com/)
 - [Atari](https://www.atari.com/)
 - [Bethesda](https://bethesda.net)
 - [BioWare](http://www.bioware.com/)
