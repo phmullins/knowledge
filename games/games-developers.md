@@ -7,6 +7,7 @@
 - [Bethesda](https://bethesda.net)
 - [BioWare](http://www.bioware.com/)
 - [Blizzard](https://www.blizzard.com/en-us/)
+- [Bungie](https://www.bungie.net/)
 - [CCP Games](https://www.ccpgames.com/)
 - [Crytek](https://www.crytek.com/)
 - [Epic Games](https://www.epicgames.com)
