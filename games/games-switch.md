@@ -121,6 +121,7 @@ Legend: (P1) to (P3) = Priority ranked in order from most important (P1) to leas
 
 ### Nintendo Switch - Games That I Want
 
+- [Mainframe Defenders](https://www.nintendo.com/store/products/mainframe-defenders-switch/)
 - [Loop Hero](https://www.nintendo.com/store/products/loop-hero-switch/) (D)
 - [No Man's Sky](https://www.nintendo.com/store/products/no-mans-sky-switch/) (D)
 - [Citizen Sleeper](https://www.nintendo.com/store/products/citizen-sleeper-switch/) (D)
