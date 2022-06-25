@@ -21,6 +21,8 @@ the PC.
 
 ### Windows/PC - Recently Added to Collection
 
+- Car Mechanic Simulator 2018
+- A Game Of Thrones: The Board Game Digital Edition
 - [Maneater](https://store.epicgames.com/en-US/p/maneater)
 - [Wolfenstein: The New Order](https://store.epicgames.com/en-US/p/wolfenstein-the-new-order)
 - [Star Trek: Bridge Commander](https://www.gog.com/game/star_trek_bridge_commander)
