@@ -243,6 +243,7 @@ Legend: (P1) to (P3) = Priority ranked in order from most important (P1) to leas
 #### [S]
 - [Shadowrun Returns](https://www.nintendo.com/store/products/shadowrun-returns-switch/) (D)
 - [Shadowrun: Hong Kong - Extended Edition](https://www.nintendo.com/store/products/shadowrun-hong-kong-extended-edition-switch/) (D)
+- [Shadowrun: Dragonfall - Director's Cut](https://www.nintendo.com/store/products/shadowrun-dragonfall-directors-cut-switch/) (D)
 - [Sid Meier's Civilization VI](https://www.nintendo.com/games/detail/sid-meiers-civilization-vi-switch) (D)
 - [Subnautica](https://www.nintendo.com/games/detail/subnautica-switch/) (C)
 - [Subnautica: Below Zero](https://www.nintendo.com/games/detail/subnautica-below-zero-switch/) (C)
