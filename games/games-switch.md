@@ -110,16 +110,16 @@ Legend: (P1) to (P3) = Priority ranked in order from most important (P1) to leas
 
 ### Nintendo Switch - Games That I Want
 
+- [No Man's Sky](https://www.nintendo.com/store/products/no-mans-sky-switch/) (D)
+- [Cozy Grove: New Neighbears](https://www.nintendo.com/store/products/cozy-grove-new-neighbears-switch/) (D)
+- [Stardew Valley](https://www.nintendo.com/store/products/stardew-valley-switch/) (D)
+- [LEGO Star Wars: The Skywalker Saga](https://www.nintendo.com/store/products/lego-star-wars-the-skywalker-saga-switch/) (D)
+- [Wytchwood](https://www.nintendo.com/store/products/wytchwood-switch/) (D)
 - [Mainframe Defenders](https://www.nintendo.com/store/products/mainframe-defenders-switch/)
 - [Loop Hero](https://www.nintendo.com/store/products/loop-hero-switch/) (D)
-- [No Man's Sky](https://www.nintendo.com/store/products/no-mans-sky-switch/) (D)
 - [Citizen Sleeper](https://www.nintendo.com/store/products/citizen-sleeper-switch/) (D)
-- [Stardew Valley](https://www.nintendo.com/store/products/stardew-valley-switch/) (D)
-- [Cozy Grove: New Neighbears](https://www.nintendo.com/store/products/cozy-grove-new-neighbears-switch/) (D)
-- [LEGO Star Wars: The Skywalker Saga](https://www.nintendo.com/store/products/lego-star-wars-the-skywalker-saga-switch/) (D)
 - [Nintendo Switch Sports](https://www.nintendo.com/store/products/nintendo-switch-sports-switch/) (D)
 - [Centipede: Recharged](https://www.nintendo.com/store/products/centipede-recharged-switch/) (D)
-- [Wytchwood](https://www.nintendo.com/store/products/wytchwood-switch/) (D)
 - [Unpacking](https://www.nintendo.com/store/products/unpacking-switch/) (D)
 - [Metroid Dread](https://www.nintendo.com/store/products/metroid-dread-switch/) (D)
 - [The Cruel King and the Great Hero](https://www.nintendo.com/store/products/the-cruel-king-and-the-great-hero-switch/) (D)
