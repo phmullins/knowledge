@@ -109,7 +109,9 @@ Legend: (P1) to (P3) = Priority ranked in order from most important (P1) to leas
 - [Pillars of Eternity II: Deadfire](https://eternity.obsidian.net/) (P3)
 
 ### Nintendo Switch - Games That I Want
-
+<!---
+- [Mutant Football League: Dynasty Edition](https://www.nintendo.com/store/products/mutant-football-league-dynasty-edition-switch/) (D)
+-->
 - [Blade Runner](https://www.nintendo.com/store/products/blade-runner-enhanced-edition-switch/) (D)
 - [No Man's Sky](https://www.nintendo.com/store/products/no-mans-sky-switch/) (D)
 - [Cozy Grove: New Neighbears](https://www.nintendo.com/store/products/cozy-grove-new-neighbears-switch/) (D)
