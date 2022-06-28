@@ -110,6 +110,7 @@ Legend: (P1) to (P3) = Priority ranked in order from most important (P1) to leas
 
 ### Nintendo Switch - Games That I Want
 
+- [Blade Runner](https://www.nintendo.com/store/products/blade-runner-enhanced-edition-switch/) (D)
 - [No Man's Sky](https://www.nintendo.com/store/products/no-mans-sky-switch/) (D)
 - [Cozy Grove: New Neighbears](https://www.nintendo.com/store/products/cozy-grove-new-neighbears-switch/) (D)
 - [Stardew Valley](https://www.nintendo.com/store/products/stardew-valley-switch/) (D)
