@@ -1,4 +1,6 @@
-## Nintendo Switch
+### Nintendo Switch
+
+<img width="64" height="64" alt="icon_switch" src="icon_switch.png">
 
 My top 10 all-time favorite switch games, games recently added to my collection, my most wanted games, a long list of games that I
 want for the switch, all the switch games (digital and physical) that I own, and finally some links that you might find interesting.
@@ -110,7 +112,21 @@ Legend: (P1) to (P3) = Priority ranked in order from most important (P1) to leas
 
 ### Nintendo Switch - Games That I Want
 <!---
+- [Minecraft Legends](https://www.nintendo.com/store/products/minecraft-legends-switch/) (D)
+- [Return to Monkey Island](https://www.nintendo.com/store/products/return-to-monkey-island-switch/) (D)
+- [Captain Velvet Meteor: The Jump+ Dimensions](https://www.nintendo.com/store/products/captain-velvet-meteor-the-jump-plus-dimensions-switch/) (D)
+- [A Plague Tale: Requiem - Cloud Version](https://www.nintendo.com/store/products/a-plague-tale-requiem-cloud-version-switch/) (D)
+- [Mario + Rabbids Sparks of Hope](https://www.nintendo.com/store/products/mario-plus-rabbids-sparks-of-hope-switch/) (D)
+- [Pixelshire](https://www.mergegames.com/games/pixelshire/) (D)
+- [From Space](https://triangle-studios.com/games/from-space) (D)
+- [Tyrant's Blessing](https://www.freedom.gg/tyrants-blessing) (D)
+- [No Place for Bravery](https://noplaceforbravery.com/) (D)
+- [Ship of Fools](https://www.team17.com/games/ship-of-fools/) (D)
+- [Baldur’s Gate: Dark Alliance 2](https://www.interplay.com/) (D)
+- [Super Zoo Story](https://www.superzoostory.com/) (D)
+- [The Plucky Squire](https://thepluckysquire.com/)
 -->
+- [Portal Companion Collection](https://www.nintendo.com/store/products/portal-companion-collection-switch/) (D)
 - [Mutant Football League: Dynasty Edition](https://www.nintendo.com/store/products/mutant-football-league-dynasty-edition-switch/) (D)
 - [Blade Runner](https://www.nintendo.com/store/products/blade-runner-enhanced-edition-switch/) (D)
 - [No Man's Sky](https://www.nintendo.com/store/products/no-mans-sky-switch/) (D)
