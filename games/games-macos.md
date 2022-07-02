@@ -19,6 +19,10 @@ and/or port them.
 
 ### macOS - Games Recently Added to Collection
 
+<!--
+- [Geneforge 1: Mutagen](https://store.epicgames.com/en-US/p/geneforge-1-mutagen) (Epic)
+-->
+- [Iratus: Lord of the Dead](https://store.epicgames.com/en-US/p/iratus-d0e5ba) (Epic)
 - [Beautiful Desolation](https://www.gog.com/game/beautiful_desolation) (GoG)
 - [Loop Hero](https://www.gog.com/en/game/loop_hero) (GoG)
 - [Jotun: Valhalla Edition](https://store.epicgames.com/en-US/p/jotun) (Epic)
