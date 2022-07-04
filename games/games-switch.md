@@ -89,8 +89,7 @@ Games that I've recently bought digitally from the Nintendo Switch Store or phys
 
 Legend: (P1) to (P3) = Priority ranked in order from most important (P1) to least important (P4).
 
-- [Gamedec](https://youtu.be/x8u42vNBiXU) (P1)
-- [Steve Jackson's Sorcery](https://www.nintendo.com/store/products/steve-jacksons-sorcery-switch/) (P1)
+- [Gamedec](https://www.nintendo.com/store/products/gamedec-switch/) (P1)
 - [Bear and Breakfast](https://www.nintendo.com/games/detail/bear-and-breakfast-switch/) (P1)
 - [LEGO Star Wars: The Skywalker Saga](https://www.starwars.com/games-apps/lego-star-wars-the-skywalker-saga) (P1)
 - [Citizen Sleeper](https://www.nintendo.com/store/products/citizen-sleeper-switch/) (P1)
