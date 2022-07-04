@@ -21,8 +21,13 @@ the PC.
 
 ### Windows/PC - Recently Added to Collection
 
-- Car Mechanic Simulator 2018
-- A Game Of Thrones: The Board Game Digital Edition
+<!--
+- [Geneforge 1: Mutagen](https://store.epicgames.com/en-US/p/geneforge-1-mutagen) (Epic)
+- [Hood: Outlaws & Legends](https://store.epicgames.com/en-US/p/hood-outlaws-and-legends) (Epic)
+-->
+- [Iratus: Lord of the Dead](https://store.epicgames.com/en-US/p/iratus-d0e5ba) (Epic)
+- [Car Mechanic Simulator 2018](https://store.epicgames.com/en-US/p/car-mechanic-simulator-2018) (Epic)
+- [A Game Of Thrones: The Board Game Digital Edition](https://store.epicgames.com/en-US/p/a-game-of-thrones-5858a3) (Epic)
 - [Maneater](https://store.epicgames.com/en-US/p/maneater)
 - [Wolfenstein: The New Order](https://store.epicgames.com/en-US/p/wolfenstein-the-new-order)
 - [Star Trek: Bridge Commander](https://www.gog.com/game/star_trek_bridge_commander)
