@@ -124,8 +124,8 @@ Legend: (P1) to (P3) = Priority ranked in order from most important (P1) to leas
 - [Ship of Fools](https://www.team17.com/games/ship-of-fools/) (D)
 - [Baldur’s Gate: Dark Alliance 2](https://www.interplay.com/) (D)
 - [Super Zoo Story](https://www.superzoostory.com/) (D)
-- [The Plucky Squire](https://thepluckysquire.com/)
 -->
+- [The Plucky Squire](https://thepluckysquire.com/) (D)
 - [Portal Companion Collection](https://www.nintendo.com/store/products/portal-companion-collection-switch/) (D)
 - [Mutant Football League: Dynasty Edition](https://www.nintendo.com/store/products/mutant-football-league-dynasty-edition-switch/) (D)
 - [Blade Runner](https://www.nintendo.com/store/products/blade-runner-enhanced-edition-switch/) (D)
