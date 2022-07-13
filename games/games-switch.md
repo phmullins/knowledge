@@ -56,6 +56,7 @@ for quite some time.
 
 Games that I've recently bought digitally from the Nintendo Switch Store or physical carts. Legend: Digital = (D). Cartridge = (C).
 
+- [Gamedec](https://www.nintendo.com/store/products/gamedec-switch/) (D)
 - [Shadowrun Returns](https://www.nintendo.com/store/products/shadowrun-returns-switch/) (D)
 - [Shadowrun: Hong Kong - Extended Edition](https://www.nintendo.com/store/products/shadowrun-hong-kong-extended-edition-switch/) (D)
 - [Shadowrun: Dragonfall - Director's Cut](https://www.nintendo.com/store/products/shadowrun-dragonfall-directors-cut-switch/) (D)
@@ -89,7 +90,7 @@ Games that I've recently bought digitally from the Nintendo Switch Store or phys
 
 Legend: (P1) to (P3) = Priority ranked in order from most important (P1) to least important (P4).
 
-- [Gamedec](https://www.nintendo.com/store/products/gamedec-switch/) (P1)
+- Baldur's Gate: Dark Alliance II (P1)
 - [Bear and Breakfast](https://www.nintendo.com/games/detail/bear-and-breakfast-switch/) (P1)
 - [LEGO Star Wars: The Skywalker Saga](https://www.starwars.com/games-apps/lego-star-wars-the-skywalker-saga) (P1)
 - [Citizen Sleeper](https://www.nintendo.com/store/products/citizen-sleeper-switch/) (P1)
