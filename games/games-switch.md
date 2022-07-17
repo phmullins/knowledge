@@ -120,8 +120,8 @@ Legend: (P1) to (P3) = Priority ranked in order from most important (P1) to leas
 - [Tyrant's Blessing](https://www.freedom.gg/tyrants-blessing) (D)
 - [No Place for Bravery](https://noplaceforbravery.com/) (D)
 - [Ship of Fools](https://www.team17.com/games/ship-of-fools/) (D)
-- [Super Zoo Story](https://www.superzoostory.com/) (D)
 -->
+- [Super Zoo Story](https://www.superzoostory.com/) (D)
 - [Pixelshire](https://www.mergegames.com/games/pixelshire/) (D)
 - [From Space](https://triangle-studios.com/games/from-space) (D)
 - [Baldur’s Gate: Dark Alliance 2](https://www.interplay.com/) (D)
