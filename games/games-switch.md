@@ -114,8 +114,8 @@ Legend: (P1) to (P3) = Priority ranked in order from most important (P1) to leas
 <!---
 - [Minecraft Legends](https://www.nintendo.com/store/products/minecraft-legends-switch/) (D)
 - [Return to Monkey Island](https://www.nintendo.com/store/products/return-to-monkey-island-switch/) (D)
-- [Captain Velvet Meteor: The Jump+ Dimensions](https://www.nintendo.com/store/products/captain-velvet-meteor-the-jump-plus-dimensions-switch/) (D)
 -->
+- [Captain Velvet Meteor: The Jump+ Dimensions](https://www.nintendo.com/store/products/captain-velvet-meteor-the-jump-plus-dimensions-switch/) (D)
 - [A Plague Tale: Requiem - Cloud Version](https://www.nintendo.com/store/products/a-plague-tale-requiem-cloud-version-switch/) (D)
 - [Mario + Rabbids Sparks of Hope](https://www.nintendo.com/store/products/mario-plus-rabbids-sparks-of-hope-switch/) (D)
 - [Tyrant's Blessing](https://www.freedom.gg/tyrants-blessing) (D)
