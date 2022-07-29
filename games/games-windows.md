@@ -21,9 +21,7 @@ the PC.
 
 ### Windows/PC - Recently Added to Collection
 
-<!--
 - [Geneforge 1: Mutagen](https://store.epicgames.com/en-US/p/geneforge-1-mutagen) (Epic)
--->
 - [Hood: Outlaws & Legends](https://store.epicgames.com/en-US/p/hood-outlaws-and-legends) (Epic)
 - [Star Wars: Squadrons](https://store.epicgames.com/en-US/p/star-wars-squadrons) (Epic)
 - [Wolfenstein: The New Order](https://store.epicgames.com/en-US/p/wolfenstein-the-new-order) (Epic)
