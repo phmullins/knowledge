@@ -123,7 +123,6 @@ Legend: (P1) to (P3) = Priority ranked in order from most important (P1) to leas
 - [Super Zoo Story](https://www.superzoostory.com/) (D)
 - [Pixelshire](https://www.mergegames.com/games/pixelshire/) (D)
 - [From Space](https://triangle-studios.com/games/from-space) (D)
-- [Baldur’s Gate: Dark Alliance 2](https://www.interplay.com/) (D)
 - [The Plucky Squire](https://thepluckysquire.com/) (D)
 - [Portal Companion Collection](https://www.nintendo.com/store/products/portal-companion-collection-switch/) (D)
 - [Mutant Football League: Dynasty Edition](https://www.nintendo.com/store/products/mutant-football-league-dynasty-edition-switch/) (D)
