@@ -21,6 +21,8 @@ the PC.
 
 ### Windows/PC - Recently Added to Collection
 
+- [Warface](https://store.epicgames.com/en-US/p/warface) (Epic)
+- [Lawn Mowing Simulator](https://store.epicgames.com/en-US/p/lawn-mowing-simulator-838bf3) (Epic)
 - [Star Citizen](https://robertsspaceindustries.com/) (WWW)
 - [Geneforge 1: Mutagen](https://store.epicgames.com/en-US/p/geneforge-1-mutagen) (Epic) 
 - [Hood: Outlaws & Legends](https://store.epicgames.com/en-US/p/hood-outlaws-and-legends) (Epic)
