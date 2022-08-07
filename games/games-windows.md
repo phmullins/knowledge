@@ -21,6 +21,7 @@ the PC.
 
 ### Windows/PC - Recently Added to Collection
 
+- [Encased: A Sci-Fi Post-Apocalyptic RPG](https://www.gog.com/en/game/encased_a_scifi_postapocalyptic_rpg) (gog)
 - [Warface](https://store.epicgames.com/en-US/p/warface) (Epic)
 - [Lawn Mowing Simulator](https://store.epicgames.com/en-US/p/lawn-mowing-simulator-838bf3) (Epic)
 - [Star Citizen](https://robertsspaceindustries.com/) (WWW)
