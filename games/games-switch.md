@@ -42,7 +42,7 @@ changing any time soon. Likewise, Borderlands: The Handsome Collection, and Rebe
 for quite some time.
 
 - [Animal Crossing: New Horizons](https://www.nintendo.com/games/detail/animal-crossing-new-horizons-switch/)
-- [Cozy Grove](https://www.nintendo.com/games/detail/cozy-grove-switch/)
+- [Cozy Grove](https://www.nintendo.com/games/detail/cozy-grove-switch/) [www](https://cozygrovegame.com/)
 - [Borderlands: The Handsome Collection](https://www.nintendo.com/games/detail/borderlands-the-handsome-collection-switch/)
 - [Diablo III: The Eternal Collection](https://us.diablo3.com/en/switch)
 - [Darkest Dungeon](https://www.darkestdungeon.com)
