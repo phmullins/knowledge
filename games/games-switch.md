@@ -56,6 +56,7 @@ for quite some time.
 
 Games that I've recently bought digitally from the Nintendo Switch Store or physical carts. Legend: Digital = (D). Cartridge = (C).
 
+- Pinball FX3 (D)
 - [Gamedec](https://www.nintendo.com/store/products/gamedec-switch/) (D)
 - [Shadowrun Returns](https://www.nintendo.com/store/products/shadowrun-returns-switch/) (D)
 - [Shadowrun: Hong Kong - Extended Edition](https://www.nintendo.com/store/products/shadowrun-hong-kong-extended-edition-switch/) (D)
