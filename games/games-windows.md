@@ -21,6 +21,9 @@ the PC.
 
 ### Windows/PC - Recently Added to Collection
 
+- [Doom](https://store.epicgames.com/en-US/p/doom-1993) (Epic)
+- [Doom II](https://store.epicgames.com/en-US/p/doom-ii) (Epic)
+- [Doom 64](https://store.epicgames.com/en-US/p/doom-64) (Epic)
 - [Horizon Zero Dawn Complete Edition](https://store.epicgames.com/en-US/p/horizon-zero-dawn-complete-edition) (Epic)
 - [The Crew 2 Special Edition](https://store.epicgames.com/en-US/p/the-crew-2--special-edition) (Epic)
 - [Encased: A Sci-Fi Post-Apocalyptic RPG](https://www.gog.com/en/game/encased_a_scifi_postapocalyptic_rpg) (gog)
