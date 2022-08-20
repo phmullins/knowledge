@@ -10,7 +10,7 @@ the PC.
 
 - Diablo, Diablo II, & Diablo III [(www)](https://en.wikipedia.org/wiki/Diablo_(series))
 - [Darkest Dungeon](https://www.gog.com/game/darkest_dungeon)
-- [Unreal Tournament](https://en.wikipedia.org/wiki/Unreal_Tournament)
+- [Unreal Tournament: GOTY](https://en.wikipedia.org/wiki/Unreal_Tournament)
 - [Unreal](https://en.wikipedia.org/wiki/Unreal_(video_game_series))
 - [Doom II](https://en.wikipedia.org/wiki/Doom_(franchise)) [(GoG)](https://www.gog.com/game/doom_ii_final_doom)
 - [Doom](https://en.wikipedia.org/wiki/Doom_(franchise))
