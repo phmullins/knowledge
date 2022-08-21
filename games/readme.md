@@ -55,6 +55,13 @@ Everyone has their favorite video game characters. Here is a small list of my al
 - [GOG](https://www.gog.com/)
 - [Steam](https://store.steampowered.com/)
 
+#### Video Games - Free!
+
+- [Steam](https://store.steampowered.com/genre/Free%20to%20Play/#p=0&tab=NewReleases)
+- [GoG](https://www.gog.com/partner/free_games)
+- [itch.io](https://itch.io/games/free)
+- [Epic](https://store.epicgames.com/en-US/free-games)
+
 #### Video Game Development
 
 - [Game Developers](games-developers.md)
