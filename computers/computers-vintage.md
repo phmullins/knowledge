@@ -4,7 +4,7 @@ I was one of the lucky few who grew up during the late 1970s, mid 1980s, and ear
 
 ## Commodore
 
-Commodore Line (VIC-20, C64, C128, A1000, A500, A600, A2000, A3000, A4000). I was lucky enough to own a VIC-20, Amiga 500, Amiga 1000, and an Amiga 1200. Currently I own several broken C64s and a rare Commodore 64C. 
+[Commodore](https://en.wikipedia.org/wiki/Commodore_International) Line (VIC-20, C64, C128, A1000, A500, A600, A2000, A3000, A4000). I was lucky enough to own a VIC-20, [Amiga](https://en.wikipedia.org/wiki/Amiga) 500, Amiga 1000, and an Amiga 1200. Currently I own several broken C64s and a rare Commodore 64C. 
 
 ## Apple
 
