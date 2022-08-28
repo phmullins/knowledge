@@ -21,6 +21,7 @@ the PC.
 
 ### Windows/PC - Recently Added to Collection
 
+- [Destiny 2](https://store.epicgames.com/en-US/p/destiny-2) (Epic)
 - [Ring of Pain](https://store.epicgames.com/en-US/p/ring-of-pain) (Epic)
 - [Doom](https://store.epicgames.com/en-US/p/doom-1993) (Epic)
 - [Doom II](https://store.epicgames.com/en-US/p/doom-ii) (Epic)
