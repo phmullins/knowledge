@@ -22,6 +22,7 @@ and forest green. Who's to say?
 
 - Little Nightmares
 - Nickelodeon All-Star Brawl
+- [Days Gone](https://www.playstation.com/en-us/games/days-gone/)
 - [Oddworld: Soulstorm](https://www.playstation.com/en-us/games/oddworld-soulstorm/)
 - [Curse of the Dead Gods](https://www.focus-entmt.com/en/games/curse-of-the-dead-gods)
 - [EA SPORTS FIFA 22](https://www.ea.com/games/fifa/fifa-22)
@@ -30,7 +31,7 @@ and forest green. Who's to say?
 - [Hood: Outlaws & Legends](https://www.playstation.com/en-us/games/hood-outlaws-and-legends/)
 - [Slay the Spire](https://www.playstation.com/en-us/games/slay-the-spire/)
 - [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](https://www.playstation.com/en-us/games/spongebob-squarepants-battle-for-bikini-bottom-rehydrated/)
-- [Tom Clancy’s Rainbow Six Extraction Deluxe Edition (PS4 & PS5)](https://www.ubisoft.com/en-gb/game/rainbow-six/extraction)
+- [Tom Clancy’s Rainbow Six Extraction Deluxe Edition](https://www.ubisoft.com/en-gb/game/rainbow-six/extraction) (PS4 & PS5)
 - [DIRT 5](https://dirtgame.com/dirt5)
 - [Deep Rock Galactic](https://www.deeprockgalactic.com/)
 - [Hell Let Loose](https://www.hellletloose.com/)
