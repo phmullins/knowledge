@@ -11,7 +11,7 @@ and/or port them.
 
 ### macOS - All-time Favorite Games
 
-- Borderlands 2
+- [Borderlands 2](https://boderlands.com)
 - [Borderlands 3](https://boderlands.com)
 - [Darkest Dungeon](https://www.gog.com/game/darkest_dungeon)
 - Diablo III 
@@ -19,9 +19,7 @@ and/or port them.
 
 ### macOS - Games Recently Added to Collection
 
-<!--
 - [Geneforge 1: Mutagen](https://store.epicgames.com/en-US/p/geneforge-1-mutagen) (Epic)
--->
 - [Iratus: Lord of the Dead](https://store.epicgames.com/en-US/p/iratus-d0e5ba) (Epic)
 - [Beautiful Desolation](https://www.gog.com/game/beautiful_desolation) (GoG)
 - [Loop Hero](https://www.gog.com/en/game/loop_hero) (GoG)
