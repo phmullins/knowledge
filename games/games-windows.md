@@ -21,6 +21,7 @@ the PC.
 
 ### Windows/PC - Recently Added to Collection
 
+- Submerged: Hidden Depths
 - [Shadow of the Tomb Raider: Definitive Edition](https://store.epicgames.com/en-US/p/shadow-of-the-tomb-raider) (Epic)
 - [Destiny 2](https://store.epicgames.com/en-US/p/destiny-2) (Epic)
 - [Ring of Pain](https://store.epicgames.com/en-US/p/ring-of-pain) (Epic)
