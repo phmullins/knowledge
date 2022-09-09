@@ -20,6 +20,7 @@ and forest green. Who's to say?
 
 #### PlayStation 4 - Recently Added to Collection
 
+- Marvel's Spider-Man: Miles Morales
 - Little Nightmares
 - Nickelodeon All-Star Brawl
 - [Days Gone](https://www.playstation.com/en-us/games/days-gone/)
