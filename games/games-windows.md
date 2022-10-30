@@ -21,6 +21,8 @@ the PC.
 
 ### Windows/PC - Recently Added to Collection
 
+- Fallout 3: Game of the Year Edition
+- Evoland Legendary Edition
 - Submerged: Hidden Depths
 - [Shadow of the Tomb Raider: Definitive Edition](https://store.epicgames.com/en-US/p/shadow-of-the-tomb-raider) (Epic)
 - [Destiny 2](https://store.epicgames.com/en-US/p/destiny-2) (Epic)
