@@ -28,6 +28,7 @@ and/or port them.
 - [Terraforming Mars](https://www.fryxgames.se/games/terraforming-mars/) (www)
 - [Starcraft 2](https://starcraft2.com/en-us/) (www)
 - [Barotrauma](https://barotraumagame.com) (www)
+- [Ultima Underworld 1](https://www.gog.com/game/ultima_underworld_1_2) (GoG)
 - [while True: learn()](https://www.epicgames.com/store/en-US/p/while-true-learn) (Epic)
 - [Europa Universalis IV](https://www.epicgames.com/store/en-US/p/europa-universalis-iv) (Epic) 
 - [Syndicate Wars](https://www.gog.com/game/syndicate_wars) (GoG)
