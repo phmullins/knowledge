@@ -21,6 +21,7 @@ and forest green. Who's to say?
 #### PlayStation 4 - Recently Added to Collection
 
 - Nioh 2
+- Heavenly Bodies
 - LEGO Harry Potter Collection
 - Subnautica PS4 & PS5
 - Marvel's Spider-Man: Miles Morales
