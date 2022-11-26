@@ -21,6 +21,7 @@ the PC.
 
 ### Windows/PC - Recently Added to Collection
 
+- Torchlight III (Steam)
 - Filament
 - Fallout 3: Game of the Year Edition
 - Evoland Legendary Edition
