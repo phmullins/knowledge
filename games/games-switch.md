@@ -115,6 +115,7 @@ Legend: (P1) to (P3) = Priority ranked in order from most important (P1) to leas
 
 ### Nintendo Switch - Games That I Want
 
+- [Prodeus](https://www.nintendo.com/store/products/prodeus-switch/)
 - [A Plague Tale: Requiem - Cloud Version](https://www.nintendo.com/store/products/a-plague-tale-requiem-cloud-version-switch/) (D)
 - [Mario + Rabbids Sparks of Hope](https://www.nintendo.com/store/products/mario-plus-rabbids-sparks-of-hope-switch/) (D)
 - [No Man's Sky](https://www.nintendo.com/store/products/no-mans-sky-switch/) (D)
