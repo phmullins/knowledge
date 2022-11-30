@@ -19,6 +19,7 @@ and/or port them.
 
 ### macOS - Games Recently Added to Collection
 
+- [Master of Orion 3](https://www.gog.com/game/master_of_orion_collectors_edition_upgrade) (GoG)
 - Serious Sam 3: BFE (Steam)
 - [Geneforge 1: Mutagen](https://store.epicgames.com/en-US/p/geneforge-1-mutagen) (Epic)
 - [Iratus: Lord of the Dead](https://store.epicgames.com/en-US/p/iratus-d0e5ba) (Epic)
