@@ -56,6 +56,7 @@ for quite some time.
 
 Games that I've recently bought digitally from the Nintendo Switch Store or physical carts. Legend: Digital = (D). Cartridge = (C).
 
+- LEGO Star Wars: The Skywalker Saga Deluxe Edition
 - [Mahjong Minimal](https://www.nintendo.com/store/products/mahjong-minimal-switch/) (D)
 - Pinball FX3 (D)
 - [Gamedec](https://www.nintendo.com/store/products/gamedec-switch/) (D)
