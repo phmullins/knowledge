@@ -20,6 +20,7 @@ and forest green. Who's to say?
 
 #### PlayStation 4 - Recently Added to Collection
 
+- [Metro 2033 Redux](https://www.metrothegame.com) (www)
 - Call of Duty: Warzone 2.0
 - Nioh 2
 - Heavenly Bodies
