@@ -19,6 +19,8 @@ and/or port them.
 
 ### macOS - Games Recently Added to Collection
 
+- RPG in a Box (Epic)
+- Fort Triumph (Epic)
 - [Master of Orion Classic](https://www.gog.com/game/master_of_orion_collectors_edition_upgrade) (GoG)
 - [Master of Orion 3](https://www.gog.com/game/master_of_orion_collectors_edition_upgrade) (GoG)
 - Serious Sam 3: BFE (Steam)
