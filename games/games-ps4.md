@@ -27,7 +27,7 @@ and forest green. Who's to say?
 - LEGO Harry Potter Collection
 - Subnautica PS4 & PS5
 - Marvel's Spider-Man: Miles Morales
-- Little Nightmares
+- Little Nightmares 
 - Nickelodeon All-Star Brawl
 - [Days Gone](https://www.playstation.com/en-us/games/days-gone/)
 - [Oddworld: Soulstorm](https://www.playstation.com/en-us/games/oddworld-soulstorm/)
