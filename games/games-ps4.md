@@ -21,7 +21,7 @@ and forest green. Who's to say?
 #### PlayStation 4 - Recently Added to Collection
 
 - [Metro 2033 Redux](https://www.metrothegame.com) (www)
-- Call of Duty: Warzone 2.0
+- [Call of Duty: Warzone 2.0](https://www.playstation.com/en-us/games/call-of-duty-warzone/)
 - Nioh 2
 - Heavenly Bodies
 - LEGO Harry Potter Collection
