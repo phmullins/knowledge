@@ -21,6 +21,7 @@ the PC.
 
 ### Windows/PC - Recently Added to Collection
 
+- [Saints Row IV Re-Elected](https://store.epicgames.com/en-US/p/saints-row-iv-re-elected)
 - Torchlight III (Steam)
 - Evil Dead: The Game (Epic)
 - Filament
