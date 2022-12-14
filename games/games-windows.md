@@ -23,7 +23,7 @@ the PC.
 
 - [Saints Row IV Re-Elected](https://store.epicgames.com/en-US/p/saints-row-iv-re-elected)
 - Torchlight III (Steam)
-- Evil Dead: The Game (Epic)
+- [Evil Dead: The Game](https://store.epicgames.com/en-US/p/evil-dead-the-game) (Epic)
 - Filament
 - Fallout 3: Game of the Year Edition
 - Evoland Legendary Edition
