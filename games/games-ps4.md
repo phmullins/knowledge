@@ -24,6 +24,7 @@ and forest green. Who's to say?
 - [Call of Duty: Warzone 2.0](https://www.playstation.com/en-us/games/call-of-duty-warzone/)
 - [Nioh 2](https://www.playstation.com/en-us/games/nioh-2/)
 - Overwatch 2
+- Apex Legends
 - Heavenly Bodies
 - LEGO Harry Potter Collection
 - Subnautica PS4 & PS5
