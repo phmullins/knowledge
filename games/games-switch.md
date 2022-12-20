@@ -56,6 +56,7 @@ for quite some time.
 
 Games that I've recently bought digitally from the Nintendo Switch Store or physical carts. Legend: Digital = (D). Cartridge = (C).
 
+- [Stardew Valley](https://www.nintendo.com/store/products/stardew-valley-switch/) (D)
 - LEGO Star Wars: The Skywalker Saga Deluxe Edition
 - [Mahjong Minimal](https://www.nintendo.com/store/products/mahjong-minimal-switch/) (D)
 - Pinball FX3 (D)
@@ -121,7 +122,6 @@ Legend: (P1) to (P3) = Priority ranked in order from most important (P1) to leas
 - [Mario + Rabbids Sparks of Hope](https://www.nintendo.com/store/products/mario-plus-rabbids-sparks-of-hope-switch/) (D)
 - [No Man's Sky](https://www.nintendo.com/store/products/no-mans-sky-switch/) (D)
 - [Cozy Grove: New Neighbears](https://www.nintendo.com/store/products/cozy-grove-new-neighbears-switch/) (D)
-- [Stardew Valley](https://www.nintendo.com/store/products/stardew-valley-switch/) (D)
 - [Minecraft Legends](https://www.nintendo.com/store/products/minecraft-legends-switch/) (D)
 - [Return to Monkey Island](https://www.nintendo.com/store/products/return-to-monkey-island-switch/) (D)
 - [Captain Velvet Meteor: The Jump+ Dimensions](https://www.nintendo.com/store/products/captain-velvet-meteor-the-jump-plus-dimensions-switch/) (D)
