@@ -20,7 +20,7 @@ and forest green. Who's to say?
 
 #### PlayStation 4 - Recently Added to Collection
 
-- Tiny Tina's Wonderland
+- [Tiny Tina's Wonderland](https://store.playstation.com/en-us/product/UP1001-CUSA23766_00-0SIEAPS4DAFFODIL) (PS4)
 - [Metro 2033 Redux](https://www.metrothegame.com) (www)
 - [Call of Duty: Warzone 2.0](https://www.playstation.com/en-us/games/call-of-duty-warzone/)
 - [Nioh 2](https://www.playstation.com/en-us/games/nioh-2/)
