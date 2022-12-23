@@ -20,6 +20,7 @@ and forest green. Who's to say?
 
 #### PlayStation 4 - Recently Added to Collection
 
+- The Ascent
 - [Tiny Tina's Wonderland](https://store.playstation.com/en-us/product/UP1001-CUSA23766_00-0SIEAPS4DAFFODIL) (PS4)
 - [Metro 2033 Redux](https://www.metrothegame.com) (www)
 - [Call of Duty: Warzone 2.0](https://www.playstation.com/en-us/games/call-of-duty-warzone/)
